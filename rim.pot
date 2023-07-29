@@ -1,0 +1,1001 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgid "Remote Incident Manager"
+msgstr ""
+
+msgid "Your remote session is ready."
+msgstr ""
+
+msgid ""
+"Your remote session is about to begin. To stop controlling the remote "
+"computer and open the RIM menu at any time during the session, you must "
+"press Option+Shift+Backspace. Please remember this keyboard command, since "
+"it is the only way to leave the remote session."
+msgstr ""
+
+msgid ""
+"Your remote session is about to begin. To stop controlling the remote "
+"computer and open the RIM menu at any time during the session, you must "
+"press Windows+Shift+Backspace. Please remember this keyboard command, since "
+"it is the only way to leave the remote session."
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Don't show this message again."
+msgstr ""
+
+msgid ""
+"You must either install NVDA or run a portable copy before you can enable "
+"remote accessibility."
+msgstr ""
+
+msgid ""
+"Before RIM can enable remote accessibility, you must update to the latest "
+"version of the RIM integration add-on for NVDA on your own machine. NVDA "
+"will prompt you to update this add-on. Once NVDA has updated the add-on and "
+"restarted, RIM will automatically start remote accessibility."
+msgstr ""
+
+msgid ""
+"Before RIM can enable remote accessibility, you must install the RIM "
+"integration add-on for NVDA on your own machine. NVDA will prompt you to "
+"install this add-on. Once NVDA has installed the add-on and restarted, RIM "
+"will automatically start remote accessibility."
+msgstr ""
+
+msgid "The remote session has been reconnected."
+msgstr ""
+
+msgid "%{controller_name} has started a remote session."
+msgstr ""
+
+msgid "The remote session has started."
+msgstr ""
+
+msgid "The remote session has ended."
+msgstr ""
+
+msgid "The remote user has ended the session."
+msgstr ""
+
+msgid "The remote session has flipped."
+msgstr ""
+
+msgid "The end-user is now in control."
+msgstr ""
+
+msgid "The technician is now in control."
+msgstr ""
+
+msgid ""
+"You have already registered all of the target machines allowed by your "
+"current RIM subscription."
+msgstr ""
+
+msgid ""
+"You have already changed the set of registered target machines as many "
+"times as your current RIM subscription will allow within a one-year period. "
+"Please keep in mind that a RIM personal subscription is not intended for "
+"providing technical support or training to arbitrary end-users, but for "
+"connecting to a pre-defined set of personal and family computers."
+msgstr ""
+
+msgid "Unattended access requires a RIM Personal, Pro, or Enterprise subscription."
+msgstr ""
+
+msgid "The target user has accepted your request for unattended access."
+msgstr ""
+
+msgid "The target user has denied your request for unattended access."
+msgstr ""
+
+msgid "Comment posted."
+msgstr ""
+
+msgid ""
+"Your logs have been sent to Pneuma Solutions. Thank you for helping us "
+"diagnose your problem."
+msgstr ""
+
+msgid ""
+"This machine is now available for remote access from any machine that's "
+"logged into your RIM account."
+msgstr ""
+
+msgid "&Transfer Files from Target"
+msgstr ""
+
+msgid "&Transfer File from Target"
+msgstr ""
+
+msgid "&Transfer Files to Target"
+msgstr ""
+
+msgid "&Transfer File to Target"
+msgstr ""
+
+msgid "&Flip Session"
+msgstr ""
+
+msgid "Stop &Voice Conversation"
+msgstr ""
+
+msgid "Start &Voice Conversation"
+msgstr ""
+
+msgid "Update RIM on Target"
+msgstr ""
+
+msgid "&Minimize Session"
+msgstr ""
+
+msgid "Stop Remote &Accessibility"
+msgstr ""
+
+msgid "Stop JAWS on Target"
+msgstr ""
+
+msgid "Stop Narrator on Target"
+msgstr ""
+
+msgid "Stop NVDA on Target"
+msgstr ""
+
+msgid "Stop System Access on Target"
+msgstr ""
+
+msgid "Stop VoiceOver on Target"
+msgstr ""
+
+msgid "Stop Screen Reader on Target"
+msgstr ""
+
+msgid "Start Remote &Accessibility"
+msgstr ""
+
+msgid "Request &Unattended or Prompted Access"
+msgstr ""
+
+msgid "&Reboot and Reconnect"
+msgstr ""
+
+msgid ""
+"You are about to reboot the target machine. You can do either a standard "
+"reboot, which gives all running applications a chance to cleanly shut down, "
+"or an emergency reboot, which happens immediately and should only be used "
+"if a standard reboot is not currently possible."
+msgstr ""
+
+msgid "Standard Reboot"
+msgstr ""
+
+msgid "Emergency Reboot"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Send Control+Alt+Delete"
+msgstr ""
+
+msgid "&Lock the Target Machine"
+msgstr ""
+
+msgid "&Connection Details"
+msgstr ""
+
+msgid "&Disconnect Session"
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: flipped session"
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: a connection to your computer is active"
+msgstr ""
+
+msgid "You have ended the remote session."
+msgstr ""
+
+msgid "&Disconnect Remote Control Session"
+msgstr ""
+
+msgid ""
+"Files from the target machine's clipboard are now ready to transfer to this "
+"machine. You can start the transfer from the RIM menu."
+msgstr ""
+
+msgid ""
+"A file from the target machine's clipboard is now ready to transfer to this "
+"machine. You can start the transfer from the RIM menu."
+msgstr ""
+
+msgid ""
+"The files on this machine's clipboard are ready to transfer to the target. "
+"You can start the transfer from the RIM menu."
+msgstr ""
+
+msgid ""
+"The file on this machine's clipboard is ready to transfer to the target. "
+"You can start the transfer from the RIM menu."
+msgstr ""
+
+msgid ""
+"You have five minutes of base RIM connection time left today, from both the "
+"free tier and your RIM RIM Personal Community Support subscription. When "
+"your base time is up, RIM will start using your %{remaining_credited_time} "
+"of prepaid time."
+msgstr ""
+
+msgid ""
+"You have five minutes of free RIM connection time left today. When your "
+"free time is up, RIM will start using your %{remaining_credited_time} of "
+"prepaid time."
+msgstr ""
+
+msgid ""
+"You have five minutes of RIM connection time left today, from both the free "
+"tier and your RIM Personal Community Support subscription. To ensure an "
+"uninterrupted session, please order prepaid time or a RIM Pro subscription."
+msgstr ""
+
+msgid ""
+"You have five minutes of free RIM connection time left today. To ensure an "
+"uninterrupted session, please order prepaid time or a RIM Pro subscription."
+msgstr ""
+
+msgid ""
+"You have five minutes of prepaid RIM connection time left. To ensure an "
+"uninterrupted session, please order more prepaid time or a RIM Pro "
+"subscription."
+msgstr ""
+
+msgid ""
+"You have one minute of base RIM connection time left today, from both the "
+"free tier and your RIM Personal Community Support subscription. When your "
+"base time is up, RIM will start using your %{remaining_credited_time} of "
+"prepaid time."
+msgstr ""
+
+msgid ""
+"You have one minute of free RIM connection time left today. When your free "
+"time is up, RIM will start using your %{remaining_credited_time} of prepaid "
+"time."
+msgstr ""
+
+msgid ""
+"You have one minute of RIM connection time left today, from both the free "
+"tier and your RIM Personal Community Support subscription."
+msgstr ""
+
+msgid "You have one minute of free RIM connection time left today."
+msgstr ""
+
+msgid "You have one minute of prepaid RIM connection time left."
+msgstr ""
+
+msgid ""
+"The remote session has ended because %{controller_name} ran out of time on "
+"RIM."
+msgstr ""
+
+msgid ""
+"Your RIM session has ended because your RIM connection time for today, from "
+"both the free tier and your RIM Personal Community Support subscription, "
+"has run out."
+msgstr ""
+
+msgid "The remote session has ended because the connection was lost."
+msgstr ""
+
+msgid ""
+"The target machine just started rebooting. Do you want to reconnect to the "
+"RIM session when the reboot is complete?"
+msgstr ""
+
+msgid "&Yes"
+msgstr ""
+
+msgid "&No"
+msgstr ""
+
+msgid "This unattended target is no longer valid."
+msgstr ""
+
+msgid "You are trying to connect to this machine."
+msgstr ""
+
+msgid "The target user has denied your request."
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: Provide Remote Help"
+msgstr ""
+
+msgid "A shortcut called \"%{target_name}\" has been added to your desktop."
+msgstr ""
+
+msgid "Remote Incident Manager %{version}"
+msgstr ""
+
+msgid ""
+"Do you want to revoke %{controller_name}'s permission to start unattended "
+"remote sessions on this computer?"
+msgstr ""
+
+msgid "%{controller_name} is no longer allowed to remotely access this computer."
+msgstr ""
+
+msgid ""
+"%{controller_name} wants to remotely control this computer. Press "
+"Option+Shift+Y to accept this request or Option+Shift+N to reject it."
+msgstr ""
+
+msgid ""
+"%{controller_name} wants to remotely control this computer. Press "
+"Windows+Shift+Y to accept this request or Windows+Shift+N to reject it."
+msgstr ""
+
+msgid ""
+"You have accepted %{controller_name}'s request to remotely control this "
+"computer."
+msgstr ""
+
+msgid ""
+"You have rejected %{controller_name}'s request to remotely control this "
+"computer."
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: waiting for approved connections"
+msgstr ""
+
+msgid "&Revoke Remote Access to This Computer"
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: Receive Remote Help"
+msgstr ""
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer without "
+"requiring you to start a remote session. You will be prompted for "
+"permission to access your computer each time. Do you want to allow this?"
+msgstr ""
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at any "
+"time without requiring you to start a remote session, and without being "
+"prompted for permission each time. Do you want to allow this?"
+msgstr ""
+
+msgid "No update is currently available."
+msgstr ""
+
+msgid "About Remote Incident Manager..."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Speech"
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid "RIM Manual"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Support and Feedback"
+msgstr ""
+
+msgid "Read the Manual"
+msgstr ""
+
+msgid "View Change History"
+msgstr ""
+
+msgid "Send Logs"
+msgstr ""
+
+msgid "Remote Incident Manager: Provide Remote Help"
+msgstr ""
+
+msgid "Provide Remote Help"
+msgstr ""
+
+msgid "Sign up for paid RIM services"
+msgstr ""
+
+msgid "Keyword:"
+msgstr ""
+
+msgid "Disable visual output for this session."
+msgstr ""
+
+msgid "Start voice conversation"
+msgstr ""
+
+msgid "Target group:"
+msgstr ""
+
+msgid "Open Target Group"
+msgstr ""
+
+msgid "Return to top level"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Target machine:"
+msgstr ""
+
+msgid "Create Shortcut"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Choose a machine"
+msgstr ""
+
+msgid "Use a keyword"
+msgstr ""
+
+msgid "RIM Dashboard"
+msgstr ""
+
+msgid "Receive help instead"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Sending request; please wait."
+msgstr ""
+
+msgid ""
+"You must enter a keyword before you can start the remote session. You may "
+"choose any keyword that is not currently being used by another RIM user; "
+"feel free to use anything that works for both you and the person you're "
+"helping."
+msgstr ""
+
+msgid "You must enter a machine name or part of a name to search for."
+msgstr ""
+
+msgid "Waiting for the other user to enter the keyword."
+msgstr ""
+
+msgid "Starting session; please wait."
+msgstr ""
+
+msgid "prompt required"
+msgstr ""
+
+msgid "unattended"
+msgstr ""
+
+msgid "24 hours after this session starts"
+msgstr ""
+
+msgid "Incident Pass"
+msgstr ""
+
+msgid "Day Pass"
+msgstr ""
+
+msgid "%{pass_type} purchased on %{date_time}, valid for %{time_span}"
+msgstr ""
+
+msgid ""
+"You currently have %{remaining_base_time_today} of base RIM connection time "
+"today, from both the free tier and your RIM Personal Community Support "
+"subscription, and %{remaining_credited_time} of prepaid time. RIM will use "
+"your base time first."
+msgstr ""
+
+msgid ""
+"You currently have %{remaining_free_time_today} of free RIM connection time "
+"today and %{remaining_credited_time} of prepaid time. RIM will use your "
+"free time first."
+msgstr ""
+
+msgid ""
+"You currently have %{remaining_base_time_today} of RIM connection time "
+"today, from both the free tier and your RIM Personal Community Support "
+"subscription."
+msgstr ""
+
+msgid ""
+"You currently have %{remaining_free_time_today} of free RIM connection time "
+"today."
+msgstr ""
+
+msgid ""
+"You have used up all of your base RIM connection time for today, from both "
+"the free tier and your RIM Personal Community Support subscription, but you "
+"still have %{remaining_credited_time} of prepaid time."
+msgstr ""
+
+msgid ""
+"You have used up all of your free RIM connection time for today, but you "
+"still have %{remaining_credited_time} of prepaid time."
+msgstr ""
+
+msgid ""
+"You have used up all of your RIM connection time for today, from both the "
+"free tier and your RIM Personal Community Support subscription."
+msgstr ""
+
+msgid "You have used up all of your free RIM connection time for today."
+msgstr ""
+
+msgid ""
+"Your RIM personal subscription will be used for unattended sessions, while "
+"your current incident pass can be used for keyword-based sessions on one "
+"target machine over the next %{time_span}. The following applies to "
+"keyword-based sessions on additional target machines, and to any "
+"keyword-based sessions after your current incident pass has expired."
+msgstr ""
+
+msgid ""
+"Your RIM personal subscription will be used for unattended sessions, while "
+"your current day pass can be used for keyword-based sessions over the next "
+"%{time_span}. The following applies to any keyword-based sessions after "
+"your current day pass has expired."
+msgstr ""
+
+msgid ""
+"Your RIM personal subscription will be used for unattended sessions. The "
+"following applies to any keyword-based sessions."
+msgstr ""
+
+msgid ""
+"Your current incident pass can be used for keyword-based sessions on one "
+"target machine over the next %{time_span}. The following applies to "
+"keyword-based sessions on additional target machines, and to key "
+"keyword-based sessions after your current incident pass has expired."
+msgstr ""
+
+msgid ""
+"Your current day pass can be used for keyword-based sessions over the next "
+"%{time_span}. The following applies to any keyword-based sessions after "
+"your current day pass has expired."
+msgstr ""
+
+msgid "Please upgrade to a paid RIM subscription to gain unlimited connection time."
+msgstr ""
+
+msgid "Use Incident Pass"
+msgstr ""
+
+msgid "Use Day Pass"
+msgstr ""
+
+msgid "Use Other Incident Pass"
+msgstr ""
+
+msgid "Select another pass"
+msgstr ""
+
+msgid "Select pass"
+msgstr ""
+
+msgid ""
+"Your prepaid time has run out. Please order more prepaid time or upgrade to "
+"a RIM Pro subscription to continue using RIM."
+msgstr ""
+
+msgid "File Transfer Progress"
+msgstr ""
+
+msgid "You currently have %{remaining_time} of free RIM usage today."
+msgstr ""
+
+msgid "You have used up all of your free RIM usage for today."
+msgstr ""
+
+msgid "Remote Incident Manager: Receive Remote Help"
+msgstr ""
+
+msgid "Receive Remote Help"
+msgstr ""
+
+msgid "Please enter the keyword you received from the person helping you."
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Provide help instead"
+msgstr ""
+
+msgid "Add this machine to your RIM account"
+msgstr ""
+
+msgid ""
+"You must enter a keyword before you can start the remote session. Please "
+"enter the keyword that was provided by the person that is helping you."
+msgstr ""
+
+msgid ""
+"RIM is currently re-establishing your remote connection. Please do not "
+"close this window unless you want to cancel your remote session."
+msgstr ""
+
+msgid ""
+"The target machine is currently rebooting. The remote session will continue "
+"when the reboot is complete. Please do not close this window."
+msgstr ""
+
+msgid ""
+"The target machine is currently in the process of logging onto Windows. The "
+"remote session will continue when this process is complete. Please do not "
+"close this window."
+msgstr ""
+
+msgid ""
+"The target machine is currently installing the latest RIM update. The "
+"remote session will continue when this process is complete. Please do not "
+"close this window."
+msgstr ""
+
+msgid "Your voice conversation will resume once the session is active again."
+msgstr ""
+
+msgid "Add This Machine to Your RIM Account"
+msgstr ""
+
+msgid ""
+"This option lets you add this machine as a target in your RIM account so "
+"you can remotely access it."
+msgstr ""
+
+msgid "Type of remote access:"
+msgstr ""
+
+msgid "Unattended"
+msgstr ""
+
+msgid ""
+"With this option, this machine can be accessed at any time without "
+"requiring a user to be physically present at the machine to accept the "
+"connection."
+msgstr ""
+
+msgid "Prompted"
+msgstr ""
+
+msgid ""
+"With this option, RIM will prompt the user of this machine for permission "
+"to access the machine, and the user must be present at the machine to "
+"accept or deny the request."
+msgstr ""
+
+msgid "Name this target machine:"
+msgstr ""
+
+msgid "Add Machine"
+msgstr ""
+
+msgid ""
+"You must enter a name for this machine. This name will be used in the list "
+"of target machines for your RIM account, so choose a name that will make it "
+"easy to find this machine when you want to connect to it."
+msgstr ""
+
+msgid "Adding machine; please wait."
+msgstr ""
+
+msgid "Request Unattended or Prompted Access"
+msgstr ""
+
+msgid "Type of access:"
+msgstr ""
+
+msgid "Send Request"
+msgstr ""
+
+msgid ""
+"You must enter a name for the target machine. This name will be used in the "
+"list of target machines for your RIM account, so choose a name that will "
+"make it easy to find this machine when you want to connect to it."
+msgstr ""
+
+msgid "Waiting for the target user to respond."
+msgstr ""
+
+msgid "Send Logs to Pneuma Solutions"
+msgstr ""
+
+msgid ""
+"Please only use this function if a representative of Pneuma Solutions has "
+"requested logs."
+msgstr ""
+
+msgid "Detailed problem description:"
+msgstr ""
+
+msgid ""
+"Please either enter a detailed description of your problem or close this "
+"window."
+msgstr ""
+
+msgid "Sending logs..."
+msgstr ""
+
+msgid "Remote Session"
+msgstr ""
+
+msgid "No screen reader is running on the remote machine."
+msgstr ""
+
+msgid "Remote accessibility is active."
+msgstr ""
+
+msgid "%{screen_reader_name} is running on the remote machine."
+msgstr ""
+
+msgid "%{screen_reader_name} %{version} is running on the remote machine."
+msgstr ""
+
+msgid "Starting remote accessibility."
+msgstr ""
+
+msgid "Comment on This Session"
+msgstr ""
+
+msgid ""
+"You may optionally write a comment on the session that just ended. This "
+"comment will appear on your RIM Dashboard."
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Add Comment"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Please either enter a comment or close this window."
+msgstr ""
+
+msgid "Connection Details"
+msgstr ""
+
+msgid "Ethernet"
+msgstr ""
+
+msgid "WiFi"
+msgstr ""
+
+msgid "direct peer-to-peer"
+msgstr ""
+
+msgid "peer-to-peer with NAT traversal"
+msgstr ""
+
+msgid "relay"
+msgstr ""
+
+msgid "Ping round trip time"
+msgstr ""
+
+msgid "Data received"
+msgstr ""
+
+msgid "Data sent"
+msgstr ""
+
+msgid "Network type"
+msgstr ""
+
+msgid "Local address"
+msgstr ""
+
+msgid "Local transport type"
+msgstr ""
+
+msgid "Remote address"
+msgstr ""
+
+msgid "Remote transport type"
+msgstr ""
+
+msgid "Controller"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Machine info"
+msgstr ""
+
+msgid "%{platform} version"
+msgstr ""
+
+msgid "Total RAM"
+msgstr ""
+
+msgid "Free RAM"
+msgstr ""
+
+msgid "Total swap space"
+msgstr ""
+
+msgid "Free swap space"
+msgstr ""
+
+msgid "Running processes"
+msgstr ""
+
+msgid "Process ID"
+msgstr ""
+
+msgid "Executable path"
+msgstr ""
+
+msgid "Installed packages"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Welcome to Remote Incident Manager"
+msgstr ""
+
+msgid ""
+"We would like to welcome you to version 3 of Remote Incident Manager (RIM) "
+"from Pneuma Solutions! Thank you for choosing RIM for your accessible "
+"remote technical support and training needs."
+msgstr ""
+
+msgid "Receive remote help now"
+msgstr ""
+
+msgid ""
+"RIM has a single installer, regardless of whether you are playing the role "
+"of the technical support provider(controller) or the remote end-user "
+"(target), that is, whether you are providing or receiving help. If you want "
+"to receive help, simply press the \"Receive help now\" button above. Then "
+"all you need to do is enter the key word provided by the Controller. RIM "
+"will establish the connection and start the voice conversation if necessary."
+msgstr ""
+
+msgid ""
+"If you are providing help, you will need to click the “Provide remote help "
+"now” button below and log into the RIM service. The first time you log in, "
+"we’ll need to verify your email address and phone number."
+msgstr ""
+
+msgid ""
+"When you’re ready to help someone, direct the person needing help to visit "
+"GetRIM.app, download, install, and run the RIM app, and follow the on "
+"screen instructions."
+msgstr ""
+
+msgid "Now that we have all of that out of the way. This is how RIM works:"
+msgstr ""
+
+msgid ""
+"The technician chooses a keyword for the remote session, enters it on the "
+"“Provide Remote Help” screen, and presses “Start”."
+msgstr ""
+
+msgid ""
+"The technician gives that keyword to the end-user, who enters it on the "
+"“Receive Remote Help” screen and presses “Connect”."
+msgstr ""
+
+msgid ""
+"The two sides are connected. In addition to the remote desktop session, a "
+"voice conversation can be started optionally at the beginning or later in "
+"the session. Neither the Controller or Target need to be waring headphones "
+"during a remote session. Feel free to use your computer’s speakers."
+msgstr ""
+
+msgid ""
+"The Controller can hear any audio output on the end-user’s machine, "
+"including not only any screen reader the end-user may be running, but also "
+"other applications. Sighted or low-vision technicians can also see the "
+"end-user’s screen. Keyboard and mouse input work as expected."
+msgstr ""
+
+msgid ""
+"During the session, the technician presses Windows+Shift+Backspace on "
+"Windows, or Option+Shift+Backspace on macOS, to open the RIM menu. On this "
+"menu, the technician can minimize the session, flip the session so the "
+"end-user can watch and control the technician’s machine, launch "
+"accessibility on the Target, request the end-user's permission to gain "
+"unattended access to this target machine, or close the session."
+msgstr ""
+
+msgid ""
+"If the end-user’s machine isn’t running a screen reader, the technician can "
+"start our remote accessibility module that allows only the technician to "
+"hear speech output. For this to work, the technician must be running NVDA "
+"on their own machine if they're on Windows, or VoiceOver if they're on "
+"macOS."
+msgstr ""
+
+msgid ""
+"You can also transfer files or folders between the two machines. To do "
+"this, simply use File Explorer on Windows, or the Finder on macOS, to copy "
+"one or more files or folders onto the clipboard on one end. Then on the "
+"controller end, open the RIM menu and choose the option to transfer the "
+"file or files. When that's done, a folder containing the transferred file "
+"or files will open on the receiving end. Of course, copying and pasting "
+"text across machines also works."
+msgstr ""
+
+msgid "Now let’s make the lawyers happy:"
+msgstr ""
+
+msgid ""
+"To the extent not prohibited by law, in no circumstances shall Pneuma "
+"Solutions be liable to you or any other third parties for any loss or "
+"damage (including, without limitation, damage for loss of business or loss "
+"of profits) arising directly or indirectly from your use of or inability to "
+"use, this software or any of the material contained in it."
+msgstr ""
+
+msgid "Thank you for reading, and for your interest in RIM."
+msgstr ""
+
+msgid "Should you encounter any issues, please do not hesitate to contact us."
+msgstr ""
+
+msgid "Provide remote help now"
+msgstr ""
+
+msgid "Revoke Remote Access to This Computer"
+msgstr ""
+
+msgid "Controller:"
+msgstr ""
+
+msgid "Revoke"
+msgstr ""
+
+msgid "Preparing to update RIM"
+msgstr ""
+
+msgid "Downloading update..."
+msgstr ""
+
+msgid "Preparing to install update..."
+msgstr ""
+
+msgid "Preparing to download update..."
+msgstr ""
+
+msgid "%{count} hours"
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "%{count} minutes"
+msgstr ""
+
+msgid "%{count} seconds"
+msgstr ""
+
+msgid "1 second"
+msgstr ""
