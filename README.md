@@ -32,8 +32,8 @@ Note that in a normal installation, RIM normally runs in the background. This me
 ### Windows
 
 To run RIM with the necessary environment variable(s) set, you can either:
-#### Use the command line
-Open a command prompt, set the variable(s), and then launch RIM from there. We'll use Spanish as an example:  
+#### Using the command line
+Open a command prompt, set the variable(s), and then launch RIM from there. We'll use Spanish as an example, and assume that you left the repository's path at Github default offering:  
 `
 cd "C:\Program Files\Remote Incident Manager"
 
@@ -44,7 +44,7 @@ $env:RIM_LANG = "es"
 `
 At that point, running "Remote Incident Manager.exe" from your command prompt would start RIM with the Spanish translation running.
 
-#### Via the Start Menu
+#### Via the Control Panel
 
 Open the Start menu, search for "environment variables", and then set the variable(s) in the control panel that comes up in the search results.
 
