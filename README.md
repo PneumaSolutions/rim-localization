@@ -33,7 +33,7 @@ Note that in a normal installation, RIM normally runs in the background. This me
 
 To run RIM with the necessary environment variable(s) set, you can either:
 #### Using the command line
-Open a command prompt, set the variable(s), and then launch RIM from there. We'll use Spanish as an example, and assume that you left the repository's path at Github default offering:  
+Open a command prompt, set the variable(s), and then launch RIM from there. We'll use Spanish as an example, and assume that you left the repository's path at Github's default choice:  
 `
 cd "C:\Program Files\Remote Incident Manager"
 
