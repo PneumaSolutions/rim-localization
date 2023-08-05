@@ -224,9 +224,9 @@ msgstr ""
 
 msgid ""
 "You have five minutes of base RIM connection time left today, from both the "
-"free tier and your RIM RIM Personal Community Support subscription. When "
-"your base time is up, RIM will start using your %{remaining_credited_time} "
-"of prepaid time."
+"free tier and your RIM Personal Community Support subscription. When your "
+"base time is up, RIM will start using your %{remaining_credited_time} of "
+"prepaid time."
 msgstr ""
 
 msgid ""
@@ -567,7 +567,7 @@ msgstr ""
 msgid ""
 "Your current incident pass can be used for keyword-based sessions on one "
 "target machine over the next %{time_span}. The following applies to "
-"keyword-based sessions on additional target machines, and to key "
+"keyword-based sessions on additional target machines, and to any "
 "keyword-based sessions after your current incident pass has expired."
 msgstr ""
 
@@ -630,6 +630,30 @@ msgstr ""
 msgid ""
 "You must enter a keyword before you can start the remote session. Please "
 "enter the keyword that was provided by the person that is helping you."
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Swedish"
+msgstr ""
+
+msgid "Switch language"
 msgstr ""
 
 msgid ""
