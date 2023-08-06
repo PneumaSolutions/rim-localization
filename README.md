@@ -16,38 +16,29 @@ The above text indicates that a variable called `controller_name` should be subs
 
 ## Testing localizations
 
-At this early stage in the localization of RIM, you'll need to use one of the following test builds:
+The localization infrastructure and initial machine translations are now available in the current version of RIM. You can set the UI language using the "Language (BETA)" button in the "Provide Help" or "Receive Help" window in the RIM app.
 
-* [Windows](https://download.pneumasolutions.com/rim/rim-l10n-test-setup.exe)
-* [macOS](https://download.pneumasolutions.com/rim/rim-l10n-test.pkg)
+To test your own changes to RIM message files, an environment variable must be set in the environment where the main RIM process is run. Specifically, the `RIM_LOCALIZATION_ROOT` variable must be set to the absolute path of your checkout of this repository.
 
-We will soon include localization support in normal release builds of RIM, once we're confident that the localization infrastructure doesn't cause any regressions for current English-language users.
-
-To test RIM localization, at least one environment variable must be set in the environment where the main RIM process is run. The `RIM_LOCALIZATION_ROOT` variable must be set to the absolute path of your checkout of this repository.
-
-In addition, if you want to test a language other than your operating system's default language, you must set the `RIM_LANG` environment variable to the two-letter, lowercase language code for that language, e.g. `es` for Spanish or `sv` for Swedish.
-
-Note that in a normal installation, RIM normally runs in the background. This means that you'll need to kill the main "Remote Incident Manager" process before starting an instance of RIM with the necessary environment variable(s) set.
+Note that in a normal installation, RIM normally runs in the background. This means that you'll need to kill the main "Remote Incident Manager" process before starting an instance of RIM with the environment variable set.
 
 ### Windows
 
-To run RIM with the necessary environment variable(s) set, you can either:
+To run RIM with the environment variable set, you can either:
 #### Using the command line
-Open a command prompt, set the variable(s), and then launch RIM from there. We'll use Spanish as an example, and assume that you left the repository's path at Github's default choice:  
-`
+Open a command prompt, set the variable, and then launch RIM from there. As an example, we'll assume that you left the repository's path at Github's default choice:  
+
+```
 cd "C:\Program Files\Remote Incident Manager"
-
 $env:RIM_LOCALIZATION_ROOT = "%homepath%"\documents\github\rim-localization"
+```
 
-$env:RIM_LANG = "es"
-
-`
-At that point, running "Remote Incident Manager.exe" from your command prompt would start RIM with the Spanish translation running.
+At that point, running "Remote Incident Manager.exe" from your command prompt would start RIM with your current working copy of the message files.
 
 #### Via the Control Panel
 
-Open the Start menu, search for "environment variables", and then set the variable(s) in the control panel that comes up in the search results.
+Open the Start menu, search for "environment variables", and then set the variable in the control panel that comes up in the search results.
 
 ### macOS
 
-As far as we know, on macOS, the only option is to open Terminal, set the variable(s), and directly run the "Remote Incident Manager" executable (under the application's Contents/MacOS directory) from the Terminal. If you know of an easier way, please submit a pull request.
+As far as we know, on macOS, the only option is to open Terminal, set the variable, and directly run the "Remote Incident Manager" executable (under the application's Contents/MacOS directory) from the Terminal. If you know of an easier way, please submit a pull request.
