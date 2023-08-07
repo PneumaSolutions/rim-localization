@@ -22,6 +22,8 @@ To test your own changes to RIM message files, an environment variable must be s
 
 Note that in a normal installation, RIM normally runs in the background. This means that you'll need to kill the main "Remote Incident Manager" process before starting an instance of RIM with the environment variable set.
 
+If you want to test a message file for a language that isn't yet included in release builds of RIM, you'll also need to set the `RIM_LANG` environment variable to the short code for that language. For example, if you were testing a new message file for Russian, you would set `RIM_LANG` to `ru`.
+
 ### Windows
 
 To run RIM with the environment variable set, you can either:
