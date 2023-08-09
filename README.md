@@ -7,7 +7,7 @@ This repository is the hub for the localization of [Remote Incident Manager](htt
 RIM uses gettext-format message files, specifically, a `.pot` file for the source template and a `.po` file for each target language. The `locale` directory of this repository uses the usual structure for a gettext `locale` directory; the message file for each language is called `rim.po`. We recommend that translators use [poedit](https://poedit.net/) to edit the `.po` files.
 
 RIM is initially being translated to the following languages: French, German, Italian, Spanish, and Swedish. We have seeded the repository with machine translations for these languages. We understand that machine translations aren't ideal, but we believe they're useful as a starting point.
-
+### A Note about Variables
 Some messages include variables, also known as parameters. These are indicated using the following syntax:
 
 `%{controller_name}`
@@ -27,8 +27,8 @@ If you want to test a message file for a language that isn't yet included in rel
 ### Windows
 
 To run RIM with the environment variable set, you can either:
-#### Using the command line
-Open a command prompt, set the variable, and then launch RIM from there. As an example, we'll assume that you left the repository's path at Github's default choice:  
+#### Use the command line
+Open a command prompt, set the variable(S), and then launch RIM from there. As an example, we'll assume that you left the repository's path at Github's default choice:  
 
 ```
 cd "C:\Program Files\Remote Incident Manager"
@@ -44,3 +44,15 @@ Open the Start menu, search for "environment variables", and then set the variab
 ### macOS
 
 As far as we know, on macOS, the only option is to open Terminal, set the variable, and directly run the "Remote Incident Manager" executable (under the application's Contents/MacOS directory) from the Terminal. If you know of an easier way, please submit a pull request.
+## Creating a New Language
+IN order to create a new language, you'll want to do the following:
+1. Open Poedit.
+1. Select "New from POT/PO file…" off the file menu.
+1. Locate and select the rim.pot file.
+1. Select the target language from the list, then click "ok."
+<!-- end -->
+At this point, you now have a blank language file labeled with the language code of the language you specified. When saving this:
+1. Go to the "Locale" directory.
+1. Create a new folder with the language code of your new language, I.E. ru.
+1. Once inside that folder, create a new folder called "LCMessages". This is where you will save your .po file.
+<!-- end -->
