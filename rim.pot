@@ -129,10 +129,16 @@ msgstr ""
 msgid "Update RIM on Target"
 msgstr ""
 
+msgid "Re-install RIM as Administrator on Target"
+msgstr ""
+
 msgid "&Minimize Session"
 msgstr ""
 
 msgid "Stop Remote &Accessibility"
+msgstr ""
+
+msgid "Stop Fusion on Target"
 msgstr ""
 
 msgid "Stop JAWS on Target"
@@ -368,6 +374,19 @@ msgid ""
 "prompted for permission each time. Do you want to allow this?"
 msgstr ""
 
+msgid ""
+"Do you want to have a voice conversation with %{controller_name} during "
+"this remote control session?"
+msgstr ""
+
+msgid ""
+"Do you want to have a voice conversation with the person that is currently "
+"remotely controlling this computer during this session?"
+msgstr ""
+
+msgid "The remote user has denied your request for a voice conversation."
+msgstr ""
+
 msgid "No update is currently available."
 msgstr ""
 
@@ -501,6 +520,38 @@ msgstr ""
 msgid "%{pass_type} purchased on %{date_time}, valid for %{time_span}"
 msgstr ""
 
+msgid "Pass for 1 month"
+msgstr ""
+
+msgid "Pass for %{count} months"
+msgstr ""
+
+msgid "Pass for 1 week"
+msgstr ""
+
+msgid "Pass for %{count} weeks"
+msgstr ""
+
+msgid "Pass for %{count} days"
+msgstr ""
+
+msgid "%{pass_type} purchased on %{date_time}"
+msgstr ""
+
+msgid "Your current RIM pass has %{span} left."
+msgstr ""
+
+msgid ""
+"During the weekend, your RIM Personal Weekend Support subscription gives "
+"you unlimited connection time for keyword-based sessions, in addition to "
+"your RIM Personal subscription's support for unattended sessions."
+msgstr ""
+
+msgid ""
+"During the weekend, your RIM Personal Weekend Support subscription gives "
+"you unlimited connection time for keyword-based sessions."
+msgstr ""
+
 msgid ""
 "You currently have %{remaining_base_time_today} of base RIM connection time "
 "today, from both the free tier and your RIM Personal Community Support "
@@ -593,6 +644,9 @@ msgid "Select another pass"
 msgstr ""
 
 msgid "Select pass"
+msgstr ""
+
+msgid "Start using pass"
 msgstr ""
 
 msgid ""
@@ -807,6 +861,12 @@ msgid ""
 "close this window."
 msgstr ""
 
+msgid ""
+"The target machine is currently re-installing RIM with full administrative "
+"privileges. The remote session will continue when this process is complete. "
+"Please do not close this window."
+msgstr ""
+
 msgid "Your voice conversation will resume once the session is active again."
 msgstr ""
 
@@ -977,6 +1037,9 @@ msgstr ""
 msgid "Target"
 msgstr ""
 
+msgid "Send Logs on Target"
+msgstr ""
+
 msgid "Machine info"
 msgstr ""
 
@@ -1136,6 +1199,12 @@ msgid "Preparing to install update..."
 msgstr ""
 
 msgid "Preparing to download update..."
+msgstr ""
+
+msgid "%{count} days"
+msgstr ""
+
+msgid "1 day"
 msgstr ""
 
 msgid "%{count} hours"
