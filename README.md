@@ -16,7 +16,7 @@ The above text indicates that a variable called `controller_name` should be subs
 
 ## Testing localizations
 
-The localization infrastructure and initial machine translations are now available in the current version of RIM. You can set the UI language using the "Language (BETA)" button in the "Provide Help" or "Receive Help" window in the RIM app.
+The localization infrastructure and initial machine translations are now available in the current version of RIM. You can set the UI language using the "Language" button in the "Provide Help" or "Receive Help" window in the RIM app.
 
 To test your own changes to RIM message files, an environment variable must be set in the environment where the main RIM process is run. Specifically, the `RIM_LOCALIZATION_ROOT` variable must be set to the absolute path of your checkout of this repository.
 
