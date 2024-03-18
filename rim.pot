@@ -704,6 +704,9 @@ msgstr ""
 msgid "Italian"
 msgstr ""
 
+msgid "Dutch"
+msgstr ""
+
 msgid "Swedish"
 msgstr ""
 
