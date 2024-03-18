@@ -1577,3 +1577,9 @@ msgstr "%{count} dagar"
 msgid "1 day"
 msgstr "1 dag"
 
+msgid "Dutch"
+msgstr "Nederländska"
+
+msgid "Portuguese (Brazilian)"
+msgstr "Portugisiska (brasilianska)"
+
