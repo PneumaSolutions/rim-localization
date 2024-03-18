@@ -707,6 +707,9 @@ msgstr ""
 msgid "Dutch"
 msgstr ""
 
+msgid "Portuguese (Brazilian)"
+msgstr ""
+
 msgid "Swedish"
 msgstr ""
 
