@@ -420,7 +420,7 @@ msgid "Remote Incident Manager %{version}"
 msgstr "Remote Incident Manager %{version}"
 
 msgid "E&xit"
-msgstr "&utgång"
+msgstr "&Avsluta"
 
 msgid ""
 "Do you want to revoke %{controller_name}'s permission to start unattended "
