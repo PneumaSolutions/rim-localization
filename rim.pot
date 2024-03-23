@@ -208,6 +208,9 @@ msgstr ""
 msgid "&Disconnect Remote Control Session"
 msgstr ""
 
+msgid "&About"
+msgstr ""
+
 msgid ""
 "Files from the target machine's clipboard are now ready to transfer to this "
 "machine. You can start the transfer from the RIM menu."

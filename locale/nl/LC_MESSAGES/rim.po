@@ -611,6 +611,9 @@ msgstr "Ontvang in plaats daarvan hulp"
 msgid "About"
 msgstr "Over"
 
+msgid "&About"
+msgstr "&Over"
+
 msgid "Log out"
 msgstr "Afmelden"
 

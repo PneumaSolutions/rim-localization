@@ -616,6 +616,9 @@ msgstr "Erhalten Sie stattdessen Hilfe"
 msgid "About"
 msgstr "Über"
 
+msgid "&About"
+msgstr "&Über"
+
 msgid "Log out"
 msgstr "Abmelden"
 

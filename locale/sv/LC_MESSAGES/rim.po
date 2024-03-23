@@ -601,6 +601,9 @@ msgstr "Ta emot hjälp istället"
 msgid "About"
 msgstr "Om"
 
+msgid "&About"
+msgstr "&Om"
+
 msgid "Log out"
 msgstr "Logga ut"
 

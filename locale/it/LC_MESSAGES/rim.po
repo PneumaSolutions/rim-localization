@@ -611,6 +611,9 @@ msgstr "Ricevere aiuto invece"
 msgid "About"
 msgstr "Circa"
 
+msgid "&About"
+msgstr "&Circa"
+
 msgid "Log out"
 msgstr "Disconnettersi"
 

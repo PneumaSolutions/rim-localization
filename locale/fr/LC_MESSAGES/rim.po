@@ -619,6 +619,9 @@ msgstr "Recevoir de l'aide à la place"
 msgid "About"
 msgstr "A propos de"
 
+msgid "&About"
+msgstr "&A propos de"
+
 msgid "Log out"
 msgstr "Déconnexion"
 
