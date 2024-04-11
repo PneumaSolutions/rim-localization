@@ -426,6 +426,9 @@ msgstr ""
 msgid "Send Logs"
 msgstr ""
 
+msgid "Check for Update"
+msgstr ""
+
 msgid "Remote Incident Manager: Provide Remote Help"
 msgstr ""
 
