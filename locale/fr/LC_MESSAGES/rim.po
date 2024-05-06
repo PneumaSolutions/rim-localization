@@ -257,7 +257,7 @@ msgid ""
 "Remote Incident Manager %{version}: a connection to your computer is active"
 msgstr ""
 "Gestionnaire d'Incidents à Distance %{version} : une connexion à votre "
-"ordinateur est active."
+"ordinateur est active"
 
 msgid "You have ended the remote session."
 msgstr "Vous avez mis fin à la session à distance."
@@ -1352,7 +1352,7 @@ msgid "WiFi"
 msgstr "WiFi"
 
 msgid "direct peer-to-peer"
-msgstr "Pair-à-pair directe"
+msgstr "pair-à-pair directe"
 
 msgid "peer-to-peer with NAT traversal"
 msgstr "peer-to-peer avec traversée NAT"
