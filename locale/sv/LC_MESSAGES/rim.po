@@ -1600,3 +1600,6 @@ msgstr "1 sekund"
 msgid "Check for Update"
 msgstr "Kontrollera för uppdatering"
 
+msgid "Japanese"
+msgstr "Japanska"
+

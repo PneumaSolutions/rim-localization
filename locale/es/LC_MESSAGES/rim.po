@@ -1622,3 +1622,6 @@ msgstr "1 segundo"
 msgid "Check for Update"
 msgstr "Comprobar la actualización"
 
+msgid "Japanese"
+msgstr "Japonés"
+

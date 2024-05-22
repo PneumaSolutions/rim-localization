@@ -1357,3 +1357,6 @@ msgstr "%{count} おかわり"
 msgid "1 second"
 msgstr "1秒"
 
+msgid "Japanese"
+msgstr "日本語"
+
