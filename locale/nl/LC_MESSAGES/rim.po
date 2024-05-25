@@ -1619,3 +1619,6 @@ msgstr "1 seconde"
 msgid "Check for Update"
 msgstr "Controleren op update"
 
+msgid "Japanese"
+msgstr "Japans"
+

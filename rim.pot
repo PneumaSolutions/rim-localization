@@ -713,6 +713,9 @@ msgstr ""
 msgid "Italian"
 msgstr ""
 
+msgid "Japanese"
+msgstr ""
+
 msgid "Dutch"
 msgstr ""
 
