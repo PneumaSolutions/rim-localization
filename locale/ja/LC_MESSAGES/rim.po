@@ -3,14 +3,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-05-21 14:41-0500\n"
-<<<<<<< HEAD
 "PO-Revision-Date: 2024-05-25 23:24+0900\n"
 "Last-Translator: \n"
-=======
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -67,11 +61,7 @@ msgid "The remote session has been reconnected."
 msgstr "リモートセッションが再接続されました。"
 
 msgid "%{controller_name} has started a remote session."
-<<<<<<< HEAD
 msgstr "%{controller_name} がリモートセッションを開始しました。"
-=======
-msgstr "%{controller_name} がリモートセッションを開始した。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "The remote session has started."
 msgstr "リモートセッションが開始されました。"
@@ -211,15 +201,8 @@ msgstr "セッションの切断(&D)"
 msgid "Remote Incident Manager %{version}: flipped session"
 msgstr "リモート・インシデント・マネージャー %{version}: フリップセッション"
 
-<<<<<<< HEAD
 msgid "Remote Incident Manager %{version}: a connection to your computer is active"
 msgstr "リモート・インシデント・マネージャー %{version}: コンピューターへの接続がアクティブです"
-=======
-msgid ""
-"Remote Incident Manager %{version}: a connection to your computer is "
-"active"
-msgstr "Remote Incident Manager %{version}: コンピュータへの接続が有効です。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "You have ended the remote session."
 msgstr "リモートセッションを終了しました。"
@@ -242,31 +225,11 @@ msgstr "このマシンのクリップボード上のファイルは、ターゲ
 msgid "The file on this machine's clipboard is ready to transfer to the target. You can start the transfer from the RIM menu."
 msgstr "このマシンのクリップボード上のファイルは、ターゲットに転送する準備ができています。RIMメニューから転送を開始できます。"
 
-<<<<<<< HEAD
 msgid "You have five minutes of base RIM connection time left today, from both the free tier and your RIM Personal Community Support subscription. When your base time is up, RIM will start using your %{remaining_credited_time} of prepaid time."
 msgstr "本日、無料ティアと RIM パーソナルコミュニティサポートサブスクリプションの両方から、5 分間のベース RIM 接続時間が残っています。基本時間が終了すると、RIM は %{remaining_credited_time} のプリペイド時間の使用を開始します。"
 
 msgid "You have five minutes of free RIM connection time left today. When your free time is up, RIM will start using your %{remaining_credited_time} of prepaid time."
 msgstr "本日、RIM の無料接続時間が 5 分間残っています。無料時間が終了すると、RIM は %{remaining_credited_time} のプリペイド時間の使用を開始します。"
-=======
-msgid ""
-"You have five minutes of base RIM connection time left today, from both "
-"the free tier and your RIM Personal Community Support subscription. When "
-"your base time is up, RIM will start using your "
-"%{remaining_credited_time} of prepaid time."
-msgstr ""
-"本日、無料ティアと RIM パーソナルコミュニティサポートサブスクリプションの両方から、5 分間のベース RIM "
-"接続時間が残っています。基本時間が終了すると、RIM は %{remaining_credited_time} "
-"のプリペイド時間の使用を開始します。"
-
-msgid ""
-"You have five minutes of free RIM connection time left today. When your "
-"free time is up, RIM will start using your %{remaining_credited_time} of "
-"prepaid time."
-msgstr ""
-"本日、RIM の無料接続時間が 5 分間残っています。無料時間が終了すると、RIM は %{remaining_credited_time} "
-"のプリペイド時間の使用を開始します。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "You have five minutes of RIM connection time left today, from both the free tier and your RIM Personal Community Support subscription. To ensure an uninterrupted session, please order prepaid time or a RIM Pro subscription."
 msgstr "本日の RIM 接続時間は、無料ティアと RIM パーソナルコミュニティサポートサブスクリプションの両方から 5 分間残っています。セッションを確実に中断するには、プリペイド時間または RIM Pro サブスクリプションをご注文ください。"
@@ -277,31 +240,11 @@ msgstr "本日の RIM 無料接続時間は残り 5 分です。セッション�
 msgid "You have five minutes of prepaid RIM connection time left. To ensure an uninterrupted session, please order more prepaid time or a RIM Pro subscription."
 msgstr "プリペイド RIM 接続時間が残り 5 分です。セッションを中断しないようにするには、プリペイド時間を追加するか、RIM Pro サブスクリプションをご注文ください。"
 
-<<<<<<< HEAD
 msgid "You have one minute of base RIM connection time left today, from both the free tier and your RIM Personal Community Support subscription. When your base time is up, RIM will start using your %{remaining_credited_time} of prepaid time."
 msgstr "本日、無料ティアと RIM パーソナルコミュニティサポートサブスクリプションの両方から、1 分間のベース RIM 接続時間が残っています。基本時間が終了すると、RIM は %{remaining_credited_time} のプリペイド時間の使用を開始します。"
 
 msgid "You have one minute of free RIM connection time left today. When your free time is up, RIM will start using your %{remaining_credited_time} of prepaid time."
 msgstr "本日の RIM 無料接続時間は残り 1 分です。無料時間が終了すると、RIM は %{remaining_credited_time} のプリペイド時間の使用を開始します。"
-=======
-msgid ""
-"You have one minute of base RIM connection time left today, from both the"
-" free tier and your RIM Personal Community Support subscription. When "
-"your base time is up, RIM will start using your "
-"%{remaining_credited_time} of prepaid time."
-msgstr ""
-"本日、無料ティアと RIM パーソナルコミュニティサポートサブスクリプションの両方から、1 分間のベース RIM "
-"接続時間が残っています。基本時間が終了すると、RIM は %{remaining_credited_time} "
-"のプリペイド時間の使用を開始します。"
-
-msgid ""
-"You have one minute of free RIM connection time left today. When your "
-"free time is up, RIM will start using your %{remaining_credited_time} of "
-"prepaid time."
-msgstr ""
-"本日の RIM 無料接続時間は残り 1 分です。無料時間が終了すると、RIM は %{remaining_credited_time} "
-"のプリペイド時間の使用を開始します。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "You have one minute of RIM connection time left today, from both the free tier and your RIM Personal Community Support subscription."
 msgstr "無料ティアとRIMパーソナルコミュニティサポートサブスクリプションの両方から、RIM接続時間が1分残っています。"
@@ -312,13 +255,7 @@ msgstr "本日、RIMの無料接続時間は残り1分です。"
 msgid "You have one minute of prepaid RIM connection time left."
 msgstr "プリペイドRIM接続時間が1分残っています。"
 
-<<<<<<< HEAD
 msgid "The remote session has ended because %{controller_name} ran out of time on RIM."
-=======
-msgid ""
-"The remote session has ended because %{controller_name} ran out of time "
-"on RIM."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "%{controller_name} 、RIMで時間切れになったため、リモートセッションは終了した。"
 
 msgid "Your RIM session has ended because your RIM connection time for today, from both the free tier and your RIM Personal Community Support subscription, has run out."
@@ -357,7 +294,6 @@ msgstr "リモート・インシデント・マネージャー %{version}"
 msgid "E&xit"
 msgstr "終了"
 
-<<<<<<< HEAD
 msgid "Do you want to revoke %{controller_name}'s permission to start unattended remote sessions on this computer?"
 msgstr "このコンピュータで無人リモートセッションを開始するための %{controller_name} の許可を取り消しますか？"
 
@@ -375,39 +311,6 @@ msgstr "あなたは、このコンピューターを遠隔操作するための
 
 msgid "You have rejected %{controller_name}'s request to remotely control this computer."
 msgstr "あなたは、このコンピューターを遠隔操作したいという %{controller_name} の要求を拒否しました。"
-=======
-msgid ""
-"Do you want to revoke %{controller_name}'s permission to start unattended"
-" remote sessions on this computer?"
-msgstr "このコンピュータで無人リモートセッションを開始するための %{controller_name} の許可を取り消しますか？"
-
-msgid "%{controller_name} is no longer allowed to remotely access this computer."
-msgstr "%{controller_name} がこのコンピューターにリモートアクセスできなくなった。"
-
-msgid ""
-"%{controller_name} wants to remotely control this computer. Press "
-"Option+Shift+Y to accept this request or Option+Shift+N to reject it."
-msgstr ""
-"%{controller_name} "
-"がこのコンピュータを遠隔操作することを望んでいます。この要求を受け入れるにはOption+Shift+Yを、拒否するにはOption+Shift+Nを押します。"
-
-msgid ""
-"%{controller_name} wants to remotely control this computer. Press "
-"Windows+Shift+Y to accept this request or Windows+Shift+N to reject it."
-msgstr ""
-"%{controller_name} "
-"がこのコンピュータをリモートで操作することを望んでいます。この要求を受け入れるにはWindows+Shift+Yを、拒否するにはWindows+Shift+Nを押します。"
-
-msgid ""
-"You have accepted %{controller_name}'s request to remotely control this "
-"computer."
-msgstr "あなたは、このコンピューターを遠隔操作するための %{controller_name} の要求を受け入れました。"
-
-msgid ""
-"You have rejected %{controller_name}'s request to remotely control this "
-"computer."
-msgstr "あなたは、このコンピューターを遠隔操作したいという %{controller_name} の要求を拒否した。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Remote Incident Manager %{version}: waiting for approved connections"
 msgstr "Remote Incident Manager %{version}: 承認された接続を待機中"
@@ -418,7 +321,6 @@ msgstr "このコンピュータへのリモートアクセスを取り消す"
 msgid "Remote Incident Manager %{version}: Receive Remote Help"
 msgstr "リモート・インシデント・マネージャー %{version}: リモートでヘルプを受ける"
 
-<<<<<<< HEAD
 msgid "%{controller_name} is requesting permission to access this computer without requiring you to start a remote session. You will be prompted for permission to access your computer each time. Do you want to allow this?"
 msgstr "%{controller_name} は、リモートセッションを開始することなく、このコンピュータにアクセスする許可を要求しています。コンピュータへのアクセス許可を求めるプロンプトが毎回表示されます。許可しますか?"
 
@@ -429,65 +331,25 @@ msgid "Do you want to have a voice conversation with %{controller_name} during t
 msgstr "この遠隔操作セッション中に、 %{controller_name} と音声で会話したいですか？"
 
 msgid "Do you want to have a voice conversation with the person that is currently remotely controlling this computer during this session?"
-=======
-msgid ""
-"%{controller_name} is requesting permission to access this computer "
-"without requiring you to start a remote session. You will be prompted for"
-" permission to access your computer each time. Do you want to allow this?"
-msgstr ""
-"%{controller_name} "
-"は、リモートセッションを開始することなく、このコンピュータにアクセスする許可を要求しています。コンピュータへのアクセス許可を求めるプロンプトが毎回表示されます。許可しますか?"
-
-msgid ""
-"%{controller_name} is requesting permission to access this computer at "
-"any time without requiring you to start a remote session, and without "
-"being prompted for permission each time. Do you want to allow this?"
-msgstr ""
-"%{controller_name} "
-"は、リモートセッションを開始することなく、いつでもこのコンピュータにアクセスする許可を要求しています。これを許可しますか?"
-
-msgid ""
-"Do you want to have a voice conversation with %{controller_name} during "
-"this remote control session?"
-msgstr "この遠隔操作セッション中に、 %{controller_name} と音声で会話したいですか？"
-
-msgid ""
-"Do you want to have a voice conversation with the person that is "
-"currently remotely controlling this computer during this session?"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "このセッション中に、現在このコンピューターを遠隔操作している人と音声で会話したいですか？"
 
 msgid "The remote user has denied your request for a voice conversation."
 msgstr "リモートユーザーが音声会話の要求を拒否しました。"
 
 msgid "No update is currently available."
-<<<<<<< HEAD
 msgstr "現在利用可能なアップデートはありません。"
 
 msgid "About Remote Incident Manager..."
 msgstr "リモート・インシデント・マネージャーについて..."
-=======
-msgstr "現在、アップデートは行われていない。"
-
-msgid "About Remote Incident Manager..."
-msgstr "リモート・インシデント・マネージャーについて"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Edit"
 msgstr "編集"
 
 msgid "Speech"
-<<<<<<< HEAD
 msgstr "音声"
 
 msgid "Window"
 msgstr "ウインド"
-=======
-msgstr "スピーチ"
-
-msgid "Window"
-msgstr "窓"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "RIM Manual"
 msgstr "RIMマニュアル"
@@ -505,11 +367,7 @@ msgid "View Change History"
 msgstr "変更履歴を見る"
 
 msgid "Send Logs"
-<<<<<<< HEAD
 msgstr "ログを送信する"
-=======
-msgstr "ログを送る"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Check for Update"
 msgstr "アップデートの確認"
@@ -524,11 +382,7 @@ msgid "Sign up for paid RIM services"
 msgstr "RIMの有料サービスに登録する"
 
 msgid "Keyword:"
-<<<<<<< HEAD
 msgstr "キーワード:"
-=======
-msgstr "キーワード"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Disable visual output for this session."
 msgstr "このセッションのビジュアル出力を無効にする。"
@@ -537,11 +391,7 @@ msgid "Start voice conversation"
 msgstr "音声会話を開始する"
 
 msgid "Target group:"
-<<<<<<< HEAD
 msgstr "ターゲット・グループ:"
-=======
-msgstr "ターゲット・グループ"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Open Target Group"
 msgstr "オープン・ターゲット・グループ"
@@ -553,21 +403,13 @@ msgid "Back"
 msgstr "バック"
 
 msgid "Target machine:"
-<<<<<<< HEAD
 msgstr "ターゲットのマシン:"
-=======
-msgstr "対象マシン"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Create Shortcut"
 msgstr "ショートカットの作成"
 
 msgid "Search:"
-<<<<<<< HEAD
 msgstr "検索:"
-=======
-msgstr "検索"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Search"
 msgstr "検索"
@@ -585,11 +427,7 @@ msgid "RIM Dashboard"
 msgstr "RIMダッシュボード"
 
 msgid "Receive help instead"
-<<<<<<< HEAD
 msgstr "代わりにサポートを受ける"
-=======
-msgstr "代わりに支援を受ける"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "About"
 msgstr "について"
@@ -600,15 +438,7 @@ msgstr "ログアウト"
 msgid "Sending request; please wait."
 msgstr "リクエストを送信中です。"
 
-<<<<<<< HEAD
 msgid "You must enter a keyword before you can start the remote session. You may choose any keyword that is not currently being used by another RIM user; feel free to use anything that works for both you and the person you're helping."
-=======
-msgid ""
-"You must enter a keyword before you can start the remote session. You may"
-" choose any keyword that is not currently being used by another RIM user;"
-" feel free to use anything that works for both you and the person you're "
-"helping."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "リモートセッションを開始する前に、キーワードを入力する必要があります。現在他のRIMユーザーが使用していないキーワードであれば、どのようなものでも選択できます。"
 
 msgid "You must enter a machine name or part of a name to search for."
@@ -633,11 +463,7 @@ msgid "Incident Pass"
 msgstr "インシデント・パス"
 
 msgid "Day Pass"
-<<<<<<< HEAD
 msgstr "一日パス"
-=======
-msgstr "一日乗車券"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "%{pass_type} purchased on %{date_time}, valid for %{time_span}"
 msgstr "%{pass_type} %{date_time} で購入。 %{time_span}"
@@ -663,7 +489,6 @@ msgstr "%{pass_type} 購入日 %{date_time}"
 msgid "Your current RIM pass has %{span} left."
 msgstr "現在お持ちのRIMパスは %{span} 。"
 
-<<<<<<< HEAD
 msgid "During the weekend, your RIM Personal Weekend Support subscription gives you unlimited connection time for keyword-based sessions, in addition to your RIM Personal subscription's support for unattended sessions."
 msgstr "週末には、RIM Personal Weekend Support サブスクリプションで、RIM Personal サブスクリプションの無人セッションのサポートに加えて、キーワードベースのセッションの接続時間が無制限になります。"
 
@@ -689,70 +514,6 @@ msgid "You have used up all of your free RIM connection time for today, but you 
 msgstr "本日のRIM無料接続時間をすべて使い切りましたが、まだプリペイド時間（ %{remaining_credited_time} ）が残っています。"
 
 msgid "You have used up all of your RIM connection time for today, from both the free tier and your RIM Personal Community Support subscription."
-=======
-msgid ""
-"During the weekend, your RIM Personal Weekend Support subscription gives "
-"you unlimited connection time for keyword-based sessions, in addition to "
-"your RIM Personal subscription's support for unattended sessions."
-msgstr ""
-"週末には、RIM Personal Weekend Support サブスクリプションで、RIM Personal "
-"サブスクリプションの無人セッションのサポートに加えて、キーワードベースのセッションの接続時間が無制限になります。"
-
-msgid ""
-"During the weekend, your RIM Personal Weekend Support subscription gives "
-"you unlimited connection time for keyword-based sessions."
-msgstr ""
-"週末には、RIM Personal Weekend Support "
-"サブスクリプションを利用して、キーワードベースのセッションに無制限に接続できます。"
-
-msgid ""
-"You currently have %{remaining_base_time_today} of base RIM connection "
-"time today, from both the free tier and your RIM Personal Community "
-"Support subscription, and %{remaining_credited_time} of prepaid time. RIM"
-" will use your base time first."
-msgstr ""
-"現在、無料ティアと RIM パーソナル・コミュニティ・サポート・サブスクリプションの両方から、 "
-"%{remaining_base_time_today} のベース RIM 接続時間と、 %{remaining_credited_time} "
-"のプリペイド時間があります。RIM はお客様の基本時間を最初に使用します。"
-
-msgid ""
-"You currently have %{remaining_free_time_today} of free RIM connection "
-"time today and %{remaining_credited_time} of prepaid time. RIM will use "
-"your free time first."
-msgstr ""
-"現在、 %{remaining_free_time_today} の無料 RIM 接続時間と、 "
-"%{remaining_credited_time} のプリペイド時間があります。RIM はお客様の無料時間を最初に使用します。"
-
-msgid ""
-"You currently have %{remaining_base_time_today} of RIM connection time "
-"today, from both the free tier and your RIM Personal Community Support "
-"subscription."
-msgstr ""
-"現在、無料ティアと RIM パーソナル・コミュニティ・サポート・サブスクリプションの両方から、 "
-"%{remaining_base_time_today} の RIM 接続時間があります。"
-
-msgid ""
-"You currently have %{remaining_free_time_today} of free RIM connection "
-"time today."
-msgstr "現在、 %{remaining_free_time_today} 、RIMの無料接続時間があります。"
-
-msgid ""
-"You have used up all of your base RIM connection time for today, from "
-"both the free tier and your RIM Personal Community Support subscription, "
-"but you still have %{remaining_credited_time} of prepaid time."
-msgstr ""
-"無料ティアと RIM パーソナルコミュニティサポートサブスクリプションの両方から、本日の基本 RIM 接続時間をすべて使い切りましたが、まだ "
-"%{remaining_credited_time} のプリペイド時間が残っています。"
-
-msgid ""
-"You have used up all of your free RIM connection time for today, but you "
-"still have %{remaining_credited_time} of prepaid time."
-msgstr "本日のRIM無料接続時間をすべて使い切りましたが、まだプリペイド時間（ %{remaining_credited_time} ）が残っています。"
-
-msgid ""
-"You have used up all of your RIM connection time for today, from both the"
-" free tier and your RIM Personal Community Support subscription."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "無料ティアとRIMパーソナルコミュニティサポートサブスクリプションの両方から、本日のRIM接続時間をすべて使い切りました。"
 
 msgid "You have used up all of your free RIM connection time for today."
@@ -762,7 +523,6 @@ msgid ""
 "Your RIM personal subscription will be used for unattended sessions, while your current incident pass can be used for keyword-based sessions on one target machine over the next %{time_span}. The following applies to keyword-based sessions on "
 "additional target machines, and to any keyword-based sessions after your current incident pass has expired."
 msgstr ""
-<<<<<<< HEAD
 "お客様の RIM パーソナルサブスクリプションは無人セッションに使用され、お客様の現在のインシデントパスは、次の %{time_span} にわたって 1 台のターゲットマシン上のキーワードベースセッションに使用できます。以下は、追加のターゲットマシン上のキーワードベー"
 "スのセッション、および現在のインシデントパスの有効期限が切れた後のキーワードベースのセッションに適用されます。"
 
@@ -785,57 +545,13 @@ msgid "Your current day pass can be used for keyword-based sessions over the nex
 msgstr "現在お持ちの1日パスは、今後 %{time_span} 、キーワードベースのセッションに使用できます。以下は、現在の一日パスの有効期限が切れた後のキーワードベースのセッションに適用されます。"
 
 msgid "Please upgrade to a paid RIM subscription to gain unlimited connection time."
-=======
-"お客様の RIM パーソナルサブスクリプションは無人セッションに使用され、お客様の現在のインシデントパスは、次の %{time_span} "
-"にわたって 1 "
-"台のターゲットマシン上のキーワードベースセッションに使用できます。以下は、追加のターゲットマシン上のキーワードベースのセッション、および現在のインシデントパスの有効期限が切れた後のキーワードベースのセッションに適用されます。"
-
-msgid ""
-"Your RIM personal subscription will be used for unattended sessions, "
-"while your current day pass can be used for keyword-based sessions over "
-"the next %{time_span}. The following applies to any keyword-based "
-"sessions after your current day pass has expired."
-msgstr ""
-"RIMパーソナル・サブスクリプションは無人セッションに使用され、現在の1日パスは次の %{time_span} "
-"、キーワードベースのセッションに使用できます。以下は、現在の一日パスの有効期限が切れた後のキーワードベースのセッションに適用されます。"
-
-msgid ""
-"Your RIM personal subscription will be used for unattended sessions. The "
-"following applies to any keyword-based sessions."
-msgstr "RIMパーソナル・サブスクリプションは、無人セッションに使用されます。以下は、キーワードベースのセッションに適用されます。"
-
-msgid ""
-"Your current incident pass can be used for keyword-based sessions on one "
-"target machine over the next %{time_span}. The following applies to "
-"keyword-based sessions on additional target machines, and to any keyword-"
-"based sessions after your current incident pass has expired."
-msgstr ""
-"現在のインシデントパスは、1台のターゲットマシン上のキーワードベースのセッションに、今後 %{time_span} "
-"。以下は、追加のターゲットマシン上のキーワードベースのセッション、および現在のインシデントパスの有効期限が切れた後のキーワードベースのセッションに適用されます。"
-
-msgid ""
-"Your current day pass can be used for keyword-based sessions over the "
-"next %{time_span}. The following applies to any keyword-based sessions "
-"after your current day pass has expired."
-msgstr ""
-"現在お持ちの1日パスは、今後 %{time_span} "
-"、キーワードベースのセッションに使用できます。以下は、現在の一日パスの有効期限が切れた後のキーワードベースのセッションに適用されます。"
-
-msgid ""
-"Please upgrade to a paid RIM subscription to gain unlimited connection "
-"time."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "接続時間を無制限にするには、有料のRIMサブスクリプションにアップグレードしてください。"
 
 msgid "Use Incident Pass"
 msgstr "インシデント・パスの使用"
 
 msgid "Use Day Pass"
-<<<<<<< HEAD
 msgstr "一日パス"
-=======
-msgstr "一日乗車券"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Use Other Incident Pass"
 msgstr "その他のインシデント・パスを使用"
@@ -849,17 +565,8 @@ msgstr "パスを選択"
 msgid "Start using pass"
 msgstr "パスの使用開始"
 
-<<<<<<< HEAD
 msgid "Your prepaid time has run out. Please order more prepaid time or upgrade to a RIM Pro subscription to continue using RIM."
 msgstr "プリペイド時間がなくなりました。引き続き RIM を使用するには、プリペイド時間を追加注文するか、RIM Pro サブスクリプションにアップグレードしてください。"
-=======
-msgid ""
-"Your prepaid time has run out. Please order more prepaid time or upgrade "
-"to a RIM Pro subscription to continue using RIM."
-msgstr ""
-"プリペイド時間がなくなりました。引き続き RIM を使用するには、プリペイド時間を追加注文するか、RIM Pro "
-"サブスクリプションにアップグレードしてください。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "File Transfer Progress"
 msgstr "ファイル転送の進捗状況"
@@ -888,13 +595,7 @@ msgstr "代わりに支援を提供する"
 msgid "Add this machine to your RIM account"
 msgstr "このマシンをRIMアカウントに追加する"
 
-<<<<<<< HEAD
 msgid "You must enter a keyword before you can start the remote session. Please enter the keyword that was provided by the person that is helping you."
-=======
-msgid ""
-"You must enter a keyword before you can start the remote session. Please "
-"enter the keyword that was provided by the person that is helping you."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "リモートセッションを開始する前に、キーワードを入力する必要があります。あなたをサポートする人から提供されたキーワードを入力してください。"
 
 msgid "Language"
@@ -931,14 +632,8 @@ msgid ""
 "Thank you for installing Remote Incident Manager! Before you can use RIM to either provide or receive remote help, you'll need to give RIM several permissions in this machine's macOS settings. RIM will request one permission at a time and provide "
 "detailed instructions to grant each permission. RIM will not function without these permissions. To begin, click the \"Continue\" button below."
 msgstr ""
-<<<<<<< HEAD
 "Remote Incident Managerをインストールしていただきありがとうございます！RIMを使用してリモートヘルプを提供または受信する前に、このマシンのmacOS設定でRIMにいくつかの許可を与える必要があります。RIMは一度に1つの許可を要求し、各許可を与えるための詳細な指"
 "示を提供します。これらの許可がないと、RIM は機能しません。開始するには、下の「続ける」ボタンをクリックします。"
-=======
-"Remote Incident "
-"Managerをインストールしていただきありがとうございます！RIMを使用してリモートヘルプを提供または受信する前に、このマシンのmacOS設定でRIMにいくつかの許可を与える必要があります。RIMは一度に1つの許可を要求し、各許可を与えるための詳細な指示を提供します。これらの許可がないと、RIM"
-" は機能しません。開始するには、下の「続ける」ボタンをクリックします。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Continue"
 msgstr "続ける"
@@ -947,49 +642,30 @@ msgid ""
 "RIM needs to activate the system extension that enables remote keyboard input when receiving remote help. For now, while Pneuma Solutions is working through the Apple approval process to incorporate the system extension into RIM itself, the system "
 "extension comes from an application called Karabiner-VirtualHIDDevice-Manager."
 msgstr ""
-<<<<<<< HEAD
 "RIMは、リモートヘルプを受ける際にリモートキーボード入力を可能にするシステム拡張機能を有効にする必要がある。今のところ、プネウマ・ソリューションズ社は、システム拡張機能をRIM自体に組み込むためにアップル社の承認プロセスを経ているが、システム拡張機能は"
 "Karabiner-VirtualHIDDevice-Managerと呼ばれるアプリケーションから提供される。"
-=======
-"RIMは、リモートヘルプを受ける際にリモートキーボード入力を可能にするシステム拡張機能を有効にする必要がある。今のところ、プネウマ・ソリューションズ社は、システム拡張機能をRIM自体に組み込むためにアップル社の承認プロセスを経ているが"
-"、システム拡張機能はKarabiner-VirtualHIDDevice-Managerと呼ばれるアプリケーションから提供される。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid ""
 "Once you press the \"Continue\" button below, if the system dialog saying that macOS has blocked this extension doesn't automatically receive focus, press VO+F1 twice, then choose \"System Dialogs\". Note that you may need to press VO+FN+F1 if your "
 "function keys are not set up to work independently of the FN key. The FN key is located to the left of the CTRL key."
 msgstr ""
-<<<<<<< HEAD
 "下の \"Continue \"ボタンを押しても、macOSがこの拡張機能をブロックしているというシステムダイアログに自動的にフォーカスが当たらない場合は、VO+F1を2回押し、\"System Dialogs \"を選択してください。ファンクションキーがFNキーと独立して動作するように設定さ"
 "れていない場合は、VO+FN+F1を押す必要があるかもしれないことに注意してください。FNキーはCTRLキーの左にあります。"
-=======
-"下の \"Continue "
-"\"ボタンを押しても、macOSがこの拡張機能をブロックしているというシステムダイアログに自動的にフォーカスが当たらない場合は、VO+F1を2回押し、\"System"
-" Dialogs "
-"\"を選択してください。ファンクションキーがFNキーと独立して動作するように設定されていない場合は、VO+FN+F1を押す必要があるかもしれないことに注意してください。FNキーはCTRLキーの左にあります。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid ""
 "Once this dialog has focus, do *not* press the \"OK\" button; instead, press the *\"Open Settings\"* button to open the security and privacy settings. The button you'll need to press to allow the system extension is quite far down in the settings "
 "page; look for a message saying that system software loaded by Karabiner-VirtualHIDDevice-Manager was blocked, then you should find an \"Allow\" button. Press VO+Space on that button to unblock the system extension. If you start seeing settings "
 "concerning FileVault, you likely went too far and should scroll backwards to find the \"Allow\" button. Enter your password or provide your touch ID when prompted."
 msgstr ""
-<<<<<<< HEAD
 "このダイアログにフォーカスがあったら、\"OK \"ボタンは押さないでください。代わりに、*\"設定を開く \"*ボタンを押して、セキュリティとプライバシー設定を開きます。Karabiner-VirtualHIDDevice-Managerによってロードされたシステムソフトウェアがブロックされた"
 "というメッセージを探してください。このボタンでVO+Spaceを押すと、システム拡張のブロックが解除されます。FileVaultに関する設定が表示され始めたら、行き過ぎた可能性があるので、後方にスクロールして「Allow」ボタンを見つけてください。プロンプトが表示された"
 "ら、パスワードを入力するか、タッチIDを入力してください。"
-=======
-"このダイアログにフォーカスがあったら、\"OK \"ボタンは押さないでください。代わりに、*\"設定を開く "
-"\"*ボタンを押して、セキュリティとプライバシー設定を開きます。Karabiner-VirtualHIDDevice-"
-"Managerによってロードされたシステムソフトウェアがブロックされたというメッセージを探してください。このボタンでVO+Spaceを押すと、システム拡張のブロックが解除されます。FileVaultに関する設定が表示され始めたら、行き過ぎた可能性があるので、後方にスクロールして「Allow」ボタンを見つけてください。プロンプトが表示されたら、パスワードを入力するか、タッチIDを入力してください。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid ""
 "Once you press the \"Continue\" button below, the system dialog saying that macOS has blocked this extension will appear on top of your screen. Do *not* press the \"OK\" button; instead, press the *\"Open Settings\"* button to open the security and "
 "privacy settings. The button you'll need to press to allow the system extension is quite far down in the settings page; look for a message saying that system software loaded by Karabiner-VirtualHIDDevice-Manager was blocked, then you should find an "
 "\"Allow\" button. Click this button to unblock the system extension. Enter your password or provide your touch ID when asked."
 msgstr ""
-<<<<<<< HEAD
 "下の「続ける」ボタンを押すと、macOSがこの拡張機能をブロックしたというシステムダイアログが画面の上に表示されます。OK」ボタンは*押さないで*ください。代わりに、*「設定を開く」*ボタンを押して、セキュリティとプライバシー設定を開きます。Karabiner-"
 "VirtualHIDDevice-Managerによってロードされたシステムソフトウェアがブロックされたというメッセージを探し、「許可」ボタンを見つけます。このボタンをクリックすると、システム拡張のブロックが解除されます。パスワードを入力するか、タッチIDを入力してくださ"
 "い。"
@@ -1003,49 +679,28 @@ msgid ""
 msgstr ""
 "許可を要求するシステムダイアログが自動的にフォーカスを受け取らない場合は、VO+F1を2回押し、\"System Dialogs \"を選択します。ファンクションキーがFNキーと独立して動作するように設定されていない場合は、VO+FN+F1を押す必要があるかもしれないことに注意してく"
 "ださい。FNキーはCTRLキーの左にあります。"
-=======
-"下の「続ける」ボタンを押すと、macOSがこの拡張機能をブロックしたというシステムダイアログが画面の上に表示されます。OK」ボタンは*押さないで*ください。代わりに、*「設定を開く」*ボタンを押して、セキュリティとプライバシー設定を開きます"
-"。Karabiner-VirtualHIDDevice-"
-"Managerによってロードされたシステムソフトウェアがブロックされたというメッセージを探し、「許可」ボタンを見つけます。このボタンをクリックすると、システム拡張のブロックが解除されます。パスワードを入力するか、タッチIDを入力してください。"
-
-msgid ""
-"RIM needs permission to capture the screen and audio output. so it can be"
-" seen and heard across the remote computer connection."
-msgstr "RIMは、画面と音声出力をキャプチャする許可を必要とするため、リモートコンピュータ接続全体で見たり聞いたりすることができる。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid ""
 "Once the dialog is focused, press the button to open settings. You will find a table with an entry for Remote Incident Manager. Once you interact with the table and move to that entry, press VO+Space to turn on the switch. When you turn on the "
 "switch, macOS will prompt you to restart RIM. Go ahead and do this; RIM will continue where it left off."
 msgstr ""
-<<<<<<< HEAD
 "ダイアログが表示されたら、ボタンを押して設定を開きます。Remote Incident Managerの項目がある表が見つかります。テーブルを操作してそのエントリに移動したら、VO+Spaceを押してスイッチをオンにします。スイッチをオンにすると、macOSはRIMを再起動するよう促しま"
 "す。RIMは中断したところから続行されます。"
-=======
-"許可を要求するシステムダイアログが自動的にフォーカスを受け取らない場合は、VO+F1を2回押し、\"System Dialogs "
-"\"を選択します。ファンクションキーがFNキーと独立して動作するように設定されていない場合は、VO+FN+F1を押す必要があるかもしれないことに注意してください。FNキーはCTRLキーの左にあります。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid ""
 "You should now see a system dialogue appear on top of your screen. Press the button to open settings, again making sure not to accidentally press the OK button. You will find a table with an entry for Remote Incident Manager. Click the Remote "
 "Incident Manager entry to turn on the switch, providing your password or touch ID if prompted. When you turn on the switch, macOS will prompt you to restart RIM. Go ahead and do this; RIM will continue where it left off."
 msgstr ""
-<<<<<<< HEAD
 "画面上部にシステムダイアログが表示されるはずです。間違ってOKボタンを押さないように注意してください。Remote Incident Manager（リモート・インシデント・マネージャー）の項目がある表が表示されます。リモート・インシデント・マネージャーのエントリーをクリッ"
 "クしてスイッチをオンにし、プロンプトが表示されたらパスワードまたはタッチIDを入力します。スイッチをオンにすると、macOSはRIMを再起動するよう促します。RIMは中断したところから続行します。"
 
 msgid "RIM needs permission to use macOS accessibility features to remotely control this computer via keyboard and mouse input."
 msgstr "RIMは、macOSのアクセシビリティ機能を使用して、キーボードとマウス入力でこのコンピューターを遠隔操作する許可を必要としている。"
-=======
-"ダイアログが表示されたら、ボタンを押して設定を開きます。Remote Incident "
-"Managerの項目がある表が見つかります。テーブルを操作してそのエントリに移動したら、VO+Spaceを押してスイッチをオンにします。スイッチをオンにすると、macOSはRIMを再起動するよう促します。RIMは中断したところから続行されます。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid ""
 "Once the dialog is focused, press the button to open settings. You will find a table with an entry for Remote Incident Manager. Once you interact with the table and move to that entry, press VO+Space to turn on the switch, providing your password "
 "or touch ID if prompted."
 msgstr ""
-<<<<<<< HEAD
 "ダイアログが表示されたら、ボタンを押して設定を開きます。リモートインシデントマネージャーの項目がある表が見つかります。テーブルを操作してそのエントリに移動したら、VO+Spaceを押してスイッチをオンにし、プロンプトが表示されたらパスワードまたはタッチIDを"
 "入力します。"
 
@@ -1093,138 +748,26 @@ msgstr "ターゲットのマシンは現在、完全な管理者権限でRIMを
 
 msgid "Your voice conversation will resume once the session is active again."
 msgstr "セッションが再びアクティブになると、音声による会話が再開されます。"
-=======
-"画面上部にシステムダイアログが表示されるはずです。間違ってOKボタンを押さないように注意してください。Remote Incident "
-"Manager（リモート・インシデント・マネージャー）の項目がある表が表示されます。リモート・インシデント・マネージャーのエントリーをクリックしてスイッチをオンにし、プロンプトが表示されたらパスワードまたはタッチIDを入力します。スイッチをオンにすると、macOSはRIMを再起動するよう促します。RIMは中断したところから続行します。"
-
-msgid ""
-"RIM needs permission to use macOS accessibility features to remotely "
-"control this computer via keyboard and mouse input."
-msgstr "RIMは、macOSのアクセシビリティ機能を使用して、キーボードとマウス入力でこのコンピューターを遠隔操作する許可を必要としている。"
-
-msgid ""
-"Once the dialog is focused, press the button to open settings. You will "
-"find a table with an entry for Remote Incident Manager. Once you interact"
-" with the table and move to that entry, press VO+Space to turn on the "
-"switch, providing your password or touch ID if prompted."
-msgstr "ダイアログが表示されたら、ボタンを押して設定を開きます。リモートインシデントマネージャーの項目がある表が見つかります。テーブルを操作してそのエントリに移動したら、VO+Spaceを押してスイッチをオンにし、プロンプトが表示されたらパスワードまたはタッチIDを入力します。"
-
-msgid ""
-"You should now see a system dialogue appear on top of your screen. Press "
-"the button to open settings, again making sure not to accidentally press "
-"the OK button. You will find a table with an entry for Remote Incident "
-"Manager. Click the Remote Incident Manager entry to turn on the switch, "
-"providing your password or provide your touch ID if prompted."
-msgstr "画面上部にシステムダイアログが表示されるはずです。間違ってOKボタンを押さないように注意してください。リモート・インシデント・マネージャーの項目がある表が表示されます。リモート・インシデント・マネージャーのエントリーをクリックしてスイッチをオンにし、パスワードを入力するか、プロンプトが表示されたらタッチIDを入力します。"
-
-msgid ""
-"RIM needs permission to show notifications, so it can let you know when a"
-" remote session begins and ends, or when a session has flipped."
-msgstr "RIMには通知を表示する権限が必要なので、リモート・セッションの開始と終了、あるいはセッションが反転したことを知らせることができる。"
-
-msgid ""
-"You should receive a notification saying that Remote Incident Manager "
-"wants to display notifications. If you did, then press VO+N, choose the "
-"Remote Incident Manager item from the menu, and press VO+Space to open "
-"the RIM notifications page in System Settings. If you didn't receive a "
-"notification, open System Settings, go to Notifications, and press the "
-"button for Remote Incident Manager. Then turn on notifications for this "
-"app."
-msgstr ""
-"リモートインシデントマネージャが通知を表示したいという通知が表示されるはずです。通知を受け取った場合は、VO+Nを押し、メニューからRemote "
-"Incident "
-"Manager項目を選択し、VO+Spaceを押して、システム設定のRIM通知ページを開きます。通知を受け取らなかった場合は、システム設定を開き、[通知]に移動し、リモートインシデントマネージャのボタンを押します。次に、このアプリの通知をオンにします。"
-
-msgid ""
-"You should receive a notification saying that Remote Incident Manager "
-"wants to display notifications. If you did, click this notification to "
-"open the RIM notifications page in System Settings. If you didn't receive"
-" a notification, open System Settings, go to Notifications, and press the"
-" button for Remote Incident Manager. Then turn on notifications for this "
-"app."
-msgstr ""
-"Remote Incident "
-"Managerが通知を表示したいという通知が表示されるはずです。通知を受け取った場合は、この通知をクリックして、システム設定のRIM通知ページを開きます。通知を受け取らなかった場合は、［システム設定］を開き、［通知］に移動して、［Remote"
-" Incident Manager］のボタンを押します。次に、このアプリの通知をオンにします。"
-
-msgid "Waiting for permission..."
-msgstr "許可待ち..."
-
-msgid ""
-"RIM is currently re-establishing your remote connection. Please do not "
-"close this window unless you want to cancel your remote session."
-msgstr "RIMは現在、リモート接続を再確立中です。リモートセッションをキャンセルしない限り、このウィンドウを閉じないでください。"
-
-msgid ""
-"The target machine is currently rebooting. The remote session will "
-"continue when the reboot is complete. Please do not close this window."
-msgstr "対象マシンは現在再起動中です。再起動が完了するとリモートセッションが続行されます。このウィンドウは閉じないでください。"
-
-msgid ""
-"The target machine is currently in the process of logging onto Windows. "
-"The remote session will continue when this process is complete. Please do"
-" not close this window."
-msgstr "ターゲットマシンは現在Windowsへのログオン中です。このプロセスが完了すると、リモートセッションが続行されます。このウィンドウは閉じないでください。"
-
-msgid ""
-"The target machine is currently installing the latest RIM update. The "
-"remote session will continue when this process is complete. Please do not"
-" close this window."
-msgstr "ターゲットマシンは現在、最新のRIMアップデートをインストール中です。このプロセスが完了すると、リモートセッションが続行されます。このウィンドウは閉じないでください。"
-
-msgid ""
-"The target machine is currently re-installing RIM with full "
-"administrative privileges. The remote session will continue when this "
-"process is complete. Please do not close this window."
-msgstr "ターゲットマシンは現在、完全な管理者権限でRIMを再インストール中です。このプロセスが完了すると、リモートセッションが続行されます。このウィンドウは閉じないでください。"
-
-msgid "Your voice conversation will resume once the session is active again."
-msgstr "セッションが再びアクティブになると、音声会話が再開されます。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Add This Machine to Your RIM Account"
 msgstr "このマシンをRIMアカウントに追加する"
 
-<<<<<<< HEAD
 msgid "This option lets you add this machine as a target in your RIM account so you can remotely access it."
 msgstr "このオプションで、このマシンをRIMアカウントのターゲットとして追加し、リモートアクセスできるようにすることができます。"
 
 msgid "Type of remote access:"
 msgstr "リモートアクセスの種類:"
-=======
-msgid ""
-"This option lets you add this machine as a target in your RIM account so "
-"you can remotely access it."
-msgstr "このオプションで、このマシンをRIMアカウントのターゲットとして追加し、リモートアクセスできるようにすることができます。"
-
-msgid "Type of remote access:"
-msgstr "リモートアクセスの種類"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Unattended"
 msgstr "無人"
 
-<<<<<<< HEAD
 msgid "With this option, this machine can be accessed at any time without requiring a user to be physically present at the machine to accept the connection."
-=======
-msgid ""
-"With this option, this machine can be accessed at any time without "
-"requiring a user to be physically present at the machine to accept the "
-"connection."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "このオプションを使用すると、ユーザーが接続を受け入れるためにマシンに物理的に存在することなく、このマシンにいつでもアクセスできる。"
 
 msgid "Prompted"
 msgstr "プロンプト"
 
-<<<<<<< HEAD
 msgid "With this option, RIM will prompt the user of this machine for permission to access the machine, and the user must be present at the machine to accept or deny the request."
-=======
-msgid ""
-"With this option, RIM will prompt the user of this machine for permission"
-" to access the machine, and the user must be present at the machine to "
-"accept or deny the request."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "このオプションを指定すると、RIMはこのマシンのユーザーに対して、そのマシンへのアクセス許可を求めるプロンプトを表示し、ユーザーはそのマシンに同席してその要求を受け入れるか拒否しなければならない。"
 
 msgid "Name this target machine:"
@@ -1233,14 +776,7 @@ msgstr "このターゲット・マシンに名前を付ける："
 msgid "Add Machine"
 msgstr "マシン追加"
 
-<<<<<<< HEAD
 msgid "You must enter a name for this machine. This name will be used in the list of target machines for your RIM account, so choose a name that will make it easy to find this machine when you want to connect to it."
-=======
-msgid ""
-"You must enter a name for this machine. This name will be used in the "
-"list of target machines for your RIM account, so choose a name that will "
-"make it easy to find this machine when you want to connect to it."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "このマシンの名前を入力する必要がある。この名前はRIMアカウントのターゲット・マシンのリストで使用されるので、このマシンに接続するときに見つけやすい名前を選んでください。"
 
 msgid "Adding machine; please wait."
@@ -1250,23 +786,12 @@ msgid "Request Unattended or Prompted Access"
 msgstr "無人アクセスまたはプロンプトアクセスのリクエスト"
 
 msgid "Type of access:"
-<<<<<<< HEAD
 msgstr "アクセスの種類:"
-=======
-msgstr "アクセスの種類"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Send Request"
 msgstr "リクエストを送信"
 
-<<<<<<< HEAD
 msgid "You must enter a name for the target machine. This name will be used in the list of target machines for your RIM account, so choose a name that will make it easy to find this machine when you want to connect to it."
-=======
-msgid ""
-"You must enter a name for the target machine. This name will be used in "
-"the list of target machines for your RIM account, so choose a name that "
-"will make it easy to find this machine when you want to connect to it."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "ターゲット・マシンの名前を入力する必要がある。この名前はRIMアカウントのターゲット・マシンのリストで使用されるので、このマシンに接続するときに見つけやすい名前を選んでください。"
 
 msgid "Waiting for the target user to respond."
@@ -1275,7 +800,6 @@ msgstr "ターゲットユーザーの返答を待つ。"
 msgid "Send Logs to Pneuma Solutions"
 msgstr "Pneuma Solutionsにログを送信"
 
-<<<<<<< HEAD
 msgid "Please only use this function if a representative of Pneuma Solutions has requested logs."
 msgstr "プネウマ・ソリューションズの代表者がログを要求した場合のみ、この機能を使用してください。"
 
@@ -1283,19 +807,6 @@ msgid "Detailed problem description:"
 msgstr "問題の詳細:"
 
 msgid "Please either enter a detailed description of your problem or close this window."
-=======
-msgid ""
-"Please only use this function if a representative of Pneuma Solutions has"
-" requested logs."
-msgstr "プネウマ・ソリューションズの代表者がログを要求した場合のみ、この機能を使用してください。"
-
-msgid "Detailed problem description:"
-msgstr "問題の詳細"
-
-msgid ""
-"Please either enter a detailed description of your problem or close this "
-"window."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "問題の詳細を入力するか、このウィンドウを閉じてください。"
 
 msgid "Sending logs..."
@@ -1317,30 +828,16 @@ msgid "%{screen_reader_name} %{version} is running on the remote machine."
 msgstr "%{screen_reader_name} %{version} がリモート・マシンで実行されている。"
 
 msgid "Starting remote accessibility."
-<<<<<<< HEAD
 msgstr "リモートアクセシビリティの開始。"
-=======
-msgstr "リモートアクセスの開始"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Comment on This Session"
 msgstr "このセッションについてコメントする"
 
-<<<<<<< HEAD
 msgid "You may optionally write a comment on the session that just ended. This comment will appear on your RIM Dashboard."
 msgstr "終了したセッションについてコメントを書くこともできます。このコメントはRIMダッシュボードに表示されます。"
 
 msgid "Comment:"
 msgstr "コメント:"
-=======
-msgid ""
-"You may optionally write a comment on the session that just ended. This "
-"comment will appear on your RIM Dashboard."
-msgstr "終了したセッションについてコメントを書くこともできます。このコメントはRIMダッシュボードに表示されます。"
-
-msgid "Comment:"
-msgstr "どうすればいいですか？"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Add Comment"
 msgstr "コメントを追加"
@@ -1438,18 +935,8 @@ msgstr "読み込み中..."
 msgid "Welcome to Remote Incident Manager"
 msgstr "リモート・インシデント・マネージャーへようこそ"
 
-<<<<<<< HEAD
 msgid "We would like to welcome you to version 3 of Remote Incident Manager (RIM) from Pneuma Solutions! Thank you for choosing RIM for your accessible remote technical support and training needs."
 msgstr "Pneuma Solutions の Remote Incident Manager (RIM) バージョン 3 を歓迎いたします！アクセスしやすいリモートテクニカルサポートとトレーニングのニーズにRIMをお選びいただき、ありがとうございます。"
-=======
-msgid ""
-"We would like to welcome you to version 3 of Remote Incident Manager "
-"(RIM) from Pneuma Solutions! Thank you for choosing RIM for your "
-"accessible remote technical support and training needs."
-msgstr ""
-"Pneuma Solutions の Remote Incident Manager (RIM) バージョン 3 "
-"を歓迎いたします！アクセスしやすいリモートテクニカルサポートとトレーニングのニーズにRIMをお選びいただき、ありがとうございます。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Receive remote help now"
 msgstr "今すぐ遠隔サポートを受ける"
@@ -1458,7 +945,6 @@ msgid ""
 "RIM has a single installer, regardless of whether you are playing the role of the technical support provider(controller) or the remote end-user (target), that is, whether you are providing or receiving help. If you want to receive help, simply "
 "press the \"Receive help now\" button above. Then all you need to do is enter the key word provided by the Controller. RIM will establish the connection and start the voice conversation if necessary."
 msgstr ""
-<<<<<<< HEAD
 "RIMは、あなたがテクニカルサポートプロバイダー（コントローラー）またはリモートエンドユーザー（ターゲット）のどちらの役割を演じているかに関係なく、つまり、あなたがヘルプを提供するか受け取るかに関係なく、単一のインストーラーを持っています。ヘルプを受け"
 "取りたい場合は、上の「今すぐヘルプを受け取る」ボタンを押すだけです。あとは、コントローラーが提供するキーワードを入力するだけです。RIM が接続を確立し、必要に応じて音声会話を開始します。"
 
@@ -1466,26 +952,10 @@ msgid "If you are providing help, you will need to click the “Provide remote h
 msgstr "ヘルプを提供する場合は、下の「今すぐリモート・ヘルプを提供する」ボタンをクリックし、RIMサービスにログインする必要があります。初回ログイン時に、お客様の電子メールアドレスと電話番号を確認させていただきます。"
 
 msgid "When you’re ready to help someone, direct the person needing help to visit GetRIM.app, download, install, and run the RIM app, and follow the on screen instructions."
-=======
-"RIMは、あなたがテクニカルサポートプロバイダー（コントローラー）またはリモートエンドユーザー（ターゲット）のどちらの役割を演じているかに関係なく、つまり、あなたがヘルプを提供するか受け取るかに関係なく、単一のインストーラーを持っています。ヘルプを受け取りたい場合は、上の「今すぐヘルプを受け取る」ボタンを押すだけです。あとは、コントローラーが提供するキーワードを入力するだけです。RIM"
-" が接続を確立し、必要に応じて音声会話を開始します。"
-
-msgid ""
-"If you are providing help, you will need to click the “Provide remote "
-"help now” button below and log into the RIM service. The first time you "
-"log in, we’ll need to verify your email address and phone number."
-msgstr "ヘルプを提供する場合は、下の「今すぐリモート・ヘルプを提供する」ボタンをクリックし、RIMサービスにログインする必要があります。初回ログイン時に、お客様の電子メールアドレスと電話番号を確認させていただきます。"
-
-msgid ""
-"When you’re ready to help someone, direct the person needing help to "
-"visit GetRIM.app, download, install, and run the RIM app, and follow the "
-"on screen instructions."
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 msgstr "誰かを助ける準備ができたら、助けが必要な人にGetRIM.appにアクセスするよう指示し、RIMアプリをダウンロード、インストール、実行し、画面の指示に従ってください。"
 
 msgid "Now that we have all of that out of the way. This is how RIM works:"
 msgstr "さて、これですべて片付いた。これがRIMの仕組みだ："
-<<<<<<< HEAD
 
 msgid "The technician chooses a keyword for the remote session, enters it on the “Provide Remote Help” screen, and presses “Start”."
 msgstr "技術者は、リモート・セッションのキーワードを選択し、「リモート・ヘルプの提供」画面に入力し、「開始」を押します。"
@@ -1527,81 +997,16 @@ msgid ""
 msgstr ""
 "2台のマシン間でファイルやフォルダを転送することもできる。これを行うには、WindowsではFile Explorer、macOSではFinderを使用して、1つまたは複数のファイルまたはフォルダを一方のクリップボードにコピーします。次にコントローラー側で、RIMメニューを開き、ファ"
 "イルまたはファイルを転送するオプションを選択する。完了すると、転送されたファイルを含むフォルダが受信側で開きます。もちろん、マシンをまたいだテキストのコピー＆ペーストも機能する。"
-=======
-
-msgid ""
-"The technician chooses a keyword for the remote session, enters it on the"
-" “Provide Remote Help” screen, and presses “Start”."
-msgstr "技術者は、リモート・セッションのキーワードを選択し、「リモート・ヘルプの提供」画面に入力し、「開始」を押します。"
-
-msgid ""
-"The technician gives that keyword to the end-user, who enters it on the "
-"“Receive Remote Help” screen and presses “Connect”."
-msgstr "技術者はそのキーワードをエンドユーザーに伝え、エンドユーザーは「リモート・ヘルプの受信」画面でそのキーワードを入力し、「接続」を押す。"
-
-msgid ""
-"The two sides are connected. In addition to the remote desktop session, a"
-" voice conversation can be started optionally at the beginning or later "
-"in the session. Neither the Controller or Target need to be waring "
-"headphones during a remote session. Feel free to use your computer’s "
-"speakers."
-msgstr "両者が接続されます。リモートデスクトップセッションに加え、オプションでセッションの最初または後半に音声会話を開始することができます。リモートセッション中は、コントローラーもターゲットもヘッドホンをする必要はありません。コンピュータのスピーカーを使ってください。"
-
-msgid ""
-"The Controller can hear any audio output on the end-user’s machine, "
-"including not only any screen reader the end-user may be running, but "
-"also other applications. Sighted or low-vision technicians can also see "
-"the end-user’s screen. Keyboard and mouse input work as expected."
-msgstr "コントローラーは、エンドユーザーのマシン上のあらゆる音声出力を聞くことができます。これには、エンドユーザーが実行しているスクリーンリーダーだけでなく、他のアプリケーションも含まれます。視力のある技術者や弱視の技術者も、エンドユーザーの画面を見ることができます。キーボードとマウス入力は、期待どおりに機能します。"
-
-msgid ""
-"During the session, the technician presses Windows+Shift+Backspace on "
-"Windows, or Option+Shift+Backspace on macOS, to open the RIM menu. On "
-"this menu, the technician can minimize the session, flip the session so "
-"the end-user can watch and control the technician’s machine, launch "
-"accessibility on the Target, request the end-user's permission to gain "
-"unattended access to this target machine, or close the session."
-msgstr "セッション中、技術者は、Windowsの場合はWindows+Shift+Backspace、macOSの場合はOption+Shift+Backspaceを押して、RIMメニューを開きます。このメニューで、技術者は、セッションを最小化したり、エンドユーザが技術者のマシンを見て操作できるようにセッションを反転させたり、ターゲット上でアクセシビリティを起動したり、このターゲットマシンへの無人アクセスを得るためにエンドユーザの許可を要求したり、セッションを閉じたりすることができます。"
-
-msgid ""
-"If the end-user’s machine isn’t running a screen reader, the technician "
-"can start our remote accessibility module that allows only the technician"
-" to hear speech output. For this to work, the technician must be running "
-"NVDA on their own machine if they're on Windows, or VoiceOver if they're "
-"on macOS."
-msgstr "エンドユーザーのマシンがスクリーン・リーダーを実行していない場合、技術者は、技術者だけが音声出力を聞くことができるリモート・アクセシビリティ・モジュールを起動することができます。これを機能させるには、技術者がWindowsを使用している場合は自分のマシンでNVDAを、macOSを使用している場合はVoiceOverを実行している必要があります。"
-
-msgid ""
-"You can also transfer files or folders between the two machines. To do "
-"this, simply use File Explorer on Windows, or the Finder on macOS, to "
-"copy one or more files or folders onto the clipboard on one end. Then on "
-"the controller end, open the RIM menu and choose the option to transfer "
-"the file or files. When that's done, a folder containing the transferred "
-"file or files will open on the receiving end. Of course, copying and "
-"pasting text across machines also works."
-msgstr ""
-"2台のマシン間でファイルやフォルダを転送することもできる。これを行うには、WindowsではFile "
-"Explorer、macOSではFinderを使用して、1つまたは複数のファイルまたはフォルダを一方のクリップボードにコピーします。次にコントローラー側で、RIMメニューを開き、ファイルまたはファイルを転送するオプションを選択する。完了すると、転送されたファイルを含むフォルダが受信側で開きます。もちろん、マシンをまたいだテキストのコピー＆ペーストも機能する。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Now let’s make the lawyers happy:"
 msgstr "さあ、弁護士を喜ばせよう："
 
 msgid ""
-<<<<<<< HEAD
 "To the extent not prohibited by law, in no circumstances shall Pneuma Solutions be liable to you or any other third parties for any loss or damage (including, without limitation, damage for loss of business or loss of profits) arising directly or "
 "indirectly from your use of or inability to use, this software or any of the material contained in it."
 msgstr ""
 "法律で禁止されていない限りにおいて、いかなる状況においても、プネウマソリューションズは、本ソフトウェアまたは本ソフトウェアに含まれる資料の使用または使用不能から直接的または間接的に生じる損失または損害（事業の損失または利益の損失による損害を含むがこ"
 "れに限定されない）について、お客様またはその他の第三者に対して責任を負わないものとします。"
-=======
-"To the extent not prohibited by law, in no circumstances shall Pneuma "
-"Solutions be liable to you or any other third parties for any loss or "
-"damage (including, without limitation, damage for loss of business or "
-"loss of profits) arising directly or indirectly from your use of or "
-"inability to use, this software or any of the material contained in it."
-msgstr "法律で禁止されていない限りにおいて、いかなる状況においても、プネウマソリューションズは、本ソフトウェアまたは本ソフトウェアに含まれる資料の使用または使用不能から直接的または間接的に生じる損失または損害（事業の損失または利益の損失による損害を含むがこれに限定されない）について、お客様またはその他の第三者に対して責任を負わないものとします。"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Thank you for reading, and for your interest in RIM."
 msgstr "お読みいただきありがとうございます。"
@@ -1616,11 +1021,7 @@ msgid "Revoke Remote Access to This Computer"
 msgstr "このコンピュータへのリモートアクセスを拒否する"
 
 msgid "Controller:"
-<<<<<<< HEAD
 msgstr "コントローラー:"
-=======
-msgstr "コントローラー"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Revoke"
 msgstr "取り消す"
@@ -1635,11 +1036,7 @@ msgid "Preparing to install update..."
 msgstr "アップデートのインストール準備中..."
 
 msgid "Preparing to download update..."
-<<<<<<< HEAD
 msgstr "アップデートをダウンロードする準備をしています..."
-=======
-msgstr "アップデートのダウンロード準備中"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "%{count} days"
 msgstr "%{count} 日"
@@ -1654,7 +1051,6 @@ msgid "1 hour"
 msgstr "1時間"
 
 msgid "%{count} minutes"
-<<<<<<< HEAD
 msgstr "%{count} 分"
 
 msgid "%{count} seconds"
@@ -1662,18 +1058,6 @@ msgstr "%{count} 秒"
 
 msgid "1 second"
 msgstr "1秒"
-=======
-msgstr "%{count} 議事録"
-
-msgid "%{count} seconds"
-msgstr "%{count} おかわり"
-
-msgid "1 second"
-msgstr "1秒"
-
-msgid "Japanese"
-msgstr "日本語"
->>>>>>> 8ef0977e37d0965f8776de53981903195fca13a0
 
 msgid "Japanese"
 msgstr "日本語"
