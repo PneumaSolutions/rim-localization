@@ -1669,3 +1669,15 @@ msgstr ""
 "funzionerà senza queste autorizzazioni. Per iniziare, fare clic sul "
 "pulsante \"Continua\" qui sotto."
 
+msgid "This feature has been disabled within your organization."
+msgstr "Questa funzione è stata disattivata all'interno dell'organizzazione."
+
+msgid "Time remaining for this keyword:"
+msgstr "Tempo rimanente per questa parola chiave:"
+
+msgid "This keyword has expired."
+msgstr "Questa parola chiave è scaduta."
+
+msgid "1 minute"
+msgstr "1 minuto"
+

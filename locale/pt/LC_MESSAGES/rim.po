@@ -1657,3 +1657,15 @@ msgstr ""
 "sem essas permissões. Para começar, clique no botão \"Continue\" "
 "(Continuar) abaixo."
 
+msgid "This feature has been disabled within your organization."
+msgstr "Esse recurso foi desativado em sua organização."
+
+msgid "Time remaining for this keyword:"
+msgstr "Tempo restante para essa palavra-chave:"
+
+msgid "This keyword has expired."
+msgstr "Essa palavra-chave expirou."
+
+msgid "1 minute"
+msgstr "1 minuto"
+

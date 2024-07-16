@@ -1691,3 +1691,15 @@ msgstr ""
 "Berechtigungen wird RIM nicht funktionieren. Um zu beginnen, klicken Sie "
 "auf die Schaltfläche \"Weiter\" unten."
 
+msgid "This feature has been disabled within your organization."
+msgstr "Diese Funktion wurde in Ihrer Organisation deaktiviert."
+
+msgid "Time remaining for this keyword:"
+msgstr "Verbleibende Zeit für dieses Stichwort:"
+
+msgid "This keyword has expired."
+msgstr "Dieses Schlüsselwort ist abgelaufen."
+
+msgid "1 minute"
+msgstr "1 Minute"
+

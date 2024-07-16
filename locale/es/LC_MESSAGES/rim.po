@@ -1656,3 +1656,15 @@ msgstr ""
 "permisos. Para empezar, haz clic en el botón \"Continuar\" que aparece a "
 "continuación."
 
+msgid "This feature has been disabled within your organization."
+msgstr "Esta función se ha desactivado en su organización."
+
+msgid "Time remaining for this keyword:"
+msgstr "Tiempo restante para esta palabra clave:"
+
+msgid "This keyword has expired."
+msgstr "Esta palabra clave ha caducado."
+
+msgid "1 minute"
+msgstr "1 minuto"
+

@@ -1702,3 +1702,15 @@ msgstr ""
 "fonctionnera pas sans ces autorisations. Pour commencer, cliquez sur le "
 "bouton \"Continuer\" ci-dessous."
 
+msgid "This feature has been disabled within your organization."
+msgstr "Cette fonction a été désactivée au sein de votre organisation."
+
+msgid "Time remaining for this keyword:"
+msgstr "Temps restant pour ce mot-clé :"
+
+msgid "This keyword has expired."
+msgstr "Ce mot-clé a expiré."
+
+msgid "1 minute"
+msgstr "1 minute"
+

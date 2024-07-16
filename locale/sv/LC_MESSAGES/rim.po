@@ -1632,3 +1632,15 @@ msgstr ""
 "bevilja varje behörighet. RIM kommer inte att fungera utan dessa "
 "behörigheter. Klicka på knappen \"Fortsätt\" nedan för att börja."
 
+msgid "This feature has been disabled within your organization."
+msgstr "Den här funktionen har inaktiverats inom din organisation."
+
+msgid "Time remaining for this keyword:"
+msgstr "Återstående tid för detta sökord:"
+
+msgid "This keyword has expired."
+msgstr "Detta sökord har upphört att gälla."
+
+msgid "1 minute"
+msgstr "1 minut"
+

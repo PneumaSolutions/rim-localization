@@ -1381,3 +1381,15 @@ msgid ""
 "click the \"Continue\" button below."
 msgstr "RIMを使用してリモート・ヘルプを受信する前に、このマシンのmacOS設定でRIMにいくつかの許可を与える必要があります。RIMは一度に1つの許可を要求し、各許可を与えるための詳細な指示を提供します。これらの許可がないと、RIMは機能しません。開始するには、下の「続ける」ボタンをクリックします。"
 
+msgid "This feature has been disabled within your organization."
+msgstr "この機能は組織内で無効になっています。"
+
+msgid "Time remaining for this keyword:"
+msgstr "このキーワードの残り時間："
+
+msgid "This keyword has expired."
+msgstr "このキーワードの有効期限は切れています。"
+
+msgid "1 minute"
+msgstr "1分"
+
