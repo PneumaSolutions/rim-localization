@@ -83,6 +83,9 @@ msgid ""
 "connecting to a pre-defined set of personal and family computers."
 msgstr ""
 
+msgid "This feature has been disabled within your organization."
+msgstr ""
+
 msgid "Unattended access requires a RIM Personal, Pro, or Enterprise subscription."
 msgstr ""
 
@@ -435,10 +438,13 @@ msgstr ""
 msgid "Provide Remote Help"
 msgstr ""
 
-msgid "Sign up for paid RIM services"
+msgid "Keyword:"
 msgstr ""
 
-msgid "Keyword:"
+msgid "Time remaining for this keyword:"
+msgstr ""
+
+msgid "Sign up for paid RIM services"
 msgstr ""
 
 msgid "Disable visual output for this session."
@@ -490,6 +496,9 @@ msgid "About"
 msgstr ""
 
 msgid "Log out"
+msgstr ""
+
+msgid "This keyword has expired."
 msgstr ""
 
 msgid "Sending request; please wait."
@@ -1242,6 +1251,9 @@ msgid "1 hour"
 msgstr ""
 
 msgid "%{count} minutes"
+msgstr ""
+
+msgid "1 minute"
 msgstr ""
 
 msgid "%{count} seconds"
