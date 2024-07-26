@@ -165,6 +165,12 @@ msgstr ""
 msgid "Start Remote &Accessibility"
 msgstr ""
 
+msgid "Unmute Target Audio Output"
+msgstr ""
+
+msgid "Mute Target Audio Output"
+msgstr ""
+
 msgid "Request &Unattended or Prompted Access"
 msgstr ""
 
@@ -451,6 +457,9 @@ msgid "Disable visual output for this session."
 msgstr ""
 
 msgid "Start voice conversation"
+msgstr ""
+
+msgid "Mute target audio output"
 msgstr ""
 
 msgid "Target group:"
@@ -1001,6 +1010,9 @@ msgid "%{screen_reader_name} is running on the remote machine."
 msgstr ""
 
 msgid "%{screen_reader_name} %{version} is running on the remote machine."
+msgstr ""
+
+msgid "Target audio output is currently muted."
 msgstr ""
 
 msgid "Starting remote accessibility."
