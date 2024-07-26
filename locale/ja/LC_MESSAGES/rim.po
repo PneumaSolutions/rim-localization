@@ -1393,3 +1393,15 @@ msgstr "このキーワードの有効期限は切れています。"
 msgid "1 minute"
 msgstr "1分"
 
+msgid "Unmute Target Audio Output"
+msgstr "ターゲット音声出力のミュート解除"
+
+msgid "Mute Target Audio Output"
+msgstr "ターゲット音声出力のミュート"
+
+msgid "Mute target audio output"
+msgstr "ターゲット音声出力のミュート"
+
+msgid "Target audio output is currently muted."
+msgstr "対象のオーディオ出力は現在ミュートされています。"
+

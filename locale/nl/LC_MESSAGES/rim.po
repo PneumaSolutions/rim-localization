@@ -1665,3 +1665,15 @@ msgstr "Dit trefwoord is verlopen."
 msgid "1 minute"
 msgstr "1 minute"
 
+msgid "Unmute Target Audio Output"
+msgstr "Doelaudio-uitgang dempen"
+
+msgid "Mute Target Audio Output"
+msgstr "Doelaudio-uitgang dempen"
+
+msgid "Mute target audio output"
+msgstr "Doelaudio-uitgang dempen"
+
+msgid "Target audio output is currently muted."
+msgstr "De doelaudio-uitvoer is momenteel gedempt."
+

@@ -1644,3 +1644,15 @@ msgstr "Detta sökord har upphört att gälla."
 msgid "1 minute"
 msgstr "1 minut"
 
+msgid "Unmute Target Audio Output"
+msgstr "Avaktivera målets ljudutgång"
+
+msgid "Mute Target Audio Output"
+msgstr "Mute Target Audio Output"
+
+msgid "Mute target audio output"
+msgstr "Stäng av målets ljudutgång"
+
+msgid "Target audio output is currently muted."
+msgstr "Målets ljudutgång är för närvarande avstängd."
+

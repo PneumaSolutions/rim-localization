@@ -1714,3 +1714,15 @@ msgstr "Ce mot-clé a expiré."
 msgid "1 minute"
 msgstr "1 minute"
 
+msgid "Unmute Target Audio Output"
+msgstr "Rétablissement du son de la sortie audio cible"
+
+msgid "Mute Target Audio Output"
+msgstr "Coupure de la sortie audio cible"
+
+msgid "Mute target audio output"
+msgstr "Coupure de la sortie audio de la cible"
+
+msgid "Target audio output is currently muted."
+msgstr "La sortie audio cible est actuellement désactivée."
+

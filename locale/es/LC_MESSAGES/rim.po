@@ -1668,3 +1668,15 @@ msgstr "Esta palabra clave ha caducado."
 msgid "1 minute"
 msgstr "1 minuto"
 
+msgid "Unmute Target Audio Output"
+msgstr "Desactivar la salida de audio de destino"
+
+msgid "Mute Target Audio Output"
+msgstr "Silenciar la salida de audio de destino"
+
+msgid "Mute target audio output"
+msgstr "Silenciar la salida de audio de destino"
+
+msgid "Target audio output is currently muted."
+msgstr "La salida de audio de destino está silenciada."
+

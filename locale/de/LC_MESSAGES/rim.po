@@ -1703,3 +1703,15 @@ msgstr "Dieses Schlüsselwort ist abgelaufen."
 msgid "1 minute"
 msgstr "1 Minute"
 
+msgid "Unmute Target Audio Output"
+msgstr "Stummschaltung des Ziel-Audioausgangs aufheben"
+
+msgid "Mute Target Audio Output"
+msgstr "Ziel-Audioausgang stummschalten"
+
+msgid "Mute target audio output"
+msgstr "Stummschaltung der Ziel-Audioausgabe"
+
+msgid "Target audio output is currently muted."
+msgstr "Der Ziel-Audioausgang ist derzeit stummgeschaltet."
+
