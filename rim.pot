@@ -405,6 +405,9 @@ msgstr ""
 msgid "No update is currently available."
 msgstr ""
 
+msgid "The new server profile named \"%{name}\" is now installed and activated."
+msgstr ""
+
 msgid "About Remote Incident Manager..."
 msgstr ""
 
@@ -418,6 +421,9 @@ msgid "Window"
 msgstr ""
 
 msgid "RIM Manual"
+msgstr ""
+
+msgid "This computer is now ready for remote access."
 msgstr ""
 
 msgid "Version"
@@ -997,6 +1003,12 @@ msgstr ""
 msgid "Sending logs..."
 msgstr ""
 
+msgid "Server"
+msgstr ""
+
+msgid "Switch server"
+msgstr ""
+
 msgid "Remote Session"
 msgstr ""
 
@@ -1248,6 +1260,9 @@ msgid "Preparing to install update..."
 msgstr ""
 
 msgid "Preparing to download update..."
+msgstr ""
+
+msgid "Public"
 msgstr ""
 
 msgid "%{count} days"
