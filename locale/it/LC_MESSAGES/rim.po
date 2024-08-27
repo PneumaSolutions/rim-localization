@@ -1693,3 +1693,20 @@ msgstr "Disattivare l'uscita audio di destinazione"
 msgid "Target audio output is currently muted."
 msgstr "L'uscita audio di destinazione è attualmente disattivata."
 
+msgid "The new server profile named \"%{name}\" is now installed and activated."
+msgstr ""
+"Il nuovo profilo del server denominato \" %{name}\" è ora installato e "
+"attivato."
+
+msgid "This computer is now ready for remote access."
+msgstr "Il computer è ora pronto per l'accesso remoto."
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Switch server"
+msgstr "Server di commutazione"
+
+msgid "Public"
+msgstr "Pubblico"
+

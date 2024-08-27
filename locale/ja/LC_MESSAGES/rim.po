@@ -1405,3 +1405,18 @@ msgstr "ターゲット音声出力のミュート"
 msgid "Target audio output is currently muted."
 msgstr "対象のオーディオ出力は現在ミュートされています。"
 
+msgid "The new server profile named \"%{name}\" is now installed and activated."
+msgstr "新しいサーバープロファイル \" %{name}\" がインストールされ、有効化されました。"
+
+msgid "This computer is now ready for remote access."
+msgstr "これでこのコンピューターはリモートアクセスの準備が整いました。"
+
+msgid "Server"
+msgstr "サーバー"
+
+msgid "Switch server"
+msgstr "スイッチサーバー"
+
+msgid "Public"
+msgstr "パブリック"
+

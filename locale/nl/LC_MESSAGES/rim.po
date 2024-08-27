@@ -1677,3 +1677,20 @@ msgstr "Doelaudio-uitgang dempen"
 msgid "Target audio output is currently muted."
 msgstr "De doelaudio-uitvoer is momenteel gedempt."
 
+msgid "The new server profile named \"%{name}\" is now installed and activated."
+msgstr ""
+"Het nieuwe serverprofiel met de naam \" %{name}\" is nu geïnstalleerd en "
+"geactiveerd."
+
+msgid "This computer is now ready for remote access."
+msgstr "Deze computer is nu klaar voor toegang op afstand."
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Switch server"
+msgstr "Server schakelen"
+
+msgid "Public"
+msgstr "Openbaar"
+

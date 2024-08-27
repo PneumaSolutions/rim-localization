@@ -1681,3 +1681,20 @@ msgstr "Silenciar a saída de áudio de destino"
 msgid "Target audio output is currently muted."
 msgstr "A saída de áudio alvo está silenciada no momento."
 
+msgid "The new server profile named \"%{name}\" is now installed and activated."
+msgstr ""
+"O novo perfil de servidor chamado \" %{name}\" está agora instalado e "
+"ativado."
+
+msgid "This computer is now ready for remote access."
+msgstr "Esse computador agora está pronto para o acesso remoto."
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "Switch server"
+msgstr "Servidor de comutação"
+
+msgid "Public"
+msgstr "Público"
+

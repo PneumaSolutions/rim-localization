@@ -1715,3 +1715,20 @@ msgstr "Stummschaltung der Ziel-Audioausgabe"
 msgid "Target audio output is currently muted."
 msgstr "Der Ziel-Audioausgang ist derzeit stummgeschaltet."
 
+msgid "The new server profile named \"%{name}\" is now installed and activated."
+msgstr ""
+"Das neue Serverprofil mit dem Namen \" %{name}\" ist nun installiert und "
+"aktiviert."
+
+msgid "This computer is now ready for remote access."
+msgstr "Dieser Computer ist nun für den Fernzugriff bereit."
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Switch server"
+msgstr "Server wechseln"
+
+msgid "Public"
+msgstr "Öffentlich"
+
