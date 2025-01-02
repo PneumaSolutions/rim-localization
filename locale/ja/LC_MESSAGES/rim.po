@@ -1504,3 +1504,18 @@ msgstr ""
 "ンとして使用するには許可が必要です。これから表示されるプロンプトは、不愉快に見えるかもしれません。これは、プラットフォーム上で実行されているリモートデスクトップアプリケーションに対して表示される、アップル社によって書かれた純正のプロンプトです。このプロンプトの警告に反して、あなたのコンピュータをリモートで操作できるのは、あなたが明示的な許可を与えた個人または組織のみであり、無人セッションを除いて、この許可はセッションごとに与える必要があります。お客様のプライバシーとセキュリティは当社にとって最も重要であり、RIM"
 " は不正アクセスを防止するために弾力的なセキュリティを設けています。"
 
+msgid ""
+"Welcome to Remote Incident Manager from Pneuma Solutions! Thank you for "
+"choosing RIM for your accessible remote desktop needs."
+msgstr ""
+"Pneuma Solutions の Remote Incident Manager "
+"へようこそ！アクセス可能なリモートデスクトップのニーズにRIMをお選びいただきありがとうございます。"
+
+msgid ""
+"Before using this software for the first time, Apple requires us to ask "
+"for several permissions so RIM can run on your Mac. The permissions "
+"needed depend on whether you are providing or receiving help. We will "
+"provide step by step instructions once you begin the process of providing"
+" or receiving help."
+msgstr "このソフトウェアを初めて使用する前に、アップル社は、RIMがあなたのMac上で実行できるように、いくつかの許可を求めることを要求します。必要なパーミッションは、ヘルプを提供するか受けるかによって異なります。ヘルプの提供または受信のプロセスを開始したら、ステップごとに手順を説明します。"
+
