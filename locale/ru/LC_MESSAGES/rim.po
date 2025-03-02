@@ -201,7 +201,7 @@ msgid "Stop NVDA on Target"
 msgstr "Отключить NVDA на компьютере конечного пользователя"
 
 msgid "Stop System Access on Target"
-msgstr ""
+msgstr "Остановить доступ к системе на целевом компьютере"
 
 msgid "Stop VoiceOver on Target"
 msgstr "Отключить VoiceOver на компьютере конечного пользователя"
