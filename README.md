@@ -6,7 +6,7 @@ This repository is the hub for the localization of [Remote Incident Manager](htt
 
 RIM uses gettext-format message files, specifically, a `.pot` file for the source template and a `.po` file for each target language. The `locale` directory of this repository uses the usual structure for a gettext `locale` directory; the message file for each language is called `rim.po`. We recommend that translators use [poedit](https://poedit.net/) to edit the `.po` files.
 
-RIM is initially being translated to the following languages: French, German, Italian, Spanish, and Swedish. We have seeded the repository with machine translations for these languages. We understand that machine translations aren't ideal, but we believe they're useful as a starting point.
+RIM is initially being translated to the following languages: French, German, Italian, Spanish, Russian and Swedish. We have seeded the repository with machine translations for these languages. We understand that machine translations aren't ideal, but we believe they're useful as a starting point.
 ### A Note about Variables
 Some messages include variables, also known as parameters. These are indicated using the following syntax:
 
