@@ -46,6 +46,12 @@ msgid ""
 "will automatically start remote accessibility."
 msgstr ""
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr ""
+
+msgid "Session recording error: %{error}"
+msgstr ""
+
 msgid "The remote session has been reconnected."
 msgstr ""
 
@@ -108,6 +114,9 @@ msgid ""
 "logged into your RIM account."
 msgstr ""
 
+msgid "Session recording is not available for this session."
+msgstr ""
+
 msgid "&Transfer Files from Target"
 msgstr ""
 
@@ -127,6 +136,18 @@ msgid "Stop &Voice Conversation"
 msgstr ""
 
 msgid "Start &Voice Conversation"
+msgstr ""
+
+msgid "Start Session Recording"
+msgstr ""
+
+msgid "Pause Session Recording"
+msgstr ""
+
+msgid "Stop Session Recording"
+msgstr ""
+
+msgid "Resume Session Recording"
 msgstr ""
 
 msgid "Update RIM on Target"
@@ -238,6 +259,18 @@ msgstr ""
 msgid ""
 "The file on this machine's clipboard is ready to transfer to the target. "
 "You can start the transfer from the RIM menu."
+msgstr ""
+
+msgid "The remote user has started recording this session."
+msgstr ""
+
+msgid "The remote user has paused the session recording."
+msgstr ""
+
+msgid "The remote user has resumed the session recording."
+msgstr ""
+
+msgid "The remote user has stopped recording this session."
 msgstr ""
 
 msgid ""
@@ -1063,6 +1096,21 @@ msgid "Target audio output is currently muted."
 msgstr ""
 
 msgid "Starting remote accessibility."
+msgstr ""
+
+msgid "Saving the session recording failed."
+msgstr ""
+
+msgid "Only the person who started the session can record it."
+msgstr ""
+
+msgid "Session recording is not available in this environment."
+msgstr ""
+
+msgid "Session recording is not supported on this system."
+msgstr ""
+
+msgid "Starting the session recording failed."
 msgstr ""
 
 msgid "Comment on This Session"
