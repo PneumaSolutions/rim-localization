@@ -1843,3 +1843,53 @@ msgstr ""
 "fornendo o ricevendo assistenza. Vi forniremo istruzioni passo per passo "
 "quando inizierete il processo di fornitura o ricezione dell'assistenza."
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr ""
+"Impossibile unire le registrazioni della sessione; mantenimento dei "
+"singoli segmenti."
+
+msgid "Session recording error: %{error}"
+msgstr "Errore nella registrazione della sessione: %{error}"
+
+msgid "Session recording is not available for this session."
+msgstr "La registrazione della sessione non è disponibile per questa sessione."
+
+msgid "Start Session Recording"
+msgstr "Avvia registrazione sessione"
+
+msgid "Pause Session Recording"
+msgstr "Pausa registrazione sessione"
+
+msgid "Stop Session Recording"
+msgstr "Interrompi registrazione sessione"
+
+msgid "Resume Session Recording"
+msgstr "Riprendi registrazione sessione"
+
+msgid "The remote user has started recording this session."
+msgstr "L'utente remoto ha avviato la registrazione di questa sessione."
+
+msgid "The remote user has paused the session recording."
+msgstr "L'utente remoto ha messo in pausa la registrazione della sessione."
+
+msgid "The remote user has resumed the session recording."
+msgstr "L'utente remoto ha ripreso la registrazione della sessione."
+
+msgid "The remote user has stopped recording this session."
+msgstr "L'utente remoto ha interrotto la registrazione di questa sessione."
+
+msgid "Saving the session recording failed."
+msgstr "Salvataggio della registrazione della sessione non riuscito."
+
+msgid "Only the person who started the session can record it."
+msgstr "Solo la persona che ha avviato la sessione può registrarla."
+
+msgid "Session recording is not available in this environment."
+msgstr "La registrazione della sessione non è disponibile in questo ambiente."
+
+msgid "Session recording is not supported on this system."
+msgstr "La registrazione delle sessioni non è supportata su questo sistema."
+
+msgid "Starting the session recording failed."
+msgstr "Impossibile avviare la registrazione della sessione."
+

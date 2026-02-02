@@ -1832,3 +1832,53 @@ msgstr ""
 "ayuda. Le proporcionaremos instrucciones paso a paso una vez que comience"
 " el proceso de proporcionar o recibir ayuda."
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr ""
+"No se han podido fusionar las grabaciones de la sesión; se conservan los "
+"segmentos individuales."
+
+msgid "Session recording error: %{error}"
+msgstr "Error en la grabación de la sesión: %{error}"
+
+msgid "Session recording is not available for this session."
+msgstr "La grabación de la sesión no está disponible para esta sesión."
+
+msgid "Start Session Recording"
+msgstr "Iniciar grabación de sesión"
+
+msgid "Pause Session Recording"
+msgstr "Pausar grabación de sesión"
+
+msgid "Stop Session Recording"
+msgstr "Detener la grabación de la sesión"
+
+msgid "Resume Session Recording"
+msgstr "Reanudar grabación de sesión"
+
+msgid "The remote user has started recording this session."
+msgstr "El usuario remoto ha comenzado a grabar esta sesión."
+
+msgid "The remote user has paused the session recording."
+msgstr "El usuario remoto ha pausado la grabación de la sesión."
+
+msgid "The remote user has resumed the session recording."
+msgstr "El usuario remoto ha reanudado la grabación de la sesión."
+
+msgid "The remote user has stopped recording this session."
+msgstr "El usuario remoto ha dejado de grabar esta sesión."
+
+msgid "Saving the session recording failed."
+msgstr "No se pudo guardar la grabación de la sesión."
+
+msgid "Only the person who started the session can record it."
+msgstr "Solo la persona que inició la sesión puede grabarla."
+
+msgid "Session recording is not available in this environment."
+msgstr "La grabación de sesiones no está disponible en este entorno."
+
+msgid "Session recording is not supported on this system."
+msgstr "La grabación de sesiones no es compatible con este sistema."
+
+msgid "Starting the session recording failed."
+msgstr "No se pudo iniciar la grabación de la sesión."
+

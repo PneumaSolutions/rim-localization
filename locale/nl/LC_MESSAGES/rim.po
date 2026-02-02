@@ -1825,3 +1825,53 @@ msgstr ""
 "zullen je stap voor stap instructies geven zodra je begint met het proces"
 " van hulp verlenen of hulp ontvangen."
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr ""
+"Het samenvoegen van sessie-opnames is mislukt; de afzonderlijke segmenten"
+" blijven behouden."
+
+msgid "Session recording error: %{error}"
+msgstr "Fout bij het opnemen van de sessie: %{error}"
+
+msgid "Session recording is not available for this session."
+msgstr "Opname van deze sessie is niet beschikbaar."
+
+msgid "Start Session Recording"
+msgstr "Sessie-opname starten"
+
+msgid "Pause Session Recording"
+msgstr "Opname van sessie pauzeren"
+
+msgid "Stop Session Recording"
+msgstr "Stop sessie-opname"
+
+msgid "Resume Session Recording"
+msgstr "Sessie-opname hervatten"
+
+msgid "The remote user has started recording this session."
+msgstr "De externe gebruiker is begonnen met het opnemen van deze sessie."
+
+msgid "The remote user has paused the session recording."
+msgstr "De externe gebruiker heeft de opname van de sessie gepauzeerd."
+
+msgid "The remote user has resumed the session recording."
+msgstr "De externe gebruiker heeft de sessie-opname hervat."
+
+msgid "The remote user has stopped recording this session."
+msgstr "De externe gebruiker heeft de opname van deze sessie gestopt."
+
+msgid "Saving the session recording failed."
+msgstr "Het opslaan van de sessie-opname is mislukt."
+
+msgid "Only the person who started the session can record it."
+msgstr "Alleen de persoon die de sessie heeft gestart, kan deze opnemen."
+
+msgid "Session recording is not available in this environment."
+msgstr "Sessie-opname is niet beschikbaar in deze omgeving."
+
+msgid "Session recording is not supported on this system."
+msgstr "Sessie-opname wordt niet ondersteund op dit systeem."
+
+msgid "Starting the session recording failed."
+msgstr "Het starten van de sessie-opname is mislukt."
+

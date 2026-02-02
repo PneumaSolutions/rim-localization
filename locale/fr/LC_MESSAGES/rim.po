@@ -1881,3 +1881,53 @@ msgstr ""
 "une fois que vous aurez entamé le processus de fourniture ou de réception"
 " d'aide."
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr ""
+"Échec de la fusion des enregistrements de session ; conservation des "
+"segments individuels."
+
+msgid "Session recording error: %{error}"
+msgstr "Erreur d'enregistrement de session : %{error}"
+
+msgid "Session recording is not available for this session."
+msgstr "L'enregistrement de la session n'est pas disponible pour cette session."
+
+msgid "Start Session Recording"
+msgstr "Démarrer l'enregistrement de session"
+
+msgid "Pause Session Recording"
+msgstr "Suspendre l'enregistrement de la session"
+
+msgid "Stop Session Recording"
+msgstr "Arrêter l'enregistrement de la session"
+
+msgid "Resume Session Recording"
+msgstr "Reprendre l'enregistrement de la session"
+
+msgid "The remote user has started recording this session."
+msgstr "L'utilisateur distant a commencé à enregistrer cette session."
+
+msgid "The remote user has paused the session recording."
+msgstr "L'utilisateur distant a mis en pause l'enregistrement de la session."
+
+msgid "The remote user has resumed the session recording."
+msgstr "L'utilisateur distant a repris l'enregistrement de la session."
+
+msgid "The remote user has stopped recording this session."
+msgstr "L'utilisateur distant a arrêté l'enregistrement de cette session."
+
+msgid "Saving the session recording failed."
+msgstr "Échec de l'enregistrement de la session."
+
+msgid "Only the person who started the session can record it."
+msgstr "Seule la personne qui a démarré la session peut l'enregistrer."
+
+msgid "Session recording is not available in this environment."
+msgstr "L'enregistrement de session n'est pas disponible dans cet environnement."
+
+msgid "Session recording is not supported on this system."
+msgstr "L'enregistrement des sessions n'est pas pris en charge sur ce système."
+
+msgid "Starting the session recording failed."
+msgstr "Échec du démarrage de l'enregistrement de la session."
+

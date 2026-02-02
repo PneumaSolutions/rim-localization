@@ -1519,3 +1519,51 @@ msgid ""
 " or receiving help."
 msgstr "このソフトウェアを初めて使用する前に、アップル社は、RIMがあなたのMac上で実行できるように、いくつかの許可を求めることを要求します。必要なパーミッションは、ヘルプを提供するか受けるかによって異なります。ヘルプの提供または受信のプロセスを開始したら、ステップごとに手順を説明します。"
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr "セッション記録の統合に失敗しました。個々のセグメントを保持します。"
+
+msgid "Session recording error: %{error}"
+msgstr "セッション記録エラー: %{error}"
+
+msgid "Session recording is not available for this session."
+msgstr "このセッションの録画はご利用いただけません。"
+
+msgid "Start Session Recording"
+msgstr "セッションの記録を開始"
+
+msgid "Pause Session Recording"
+msgstr "セッションの録画を一時停止"
+
+msgid "Stop Session Recording"
+msgstr "セッションの記録を停止する"
+
+msgid "Resume Session Recording"
+msgstr "セッションの録画を再開する"
+
+msgid "The remote user has started recording this session."
+msgstr "リモートユーザーがこのセッションの録画を開始しました。"
+
+msgid "The remote user has paused the session recording."
+msgstr "リモートユーザーがセッションの録画を一時停止しました。"
+
+msgid "The remote user has resumed the session recording."
+msgstr "リモートユーザーがセッションの記録を再開しました。"
+
+msgid "The remote user has stopped recording this session."
+msgstr "リモートユーザーがこのセッションの記録を停止しました。"
+
+msgid "Saving the session recording failed."
+msgstr "セッションの録画を保存できませんでした。"
+
+msgid "Only the person who started the session can record it."
+msgstr "セッションを開始した人だけがそれを記録できます。"
+
+msgid "Session recording is not available in this environment."
+msgstr "この環境ではセッションの記録は利用できません。"
+
+msgid "Session recording is not supported on this system."
+msgstr "このシステムではセッションの記録はサポートされていません。"
+
+msgid "Starting the session recording failed."
+msgstr "セッションの記録を開始できませんでした。"
+

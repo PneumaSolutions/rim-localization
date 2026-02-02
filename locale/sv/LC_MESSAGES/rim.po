@@ -1801,3 +1801,53 @@ msgstr ""
 "kommer att tillhandahålla stegvisa instruktioner när du påbörjar "
 "processen med att ge eller ta emot hjälp."
 
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr ""
+"Sammanfogning av sessionsinspelningar misslyckades; behåller de enskilda "
+"segmenten."
+
+msgid "Session recording error: %{error}"
+msgstr "Fel vid inspelning av session: %{error}"
+
+msgid "Session recording is not available for this session."
+msgstr "Sessionsinspelning är inte tillgänglig för denna session."
+
+msgid "Start Session Recording"
+msgstr "Starta sessionsinspelning"
+
+msgid "Pause Session Recording"
+msgstr "Pausa sessionsinspelning"
+
+msgid "Stop Session Recording"
+msgstr "Avsluta sessionsinspelning"
+
+msgid "Resume Session Recording"
+msgstr "Återuppta sessionsinspelning"
+
+msgid "The remote user has started recording this session."
+msgstr "Den fjärranslutna användaren har börjat spela in denna session."
+
+msgid "The remote user has paused the session recording."
+msgstr "Den fjärranslutna användaren har pausat inspelningen av sessionen."
+
+msgid "The remote user has resumed the session recording."
+msgstr "Den fjärranvändaren har återupptagit inspelningen av sessionen."
+
+msgid "The remote user has stopped recording this session."
+msgstr "Den fjärranvändaren har avslutat inspelningen av denna session."
+
+msgid "Saving the session recording failed."
+msgstr "Det gick inte att spara sessionens inspelning."
+
+msgid "Only the person who started the session can record it."
+msgstr "Endast den person som startade sessionen kan spela in den."
+
+msgid "Session recording is not available in this environment."
+msgstr "Sessionsinspelning är inte tillgängligt i denna miljö."
+
+msgid "Session recording is not supported on this system."
+msgstr "Sessionsinspelning stöds inte på detta system."
+
+msgid "Starting the session recording failed."
+msgstr "Det gick inte att starta inspelningen av sessionen."
+
