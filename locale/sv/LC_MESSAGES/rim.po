@@ -1851,3 +1851,37 @@ msgstr "Sessionsinspelning stöds inte på detta system."
 msgid "Starting the session recording failed."
 msgstr "Det gick inte att starta inspelningen av sessionen."
 
+msgid "Your config.toml has a syntax error. Using default recording settings."
+msgstr ""
+"Din config.toml har ett syntaxfel. Använder standardinställningar för "
+"inspelning."
+
+msgid "Are you sure you want to stop the session recording?"
+msgstr "Är du säker på att du vill avbryta inspelningen av sessionen?"
+
+msgid "Stop Recording"
+msgstr "Avsluta inspelning"
+
+msgid ""
+"Notice: This Remote Incident Manager (RIM) support session will be "
+"recorded by the controller for training, quality assurance, "
+"documentation, and/or security purposes. By continuing with this session,"
+" you acknowledge and consent to the recording of on-screen activity, "
+"audio, and related session data for these purposes. If you do not "
+"consent, please select \"Cancel\" to end the session now."
+msgstr ""
+"Observera: Denna supportsession med Remote Incident Manager (RIM) kommer "
+"att spelas in av kontrollanten för utbildnings-, kvalitetssäkrings-, "
+"dokumentations- och/eller säkerhetsändamål. Genom att fortsätta med denna"
+" session bekräftar och samtycker du till inspelning av skärmaktivitet, "
+"ljud och relaterade sessionsdata för dessa ändamål. Om du inte samtycker,"
+" välj \"Avbryt\" för att avsluta sessionen nu."
+
+msgid "Agree"
+msgstr "Håller med"
+
+msgid "Because you didn't agree to record the session, this session has ended."
+msgstr ""
+"Eftersom du inte godkände inspelningen av sessionen har denna session "
+"avslutats."
+

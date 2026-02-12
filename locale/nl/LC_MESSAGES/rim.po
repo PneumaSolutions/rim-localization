@@ -1875,3 +1875,38 @@ msgstr "Sessie-opname wordt niet ondersteund op dit systeem."
 msgid "Starting the session recording failed."
 msgstr "Het starten van de sessie-opname is mislukt."
 
+msgid "Your config.toml has a syntax error. Using default recording settings."
+msgstr ""
+"Je config.toml bevat een syntaxisfout. Standaardinstellingen voor opname "
+"worden gebruikt."
+
+msgid "Are you sure you want to stop the session recording?"
+msgstr "Weet u zeker dat u de sessie-opname wilt stoppen?"
+
+msgid "Stop Recording"
+msgstr "Stop met opnemen"
+
+msgid ""
+"Notice: This Remote Incident Manager (RIM) support session will be "
+"recorded by the controller for training, quality assurance, "
+"documentation, and/or security purposes. By continuing with this session,"
+" you acknowledge and consent to the recording of on-screen activity, "
+"audio, and related session data for these purposes. If you do not "
+"consent, please select \"Cancel\" to end the session now."
+msgstr ""
+"Opmerking: Deze Remote Incident Manager (RIM)-ondersteuningssessie wordt "
+"door de controller opgenomen voor trainings-, kwaliteitsborgings-, "
+"documentatie- en/of beveiligingsdoeleinden. Door deze sessie voort te "
+"zetten, erkent u en stemt u in met de opname van schermactiviteiten, "
+"audio en gerelateerde sessiegegevens voor deze doeleinden. Als u hiermee "
+"niet akkoord gaat, selecteert u 'Annuleren' om de sessie nu te "
+"beëindigen."
+
+msgid "Agree"
+msgstr "Akkoord"
+
+msgid "Because you didn't agree to record the session, this session has ended."
+msgstr ""
+"Omdat u niet akkoord bent gegaan met het opnemen van de sessie, is deze "
+"sessie beëindigd."
+

@@ -1924,3 +1924,38 @@ msgstr "Die Aufzeichnung von Sitzungen wird auf diesem System nicht unterstützt
 msgid "Starting the session recording failed."
 msgstr "Das Starten der Sitzungsaufzeichnung ist fehlgeschlagen."
 
+msgid "Your config.toml has a syntax error. Using default recording settings."
+msgstr ""
+"Ihre config.toml enthält einen Syntaxfehler. Es werden die Standard-"
+"Aufzeichnungseinstellungen verwendet."
+
+msgid "Are you sure you want to stop the session recording?"
+msgstr "Sind Sie sicher, dass Sie die Aufzeichnung der Sitzung beenden möchten?"
+
+msgid "Stop Recording"
+msgstr "Aufnahme beenden"
+
+msgid ""
+"Notice: This Remote Incident Manager (RIM) support session will be "
+"recorded by the controller for training, quality assurance, "
+"documentation, and/or security purposes. By continuing with this session,"
+" you acknowledge and consent to the recording of on-screen activity, "
+"audio, and related session data for these purposes. If you do not "
+"consent, please select \"Cancel\" to end the session now."
+msgstr ""
+"Hinweis: Diese Remote Incident Manager (RIM)-Supportsitzung wird vom "
+"Controller zu Schulungs-, Qualitätssicherungs-, Dokumentations- und/oder "
+"Sicherheitszwecken aufgezeichnet. Wenn Sie diese Sitzung fortsetzen, "
+"erklären Sie sich mit der Aufzeichnung der Bildschirmaktivitäten, "
+"Audioaufnahmen und zugehörigen Sitzungsdaten zu diesen Zwecken "
+"einverstanden. Wenn Sie damit nicht einverstanden sind, wählen Sie bitte "
+"„Abbrechen“, um die Sitzung jetzt zu beenden."
+
+msgid "Agree"
+msgstr "Zustimmen"
+
+msgid "Because you didn't agree to record the session, this session has ended."
+msgstr ""
+"Da Sie der Aufzeichnung der Sitzung nicht zugestimmt haben, wurde diese "
+"Sitzung beendet."
+

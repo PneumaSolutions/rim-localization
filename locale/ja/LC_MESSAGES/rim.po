@@ -1567,3 +1567,27 @@ msgstr "このシステムではセッションの記録はサポートされて
 msgid "Starting the session recording failed."
 msgstr "セッションの記録を開始できませんでした。"
 
+msgid "Your config.toml has a syntax error. Using default recording settings."
+msgstr "config.toml に構文エラーがあります。デフォルトの録画設定を使用します。"
+
+msgid "Are you sure you want to stop the session recording?"
+msgstr "セッションの記録を停止してもよろしいですか？"
+
+msgid "Stop Recording"
+msgstr "録画を停止"
+
+msgid ""
+"Notice: This Remote Incident Manager (RIM) support session will be "
+"recorded by the controller for training, quality assurance, "
+"documentation, and/or security purposes. By continuing with this session,"
+" you acknowledge and consent to the recording of on-screen activity, "
+"audio, and related session data for these purposes. If you do not "
+"consent, please select \"Cancel\" to end the session now."
+msgstr "お知らせ：本リモートインシデントマネージャー（RIM）サポートセッションは、トレーニング、品質保証、文書化、および／またはセキュリティ目的のため、コントローラーによって記録されます。本セッションを継続することにより、これらの目的のため画面上の操作、音声、および関連するセッションデータの記録について、お客様は認識し同意したものとみなされます。同意されない場合は、「キャンセル」を選択して今すぐセッションを終了してください。"
+
+msgid "Agree"
+msgstr "同意する"
+
+msgid "Because you didn't agree to record the session, this session has ended."
+msgstr "セッションの録音に同意されなかったため、このセッションは終了しました。"
+
