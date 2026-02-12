@@ -117,6 +117,18 @@ msgstr ""
 msgid "Session recording is not available for this session."
 msgstr ""
 
+msgid "Your config.toml has a syntax error. Using default recording settings."
+msgstr ""
+
+msgid "Are you sure you want to stop the session recording?"
+msgstr ""
+
+msgid "Stop Recording"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
 msgid "&Transfer Files from Target"
 msgstr ""
 
@@ -211,9 +223,6 @@ msgstr ""
 msgid "Emergency Reboot"
 msgstr ""
 
-msgid "Cancel"
-msgstr ""
-
 msgid "Send Control+Alt+Delete"
 msgstr ""
 
@@ -226,12 +235,6 @@ msgstr ""
 msgid "&Disconnect Session"
 msgstr ""
 
-msgid "Remote Incident Manager %{version}: flipped session"
-msgstr ""
-
-msgid "Remote Incident Manager %{version}: a connection to your computer is active"
-msgstr ""
-
 msgid "You have ended the remote session."
 msgstr ""
 
@@ -239,6 +242,12 @@ msgid "&Disconnect Remote Control Session"
 msgstr ""
 
 msgid "&About"
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: flipped session"
+msgstr ""
+
+msgid "Remote Incident Manager %{version}: a connection to your computer is active"
 msgstr ""
 
 msgid ""
@@ -259,6 +268,21 @@ msgstr ""
 msgid ""
 "The file on this machine's clipboard is ready to transfer to the target. "
 "You can start the transfer from the RIM menu."
+msgstr ""
+
+msgid ""
+"Notice: This Remote Incident Manager (RIM) support session will be recorded "
+"by the controller for training, quality assurance, documentation, and/or "
+"security purposes. By continuing with this session, you acknowledge and "
+"consent to the recording of on-screen activity, audio, and related session "
+"data for these purposes. If you do not consent, please select \"Cancel\" to "
+"end the session now."
+msgstr ""
+
+msgid "Agree"
+msgstr ""
+
+msgid "Because you didn't agree to record the session, this session has ended."
 msgstr ""
 
 msgid "The remote user has started recording this session."
