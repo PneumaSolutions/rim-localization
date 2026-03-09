@@ -129,6 +129,21 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Controller"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Session Chat"
+msgstr ""
+
+msgid "%{sender}: %{message}"
+msgstr ""
+
+msgid "Open &Chat"
+msgstr ""
+
 msgid "&Transfer Files from Target"
 msgstr ""
 
@@ -1137,6 +1152,24 @@ msgstr ""
 msgid "Starting the session recording failed."
 msgstr ""
 
+msgid "just now"
+msgstr ""
+
+msgid "Message copied to clipboard"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Type a message"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "%{sender} is typing..."
+msgstr ""
+
 msgid "Comment on This Session"
 msgstr ""
 
@@ -1197,12 +1230,6 @@ msgid "Remote address"
 msgstr ""
 
 msgid "Remote transport type"
-msgstr ""
-
-msgid "Controller"
-msgstr ""
-
-msgid "Target"
 msgstr ""
 
 msgid "Send Logs on Target"
