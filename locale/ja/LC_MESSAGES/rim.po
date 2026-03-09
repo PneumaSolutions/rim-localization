@@ -1591,3 +1591,30 @@ msgstr "同意する"
 msgid "Because you didn't agree to record the session, this session has ended."
 msgstr "セッションの録音に同意されなかったため、このセッションは終了しました。"
 
+msgid "Session Chat"
+msgstr "セッションチャット"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "オープン＆チャット"
+
+msgid "just now"
+msgstr "ついさっき"
+
+msgid "Message copied to clipboard"
+msgstr "メッセージがクリップボードにコピーされました"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Type a message"
+msgstr "メッセージを入力してください"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} 入力中..."
+

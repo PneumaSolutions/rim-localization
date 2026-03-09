@@ -1966,3 +1966,30 @@ msgstr ""
 "Comme vous n'avez pas accepté d'enregistrer la session, celle-ci est "
 "terminée."
 
+msgid "Session Chat"
+msgstr "Chat de session"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Ouvrir &Chat"
+
+msgid "just now"
+msgstr "à l'instant"
+
+msgid "Message copied to clipboard"
+msgstr "Message copié dans le presse-papiers"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Type a message"
+msgstr "Type a message"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} est en train de taper..."
+

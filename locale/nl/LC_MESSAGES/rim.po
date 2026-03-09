@@ -1910,3 +1910,30 @@ msgstr ""
 "Omdat u niet akkoord bent gegaan met het opnemen van de sessie, is deze "
 "sessie beëindigd."
 
+msgid "Session Chat"
+msgstr "Sessiechat"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Open &Chat"
+
+msgid "just now"
+msgstr "net nu"
+
+msgid "Message copied to clipboard"
+msgstr "Bericht gekopieerd naar klembord"
+
+msgid "Copy"
+msgstr "Kopieer"
+
+msgid "Type a message"
+msgstr "Type een bericht"
+
+msgid "Send"
+msgstr "Verzenden"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} is aan het typen..."
+

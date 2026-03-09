@@ -1927,3 +1927,30 @@ msgstr ""
 "Poiché non hai acconsentito alla registrazione della sessione, questa "
 "sessione è terminata."
 
+msgid "Session Chat"
+msgstr "Chat della sessione"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Apri &Chat"
+
+msgid "just now"
+msgstr "proprio ora"
+
+msgid "Message copied to clipboard"
+msgstr "Messaggio copiato negli appunti"
+
+msgid "Copy"
+msgstr "Copia"
+
+msgid "Type a message"
+msgstr "Scrivi un messaggio"
+
+msgid "Send"
+msgstr "Invia"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} sta scrivendo..."
+

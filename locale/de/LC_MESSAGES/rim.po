@@ -1959,3 +1959,30 @@ msgstr ""
 "Da Sie der Aufzeichnung der Sitzung nicht zugestimmt haben, wurde diese "
 "Sitzung beendet."
 
+msgid "Session Chat"
+msgstr "Sitzungs-Chat"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Öffnen & Chatten"
+
+msgid "just now"
+msgstr "gerade eben"
+
+msgid "Message copied to clipboard"
+msgstr "Nachricht in die Zwischenablage kopiert"
+
+msgid "Copy"
+msgstr "Kopie"
+
+msgid "Type a message"
+msgstr "Typ a Nachricht"
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} tippt gerade..."
+

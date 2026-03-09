@@ -1885,3 +1885,30 @@ msgstr ""
 "Eftersom du inte godkände inspelningen av sessionen har denna session "
 "avslutats."
 
+msgid "Session Chat"
+msgstr "Sessionschatt"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Öppna &Chat"
+
+msgid "just now"
+msgstr "just nu"
+
+msgid "Message copied to clipboard"
+msgstr "Meddelandet kopierat till urklipp"
+
+msgid "Copy"
+msgstr "Kopiera"
+
+msgid "Type a message"
+msgstr "Skriv ett meddelande"
+
+msgid "Send"
+msgstr "Skicka"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} skriver..."
+

@@ -1910,3 +1910,30 @@ msgstr "Concordo"
 msgid "Because you didn't agree to record the session, this session has ended."
 msgstr "Como você não concordou em gravar a sessão, ela foi encerrada."
 
+msgid "Session Chat"
+msgstr "Bate-papo da sessão"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Abrir &Chat"
+
+msgid "just now"
+msgstr "agora mesmo"
+
+msgid "Message copied to clipboard"
+msgstr "Mensagem copiada para a área de transferência"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Type a message"
+msgstr "Digite uma mensagem"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} está digitando..."
+
