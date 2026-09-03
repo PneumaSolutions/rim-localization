@@ -1,0 +1,1122 @@
+# RIM for iOS strings, translated into it.
+# Untranslated entries fall back to English one string at a time.
+msgid ""
+msgstr ""
+"Project-Id-Version: RIM for iOS\n"
+"POT-Creation-Date: 2026-09-02 19:10\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "  Process ID\tExecutable path"
+msgstr ""
+
+msgid "%1$u files received. Find them in the Files app under %2$@."
+msgstr ""
+
+msgid "%lld percent"
+msgstr ""
+
+msgid "%u files sent to the target."
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:366
+msgid "A session is already in progress. End it before starting another one."
+msgstr ""
+
+#: Sources/RIM/API/APIModels.swift:18
+#: Sources/RIM/API/APIModels.swift:45
+#: Sources/RIM/AppCoordinator.swift:467
+msgid "AI Tools"
+msgstr ""
+
+#: Sources/RIM/Views/RIMWelcomeView.swift:58
+msgid "Accessibility Anywhere"
+msgstr ""
+
+#: Sources/RIM/Auth/TokenStore.swift:102
+#: Sources/RIM/Auth/TokenStore.swift:117
+#: Sources/RIM/Auth/TokenStore.swift:159
+msgid "Account"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:406
+#: Sources/RIM/AppCoordinator.swift:434
+#: Sources/RIM/AppCoordinator.swift:531
+msgid "Active"
+msgstr ""
+
+msgid "Add %@"
+msgstr ""
+
+#: Sources/RIM/Views/ShortcutsView.swift:15
+msgid "Add a shortcut to bind a key combination to a button in the touch keyboard."
+msgstr ""
+
+#: Sources/RIM/Views/RotorActionsView.swift:22
+msgid "Add actions from the list below to expose them under the VoiceOver Actions rotor during a session."
+msgstr ""
+
+#: Sources/RIM/Views/ShortcutsView.swift:17
+#: Sources/RIM/Views/ShortcutsView.swift:42
+msgid "Add shortcut"
+msgstr ""
+
+msgid "App"
+msgstr ""
+
+#: Sources/RIM/Session/Session.swift:318
+#: Sources/RIM/Views/RotorActionsView.swift:44
+#: Sources/RIM/Views/RotorActionsView.swift:9
+msgid "Available"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:401
+msgid "Awaiting approval…"
+msgstr ""
+
+#: Sources/RIM/Input/CommandShortcutCapture.swift:79
+#: Sources/RIM/Input/GestureAction.swift:51
+#: Sources/RIM/Input/KeyCodes.swift:95
+msgid "Backspace"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+#: Sources/RIM/Views/ChatView.swift:132
+msgid "Chat message"
+msgstr ""
+
+#: Sources/RIM/Views/LoginView.swift:49
+msgid "Choose server, currently %1$@"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:77
+#: Sources/RIM/Input/PredefinedShortcuts.swift:98
+msgid "Close Window"
+msgstr ""
+
+#: Sources/RIM/Views/TypeTextView.swift:50
+msgid "Close send text to target"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:132
+msgid "Connect with keyword"
+msgstr ""
+
+#: Sources/RIM/Input/HardwareKeyboardCapture.swift:305
+#: Sources/RIM/Input/HardwareKeyboardCapture.swift:317
+#: Sources/RIM/Input/HardwareKeyboardCapture.swift:330
+msgid "Connected"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:400
+#: Sources/RIM/Views/SessionView.swift:690
+msgid "Connecting"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:400
+msgid "Connecting…"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:753
+msgid "Connection details copied."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:146
+msgid "Connection lost. Reconnecting…"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:75
+msgid "Context Menu"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:723
+#: Sources/RIM/Views/SessionView.swift:756
+msgid "Copy All Details"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:102
+msgid "Could not establish a connection to the target."
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:329
+#: Sources/RIM/Views/HomeView.swift:559
+msgid "Could not load machines"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:498
+#: Sources/RIM/AppCoordinator.swift:637
+#: Sources/RIM/Views/ChatbotView.swift:59
+msgid "Could not open %@"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:637
+msgid "Could not open that link."
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:498
+msgid "Could not open the RIM Dashboard. Please check your connection and try again."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:631
+msgid "Could not open the file picker. Please close the session menu and try again."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:88
+msgid "Could not reach the RIM server."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:98
+msgid "Could not reconnect to the target."
+msgstr ""
+
+#: Sources/RIM/Views/KeywordSessionView.swift:81
+msgid "Could not reserve keyword"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:90
+msgid "Could not reserve that keyword. Please try again."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:92
+msgid "Could not start the session with that machine."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1381
+msgid "Couldn't connect"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:200
+msgid "Custom Shortcut"
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:13
+#: Sources/RIM/Views/SettingsView.swift:63
+#: Sources/RIM/Views/ShortcutsView.swift:37
+msgid "Custom shortcuts"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+#: Sources/RIM/Auth/TokenStore.swift:132
+#: Sources/RIM/Auth/TokenStore.swift:145
+#: Sources/RIM/Auth/TokenStore.swift:175
+msgid "Delete"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:262
+#: Sources/RIM/AppCoordinator.swift:295
+#: Sources/RIM/Auth/TokenStore.swift:121
+msgid "Device"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:66
+#: Sources/RIM/Input/RotorAction.swift:165
+#: Sources/RIM/Views/SessionView.swift:1232
+msgid "Disconnect Session"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:154
+msgid "Disconnect session and go back"
+msgstr ""
+
+#: Sources/RIM/Settings/AppSettings.swift:14
+#: Sources/RIM/Views/ContentView.swift:147
+msgid "Don't Show this Message Again"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:340
+#: Sources/RIM/Views/HomeView.swift:570
+msgid "Double tap to connect"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:296
+msgid "Double tap to open group"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:55
+#: Sources/RIM/Input/RotorAction.swift:175
+msgid "Down Arrow"
+msgstr ""
+
+#: Sources/RIM/Views/ShortcutsView.swift:113
+msgid "Edit shortcut"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Ended"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+#: Sources/RIM/Input/AccessibilityGestures.swift:21
+#: Sources/RIM/Input/AccessibilityGestures.swift:28
+#: Sources/RIM/Input/AccessibilityGestures.swift:35
+msgid "Escape"
+msgstr ""
+
+msgid "F10"
+msgstr ""
+
+msgid "F11"
+msgstr ""
+
+msgid "F12"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:101
+#: Sources/RIM/Session/SessionNotifications.swift:115
+#: Sources/RIM/Session/SessionNotifications.swift:119
+msgid "Failed"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:67
+#: Sources/RIM/Input/PredefinedShortcuts.swift:89
+msgid "File Explorer"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:31
+msgid "File received. Find it in the Files app under %@."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:38
+msgid "File sent to the target."
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:382
+#: Sources/RIM/Views/HomeView.swift:392
+msgid "Filter by group"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:92
+msgid "Finder Search"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:51
+msgid "Five minutes of session time remaining."
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:100
+msgid "Force Quit"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1128
+msgid "Gesture Actions"
+msgstr ""
+
+#: Sources/RIM/Views/GestureSettingsView.swift:33
+msgid "Gesture actions"
+msgstr ""
+
+#: Sources/RIM/Views/KeywordSessionView.swift:76
+msgid "Have the target enter this keyword on their machine."
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:94
+msgid "Hide App"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:53
+#: Sources/RIM/Input/KeyCodes.swift:46
+#: Sources/RIM/Input/KeyCodes.swift:47
+msgid "Insert"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:734
+msgid "Installed packages (%lld)"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:952
+msgid "Installed packages:"
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:56
+msgid "Keep screen awake while connected"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+#: Sources/RIM/Views/ContentView.swift:141
+msgid "Keyboard Usage Information"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:146
+#: Sources/RIM/AppCoordinator.swift:159
+#: Sources/RIM/AppCoordinator.swift:160
+msgid "Keyword"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:40
+msgid "Keyword Session"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:108
+msgid "Keyword session"
+msgstr ""
+
+#: Sources/RIM/Views/RIMWelcomeView.swift:146
+msgid "Learn more about RIM Mobile"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:56
+#: Sources/RIM/Input/RotorAction.swift:176
+msgid "Left Arrow"
+msgstr ""
+
+msgid "Lets RIM connect directly to devices on your local network for a faster, more reliable session."
+msgstr ""
+
+msgid "Lets you talk to the person at the remote computer during a voice conversation. The microphone is used only while a voice conversation is running, and the audio isn't recorded or stored by this app."
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:286
+#: Sources/RIM/Views/HomeView.swift:326
+#: Sources/RIM/Views/HomeView.swift:556
+msgid "Loading…"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1218
+msgid "Lock the Target Machine"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+#: Sources/RIM/Diagnostics/ScreenshotMode.swift:84
+#: Sources/RIM/RTC/ChatSounds.swift:22
+#: Sources/RIM/Session/LicenseSummary.swift:103
+msgid "Message"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:159
+msgid "Microphone access is required for a voice conversation. Enable it in Settings."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:161
+msgid "Microphone disconnected."
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:68
+msgid "Minimize All"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:93
+msgid "Minimize Window"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:96
+msgid "Mission Control"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:36
+#: Sources/RIM/Input/GestureAction.swift:63
+#: Sources/RIM/Input/GestureAction.swift:90
+msgid "Modifiers"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:256
+#: Sources/RIM/Views/HomeView.swift:29
+#: Sources/RIM/Views/HomeView.swift:307
+msgid "My Machines"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:402
+msgid "Negotiating…"
+msgstr ""
+
+#: Sources/RIM/Views/ShortcutsView.swift:113
+msgid "New shortcut"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:564
+msgid "No machines in this group."
+msgstr ""
+
+#: Sources/RIM/Views/ChatView.swift:61
+msgid "No messages yet."
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:334
+msgid "No registered machines."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:424
+msgid "No screen reader running"
+msgstr ""
+
+#: Sources/RIM/Views/ShortcutsView.swift:13
+msgid "No shortcuts"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:288
+msgid "No target groups."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:124
+msgid "Not available while you're on a phone call — the call is using the microphone."
+msgstr ""
+
+#: Sources/RIM/RIMApp.swift:165
+#: Sources/RIM/Views/HomeView.swift:445
+#: Sources/RIM/Views/SessionView.swift:917
+msgid "OS version"
+msgstr ""
+
+#: Sources/RIM/Session/FileTransferStore.swift:13
+#: Sources/RIM/Session/SessionNotifications.swift:28
+msgid "On My %1$@, %2$@"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:54
+msgid "One minute of session time remaining."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1118
+#: Sources/RIM/Views/SessionView.swift:1134
+msgid "Open Chat"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:59
+#: Sources/RIM/Input/RotorAction.swift:179
+msgid "Page Down"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:58
+#: Sources/RIM/Input/RotorAction.swift:178
+msgid "Page Up"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Pitch: %.2f"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:3
+#: Sources/RIM/Input/PredefinedShortcuts.swift:33
+#: Sources/RIM/Input/PredefinedShortcuts.swift:38
+msgid "Platform"
+msgstr ""
+
+#: Sources/RIM/Views/ContentView.swift:146
+msgid "Please note: Due to platform limitations, Remote Incident Manager cannot offer uninterrupted keyboard support while VoiceOver is running. Any keyboard command that aligns with a VoiceOver keyboard command (including use of the arrow keys while Quick Nav is enabled) will not reach the remote computer. For the best experience, we recommend disabling VoiceOver while conducting the remote session."
+msgstr ""
+
+#: Sources/RIM/Views/RIMWelcomeView.swift:156
+msgid "Pneuma Solutions"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1029
+msgid "Process ID %u"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:524
+msgid "Prompts target"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:99
+msgid "Quit App"
+msgstr ""
+
+msgid "RIM"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1055
+#: Sources/RIM/Views/SessionView.swift:808
+#: Sources/RIM/Views/SessionView.swift:821
+msgid "RIM version"
+msgstr ""
+
+msgid "Rate: %.2f"
+msgstr ""
+
+#: Sources/RIM/Views/RIMWelcomeView.swift:96
+msgid "Ready when you are."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1211
+#: Sources/RIM/Views/SessionView.swift:1345
+#: Sources/RIM/Views/SessionView.swift:213
+msgid "Reboot and Reconnect"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1166
+msgid "Receive Clipboard from Target"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:146
+#: Sources/RIM/Views/SessionView.swift:307
+#: Sources/RIM/Views/SessionView.swift:404
+msgid "Reconnecting"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:146
+#: Sources/RIM/Views/SessionView.swift:404
+msgid "Reconnecting…"
+msgstr ""
+
+#: Sources/RIM/Auth/AuthSession.swift:52
+#: Sources/RIM/Diagnostics/ScreenshotMode.swift:14
+#: Sources/RIM/Input/GestureAction.swift:63
+msgid "Release"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:63
+#: Sources/RIM/Input/RotorAction.swift:164
+msgid "Release Modifiers"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:154
+msgid "Release modifiers"
+msgstr ""
+
+#: Sources/RIM/Settings/TTSService.swift:5
+#: Sources/RIM/Views/SessionView.swift:1180
+#: Sources/RIM/Views/SessionView.swift:1244
+msgid "Remote Accessibility"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:441
+#: Sources/RIM/Views/SessionView.swift:981
+msgid "Remote accessibility"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:287
+msgid "Remote desktop"
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:88
+msgid "Remove this profile"
+msgstr ""
+
+#: Sources/RIM/Views/KeywordSessionView.swift:72
+#: Sources/RIM/Views/SessionView.swift:398
+msgid "Reserving keyword…"
+msgstr ""
+
+#: Sources/RIM/Views/GestureSettingsView.swift:28
+msgid "Restore defaults"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:148
+msgid "Retrying…"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:57
+#: Sources/RIM/Input/RotorAction.swift:177
+msgid "Right Arrow"
+msgstr ""
+
+#: Sources/RIM/Views/RotorActionsView.swift:75
+msgid "Rotor Actions"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:727
+msgid "Running processes (%lld)"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:944
+msgid "Running processes:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:430
+#: Sources/RIM/Views/SessionView.swift:433
+#: Sources/RIM/Views/SessionView.swift:435
+msgid "Screen reader"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:430
+#: Sources/RIM/Views/SessionView.swift:433
+#: Sources/RIM/Views/SessionView.swift:435
+msgid "Screen reader: %1$@ %2$@"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:430
+#: Sources/RIM/Views/SessionView.swift:433
+#: Sources/RIM/Views/SessionView.swift:435
+msgid "Screen reader: %@"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:404
+msgid "Search groups"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:406
+#: Sources/RIM/Views/HomeView.swift:574
+msgid "Search machines"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:104
+#: Sources/RIM/Input/PredefinedShortcuts.swift:81
+msgid "Select All"
+msgstr ""
+
+msgid "Self"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1161
+msgid "Send Clipboard to Target"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1126
+msgid "Send Text to Target"
+msgstr ""
+
+#: Sources/RIM/Views/ChatView.swift:139
+msgid "Send message"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:516
+msgid "Send text to target closed."
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:585
+#: Sources/RIM/AppCoordinator.swift:587
+msgid "Server profile JSON couldn't be decoded: %@"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:570
+#: Sources/RIM/AppCoordinator.swift:571
+msgid "Server profile URL didn't match the expected shape."
+msgstr ""
+
+#: Sources/RIM/Views/ContentView.swift:17
+msgid "Server profile installed"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:576
+#: Sources/RIM/AppCoordinator.swift:577
+msgid "Server profile payload wasn't valid base64url."
+msgstr ""
+
+#: Sources/RIM/Auth/ServerConfig.swift:200
+#: Sources/RIM/Auth/ServerConfig.swift:212
+#: Sources/RIM/Views/LoginView.swift:39
+msgid "Server:"
+msgstr ""
+
+#: Sources/RIM/API/APIModels.swift:15
+#: Sources/RIM/AppCoordinator.swift:139
+#: Sources/RIM/AppCoordinator.swift:142
+msgid "Session"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:160
+msgid "Session menu"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:415
+msgid "Setting up the connection."
+msgstr ""
+
+#: Sources/RIM/Input/HardwareKeyboardCapture.swift:371
+#: Sources/RIM/Input/HardwareKeyboardCapture.swift:382
+#: Sources/RIM/Input/PredefinedShortcuts.swift:71
+msgid "Settings"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:4
+#: Sources/RIM/Input/GestureAction.swift:50
+#: Sources/RIM/Input/RotorAction.swift:170
+msgid "Shift+Tab"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:69
+#: Sources/RIM/Input/PredefinedShortcuts.swift:95
+msgid "Show Desktop"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1123
+msgid "Show Touch Keyboard"
+msgstr ""
+
+#: Sources/RIM/Auth/AuthSession.swift:89
+#: Sources/RIM/Views/RIMWelcomeView.swift:115
+msgid "Sign in"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:224
+#: Sources/RIM/AppCoordinator.swift:228
+#: Sources/RIM/Views/HomeView.swift:472
+msgid "Sign out"
+msgstr ""
+
+#: Sources/RIM/Auth/AuthSession.swift:221
+msgid "Sign-in did not complete."
+msgstr ""
+
+#: Sources/RIM/Views/RIMWelcomeView.swift:113
+msgid "Signing in"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:163
+msgid "Something else is using the microphone — a phone call, or another app. The rest of the session works normally."
+msgstr ""
+
+#: Sources/RIM/Views/ContentView.swift:29
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:40
+msgid "Speak Remote Accessibility output"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:91
+msgid "Spotlight"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:66
+msgid "Start Menu"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1180
+msgid "Start Remote Accessibility"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1312
+msgid "Start Voice Conversation"
+msgstr ""
+
+#: Sources/RIM/Views/ChatbotView.swift:35
+#: Sources/RIM/Views/SessionView.swift:421
+msgid "Starting %@…"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:421
+msgid "Starting remote accessibility…"
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:57
+#: Sources/RIM/Views/SettingsView.swift:58
+msgid "Sticky modifiers"
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:58
+msgid "Sticky modifiers stay pressed until you tap them again. With this off, each modifier releases automatically after the next key."
+msgstr ""
+
+msgid "Stop %@ on Target"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1251
+msgid "Stop Remote Accessibility on Target"
+msgstr ""
+
+#: Sources/RIM/RTC/CallMonitor.swift:12
+#: Sources/RIM/Views/SessionView.swift:1299
+#: Sources/RIM/Views/SessionView.swift:1322
+msgid "Stop Voice Conversation"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:76
+#: Sources/RIM/Input/PredefinedShortcuts.swift:97
+msgid "Switch App"
+msgstr ""
+
+#: Sources/RIM/Auth/ServerConfig.swift:178
+#: Sources/RIM/Input/CommandShortcutCapture.swift:133
+#: Sources/RIM/Input/CommandShortcutCapture.swift:138
+msgid "System"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:300
+msgid "Target groups"
+msgstr ""
+
+#: Sources/RIM/Views/ChatView.swift:111
+#: Sources/RIM/Views/ChatView.swift:118
+msgid "Target is typing"
+msgstr ""
+
+#: Sources/RIM/Views/ChatView.swift:111
+msgid "Target is typing…"
+msgstr ""
+
+#: Sources/RIM/Input/PredefinedShortcuts.swift:72
+msgid "Task Manager"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:342
+msgid "That link didn't say which computer to connect to."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:96
+msgid "The RIM server did not respond."
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:600
+msgid "The new server profile named “%@” is now installed and activated."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:356
+msgid "The remote screen is hidden while this device is being recorded or mirrored."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:265
+msgid "The remote screen is visible again."
+msgstr ""
+
+#: Sources/RIM/Auth/AuthSession.swift:220
+msgid "The server returned an invalid sign-in URL."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:157
+msgid "The session is not connected yet."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:21
+#: Sources/RIM/Session/SessionNotifications.swift:22
+msgid "The target has offered %u files. Use Transfer Files from Target to receive them."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:21
+msgid "The target has offered a file. Use Transfer File from Target to receive it."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:413
+msgid "The target is being prompted to grant the session."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:100
+msgid "The target machine did not come back after rebooting."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:375
+msgid "The target machine is currently rebooting. The remote session will continue when the reboot is complete."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:548
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr ""
+
+#: Sources/RIM/Views/RotorActionsView.swift:41
+msgid "These actions are reachable under VoiceOver's Actions rotor whenever you're in a session."
+msgstr ""
+
+#: Sources/RIM/Views/GestureSettingsView.swift:30
+msgid "These gestures fire only when VoiceOver is running and focus is on the touch keyboard area."
+msgstr ""
+
+#: Sources/RIM/Views/GestureSettingsView.swift:18
+msgid "Three-Finger Swipes"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:196
+msgid "Toggle Alt"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:199
+msgid "Toggle Caps Lock"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:195
+msgid "Toggle Control"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:198
+msgid "Toggle Insert"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:62
+#: Sources/RIM/Input/RotorAction.swift:160
+msgid "Toggle Mute"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:194
+msgid "Toggle Shift"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:161
+msgid "Toggle Sticky Modifiers"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:64
+#: Sources/RIM/Input/RotorAction.swift:162
+msgid "Toggle Touch Keyboard"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:65
+#: Sources/RIM/Input/RotorAction.swift:163
+msgid "Toggle Type Text"
+msgstr ""
+
+#: Sources/RIM/Input/RotorAction.swift:197
+msgid "Toggle Win"
+msgstr ""
+
+#: Sources/RIM/Views/HomeView.swift:351
+#: Sources/RIM/Views/HomeView.swift:360
+#: Sources/RIM/Views/HomeView.swift:362
+msgid "Top level targets"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:21
+#: Sources/RIM/Views/SessionView.swift:1108
+#: Sources/RIM/Views/SessionView.swift:1111
+msgid "Transfer File from Target"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:22
+#: Sources/RIM/Views/SessionView.swift:1108
+#: Sources/RIM/Views/SessionView.swift:1111
+msgid "Transfer Files from Target"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1152
+#: Sources/RIM/Views/SessionView.swift:520
+msgid "Transfer Files to Target"
+msgstr ""
+
+#: Sources/RIM/Views/FileTransferProgressView.swift:30
+msgid "Transfer progress"
+msgstr ""
+
+#: Sources/RIM/Views/FileTransferProgressView.swift:67
+#: Sources/RIM/Views/FileTransferProgressView.swift:68
+#: Sources/RIM/Views/FileTransferProgressView.swift:71
+msgid "Transferring %u files from the target machine."
+msgstr ""
+
+#: Sources/RIM/Views/FileTransferProgressView.swift:67
+#: Sources/RIM/Views/FileTransferProgressView.swift:68
+#: Sources/RIM/Views/FileTransferProgressView.swift:71
+msgid "Transferring %u files to the target machine."
+msgstr ""
+
+#: Sources/RIM/Views/FileTransferProgressView.swift:67
+msgid "Transferring 1 file from the target machine."
+msgstr ""
+
+#: Sources/RIM/Views/FileTransferProgressView.swift:71
+msgid "Transferring 1 file to the target machine."
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:1391
+msgid "Try again"
+msgstr ""
+
+#: Sources/RIM/Views/GestureSettingsView.swift:24
+msgid "Two-Finger Double-Tap"
+msgstr ""
+
+#: Sources/RIM/Views/TypeTextView.swift:24
+#: Sources/RIM/Views/TypeTextView.swift:30
+msgid "Type text to send"
+msgstr ""
+
+#: Sources/RIM/Views/TypeTextView.swift:30
+msgid "Type text to send to remote"
+msgstr ""
+
+#: Sources/RIM/Views/RequestUnattendedAccessView.swift:169
+msgid "Unattended access is not available for this account."
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+#: Sources/RIM/Input/GestureAction.swift:54
+#: Sources/RIM/Input/RotorAction.swift:174
+msgid "Up Arrow"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:155
+#: Sources/RIM/AppCoordinator.swift:203
+#: Sources/RIM/Session/Session.swift:142
+msgid "Voice conversation"
+msgstr ""
+
+#: Sources/RIM/AppCoordinator.swift:203
+msgid "Voice conversation isn't available while you're on a phone call, because the call is using the microphone. The rest of the session works normally."
+msgstr ""
+
+#: Sources/RIM/Views/SettingsView.swift:68
+msgid "VoiceOver rotor actions"
+msgstr ""
+
+#: Sources/RIM/Views/KeywordSessionView.swift:57
+#: Sources/RIM/Views/SessionView.swift:399
+msgid "Waiting for target"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:399
+msgid "Waiting for target…"
+msgstr ""
+
+msgid "Waiting for the target to enter the keyword:\n%@"
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:147
+msgid "Waiting for the target to reboot…"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:920
+msgid "Windows version"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+#: Sources/RIM/Views/RIMWelcomeView.swift:68
+msgid "Your RIM account, now mobile."
+msgstr ""
+
+#: Sources/RIM/Session/SessionNotifications.swift:109
+msgid "Your session has expired. Please sign in again."
+msgstr ""
+
+#: Sources/RIM/Views/ShortcutsView.swift:88
+msgid "e.g. Save"
+msgstr ""
+
+#: Sources/RIM/Views/SessionView.swift:921
+msgid "macOS version"
+msgstr ""

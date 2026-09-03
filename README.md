@@ -6,6 +6,12 @@ This repository is the hub for the localization of [Remote Incident Manager](htt
 
 RIM uses gettext-format message files, specifically, a `.pot` file for the source template and a `.po` file for each target language. The `locale` directory of this repository uses the usual structure for a gettext `locale` directory; the message file for each language is called `rim.po`. We recommend that translators use [poedit](https://poedit.net/) to edit the `.po` files.
 
+### RIM for iOS
+
+RIM for iOS says a number of things the desktop app has never had to, so it has a second message file per language, `rim-ios.po`, with `rim-ios.pot` as its template. Anything the two apps say identically stays in `rim.po` and is shared; only the strings with no desktop equivalent live here. Keeping them apart means regenerating `rim.pot` from the desktop sources can never drop them.
+
+Both files are translated the same way and there is nothing extra to install. A message left untranslated in `rim-ios.po` falls back to English on its own, one string at a time, so partial progress is genuinely useful.
+
 RIM is initially being translated to the following languages: French, German, Italian, Spanish, and Swedish. We have seeded the repository with machine translations for these languages. We understand that machine translations aren't ideal, but we believe they're useful as a starting point.
 ### A Note about Variables
 Some messages include variables, also known as parameters. These are indicated using the following syntax:
@@ -13,6 +19,16 @@ Some messages include variables, also known as parameters. These are indicated u
 `%{controller_name}`
 
 The above text indicates that a variable called `controller_name` should be substituted wherever that construct appears in the message. Note that the variable names **must not be translated**.
+
+Messages in `rim-ios.po` use Apple's spelling for the same idea, because that is what the app itself is written in:
+
+- `%@` is a piece of text, such as a machine name.
+- `%lld` and `%u` are numbers.
+- `%1$@` and `%2$@` are numbered, and appear when a message takes more than one variable.
+
+Where a message is numbered, **keep the numbers on the right variables** if your language puts them in a different order — `%2$@ … %1$@` is how you say "these two have swapped places". A message with only one variable needs no number.
+
+If you would rather write these as `%{name}`, that works too; the iOS import accepts either. What it cannot do is guess a reordering of unnamed variables, so please use the numbered form when the order changes.
 
 ## Testing localizations
 
