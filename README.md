@@ -20,15 +20,7 @@ Some messages include variables, also known as parameters. These are indicated u
 
 The above text indicates that a variable called `controller_name` should be substituted wherever that construct appears in the message. Note that the variable names **must not be translated**.
 
-Messages in `rim-ios.po` use Apple's spelling for the same idea, because that is what the app itself is written in:
-
-- `%@` is a piece of text, such as a machine name.
-- `%lld` and `%u` are numbers.
-- `%1$@` and `%2$@` are numbered, and appear when a message takes more than one variable.
-
-Where a message is numbered, **keep the numbers on the right variables** if your language puts them in a different order — `%2$@ … %1$@` is how you say "these two have swapped places". A message with only one variable needs no number.
-
-If you would rather write these as `%{name}`, that works too; the iOS import accepts either. What it cannot do is guess a reordering of unnamed variables, so please use the numbered form when the order changes.
+This applies to `rim-ios.po` in exactly the same way. The iOS and Android clients spell variables differently in their own source, but that conversion happens in the client's import script — nothing in this repository needs to know about it.
 
 ## Testing localizations
 

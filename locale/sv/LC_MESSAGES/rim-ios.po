@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RIM for iOS\n"
-"POT-Creation-Date: 2026-09-02 19:10\n"
+"POT-Creation-Date: 2026-09-03 14:47\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language: sv\n"
@@ -16,13 +16,13 @@ msgstr ""
 msgid "  Process ID\tExecutable path"
 msgstr ""
 
-msgid "%1$u files received. Find them in the Files app under %2$@."
+msgid "%{file_count} files received. Find them in the Files app under %{location}."
 msgstr ""
 
-msgid "%lld percent"
+msgid "%{file_count} files sent to the target."
 msgstr ""
 
-msgid "%u files sent to the target."
+msgid "%{percent} percent"
 msgstr ""
 
 #: Sources/RIM/AppCoordinator.swift:366
@@ -51,7 +51,7 @@ msgstr ""
 msgid "Active"
 msgstr ""
 
-msgid "Add %@"
+msgid "Add %{action_name}"
 msgstr ""
 
 #: Sources/RIM/Views/ShortcutsView.swift:15
@@ -94,7 +94,7 @@ msgid "Chat message"
 msgstr ""
 
 #: Sources/RIM/Views/LoginView.swift:49
-msgid "Choose server, currently %1$@"
+msgid "Choose server, currently %{server_name}"
 msgstr ""
 
 msgid "Close"
@@ -157,7 +157,7 @@ msgstr ""
 #: Sources/RIM/AppCoordinator.swift:498
 #: Sources/RIM/AppCoordinator.swift:637
 #: Sources/RIM/Views/ChatbotView.swift:59
-msgid "Could not open %@"
+msgid "Could not open %{tool_name}"
 msgstr ""
 
 #: Sources/RIM/AppCoordinator.swift:637
@@ -293,7 +293,7 @@ msgid "File Explorer"
 msgstr ""
 
 #: Sources/RIM/Session/SessionNotifications.swift:31
-msgid "File received. Find it in the Files app under %@."
+msgid "File received. Find it in the Files app under %{location}."
 msgstr ""
 
 #: Sources/RIM/Session/SessionNotifications.swift:38
@@ -349,7 +349,7 @@ msgid "Insert"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:734
-msgid "Installed packages (%lld)"
+msgid "Installed packages (%{count})"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:952
@@ -497,7 +497,7 @@ msgstr ""
 
 #: Sources/RIM/Session/FileTransferStore.swift:13
 #: Sources/RIM/Session/SessionNotifications.swift:28
-msgid "On My %1$@, %2$@"
+msgid "On My %{device_model}, %{folder_name}"
 msgstr ""
 
 #: Sources/RIM/Session/SessionNotifications.swift:54
@@ -540,7 +540,7 @@ msgid "Pneuma Solutions"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:1029
-msgid "Process ID %u"
+msgid "Process ID %{process_id}"
 msgstr ""
 
 #: Sources/RIM/Views/HomeView.swift:524
@@ -651,7 +651,7 @@ msgid "Run"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:727
-msgid "Running processes (%lld)"
+msgid "Running processes (%{count})"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:944
@@ -670,13 +670,13 @@ msgstr ""
 #: Sources/RIM/Views/SessionView.swift:430
 #: Sources/RIM/Views/SessionView.swift:433
 #: Sources/RIM/Views/SessionView.swift:435
-msgid "Screen reader: %1$@ %2$@"
+msgid "Screen reader: %{screen_reader_name}"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:430
 #: Sources/RIM/Views/SessionView.swift:433
 #: Sources/RIM/Views/SessionView.swift:435
-msgid "Screen reader: %@"
+msgid "Screen reader: %{screen_reader_name} %{version}"
 msgstr ""
 
 #: Sources/RIM/Views/HomeView.swift:404
@@ -714,7 +714,7 @@ msgstr ""
 
 #: Sources/RIM/AppCoordinator.swift:585
 #: Sources/RIM/AppCoordinator.swift:587
-msgid "Server profile JSON couldn't be decoded: %@"
+msgid "Server profile JSON couldn't be decoded: %{error}"
 msgstr ""
 
 #: Sources/RIM/AppCoordinator.swift:570
@@ -824,7 +824,7 @@ msgstr ""
 
 #: Sources/RIM/Views/ChatbotView.swift:35
 #: Sources/RIM/Views/SessionView.swift:421
-msgid "Starting %@…"
+msgid "Starting %{tool_name}…"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:421
@@ -840,7 +840,7 @@ msgstr ""
 msgid "Sticky modifiers stay pressed until you tap them again. With this off, each modifier releases automatically after the next key."
 msgstr ""
 
-msgid "Stop %@ on Target"
+msgid "Stop %{screen_reader_name} on Target"
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:1251
@@ -893,7 +893,7 @@ msgid "The RIM server did not respond."
 msgstr ""
 
 #: Sources/RIM/AppCoordinator.swift:600
-msgid "The new server profile named “%@” is now installed and activated."
+msgid "The new server profile named “%{profile_name}” is now installed and activated."
 msgstr ""
 
 #: Sources/RIM/Views/SessionView.swift:356
@@ -914,7 +914,7 @@ msgstr ""
 
 #: Sources/RIM/Session/SessionNotifications.swift:21
 #: Sources/RIM/Session/SessionNotifications.swift:22
-msgid "The target has offered %u files. Use Transfer Files from Target to receive them."
+msgid "The target has offered %{file_count} files. Use Transfer Files from Target to receive them."
 msgstr ""
 
 #: Sources/RIM/Session/SessionNotifications.swift:21
@@ -1022,13 +1022,13 @@ msgstr ""
 #: Sources/RIM/Views/FileTransferProgressView.swift:67
 #: Sources/RIM/Views/FileTransferProgressView.swift:68
 #: Sources/RIM/Views/FileTransferProgressView.swift:71
-msgid "Transferring %u files from the target machine."
+msgid "Transferring %{file_count} files from the target machine."
 msgstr ""
 
 #: Sources/RIM/Views/FileTransferProgressView.swift:67
 #: Sources/RIM/Views/FileTransferProgressView.swift:68
 #: Sources/RIM/Views/FileTransferProgressView.swift:71
-msgid "Transferring %u files to the target machine."
+msgid "Transferring %{file_count} files to the target machine."
 msgstr ""
 
 #: Sources/RIM/Views/FileTransferProgressView.swift:67
@@ -1091,7 +1091,7 @@ msgstr ""
 msgid "Waiting for target…"
 msgstr ""
 
-msgid "Waiting for the target to enter the keyword:\n%@"
+msgid "Waiting for the target to enter the keyword:\n%{keyword}"
 msgstr ""
 
 #: Sources/RIM/Session/SessionNotifications.swift:147
