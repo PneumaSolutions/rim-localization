@@ -1618,3 +1618,763 @@ msgstr "送信"
 msgid "%{sender} is typing..."
 msgstr "%{sender} 入力中..."
 
+msgid ""
+"%{file_count} files received. Find them in the Files app under "
+"%{location}."
+msgstr "%{file_count} 受信したファイルです。「Files」アプリの「 %{location}」フォルダ内にあります。"
+
+msgid "%{file_count} files sent to the target."
+msgstr "%{file_count} 宛先に送信されたファイル。"
+
+msgid "%{percent} percent"
+msgstr "%{percent} パーセント"
+
+msgid "A session is already in progress. End it before starting another one."
+msgstr "すでにセッションが実行中です。別のセッションを開始する前に、現在のセッションを終了してください。"
+
+msgid "Accessibility Anywhere"
+msgstr "どこでも利用可能"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Add %{action_name}"
+msgstr "%{action_name} を追加"
+
+msgid ""
+"Add a shortcut to bind a key combination to a button in the touch "
+"keyboard."
+msgstr "タッチキーボードのボタンにキーの組み合わせを割り当てるショートカットを追加します。"
+
+msgid ""
+"Add actions from the list below to expose them under the VoiceOver "
+"Actions rotor during a session."
+msgstr "以下のリストからアクションを追加すると、セッション中に「VoiceOverアクション」ローターにそれらのアクションが表示されます。"
+
+msgid "Add shortcut"
+msgstr "ショートカットを追加"
+
+msgid "AI Tools"
+msgstr "AIツール"
+
+msgid "App"
+msgstr "アプリ"
+
+msgid "Available"
+msgstr "在庫あり"
+
+msgid "Awaiting approval…"
+msgstr "承認待ち…"
+
+msgid "Backspace"
+msgstr "バックスペース"
+
+msgid "Chat"
+msgstr "猫"
+
+msgid "Chat message"
+msgstr "チャットメッセージ"
+
+msgid "Choose server, currently %{server_name}"
+msgstr "サーバーを選択してください。現在は %{server_name} です。"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Close send text to target"
+msgstr "閉じる　対象にテキストを送信"
+
+msgid "Close Window"
+msgstr "ウィンドウを閉じる"
+
+msgid "Connect with keyword"
+msgstr "キーワードで検索"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Connecting"
+msgstr "接続中"
+
+msgid "Connecting…"
+msgstr "接続中…"
+
+msgid "Connection details copied."
+msgstr "接続の詳細をコピーしました。"
+
+msgid "Connection lost. Reconnecting…"
+msgstr "接続が切断されました。再接続中です…"
+
+msgid "Context Menu"
+msgstr "コンテキストメニュー"
+
+msgid "Copy All Details"
+msgstr "すべての詳細をコピー"
+
+msgid "Could not establish a connection to the target."
+msgstr "対象との接続を確立できませんでした。"
+
+msgid "Could not load machines"
+msgstr "マシンを読み込めませんでした"
+
+msgid "Could not open %{tool_name}"
+msgstr "%{tool_name} を開くことができませんでした"
+
+msgid "Could not open that link."
+msgstr "そのリンクを開くことができませんでした。"
+
+msgid ""
+"Could not open the file picker. Please close the session menu and try "
+"again."
+msgstr "ファイルピッカーを開くことができませんでした。セッションメニューを閉じて、もう一度お試しください。"
+
+msgid ""
+"Could not open the RIM Dashboard. Please check your connection and try "
+"again."
+msgstr "RIMダッシュボードを開くことができませんでした。接続状態を確認して、もう一度お試しください。"
+
+msgid "Could not reach the RIM server."
+msgstr "RIMサーバーに接続できませんでした。"
+
+msgid "Could not reconnect to the target."
+msgstr "ターゲットへの再接続に失敗しました。"
+
+msgid "Could not reserve keyword"
+msgstr "キーワードを予約できませんでした"
+
+msgid "Could not reserve that keyword. Please try again."
+msgstr "そのキーワードを予約できませんでした。もう一度お試しください。"
+
+msgid "Could not start the session with that machine."
+msgstr "そのマシンではセッションを開始できませんでした。"
+
+msgid "Couldn't connect"
+msgstr "接続できませんでした"
+
+msgid "Custom Shortcut"
+msgstr "カスタムショートカット"
+
+msgid "Custom shortcuts"
+msgstr "カスタムショートカット"
+
+msgid "Cut"
+msgstr "カット"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Disconnect session and go back"
+msgstr "セッションを切断して戻る"
+
+msgid "Don't Show this Message Again"
+msgstr "このメッセージを今後表示しない"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Double tap to connect"
+msgstr "ダブルタップして接続してください"
+
+msgid "Double tap to open group"
+msgstr "ダブルタップしてグループを開く"
+
+msgid "Down Arrow"
+msgstr "下矢印"
+
+msgid "e.g. Save"
+msgstr "例：保存"
+
+msgid "Edit shortcut"
+msgstr "ショートカットを編集する"
+
+msgid "End"
+msgstr "終わり"
+
+msgid "Ended"
+msgstr "終了しました"
+
+msgid "Enter"
+msgstr "入力"
+
+msgid "Escape"
+msgstr "脱出"
+
+msgid "Failed"
+msgstr "失敗しました"
+
+msgid "File Explorer"
+msgstr "ファイルエクスプローラー"
+
+msgid "File received. Find it in the Files app under %{location}."
+msgstr "ファイルを受信しました。「 %{location}」内の「ファイル」アプリから確認してください。"
+
+msgid "File sent to the target."
+msgstr "ファイルが宛先に送信されました。"
+
+msgid "Filter by group"
+msgstr "グループで絞り込む"
+
+msgid "Finder Search"
+msgstr "Finder検索"
+
+msgid "Five minutes of session time remaining."
+msgstr "セッションの残り時間は5分です。"
+
+msgid "Force Quit"
+msgstr "強制終了"
+
+msgid "Gesture Actions"
+msgstr "ジェスチャー操作"
+
+msgid "Gesture actions"
+msgstr "ジェスチャー操作"
+
+msgid "Have the target enter this keyword on their machine."
+msgstr "対象者に、自分の端末でこのキーワードを入力してもらってください。"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Hide App"
+msgstr "アプリを非表示にする"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Idle"
+msgstr "アイドル"
+
+msgid "Insert"
+msgstr "挿入"
+
+msgid "Keep screen awake while connected"
+msgstr "接続中は画面を消さないようにする"
+
+msgid "Key"
+msgstr "キー"
+
+msgid "Keyboard Usage Information"
+msgstr "キーボードの使用方法に関する情報"
+
+msgid "Keyword"
+msgstr "キーワード"
+
+msgid "Keyword Session"
+msgstr "キーワード・セッション"
+
+msgid "Keyword session"
+msgstr "キーワードセッション"
+
+msgid "Learn more about RIM Mobile"
+msgstr "RIM Mobileの詳細はこちら"
+
+msgid "Left Arrow"
+msgstr "左矢印"
+
+msgid ""
+"Lets RIM connect directly to devices on your local network for a faster, "
+"more reliable session."
+msgstr "RIMがローカルネットワーク上のデバイスに直接接続できるようにして、より高速で信頼性の高いセッションを実現しましょう。"
+
+msgid ""
+"Lets you talk to the person at the remote computer during a voice "
+"conversation. The microphone is used only while a voice conversation is "
+"running, and the audio isn't recorded or stored by this app."
+msgstr "音声通話中に、遠隔地のコンピューターの相手と会話することができます。マイクは音声通話が行われている間のみ使用され、このアプリによって音声が録音されたり保存されたりすることはありません。"
+
+msgid "Loading…"
+msgstr "読み込み中…"
+
+msgid "macOS version"
+msgstr "macOSのバージョン"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid ""
+"Microphone access is required for a voice conversation. Enable it in "
+"Settings."
+msgstr "音声通話を行うには、マイクへのアクセスが必要です。設定で有効にしてください。"
+
+msgid "Microphone disconnected."
+msgstr "マイクが切断されました。"
+
+msgid "Minimize All"
+msgstr "すべてを最小化"
+
+msgid "Minimize Window"
+msgstr "ウィンドウを最小化"
+
+msgid "Mission Control"
+msgstr "ミッション・コントロール"
+
+msgid "Modifiers"
+msgstr "修飾子"
+
+msgid "My Machines"
+msgstr "私のマシン"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Negotiating…"
+msgstr "交渉中…"
+
+msgid "New shortcut"
+msgstr "新しいショートカット"
+
+msgid "No machines in this group."
+msgstr "このグループにはマシンがありません。"
+
+msgid "No messages yet."
+msgstr "まだメッセージはありません。"
+
+msgid "No registered machines."
+msgstr "登録されたマシンはありません。"
+
+msgid "No screen reader running"
+msgstr "スクリーンリーダーが実行されていません"
+
+msgid "No shortcuts"
+msgstr "近道はない"
+
+msgid "No target groups."
+msgstr "対象グループはありません。"
+
+msgid "None"
+msgstr "なし"
+
+msgid ""
+"Not available while you're on a phone call — the call is using the "
+"microphone."
+msgstr "通話中は利用できません。マイクが通話に使用されているためです。"
+
+msgid "On My %{device_model}, %{folder_name}"
+msgstr "『 %{device_model}』より、 %{folder_name}"
+
+msgid "One minute of session time remaining."
+msgstr "セッションの残り時間は1分です。"
+
+msgid "OS version"
+msgstr "OSのバージョン"
+
+msgid "Page Down"
+msgstr "ページダウン"
+
+msgid "Page Up"
+msgstr "ページアップ"
+
+msgid "Paste"
+msgstr "貼り付け"
+
+msgid "Pitch: %{pitch}"
+msgstr "ピッチ： %{pitch}"
+
+msgid "Platform"
+msgstr "プラットフォーム"
+
+msgid ""
+"Please note: Due to platform limitations, Remote Incident Manager cannot "
+"offer uninterrupted keyboard support while VoiceOver is running. Any "
+"keyboard command that aligns with a VoiceOver keyboard command (including"
+" use of the arrow keys while Quick Nav is enabled) will not reach the "
+"remote computer. For the best experience, we recommend disabling "
+"VoiceOver while conducting the remote session."
+msgstr ""
+"ご注意：プラットフォームの制限により、Remote Incident "
+"Managerでは、VoiceOverが実行されている間は、キーボード操作を中断なくサポートすることができません。VoiceOverのキーボードコマンドと重複するキーボードコマンド（Quick"
+" "
+"Navが有効な状態での矢印キーの使用を含む）は、リモートコンピュータに送信されません。最適な操作環境を確保するため、リモートセッション中はVoiceOverを無効にすることをお勧めします。"
+
+msgid "Pneuma Solutions"
+msgstr "Pneuma Solutions"
+
+msgid "Prompts target"
+msgstr "プロンプトの対象"
+
+msgid "Quit App"
+msgstr "アプリを終了する"
+
+msgid "Rate: %{rate}"
+msgstr "評価： %{rate}"
+
+msgid "Ready when you are."
+msgstr "準備はできています。"
+
+msgid "Receive Clipboard from Target"
+msgstr "ターゲットからクリップボードを受け取る"
+
+msgid "Reconnecting"
+msgstr "再びつながる"
+
+msgid "Reconnecting…"
+msgstr "再接続中…"
+
+msgid "Release"
+msgstr "リリース"
+
+msgid "Release Modifiers"
+msgstr "リリース修飾子"
+
+msgid "Release modifiers"
+msgstr "リリース修飾子"
+
+msgid "Remote Accessibility"
+msgstr "リモートでのアクセシビリティ"
+
+msgid "Remote accessibility"
+msgstr "リモートでのアクセス可能性"
+
+msgid "Remote desktop"
+msgstr "リモートデスクトップ"
+
+msgid "Remove this profile"
+msgstr "このプロフィールを削除する"
+
+msgid "Reserving keyword…"
+msgstr "キーワードの予約中…"
+
+msgid "Restore defaults"
+msgstr "初期設定に戻す"
+
+msgid "Retry"
+msgstr "再試行"
+
+msgid "Retrying…"
+msgstr "再試行中…"
+
+msgid "Right Arrow"
+msgstr "右矢印"
+
+msgid "RIM version"
+msgstr "RIMバージョン"
+
+msgid "Rotor Actions"
+msgstr "ローターの動作"
+
+msgid "Run"
+msgstr "実行"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Screen reader"
+msgstr "スクリーンリーダー"
+
+msgid "Screen reader: %{screen_reader_name}"
+msgstr "スクリーンリーダー： %{screen_reader_name}"
+
+msgid "Screen reader: %{screen_reader_name} %{version}"
+msgstr "スクリーンリーダー： %{screen_reader_name} %{version}"
+
+msgid "Search groups"
+msgstr "グループを検索"
+
+msgid "Search machines"
+msgstr "検索エンジン"
+
+msgid "Select All"
+msgstr "すべて選択"
+
+msgid "Self"
+msgstr "自己"
+
+msgid "Send Clipboard to Target"
+msgstr "クリップボードの内容をターゲットに送信"
+
+msgid "Send message"
+msgstr "メッセージを送信"
+
+msgid "Send Text to Target"
+msgstr "ターゲットにテキストを送信"
+
+msgid "Send text to target closed."
+msgstr "ターゲットへのテキスト送信が完了しました。"
+
+msgid "Server profile installed"
+msgstr "サーバープロファイルがインストールされました"
+
+msgid "Server profile JSON couldn't be decoded: %{error}"
+msgstr "サーバープロファイルのJSONをデコードできませんでした： %{error}"
+
+msgid "Server profile payload wasn't valid base64url."
+msgstr "サーバープロファイルのペイロードが有効な base64url ではありませんでした。"
+
+msgid "Server profile URL didn't match the expected shape."
+msgstr "サーバープロファイルのURLが、想定された形式と一致しませんでした。"
+
+msgid "Server:"
+msgstr "サーバー："
+
+msgid "Session"
+msgstr "セッション"
+
+msgid "Session menu"
+msgstr "セッションメニュー"
+
+msgid "Setting up the connection."
+msgstr "接続の設定を行っています。"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Show Desktop"
+msgstr "デスクトップを表示"
+
+msgid "Show Touch Keyboard"
+msgstr "タッチキーボードを表示する"
+
+msgid "Sign in"
+msgstr "ログイン"
+
+msgid "Sign out"
+msgstr "ログアウト"
+
+msgid "Sign-in did not complete."
+msgstr "サインインが完了しませんでした。"
+
+msgid "Signing in"
+msgstr "ログイン"
+
+msgid ""
+"Something else is using the microphone — a phone call, or another app. "
+"The rest of the session works normally."
+msgstr "マイクを他の何かが使用しています（電話通話や別のアプリなど）。それ以外の操作は通常通り行えます。"
+
+msgid "Something went wrong"
+msgstr "何か問題が発生しました"
+
+msgid "Space"
+msgstr "スペース"
+
+msgid "Speak Remote Accessibility output"
+msgstr "「Speak」のリモートアクセシビリティ出力"
+
+msgid "Spotlight"
+msgstr "スポットライト"
+
+msgid "Start Menu"
+msgstr "スタートメニュー"
+
+msgid "Starting %{tool_name}…"
+msgstr "%{tool_name} の起動中…"
+
+msgid "Starting remote accessibility…"
+msgstr "リモートアクセスの開始中…"
+
+msgid "Sticky modifiers"
+msgstr "スティッキー修飾子"
+
+msgid ""
+"Sticky modifiers stay pressed until you tap them again. With this off, "
+"each modifier releases automatically after the next key."
+msgstr "「スティッキー」モードの修飾キーは、もう一度タップするまで押されたままになります。この機能をオフにすると、次のキーを押すと各修飾キーは自動的に解除されます。"
+
+msgid "Stop %{screen_reader_name} on Target"
+msgstr "ターゲットでの「 %{screen_reader_name}」を停止する"
+
+msgid "Stop Remote Accessibility on Target"
+msgstr "対象でのリモートアクセスを停止する"
+
+msgid "Switch App"
+msgstr "Switchアプリ"
+
+msgid "System"
+msgstr "システム"
+
+msgid "Tab"
+msgstr "タブ"
+
+msgid "Target groups"
+msgstr "対象グループ"
+
+msgid "Target is typing"
+msgstr "ターゲットが入力中です"
+
+msgid "Target is typing…"
+msgstr "ターゲットが入力中です…"
+
+msgid "Task Manager"
+msgstr "タスクマネージャー"
+
+msgid "That link didn't say which computer to connect to."
+msgstr "そのリンクには、どのコンピューターに接続すればいいのか書かれていませんでした。"
+
+msgid ""
+"The new server profile named “%{profile_name}” is now installed and "
+"activated."
+msgstr "「 %{profile_name}」という名前の新しいサーバープロファイルがインストールされ、有効化されました。"
+
+msgid ""
+"The remote screen is hidden while this device is being recorded or "
+"mirrored."
+msgstr "このデバイスの録画または画面ミラーリングが行われている間は、リモート画面は非表示になります。"
+
+msgid "The remote screen is visible again."
+msgstr "リモコンの画面が再び見えるようになりました。"
+
+msgid "The RIM server did not respond."
+msgstr "RIMサーバーから応答がありませんでした。"
+
+msgid "The server returned an invalid sign-in URL."
+msgstr "サーバーから無効なサインインURLが返されました。"
+
+msgid "The session is not connected yet."
+msgstr "セッションはまだ接続されていません。"
+
+msgid ""
+"The target has offered %{file_count} files. Use Transfer Files from "
+"Target to receive them."
+msgstr ""
+"ターゲットから「 "
+"%{file_count}」ファイルが提供されました。「ターゲットからファイルを転送」を使用して、これらのファイルを受け取ってください。"
+
+msgid ""
+"The target has offered a file. Use Transfer File from Target to receive "
+"it."
+msgstr "ターゲットからファイルが提供されました。「ターゲットからファイルを転送」を使用して、そのファイルを受け取ってください。"
+
+msgid "The target is being prompted to grant the session."
+msgstr "対象者に、セッションの承認を求めるプロンプトが表示されています。"
+
+msgid "The target machine did not come back after rebooting."
+msgstr "再起動後、対象マシンが復帰しませんでした。"
+
+msgid ""
+"The target machine is currently rebooting. The remote session will "
+"continue when the reboot is complete."
+msgstr "対象マシンは現在再起動中です。再起動が完了次第、リモートセッションが再開されます。"
+
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr "ターゲットのクリップボードに保存されていたテキストが、このデバイスのクリップボードにコピーされました。"
+
+msgid ""
+"These actions are reachable under VoiceOver's Actions rotor whenever "
+"you're in a session."
+msgstr "セッション中はいつでも、VoiceOverの「アクション」ローターからこれらの操作にアクセスできます。"
+
+msgid ""
+"These gestures fire only when VoiceOver is running and focus is on the "
+"touch keyboard area."
+msgstr "これらのジェスチャーは、VoiceOverが実行中で、フォーカスがタッチキーボード領域にある場合にのみ動作します。"
+
+msgid "Three-Finger Swipes"
+msgstr "3本指でのスワイプ"
+
+msgid "Toggle Alt"
+msgstr "Alt を切り替える"
+
+msgid "Toggle Caps Lock"
+msgstr "Caps Lock のオン／オフを切り替える"
+
+msgid "Toggle Control"
+msgstr "コントロールの切り替え"
+
+msgid "Toggle Insert"
+msgstr "挿入の切り替え"
+
+msgid "Toggle Mute"
+msgstr "ミュートの切り替え"
+
+msgid "Toggle Shift"
+msgstr "Shiftキーの切り替え"
+
+msgid "Toggle Sticky Modifiers"
+msgstr "スティッキー修飾子の表示/非表示を切り替える"
+
+msgid "Toggle Touch Keyboard"
+msgstr "タッチキーボードの表示/非表示を切り替える"
+
+msgid "Toggle Type Text"
+msgstr "トグルタイプテキスト"
+
+msgid "Toggle Win"
+msgstr "「Win」を切り替える"
+
+msgid "Top level targets"
+msgstr "最上位の目標"
+
+msgid "Transfer progress"
+msgstr "転送の進捗状況"
+
+msgid "Transferring %{file_count} files from the target machine."
+msgstr "ターゲットマシンから %{file_count} ファイルを転送しています。"
+
+msgid "Transferring %{file_count} files to the target machine."
+msgstr "%{file_count} ファイルをターゲットマシンに転送しています。"
+
+msgid "Transferring 1 file from the target machine."
+msgstr "対象マシンから1つのファイルを転送しています。"
+
+msgid "Transferring 1 file to the target machine."
+msgstr "1つのファイルをターゲットマシンに転送しています。"
+
+msgid "Try again"
+msgstr "もう一度試してみてください"
+
+msgid "Two-Finger Double-Tap"
+msgstr "2本指でのダブルタップ"
+
+msgid "Type text to send"
+msgstr "送信したいテキストを入力してください"
+
+msgid "Type text to send to remote"
+msgstr "リモートに送信するテキストを入力してください"
+
+msgid "Unattended access is not available for this account."
+msgstr "このアカウントでは、無人アクセスは利用できません。"
+
+msgid "Undo"
+msgstr "元に戻す"
+
+msgid "Up Arrow"
+msgstr "上矢印"
+
+msgid "Voice conversation"
+msgstr "音声通話"
+
+msgid ""
+"Voice conversation isn't available while you're on a phone call, because "
+"the call is using the microphone. The rest of the session works normally."
+msgstr "通話中は、マイクが通話に使用されているため、音声会話は利用できません。それ以外の機能は通常通り動作します。"
+
+msgid "VoiceOver rotor actions"
+msgstr "VoiceOverのローター操作"
+
+msgid "Waiting for target"
+msgstr "ターゲットを待機中"
+
+msgid "Waiting for target…"
+msgstr "ターゲットを待機中…"
+
+msgid ""
+"Waiting for the target to enter the keyword:\n"
+"%{keyword}"
+msgstr ""
+"ターゲットがキーワード「\n"
+"%{keyword}」を入力するのを待機中"
+
+msgid "Waiting for the target to reboot…"
+msgstr "ターゲットの再起動を待っています…"
+
+msgid "Windows version"
+msgstr "Windows版"
+
+msgid "Your RIM account, now mobile."
+msgstr "RIMアカウントが、モバイルでもご利用いただけるようになりました。"
+
+msgid "Your session has expired. Please sign in again."
+msgstr "セッションの有効期限が切れました。再度ログインしてください。"
+

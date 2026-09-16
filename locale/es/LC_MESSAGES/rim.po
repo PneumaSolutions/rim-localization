@@ -1941,3 +1941,813 @@ msgstr "Enviar"
 msgid "%{sender} is typing..."
 msgstr "%{sender} está escribiendo..."
 
+msgid ""
+"%{file_count} files received. Find them in the Files app under "
+"%{location}."
+msgstr ""
+"%{file_count} archivos recibidos. Los encontrarás en la aplicación "
+"«Archivos», en la sección « %{location}»."
+
+msgid "%{file_count} files sent to the target."
+msgstr "%{file_count} archivos enviados al destinatario."
+
+msgid "%{percent} percent"
+msgstr "%{percent} por ciento"
+
+msgid "A session is already in progress. End it before starting another one."
+msgstr "Ya hay una sesión en curso. Cierrala antes de iniciar otra."
+
+msgid "Accessibility Anywhere"
+msgstr "Accesibilidad en cualquier lugar"
+
+msgid "Account"
+msgstr "Cuenta"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Add %{action_name}"
+msgstr "Añade %{action_name}"
+
+msgid ""
+"Add a shortcut to bind a key combination to a button in the touch "
+"keyboard."
+msgstr ""
+"Añade un acceso directo para asignar una combinación de teclas a un botón"
+" del teclado táctil."
+
+msgid ""
+"Add actions from the list below to expose them under the VoiceOver "
+"Actions rotor during a session."
+msgstr ""
+"Añade acciones de la lista que aparece a continuación para que aparezcan "
+"en el rotor de acciones de VoiceOver durante una sesión."
+
+msgid "Add shortcut"
+msgstr "Añadir acceso directo"
+
+msgid "AI Tools"
+msgstr "Herramientas de IA"
+
+msgid "App"
+msgstr "Aplicación"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Awaiting approval…"
+msgstr "A la espera de aprobación…"
+
+msgid "Backspace"
+msgstr "Retroceso"
+
+msgid "Chat"
+msgstr "Gato"
+
+msgid "Chat message"
+msgstr "Mensaje de chat"
+
+msgid "Choose server, currently %{server_name}"
+msgstr "Elige un servidor; actualmente, %{server_name}"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Close send text to target"
+msgstr "Cerrar: enviar mensaje al destinatario"
+
+msgid "Close Window"
+msgstr "Cerrar ventana"
+
+msgid "Connect with keyword"
+msgstr "Buscar por palabra clave"
+
+msgid "Connected"
+msgstr "Conectado"
+
+msgid "Connecting"
+msgstr "Conectando"
+
+msgid "Connecting…"
+msgstr "Conectando…"
+
+msgid "Connection details copied."
+msgstr "Se han copiado los datos de conexión."
+
+msgid "Connection lost. Reconnecting…"
+msgstr "Se ha perdido la conexión. Volviendo a conectarse…"
+
+msgid "Context Menu"
+msgstr "Menú contextual"
+
+msgid "Copy All Details"
+msgstr "Copiar todos los datos"
+
+msgid "Could not establish a connection to the target."
+msgstr "No se ha podido establecer una conexión con el destino."
+
+msgid "Could not load machines"
+msgstr "No se han podido cargar las máquinas"
+
+msgid "Could not open %{tool_name}"
+msgstr "No se ha podido abrir %{tool_name}"
+
+msgid "Could not open that link."
+msgstr "No se ha podido abrir ese enlace."
+
+msgid ""
+"Could not open the file picker. Please close the session menu and try "
+"again."
+msgstr ""
+"No se ha podido abrir el selector de archivos. Cierra el menú de sesión e"
+" inténtalo de nuevo."
+
+msgid ""
+"Could not open the RIM Dashboard. Please check your connection and try "
+"again."
+msgstr ""
+"No se ha podido abrir el RIM Dashboard. Comprueba tu conexión e inténtalo"
+" de nuevo."
+
+msgid "Could not reach the RIM server."
+msgstr "No se ha podido conectar con el servidor RIM."
+
+msgid "Could not reconnect to the target."
+msgstr "No se ha podido volver a conectar con el destino."
+
+msgid "Could not reserve keyword"
+msgstr "No se ha podido reservar la palabra clave"
+
+msgid "Could not reserve that keyword. Please try again."
+msgstr "No se ha podido reservar esa palabra clave. Inténtalo de nuevo."
+
+msgid "Could not start the session with that machine."
+msgstr "No se ha podido iniciar la sesión con ese equipo."
+
+msgid "Couldn't connect"
+msgstr "No se ha podido establecer la conexión"
+
+msgid "Custom Shortcut"
+msgstr "Atajo personalizado"
+
+msgid "Custom shortcuts"
+msgstr "Atajos personalizados"
+
+msgid "Cut"
+msgstr "Cortar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Disconnect session and go back"
+msgstr "Desconectar la sesión y volver atrás"
+
+msgid "Don't Show this Message Again"
+msgstr "No volver a mostrar este mensaje"
+
+msgid "Done"
+msgstr "Hecho"
+
+msgid "Double tap to connect"
+msgstr "Toca dos veces para conectarte"
+
+msgid "Double tap to open group"
+msgstr "Pulsa dos veces para abrir el grupo"
+
+msgid "Down Arrow"
+msgstr "Flecha hacia abajo"
+
+msgid "e.g. Save"
+msgstr "p. ej., Guardar"
+
+msgid "Edit shortcut"
+msgstr "Editar acceso directo"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Ended"
+msgstr "Finalizado"
+
+msgid "Enter"
+msgstr "Introducir"
+
+msgid "Escape"
+msgstr "Fuga"
+
+msgid "Failed"
+msgstr "Fallido"
+
+msgid "File Explorer"
+msgstr "Explorador de archivos"
+
+msgid "File received. Find it in the Files app under %{location}."
+msgstr ""
+"Se ha recibido el archivo. Lo encontrarás en la aplicación «Archivos», en"
+" la sección « %{location}»."
+
+msgid "File sent to the target."
+msgstr "Archivo enviado al destinatario."
+
+msgid "Filter by group"
+msgstr "Filtrar por grupo"
+
+msgid "Finder Search"
+msgstr "Búsqueda en Finder"
+
+msgid "Five minutes of session time remaining."
+msgstr "Quedan cinco minutos de sesión."
+
+msgid "Force Quit"
+msgstr "Forzar cierre"
+
+msgid "Gesture Actions"
+msgstr "Acciones gestuales"
+
+msgid "Gesture actions"
+msgstr "Acciones gestuales"
+
+msgid "Have the target enter this keyword on their machine."
+msgstr "Pide al destinatario que introduzca esta palabra clave en su ordenador."
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Hide App"
+msgstr "Ocultar aplicación"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Idle"
+msgstr "Inactivo"
+
+msgid "Insert"
+msgstr "Insertar"
+
+msgid "Keep screen awake while connected"
+msgstr "Mantener la pantalla encendida mientras se está conectado"
+
+msgid "Key"
+msgstr "Clave"
+
+msgid "Keyboard Usage Information"
+msgstr "Información sobre el uso del teclado"
+
+msgid "Keyword"
+msgstr "Palabra clave"
+
+msgid "Keyword Session"
+msgstr "Sesión de palabras clave"
+
+msgid "Keyword session"
+msgstr "Sesión de palabras clave"
+
+msgid "Learn more about RIM Mobile"
+msgstr "Más información sobre RIM Mobile"
+
+msgid "Left Arrow"
+msgstr "Flecha izquierda"
+
+msgid ""
+"Lets RIM connect directly to devices on your local network for a faster, "
+"more reliable session."
+msgstr ""
+"Permite que RIM se conecte directamente a los dispositivos de tu red "
+"local para disfrutar de una sesión más rápida y fiable."
+
+msgid ""
+"Lets you talk to the person at the remote computer during a voice "
+"conversation. The microphone is used only while a voice conversation is "
+"running, and the audio isn't recorded or stored by this app."
+msgstr ""
+"Te permite hablar con la persona que está en el ordenador remoto durante "
+"una conversación de voz. El micrófono solo se utiliza mientras se está "
+"llevando a cabo la conversación de voz, y esta aplicación no graba ni "
+"almacena el audio."
+
+msgid "Loading…"
+msgstr "Cargando…"
+
+msgid "macOS version"
+msgstr "Versión de macOS"
+
+msgid "Menu"
+msgstr "Menú"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid ""
+"Microphone access is required for a voice conversation. Enable it in "
+"Settings."
+msgstr ""
+"Para mantener una conversación de voz, es necesario que el micrófono esté"
+" activado. Actívalo en «Ajustes»."
+
+msgid "Microphone disconnected."
+msgstr "El micrófono está desconectado."
+
+msgid "Minimize All"
+msgstr "Minimizar todo"
+
+msgid "Minimize Window"
+msgstr "Minimizar ventana"
+
+msgid "Mission Control"
+msgstr "Centro de Control de Misiones"
+
+msgid "Modifiers"
+msgstr "Modificadores"
+
+msgid "My Machines"
+msgstr "Mis máquinas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Negotiating…"
+msgstr "Negociando…"
+
+msgid "New shortcut"
+msgstr "Nuevo atajo"
+
+msgid "No machines in this group."
+msgstr "No hay máquinas en este grupo."
+
+msgid "No messages yet."
+msgstr "Aún no hay mensajes."
+
+msgid "No registered machines."
+msgstr "No hay máquinas registradas."
+
+msgid "No screen reader running"
+msgstr "No hay ningún lector de pantalla en funcionamiento"
+
+msgid "No shortcuts"
+msgstr "No hay atajos"
+
+msgid "No target groups."
+msgstr "No hay grupos destinatarios."
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid ""
+"Not available while you're on a phone call — the call is using the "
+"microphone."
+msgstr ""
+"No está disponible mientras estás hablando por teléfono: la llamada está "
+"utilizando el micrófono."
+
+msgid "On My %{device_model}, %{folder_name}"
+msgstr "En «My %{device_model}», %{folder_name}"
+
+msgid "One minute of session time remaining."
+msgstr "Queda un minuto de sesión."
+
+msgid "OS version"
+msgstr "Versión del sistema operativo"
+
+msgid "Page Down"
+msgstr "Avanzar página"
+
+msgid "Page Up"
+msgstr "Página anterior"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Pitch: %{pitch}"
+msgstr "Página web: %{pitch}"
+
+msgid "Platform"
+msgstr "Plataforma"
+
+msgid ""
+"Please note: Due to platform limitations, Remote Incident Manager cannot "
+"offer uninterrupted keyboard support while VoiceOver is running. Any "
+"keyboard command that aligns with a VoiceOver keyboard command (including"
+" use of the arrow keys while Quick Nav is enabled) will not reach the "
+"remote computer. For the best experience, we recommend disabling "
+"VoiceOver while conducting the remote session."
+msgstr ""
+"Nota: Debido a las limitaciones de la plataforma, Remote Incident Manager"
+" no puede ofrecer compatibilidad ininterrumpida con el teclado mientras "
+"VoiceOver está en funcionamiento. Cualquier comando de teclado que "
+"coincida con un comando de teclado de VoiceOver (incluido el uso de las "
+"teclas de flecha cuando Quick Nav está activado) no llegará al ordenador "
+"remoto. Para disfrutar de la mejor experiencia, recomendamos desactivar "
+"VoiceOver mientras se lleva a cabo la sesión remota."
+
+msgid "Pneuma Solutions"
+msgstr "Pneuma Solutions"
+
+msgid "Prompts target"
+msgstr "Objetivo de las indicaciones"
+
+msgid "Quit App"
+msgstr "Cerrar aplicación"
+
+msgid "Rate: %{rate}"
+msgstr "Tarifa: %{rate}"
+
+msgid "Ready when you are."
+msgstr "Cuando tú estés listo."
+
+msgid "Receive Clipboard from Target"
+msgstr "Recibir el contenido del portapapeles del destino"
+
+msgid "Reconnecting"
+msgstr "Volver a conectar"
+
+msgid "Reconnecting…"
+msgstr "Restableciendo la conexión…"
+
+msgid "Release"
+msgstr "Comunicado"
+
+msgid "Release Modifiers"
+msgstr "Modificadores de liberación"
+
+msgid "Release modifiers"
+msgstr "Modificadores de liberación"
+
+msgid "Remote Accessibility"
+msgstr "Accesibilidad remota"
+
+msgid "Remote accessibility"
+msgstr "Accesibilidad remota"
+
+msgid "Remote desktop"
+msgstr "Escritorio remoto"
+
+msgid "Remove this profile"
+msgstr "Eliminar este perfil"
+
+msgid "Reserving keyword…"
+msgstr "Reservando palabra clave…"
+
+msgid "Restore defaults"
+msgstr "Restablecer los valores predeterminados"
+
+msgid "Retry"
+msgstr "Volver a intentarlo"
+
+msgid "Retrying…"
+msgstr "Volviendo a intentarlo…"
+
+msgid "Right Arrow"
+msgstr "Flecha derecha"
+
+msgid "RIM version"
+msgstr "Versión de RIM"
+
+msgid "Rotor Actions"
+msgstr "Acciones del rotor"
+
+msgid "Run"
+msgstr "Correr"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Screen reader"
+msgstr "Lector de pantalla"
+
+msgid "Screen reader: %{screen_reader_name}"
+msgstr "Lector de pantalla: %{screen_reader_name}"
+
+msgid "Screen reader: %{screen_reader_name} %{version}"
+msgstr "Lector de pantalla: %{screen_reader_name} %{version}"
+
+msgid "Search groups"
+msgstr "Buscar grupos"
+
+msgid "Search machines"
+msgstr "Motores de búsqueda"
+
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+msgid "Self"
+msgstr "Uno mismo"
+
+msgid "Send Clipboard to Target"
+msgstr "Enviar el contenido del portapapeles al destino"
+
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+msgid "Send Text to Target"
+msgstr "Enviar mensaje de texto a «Target»"
+
+msgid "Send text to target closed."
+msgstr "Envío de mensaje de texto al objetivo finalizado."
+
+msgid "Server profile installed"
+msgstr "Perfil de servidor instalado"
+
+msgid "Server profile JSON couldn't be decoded: %{error}"
+msgstr ""
+"No se ha podido descodificar el perfil del servidor en formato JSON: "
+"%{error}"
+
+msgid "Server profile payload wasn't valid base64url."
+msgstr "La carga útil del perfil del servidor no era un enlace base64url válido."
+
+msgid "Server profile URL didn't match the expected shape."
+msgstr "La URL del perfil del servidor no se ajustaba al formato esperado."
+
+msgid "Server:"
+msgstr "Servidor:"
+
+msgid "Session"
+msgstr "Sesión"
+
+msgid "Session menu"
+msgstr "Menú de la sesión"
+
+msgid "Setting up the connection."
+msgstr "Estableciendo la conexión."
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Show Desktop"
+msgstr "Mostrar el escritorio"
+
+msgid "Show Touch Keyboard"
+msgstr "Mostrar teclado táctil"
+
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+msgid "Sign out"
+msgstr "Cerrar sesión"
+
+msgid "Sign-in did not complete."
+msgstr "El inicio de sesión no se ha completado."
+
+msgid "Signing in"
+msgstr "Iniciar sesión"
+
+msgid ""
+"Something else is using the microphone — a phone call, or another app. "
+"The rest of the session works normally."
+msgstr ""
+"Hay algo más que está utilizando el micrófono: una llamada telefónica u "
+"otra aplicación. El resto de la sesión funciona con normalidad."
+
+msgid "Something went wrong"
+msgstr "Ha surgido un problema"
+
+msgid "Space"
+msgstr "Espacio"
+
+msgid "Speak Remote Accessibility output"
+msgstr "Leer en voz alta el texto de «Accesibilidad» de Speak Remote"
+
+msgid "Spotlight"
+msgstr "En primer plano"
+
+msgid "Start Menu"
+msgstr "Menú de inicio"
+
+msgid "Starting %{tool_name}…"
+msgstr "%{tool_name} está a punto de comenzar…"
+
+msgid "Starting remote accessibility…"
+msgstr "Iniciando el acceso remoto…"
+
+msgid "Sticky modifiers"
+msgstr "Modificadores fijos"
+
+msgid ""
+"Sticky modifiers stay pressed until you tap them again. With this off, "
+"each modifier releases automatically after the next key."
+msgstr ""
+"Los modificadores «fijos» permanecen pulsados hasta que vuelves a "
+"pulsarlos. Si esta opción está desactivada, cada modificador se suelta "
+"automáticamente tras pulsar la siguiente tecla."
+
+msgid "Stop %{screen_reader_name} on Target"
+msgstr "Detener a « %{screen_reader_name}» en Target"
+
+msgid "Stop Remote Accessibility on Target"
+msgstr "Desactivar el acceso remoto en el sistema de destino"
+
+msgid "Switch App"
+msgstr "Aplicación Switch"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Tab"
+msgstr "Pérdida"
+
+msgid "Target groups"
+msgstr "Grupos destinatarios"
+
+msgid "Target is typing"
+msgstr "Target está escribiendo"
+
+msgid "Target is typing…"
+msgstr "Target está escribiendo…"
+
+msgid "Task Manager"
+msgstr "Administrador de tareas"
+
+msgid "That link didn't say which computer to connect to."
+msgstr "En ese enlace no se indicaba a qué ordenador había que conectarse."
+
+msgid ""
+"The new server profile named “%{profile_name}” is now installed and "
+"activated."
+msgstr ""
+"El nuevo perfil de servidor denominado « %{profile_name}» ya está "
+"instalado y activado."
+
+msgid ""
+"The remote screen is hidden while this device is being recorded or "
+"mirrored."
+msgstr ""
+"La pantalla remota permanece oculta mientras se graba o se reproduce en "
+"espejo este dispositivo."
+
+msgid "The remote screen is visible again."
+msgstr "La pantalla del mando a distancia vuelve a verse."
+
+msgid "The RIM server did not respond."
+msgstr "El servidor RIM no ha respondido."
+
+msgid "The server returned an invalid sign-in URL."
+msgstr "El servidor ha devuelto una URL de inicio de sesión no válida."
+
+msgid "The session is not connected yet."
+msgstr "La sesión aún no está conectada."
+
+msgid ""
+"The target has offered %{file_count} files. Use Transfer Files from "
+"Target to receive them."
+msgstr ""
+"El destinatario ha enviado unos archivos de tipo « %{file_count}». "
+"Utiliza la opción «Transferir archivos desde el destinatario» para "
+"recibirlos."
+
+msgid ""
+"The target has offered a file. Use Transfer File from Target to receive "
+"it."
+msgstr ""
+"El destino ha enviado un archivo. Utiliza la opción «Transferir archivo "
+"desde el destino» para recibirlo."
+
+msgid "The target is being prompted to grant the session."
+msgstr "Se le está solicitando al destinatario que autorice la sesión."
+
+msgid "The target machine did not come back after rebooting."
+msgstr "El equipo de destino no volvió a funcionar tras reiniciarse."
+
+msgid ""
+"The target machine is currently rebooting. The remote session will "
+"continue when the reboot is complete."
+msgstr ""
+"El equipo de destino se está reiniciando en estos momentos. La sesión "
+"remota continuará cuando haya finalizado el reinicio."
+
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr ""
+"El texto del portapapeles del destinatario se encuentra ahora en el "
+"portapapeles de este dispositivo."
+
+msgid ""
+"These actions are reachable under VoiceOver's Actions rotor whenever "
+"you're in a session."
+msgstr ""
+"Puedes acceder a estas acciones desde el rotor de acciones de VoiceOver "
+"siempre que estés en una sesión."
+
+msgid ""
+"These gestures fire only when VoiceOver is running and focus is on the "
+"touch keyboard area."
+msgstr ""
+"Estos gestos solo se activan cuando VoiceOver está en funcionamiento y el"
+" foco se encuentra en el área del teclado táctil."
+
+msgid "Three-Finger Swipes"
+msgstr "Deslizamientos con tres dedos"
+
+msgid "Toggle Alt"
+msgstr "Alternar subtítulos"
+
+msgid "Toggle Caps Lock"
+msgstr "Activar/desactivar el bloqueo de mayúsculas"
+
+msgid "Toggle Control"
+msgstr "Control de alternancia"
+
+msgid "Toggle Insert"
+msgstr "Activar/desactivar la inserción"
+
+msgid "Toggle Mute"
+msgstr "Activar/desactivar el silencio"
+
+msgid "Toggle Shift"
+msgstr "Activar/desactivar el modo Shift"
+
+msgid "Toggle Sticky Modifiers"
+msgstr "Activar/desactivar los modificadores fijos"
+
+msgid "Toggle Touch Keyboard"
+msgstr "Activar/desactivar el teclado táctil"
+
+msgid "Toggle Type Text"
+msgstr "Texto de tipo «Toggle»"
+
+msgid "Toggle Win"
+msgstr "Alternar Win"
+
+msgid "Top level targets"
+msgstr "Objetivos de máximo nivel"
+
+msgid "Transfer progress"
+msgstr "Progreso de la transferencia"
+
+msgid "Transferring %{file_count} files from the target machine."
+msgstr "Transferencia de archivos de « %{file_count}» desde el equipo de destino."
+
+msgid "Transferring %{file_count} files to the target machine."
+msgstr "Transferencia de archivos de « %{file_count}» al equipo de destino."
+
+msgid "Transferring 1 file from the target machine."
+msgstr "Se está transfiriendo 1 archivo desde el equipo de destino."
+
+msgid "Transferring 1 file to the target machine."
+msgstr "Se está transfiriendo 1 archivo al equipo de destino."
+
+msgid "Try again"
+msgstr "Inténtalo de nuevo"
+
+msgid "Two-Finger Double-Tap"
+msgstr "Doble toque con dos dedos"
+
+msgid "Type text to send"
+msgstr "Escribe el texto que quieras enviar"
+
+msgid "Type text to send to remote"
+msgstr "Escribe el texto que quieres enviar al dispositivo remoto"
+
+msgid "Unattended access is not available for this account."
+msgstr "El acceso sin supervisión no está disponible para esta cuenta."
+
+msgid "Undo"
+msgstr "Deshacer"
+
+msgid "Up Arrow"
+msgstr "Flecha hacia arriba"
+
+msgid "Voice conversation"
+msgstr "Conversación por voz"
+
+msgid ""
+"Voice conversation isn't available while you're on a phone call, because "
+"the call is using the microphone. The rest of the session works normally."
+msgstr ""
+"La conversación por voz no está disponible mientras estás en una llamada "
+"telefónica, ya que la llamada está utilizando el micrófono. El resto de "
+"la sesión funciona con normalidad."
+
+msgid "VoiceOver rotor actions"
+msgstr "Acciones del rotor de VoiceOver"
+
+msgid "Waiting for target"
+msgstr "A la espera del objetivo"
+
+msgid "Waiting for target…"
+msgstr "Esperando el objetivo…"
+
+msgid ""
+"Waiting for the target to enter the keyword:\n"
+"%{keyword}"
+msgstr ""
+"A la espera de que el destinatario introduzca la palabra clave:\n"
+"%{keyword}"
+
+msgid "Waiting for the target to reboot…"
+msgstr "A la espera de que el dispositivo se reinicie…"
+
+msgid "Windows version"
+msgstr "Versión para Windows"
+
+msgid "Your RIM account, now mobile."
+msgstr "Tu cuenta de RIM, ahora en el móvil."
+
+msgid "Your session has expired. Please sign in again."
+msgstr "Tu sesión ha caducado. Inicia sesión de nuevo."
+

@@ -1937,3 +1937,816 @@ msgstr "Verzenden"
 msgid "%{sender} is typing..."
 msgstr "%{sender} is aan het typen..."
 
+msgid ""
+"%{file_count} files received. Find them in the Files app under "
+"%{location}."
+msgstr ""
+"%{file_count} ontvangen bestanden. Je vindt ze in de app ‘Bestanden’ "
+"onder ‘ %{location}’."
+
+msgid "%{file_count} files sent to the target."
+msgstr "%{file_count} bestanden die naar de bestemming zijn verzonden."
+
+msgid "%{percent} percent"
+msgstr "%{percent} procent"
+
+msgid "A session is already in progress. End it before starting another one."
+msgstr ""
+"Er is al een sessie aan de gang. Sluit deze af voordat je een nieuwe "
+"start."
+
+msgid "Accessibility Anywhere"
+msgstr "Overal toegankelijk"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Add %{action_name}"
+msgstr "Voeg %{action_name} toe"
+
+msgid ""
+"Add a shortcut to bind a key combination to a button in the touch "
+"keyboard."
+msgstr ""
+"Voeg een snelkoppeling toe om een toetsencombinatie aan een knop op het "
+"aanraaktoetsenbord te koppelen."
+
+msgid ""
+"Add actions from the list below to expose them under the VoiceOver "
+"Actions rotor during a session."
+msgstr ""
+"Voeg acties uit de onderstaande lijst toe om ze tijdens een sessie weer "
+"te geven in de VoiceOver-acties-rotor."
+
+msgid "Add shortcut"
+msgstr "Snelkoppeling toevoegen"
+
+msgid "AI Tools"
+msgstr "AI-tools"
+
+msgid "App"
+msgstr "App"
+
+msgid "Available"
+msgstr "Beschikbaar"
+
+msgid "Awaiting approval…"
+msgstr "In afwachting van goedkeuring…"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Chat"
+msgstr "Kat"
+
+msgid "Chat message"
+msgstr "Chatbericht"
+
+msgid "Choose server, currently %{server_name}"
+msgstr "Kies een server, momenteel %{server_name}"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Close send text to target"
+msgstr "Sluit 'tekst naar doel verzenden'"
+
+msgid "Close Window"
+msgstr "Venster sluiten"
+
+msgid "Connect with keyword"
+msgstr "Zoeken op trefwoord"
+
+msgid "Connected"
+msgstr "Verbonden"
+
+msgid "Connecting"
+msgstr "Verbinding maken"
+
+msgid "Connecting…"
+msgstr "Wordt verbonden…"
+
+msgid "Connection details copied."
+msgstr "De verbindingsgegevens zijn gekopieerd."
+
+msgid "Connection lost. Reconnecting…"
+msgstr "Verbinding verbroken. Wordt opnieuw verbonden…"
+
+msgid "Context Menu"
+msgstr "Contextmenu"
+
+msgid "Copy All Details"
+msgstr "Alle gegevens kopiëren"
+
+msgid "Could not establish a connection to the target."
+msgstr "Er kon geen verbinding met het doel worden tot stand gebracht."
+
+msgid "Could not load machines"
+msgstr "Machines konden niet worden geladen"
+
+msgid "Could not open %{tool_name}"
+msgstr "%{tool_name} kon niet worden geopend"
+
+msgid "Could not open that link."
+msgstr "Die link kon niet worden geopend."
+
+msgid ""
+"Could not open the file picker. Please close the session menu and try "
+"again."
+msgstr ""
+"De bestandskeuzelijst kon niet worden geopend. Sluit het sessiemenu en "
+"probeer het opnieuw."
+
+msgid ""
+"Could not open the RIM Dashboard. Please check your connection and try "
+"again."
+msgstr ""
+"Het RIM Dashboard kon niet worden geopend. Controleer je verbinding en "
+"probeer het opnieuw."
+
+msgid "Could not reach the RIM server."
+msgstr "De RIM-server kon niet worden bereikt."
+
+msgid "Could not reconnect to the target."
+msgstr "Er kon geen nieuwe verbinding met het doel worden gemaakt."
+
+msgid "Could not reserve keyword"
+msgstr "Het trefwoord kon niet worden gereserveerd"
+
+msgid "Could not reserve that keyword. Please try again."
+msgstr "Dat trefwoord kon niet worden gereserveerd. Probeer het nog eens."
+
+msgid "Could not start the session with that machine."
+msgstr "De sessie kon niet worden gestart op die computer."
+
+msgid "Couldn't connect"
+msgstr "Er kon geen verbinding worden gemaakt"
+
+msgid "Custom Shortcut"
+msgstr "Aangepaste snelkoppeling"
+
+msgid "Custom shortcuts"
+msgstr "Aangepaste snelkoppelingen"
+
+msgid "Cut"
+msgstr "Knippen"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Device"
+msgstr "Apparaat"
+
+msgid "Disconnect session and go back"
+msgstr "Sessie verbreken en teruggaan"
+
+msgid "Don't Show this Message Again"
+msgstr "Dit bericht niet meer weergeven"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Double tap to connect"
+msgstr "Twee keer tikken om verbinding te maken"
+
+msgid "Double tap to open group"
+msgstr "Tik twee keer om de groep te openen"
+
+msgid "Down Arrow"
+msgstr "Pijl omlaag"
+
+msgid "e.g. Save"
+msgstr "bijv. Opslaan"
+
+msgid "Edit shortcut"
+msgstr "Snelkoppeling bewerken"
+
+msgid "End"
+msgstr "Einde"
+
+msgid "Ended"
+msgstr "Beëindigd"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Escape"
+msgstr "Ontsnappen"
+
+msgid "Failed"
+msgstr "Mislukt"
+
+msgid "File Explorer"
+msgstr "Bestandsverkenner"
+
+msgid "File received. Find it in the Files app under %{location}."
+msgstr ""
+"Het bestand is ontvangen. Je vindt het in de app ‘Bestanden’ onder ‘ "
+"%{location}’."
+
+msgid "File sent to the target."
+msgstr "Bestand verzonden naar de ontvanger."
+
+msgid "Filter by group"
+msgstr "Filteren op groep"
+
+msgid "Finder Search"
+msgstr "Zoeken"
+
+msgid "Five minutes of session time remaining."
+msgstr "Er resteren nog vijf minuten sessietijd."
+
+msgid "Force Quit"
+msgstr "Geforceerd afsluiten"
+
+msgid "Gesture Actions"
+msgstr "Gebarenacties"
+
+msgid "Gesture actions"
+msgstr "Gebarenacties"
+
+msgid "Have the target enter this keyword on their machine."
+msgstr "Laat de doelpersoon dit trefwoord op zijn of haar computer invoeren."
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Hide App"
+msgstr "App verbergen"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Idle"
+msgstr "Inactief"
+
+msgid "Insert"
+msgstr "Invoegen"
+
+msgid "Keep screen awake while connected"
+msgstr "Het scherm actief houden zolang er verbinding is"
+
+msgid "Key"
+msgstr "Sleutel"
+
+msgid "Keyboard Usage Information"
+msgstr "Informatie over het gebruik van het toetsenbord"
+
+msgid "Keyword"
+msgstr "Trefwoord"
+
+msgid "Keyword Session"
+msgstr "Trefwoordsessie"
+
+msgid "Keyword session"
+msgstr "Trefwoordsessie"
+
+msgid "Learn more about RIM Mobile"
+msgstr "Meer informatie over RIM Mobile"
+
+msgid "Left Arrow"
+msgstr "Pijl naar links"
+
+msgid ""
+"Lets RIM connect directly to devices on your local network for a faster, "
+"more reliable session."
+msgstr ""
+"Laat RIM rechtstreeks verbinding maken met apparaten op je lokale netwerk"
+" voor een snellere en betrouwbaardere verbinding."
+
+msgid ""
+"Lets you talk to the person at the remote computer during a voice "
+"conversation. The microphone is used only while a voice conversation is "
+"running, and the audio isn't recorded or stored by this app."
+msgstr ""
+"Hiermee kun je tijdens een spraakgesprek met de persoon op de externe "
+"computer praten. De microfoon wordt alleen gebruikt terwijl er een "
+"spraakgesprek gaande is, en het geluid wordt door deze app niet opgenomen"
+" of opgeslagen."
+
+msgid "Loading…"
+msgstr "Bezig met laden…"
+
+msgid "macOS version"
+msgstr "macOS-versie"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid ""
+"Microphone access is required for a voice conversation. Enable it in "
+"Settings."
+msgstr ""
+"Voor een spraakgesprek is toegang tot de microfoon vereist. Schakel deze "
+"functie in via ‘Instellingen’."
+
+msgid "Microphone disconnected."
+msgstr "De microfoon is losgekoppeld."
+
+msgid "Minimize All"
+msgstr "Alles minimaliseren"
+
+msgid "Minimize Window"
+msgstr "Venster minimaliseren"
+
+msgid "Mission Control"
+msgstr "Missiecontrole"
+
+msgid "Modifiers"
+msgstr "Modificatoren"
+
+msgid "My Machines"
+msgstr "Mijn machines"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Negotiating…"
+msgstr "Onderhandelen…"
+
+msgid "New shortcut"
+msgstr "Nieuwe snelkoppeling"
+
+msgid "No machines in this group."
+msgstr "Er zijn geen machines in deze groep."
+
+msgid "No messages yet."
+msgstr "Nog geen berichten."
+
+msgid "No registered machines."
+msgstr "Er zijn geen geregistreerde machines."
+
+msgid "No screen reader running"
+msgstr "Er is geen schermlezer actief"
+
+msgid "No shortcuts"
+msgstr "Geen snelkoppelingen"
+
+msgid "No target groups."
+msgstr "Geen doelgroepen."
+
+msgid "None"
+msgstr "Geen"
+
+msgid ""
+"Not available while you're on a phone call — the call is using the "
+"microphone."
+msgstr ""
+"Niet beschikbaar terwijl je aan het bellen bent — de microfoon wordt "
+"gebruikt voor het gesprek."
+
+msgid "On My %{device_model}, %{folder_name}"
+msgstr "Op mijn blog „ %{device_model}”, %{folder_name}"
+
+msgid "One minute of session time remaining."
+msgstr "Er resteert nog één minuut sessietijd."
+
+msgid "OS version"
+msgstr "OS-versie"
+
+msgid "Page Down"
+msgstr "Pagina omlaag"
+
+msgid "Page Up"
+msgstr "Pagina omhoog"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Pitch: %{pitch}"
+msgstr "Pitch: %{pitch}"
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid ""
+"Please note: Due to platform limitations, Remote Incident Manager cannot "
+"offer uninterrupted keyboard support while VoiceOver is running. Any "
+"keyboard command that aligns with a VoiceOver keyboard command (including"
+" use of the arrow keys while Quick Nav is enabled) will not reach the "
+"remote computer. For the best experience, we recommend disabling "
+"VoiceOver while conducting the remote session."
+msgstr ""
+"Let op: vanwege beperkingen van het platform kan Remote Incident Manager "
+"geen ononderbroken toetsenbordondersteuning bieden terwijl VoiceOver "
+"actief is. Toetsenbordopdrachten die overeenkomen met een VoiceOver-"
+"toetsenbordopdracht (waaronder het gebruik van de pijltjestoetsen terwijl"
+" Quick Nav is ingeschakeld) worden niet doorgegeven aan de computer op "
+"afstand. Voor een optimale ervaring raden we aan om VoiceOver uit te "
+"schakelen tijdens de sessie op afstand."
+
+msgid "Pneuma Solutions"
+msgstr "Pneuma Solutions"
+
+msgid "Prompts target"
+msgstr "Doelgroep van de prompts"
+
+msgid "Quit App"
+msgstr "App afsluiten"
+
+msgid "Rate: %{rate}"
+msgstr "Beoordeling: %{rate}"
+
+msgid "Ready when you are."
+msgstr "Ik ben er klaar voor als jij dat bent."
+
+msgid "Receive Clipboard from Target"
+msgstr "Klembord van doel ontvangen"
+
+msgid "Reconnecting"
+msgstr "Weer contact maken"
+
+msgid "Reconnecting…"
+msgstr "We zijn bezig met opnieuw verbinding maken…"
+
+msgid "Release"
+msgstr "Persbericht"
+
+msgid "Release Modifiers"
+msgstr "Vrijgavemodificatoren"
+
+msgid "Release modifiers"
+msgstr "Vrijgavevoorwaarden"
+
+msgid "Remote Accessibility"
+msgstr "Toegankelijkheid op afstand"
+
+msgid "Remote accessibility"
+msgstr "Toegankelijkheid op afstand"
+
+msgid "Remote desktop"
+msgstr "Extern bureaublad"
+
+msgid "Remove this profile"
+msgstr "Dit profiel verwijderen"
+
+msgid "Reserving keyword…"
+msgstr "Trefwoord reserveren…"
+
+msgid "Restore defaults"
+msgstr "Standaardinstellingen herstellen"
+
+msgid "Retry"
+msgstr "Opnieuw proberen"
+
+msgid "Retrying…"
+msgstr "Opnieuw proberen…"
+
+msgid "Right Arrow"
+msgstr "Pijl naar rechts"
+
+msgid "RIM version"
+msgstr "RIM-versie"
+
+msgid "Rotor Actions"
+msgstr "Rotoracties"
+
+msgid "Run"
+msgstr "Ren"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Screen reader"
+msgstr "Schermlezer"
+
+msgid "Screen reader: %{screen_reader_name}"
+msgstr "Schermlezer: %{screen_reader_name}"
+
+msgid "Screen reader: %{screen_reader_name} %{version}"
+msgstr "Schermlezer: %{screen_reader_name} %{version}"
+
+msgid "Search groups"
+msgstr "Zoekgroepen"
+
+msgid "Search machines"
+msgstr "Zoekmachines"
+
+msgid "Select All"
+msgstr "Alles selecteren"
+
+msgid "Self"
+msgstr "Zelf"
+
+msgid "Send Clipboard to Target"
+msgstr "Klembord naar bestemming verzenden"
+
+msgid "Send message"
+msgstr "Bericht verzenden"
+
+msgid "Send Text to Target"
+msgstr "Tekst naar doelgroep verzenden"
+
+msgid "Send text to target closed."
+msgstr "Het verzenden van een sms naar het doel is voltooid."
+
+msgid "Server profile installed"
+msgstr "Serverprofiel geïnstalleerd"
+
+msgid "Server profile JSON couldn't be decoded: %{error}"
+msgstr ""
+"Het JSON-bestand met het serverprofiel kon niet worden gedecodeerd: "
+"%{error}"
+
+msgid "Server profile payload wasn't valid base64url."
+msgstr "De payload van het serverprofiel was geen geldige base64url."
+
+msgid "Server profile URL didn't match the expected shape."
+msgstr "De URL van het serverprofiel kwam niet overeen met de verwachte structuur."
+
+msgid "Server:"
+msgstr "Server:"
+
+msgid "Session"
+msgstr "Sessie"
+
+msgid "Session menu"
+msgstr "Sessiemenu"
+
+msgid "Setting up the connection."
+msgstr "De verbinding wordt tot stand gebracht."
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Show Desktop"
+msgstr "Bureaublad weergeven"
+
+msgid "Show Touch Keyboard"
+msgstr "Tastatuur weergeven"
+
+msgid "Sign in"
+msgstr "Inloggen"
+
+msgid "Sign out"
+msgstr "Uitloggen"
+
+msgid "Sign-in did not complete."
+msgstr "Het inloggen is niet voltooid."
+
+msgid "Signing in"
+msgstr "Inloggen"
+
+msgid ""
+"Something else is using the microphone — a phone call, or another app. "
+"The rest of the session works normally."
+msgstr ""
+"Er is iets anders dat de microfoon gebruikt — een telefoongesprek of een "
+"andere app. De rest van de sessie verloopt normaal."
+
+msgid "Something went wrong"
+msgstr "Er is iets misgegaan"
+
+msgid "Space"
+msgstr "Ruimte"
+
+msgid "Speak Remote Accessibility output"
+msgstr "Voorlezen van de uitvoer van \"Speak Remote Accessibility\""
+
+msgid "Spotlight"
+msgstr "In de schijnwerpers"
+
+msgid "Start Menu"
+msgstr "Startmenu"
+
+msgid "Starting %{tool_name}…"
+msgstr "%{tool_name} begint…"
+
+msgid "Starting remote accessibility…"
+msgstr "Toegang op afstand wordt gestart…"
+
+msgid "Sticky modifiers"
+msgstr "Sticky-modificatoren"
+
+msgid ""
+"Sticky modifiers stay pressed until you tap them again. With this off, "
+"each modifier releases automatically after the next key."
+msgstr ""
+"Vaste modificatietoetsen blijven ingedrukt totdat je er opnieuw op tikt. "
+"Als deze functie is uitgeschakeld, wordt elke modificatietoets "
+"automatisch losgelaten na het indrukken van de volgende toets."
+
+msgid "Stop %{screen_reader_name} on Target"
+msgstr "%{screen_reader_name}-actie bij Target"
+
+msgid "Stop Remote Accessibility on Target"
+msgstr "Toegang op afstand op het doelwit blokkeren"
+
+msgid "Switch App"
+msgstr "Switch-app"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "Tab"
+msgstr "Verlies"
+
+msgid "Target groups"
+msgstr "Doelgroepen"
+
+msgid "Target is typing"
+msgstr "Target is aan het typen"
+
+msgid "Target is typing…"
+msgstr "Target is aan het typen…"
+
+msgid "Task Manager"
+msgstr "Taakbeheer"
+
+msgid "That link didn't say which computer to connect to."
+msgstr ""
+"In die link stond niet vermeld met welke computer je verbinding moest "
+"maken."
+
+msgid ""
+"The new server profile named “%{profile_name}” is now installed and "
+"activated."
+msgstr ""
+"Het nieuwe serverprofiel met de naam „ %{profile_name}“ is nu "
+"geïnstalleerd en geactiveerd."
+
+msgid ""
+"The remote screen is hidden while this device is being recorded or "
+"mirrored."
+msgstr ""
+"Het externe scherm wordt verborgen terwijl er op dit apparaat wordt "
+"opgenomen of terwijl het scherm wordt gespiegeld."
+
+msgid "The remote screen is visible again."
+msgstr "Het scherm op afstand is weer zichtbaar."
+
+msgid "The RIM server did not respond."
+msgstr "De RIM-server reageerde niet."
+
+msgid "The server returned an invalid sign-in URL."
+msgstr "De server heeft een ongeldige aanmeld-URL teruggestuurd."
+
+msgid "The session is not connected yet."
+msgstr "De sessie is nog niet verbonden."
+
+msgid ""
+"The target has offered %{file_count} files. Use Transfer Files from "
+"Target to receive them."
+msgstr ""
+"Het doel heeft ` %{file_count}`-bestanden aangeboden. Gebruik ‘Bestanden "
+"van doel overzetten’ om ze te ontvangen."
+
+msgid ""
+"The target has offered a file. Use Transfer File from Target to receive "
+"it."
+msgstr ""
+"Het doel heeft een bestand aangeboden. Gebruik 'Bestand overzetten vanaf "
+"doel' om het te ontvangen."
+
+msgid "The target is being prompted to grant the session."
+msgstr "De doelpersoon wordt gevraagd om toestemming te geven voor de sessie."
+
+msgid "The target machine did not come back after rebooting."
+msgstr "De doelcomputer kwam na het opnieuw opstarten niet meer terug."
+
+msgid ""
+"The target machine is currently rebooting. The remote session will "
+"continue when the reboot is complete."
+msgstr ""
+"De doelmachine wordt momenteel opnieuw opgestart. De sessie op afstand "
+"wordt voortgezet zodra het opnieuw opstarten is voltooid."
+
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr ""
+"De tekst uit het klembord van het doel is nu in het klembord van dit "
+"apparaat opgeslagen."
+
+msgid ""
+"These actions are reachable under VoiceOver's Actions rotor whenever "
+"you're in a session."
+msgstr ""
+"Deze acties zijn toegankelijk via de Acties-rotor van VoiceOver wanneer "
+"je in een sessie bent."
+
+msgid ""
+"These gestures fire only when VoiceOver is running and focus is on the "
+"touch keyboard area."
+msgstr ""
+"Deze gebaren werken alleen als VoiceOver actief is en de focus op het "
+"aanraaktoetsenbord ligt."
+
+msgid "Three-Finger Swipes"
+msgstr "Vegen met drie vingers"
+
+msgid "Toggle Alt"
+msgstr "Alt weergeven/verbergen"
+
+msgid "Toggle Caps Lock"
+msgstr "Caps Lock in- of uitschakelen"
+
+msgid "Toggle Control"
+msgstr "Schakelknop"
+
+msgid "Toggle Insert"
+msgstr "Invoegmodus in-/uitschakelen"
+
+msgid "Toggle Mute"
+msgstr "Geluid in- of uitschakelen"
+
+msgid "Toggle Shift"
+msgstr "Shift in-/uitschakelen"
+
+msgid "Toggle Sticky Modifiers"
+msgstr "Sticky-modificatoren in- of uitschakelen"
+
+msgid "Toggle Touch Keyboard"
+msgstr "Touch-toetsenbord in- of uitschakelen"
+
+msgid "Toggle Type Text"
+msgstr "Teksttype wijzigen"
+
+msgid "Toggle Win"
+msgstr "Win in- en uitschakelen"
+
+msgid "Top level targets"
+msgstr "Doelstellingen op het hoogste niveau"
+
+msgid "Transfer progress"
+msgstr "Voortgang van de overdracht"
+
+msgid "Transferring %{file_count} files from the target machine."
+msgstr "%{file_count}-bestanden overzetten vanaf de doelcomputer."
+
+msgid "Transferring %{file_count} files to the target machine."
+msgstr "%{file_count}-bestanden overzetten naar de doelmachine."
+
+msgid "Transferring 1 file from the target machine."
+msgstr "1 bestand wordt overgezet vanaf de doelmachine."
+
+msgid "Transferring 1 file to the target machine."
+msgstr "1 bestand wordt naar de doelmachine overgezet."
+
+msgid "Try again"
+msgstr "Probeer het nog eens"
+
+msgid "Two-Finger Double-Tap"
+msgstr "Tweevingerige dubbele tik"
+
+msgid "Type text to send"
+msgstr "Typ de tekst die je wilt versturen"
+
+msgid "Type text to send to remote"
+msgstr "Typ de tekst die je naar de externe locatie wilt verzenden"
+
+msgid "Unattended access is not available for this account."
+msgstr "Toegang zonder toezicht is voor dit account niet beschikbaar."
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+msgid "Up Arrow"
+msgstr "Pijl omhoog"
+
+msgid "Voice conversation"
+msgstr "Spraakgesprek"
+
+msgid ""
+"Voice conversation isn't available while you're on a phone call, because "
+"the call is using the microphone. The rest of the session works normally."
+msgstr ""
+"Spraakgesprekken zijn niet beschikbaar terwijl je aan het bellen bent, "
+"omdat de microfoon dan in gebruik is voor het telefoongesprek. De rest "
+"van de sessie werkt normaal."
+
+msgid "VoiceOver rotor actions"
+msgstr "VoiceOver-rotoracties"
+
+msgid "Waiting for target"
+msgstr "Wachten op doel"
+
+msgid "Waiting for target…"
+msgstr "Wachten op doel…"
+
+msgid ""
+"Waiting for the target to enter the keyword:\n"
+"%{keyword}"
+msgstr ""
+"Wachten tot het doel het trefwoord invoert:\n"
+"%{keyword}"
+
+msgid "Waiting for the target to reboot…"
+msgstr "Wachten tot het doel opnieuw opstart…"
+
+msgid "Windows version"
+msgstr "Windows-versie"
+
+msgid "Your RIM account, now mobile."
+msgstr "Uw RIM-account, nu ook mobiel."
+
+msgid "Your session has expired. Please sign in again."
+msgstr "Uw sessie is verlopen. Log alstublieft opnieuw in."
+

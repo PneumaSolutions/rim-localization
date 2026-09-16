@@ -1912,3 +1912,801 @@ msgstr "Skicka"
 msgid "%{sender} is typing..."
 msgstr "%{sender} skriver..."
 
+msgid ""
+"%{file_count} files received. Find them in the Files app under "
+"%{location}."
+msgstr ""
+"%{file_count} mottagna filer. Du hittar dem i appen ”Filer” under ” "
+"%{location}”."
+
+msgid "%{file_count} files sent to the target."
+msgstr "%{file_count} filer som skickats till mottagaren."
+
+msgid "%{percent} percent"
+msgstr "%{percent} procent"
+
+msgid "A session is already in progress. End it before starting another one."
+msgstr "En session pågår redan. Avsluta den innan du startar en ny."
+
+msgid "Accessibility Anywhere"
+msgstr "Tillgänglighet överallt"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Add %{action_name}"
+msgstr "Lägg till %{action_name}"
+
+msgid ""
+"Add a shortcut to bind a key combination to a button in the touch "
+"keyboard."
+msgstr ""
+"Lägg till en genväg för att koppla en tangentkombination till en knapp på"
+" pekskärms tangentbordet."
+
+msgid ""
+"Add actions from the list below to expose them under the VoiceOver "
+"Actions rotor during a session."
+msgstr ""
+"Lägg till åtgärder från listan nedan för att de ska visas i VoiceOver-"
+"åtgärdsrotorn under en session."
+
+msgid "Add shortcut"
+msgstr "Lägg till genväg"
+
+msgid "AI Tools"
+msgstr "AI-verktyg"
+
+msgid "App"
+msgstr "App"
+
+msgid "Available"
+msgstr "Finns tillgängligt"
+
+msgid "Awaiting approval…"
+msgstr "Väntar på godkännande…"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Chat"
+msgstr "Katt"
+
+msgid "Chat message"
+msgstr "Chatmeddelande"
+
+msgid "Choose server, currently %{server_name}"
+msgstr "Välj server, för närvarande %{server_name}"
+
+msgid "Close"
+msgstr "Stäng"
+
+msgid "Close send text to target"
+msgstr "Stäng – skicka text till mottagaren"
+
+msgid "Close Window"
+msgstr "Stäng fönstret"
+
+msgid "Connect with keyword"
+msgstr "Sök med nyckelord"
+
+msgid "Connected"
+msgstr "Ansluten"
+
+msgid "Connecting"
+msgstr "Ansluta"
+
+msgid "Connecting…"
+msgstr "Ansluter…"
+
+msgid "Connection details copied."
+msgstr "Anslutningsuppgifterna har kopierats."
+
+msgid "Connection lost. Reconnecting…"
+msgstr "Anslutningen har brutits. Återansluter…"
+
+msgid "Context Menu"
+msgstr "Kontextmeny"
+
+msgid "Copy All Details"
+msgstr "Kopiera alla uppgifter"
+
+msgid "Could not establish a connection to the target."
+msgstr "Det gick inte att upprätta en anslutning till målet."
+
+msgid "Could not load machines"
+msgstr "Det gick inte att ladda maskinerna"
+
+msgid "Could not open %{tool_name}"
+msgstr "Det gick inte att öppna %{tool_name}"
+
+msgid "Could not open that link."
+msgstr "Det gick inte att öppna den länken."
+
+msgid ""
+"Could not open the file picker. Please close the session menu and try "
+"again."
+msgstr "Det gick inte att öppna filväljaren. Stäng sessionsmenyn och försök igen."
+
+msgid ""
+"Could not open the RIM Dashboard. Please check your connection and try "
+"again."
+msgstr ""
+"Det gick inte att öppna RIM Dashboard. Kontrollera din anslutning och "
+"försök igen."
+
+msgid "Could not reach the RIM server."
+msgstr "Det gick inte att ansluta till RIM-servern."
+
+msgid "Could not reconnect to the target."
+msgstr "Det gick inte att återupprätta anslutningen till målet."
+
+msgid "Could not reserve keyword"
+msgstr "Det gick inte att reservera nyckelordet"
+
+msgid "Could not reserve that keyword. Please try again."
+msgstr "Det gick inte att reservera det nyckelordet. Försök igen."
+
+msgid "Could not start the session with that machine."
+msgstr "Det gick inte att starta sessionen med den datorn."
+
+msgid "Couldn't connect"
+msgstr "Det gick inte att ansluta"
+
+msgid "Custom Shortcut"
+msgstr "Anpassad genväg"
+
+msgid "Custom shortcuts"
+msgstr "Anpassade genvägar"
+
+msgid "Cut"
+msgstr "Klipp"
+
+msgid "Delete"
+msgstr "Ta bort"
+
+msgid "Device"
+msgstr "Enhet"
+
+msgid "Disconnect session and go back"
+msgstr "Avsluta sessionen och gå tillbaka"
+
+msgid "Don't Show this Message Again"
+msgstr "Visa inte detta meddelande igen"
+
+msgid "Done"
+msgstr "Klart"
+
+msgid "Double tap to connect"
+msgstr "Dubbelklicka för att ansluta"
+
+msgid "Double tap to open group"
+msgstr "Dubbelklicka för att öppna gruppen"
+
+msgid "Down Arrow"
+msgstr "Nedåtpil"
+
+msgid "e.g. Save"
+msgstr "t.ex. Spara"
+
+msgid "Edit shortcut"
+msgstr "Redigera genväg"
+
+msgid "End"
+msgstr "Slut"
+
+msgid "Ended"
+msgstr "Avslutad"
+
+msgid "Enter"
+msgstr "Tryck på Enter"
+
+msgid "Escape"
+msgstr "Fly"
+
+msgid "Failed"
+msgstr "Misslyckades"
+
+msgid "File Explorer"
+msgstr "Filutforskaren"
+
+msgid "File received. Find it in the Files app under %{location}."
+msgstr "Filen har tagits emot. Du hittar den i appen ”Filer” under ” %{location}”."
+
+msgid "File sent to the target."
+msgstr "Filen har skickats till mottagaren."
+
+msgid "Filter by group"
+msgstr "Filtrera efter grupp"
+
+msgid "Finder Search"
+msgstr "Sök i Finder"
+
+msgid "Five minutes of session time remaining."
+msgstr "Det återstår fem minuter av sessionstiden."
+
+msgid "Force Quit"
+msgstr "Tvinga avslutning"
+
+msgid "Gesture Actions"
+msgstr "Gester"
+
+msgid "Gesture actions"
+msgstr "Gester"
+
+msgid "Have the target enter this keyword on their machine."
+msgstr "Be målet att skriva in detta nyckelord på sin dator."
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Hide App"
+msgstr "Dölj appen"
+
+msgid "Home"
+msgstr "Hem"
+
+msgid "Idle"
+msgstr "Inaktiv"
+
+msgid "Insert"
+msgstr "Infoga"
+
+msgid "Keep screen awake while connected"
+msgstr "Håll skärmen aktiv så länge enheten är ansluten"
+
+msgid "Key"
+msgstr "Nyckel"
+
+msgid "Keyboard Usage Information"
+msgstr "Information om hur man använder tangentbordet"
+
+msgid "Keyword"
+msgstr "Nyckelord"
+
+msgid "Keyword Session"
+msgstr "Nyckelordssession"
+
+msgid "Keyword session"
+msgstr "Nyckelordssession"
+
+msgid "Learn more about RIM Mobile"
+msgstr "Läs mer om RIM Mobile"
+
+msgid "Left Arrow"
+msgstr "Vänsterpil"
+
+msgid ""
+"Lets RIM connect directly to devices on your local network for a faster, "
+"more reliable session."
+msgstr ""
+"Låt RIM ansluta direkt till enheterna i ditt lokala nätverk för en "
+"snabbare och mer tillförlitlig anslutning."
+
+msgid ""
+"Lets you talk to the person at the remote computer during a voice "
+"conversation. The microphone is used only while a voice conversation is "
+"running, and the audio isn't recorded or stored by this app."
+msgstr ""
+"Gör det möjligt för dig att prata med personen vid den fjärranslutna "
+"datorn under ett röstsamtal. Mikrofonen används endast medan ett "
+"röstsamtal pågår, och ljudet spelas inte in eller lagras av den här "
+"appen."
+
+msgid "Loading…"
+msgstr "Laddar…"
+
+msgid "macOS version"
+msgstr "macOS-version"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Message"
+msgstr "Meddelande"
+
+msgid ""
+"Microphone access is required for a voice conversation. Enable it in "
+"Settings."
+msgstr "Mikrofonåtkomst krävs för röstsamtal. Aktivera den under Inställningar."
+
+msgid "Microphone disconnected."
+msgstr "Mikrofonen är frånkopplad."
+
+msgid "Minimize All"
+msgstr "Minimera alla"
+
+msgid "Minimize Window"
+msgstr "Minimera fönstret"
+
+msgid "Mission Control"
+msgstr "Kontrollcentralen"
+
+msgid "Modifiers"
+msgstr "Modifierare"
+
+msgid "My Machines"
+msgstr "Mina maskiner"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Negotiating…"
+msgstr "Förhandlar…"
+
+msgid "New shortcut"
+msgstr "Ny genväg"
+
+msgid "No machines in this group."
+msgstr "Det finns inga maskiner i den här gruppen."
+
+msgid "No messages yet."
+msgstr "Inga meddelanden än."
+
+msgid "No registered machines."
+msgstr "Inga registrerade maskiner."
+
+msgid "No screen reader running"
+msgstr "Ingen skärmläsare är igång"
+
+msgid "No shortcuts"
+msgstr "Inga genvägar"
+
+msgid "No target groups."
+msgstr "Inga målgrupper."
+
+msgid "None"
+msgstr "Inget"
+
+msgid ""
+"Not available while you're on a phone call — the call is using the "
+"microphone."
+msgstr ""
+"Funktionen är inte tillgänglig när du pratar i telefon – mikrofonen "
+"används för samtalet."
+
+msgid "On My %{device_model}, %{folder_name}"
+msgstr "På min blogg ” %{device_model}”, %{folder_name}"
+
+msgid "One minute of session time remaining."
+msgstr "Det återstår en minut av sessionstiden."
+
+msgid "OS version"
+msgstr "OS-version"
+
+msgid "Page Down"
+msgstr "Sida nedåt"
+
+msgid "Page Up"
+msgstr "Sidan upp"
+
+msgid "Paste"
+msgstr "Klistra in"
+
+msgid "Pitch: %{pitch}"
+msgstr "Presentation: %{pitch}"
+
+msgid "Platform"
+msgstr "Plattform"
+
+msgid ""
+"Please note: Due to platform limitations, Remote Incident Manager cannot "
+"offer uninterrupted keyboard support while VoiceOver is running. Any "
+"keyboard command that aligns with a VoiceOver keyboard command (including"
+" use of the arrow keys while Quick Nav is enabled) will not reach the "
+"remote computer. For the best experience, we recommend disabling "
+"VoiceOver while conducting the remote session."
+msgstr ""
+"Observera: På grund av plattformsbegränsningar kan Remote Incident "
+"Manager inte erbjuda avbrottsfritt tangentbordsstöd medan VoiceOver är "
+"aktiverat. Tangentbordskommandon som sammanfaller med VoiceOver-kommandon"
+" (inklusive användning av piltangenterna när Quick Nav är aktiverat) "
+"kommer inte fram till fjärrdatorn. För bästa möjliga upplevelse "
+"rekommenderar vi att du inaktiverar VoiceOver under fjärrsessionen."
+
+msgid "Pneuma Solutions"
+msgstr "Pneuma Solutions"
+
+msgid "Prompts target"
+msgstr "Mål för uppmaningar"
+
+msgid "Quit App"
+msgstr "Stäng appen"
+
+msgid "Rate: %{rate}"
+msgstr "Betyg: %{rate}"
+
+msgid "Ready when you are."
+msgstr "Jag är redo när du är det."
+
+msgid "Receive Clipboard from Target"
+msgstr "Hämta urklipp från mål"
+
+msgid "Reconnecting"
+msgstr "Återuppta kontakten"
+
+msgid "Reconnecting…"
+msgstr "Återansluter…"
+
+msgid "Release"
+msgstr "Pressmeddelande"
+
+msgid "Release Modifiers"
+msgstr "Frigöringsmodifierare"
+
+msgid "Release modifiers"
+msgstr "Frisläppningsmodifikatorer"
+
+msgid "Remote Accessibility"
+msgstr "Fjärråtkomst"
+
+msgid "Remote accessibility"
+msgstr "Fjärråtkomst"
+
+msgid "Remote desktop"
+msgstr "Fjärrskrivbord"
+
+msgid "Remove this profile"
+msgstr "Ta bort den här profilen"
+
+msgid "Reserving keyword…"
+msgstr "Reserverar nyckelord…"
+
+msgid "Restore defaults"
+msgstr "Återställ standardinställningarna"
+
+msgid "Retry"
+msgstr "Försök igen"
+
+msgid "Retrying…"
+msgstr "Försöker igen…"
+
+msgid "Right Arrow"
+msgstr "Högerpil"
+
+msgid "RIM version"
+msgstr "RIM-version"
+
+msgid "Rotor Actions"
+msgstr "Rotoråtgärder"
+
+msgid "Run"
+msgstr "Kör"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Screen reader"
+msgstr "Skärmläsare"
+
+msgid "Screen reader: %{screen_reader_name}"
+msgstr "Skärmläsare: %{screen_reader_name}"
+
+msgid "Screen reader: %{screen_reader_name} %{version}"
+msgstr "Skärmläsare: %{screen_reader_name} %{version}"
+
+msgid "Search groups"
+msgstr "Sökgrupper"
+
+msgid "Search machines"
+msgstr "Sökmotorer"
+
+msgid "Select All"
+msgstr "Markera allt"
+
+msgid "Self"
+msgstr "Själv"
+
+msgid "Send Clipboard to Target"
+msgstr "Skicka innehållet i urklipp till mål"
+
+msgid "Send message"
+msgstr "Skicka meddelande"
+
+msgid "Send Text to Target"
+msgstr "Skicka textmeddelande till mottagaren"
+
+msgid "Send text to target closed."
+msgstr "Skicka text till mål – avslutat."
+
+msgid "Server profile installed"
+msgstr "Serverprofil installerad"
+
+msgid "Server profile JSON couldn't be decoded: %{error}"
+msgstr "JSON-filen med serverprofilen kunde inte avkodas: %{error}"
+
+msgid "Server profile payload wasn't valid base64url."
+msgstr "Serverprofilens data var inte giltig Base64URL."
+
+msgid "Server profile URL didn't match the expected shape."
+msgstr ""
+"URL:en till serverprofilen stämde inte överens med den förväntade "
+"strukturen."
+
+msgid "Server:"
+msgstr "Server:"
+
+msgid "Session"
+msgstr "Session"
+
+msgid "Session menu"
+msgstr "Sessionsmeny"
+
+msgid "Setting up the connection."
+msgstr "Upprättar anslutningen."
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Shift+Tab"
+msgstr "Skift+Tab"
+
+msgid "Show Desktop"
+msgstr "Visa skrivbordet"
+
+msgid "Show Touch Keyboard"
+msgstr "Visa pekskärms tangentbordet"
+
+msgid "Sign in"
+msgstr "Logga in"
+
+msgid "Sign out"
+msgstr "Logga ut"
+
+msgid "Sign-in did not complete."
+msgstr "Inloggningen kunde inte slutföras."
+
+msgid "Signing in"
+msgstr "Logga in"
+
+msgid ""
+"Something else is using the microphone — a phone call, or another app. "
+"The rest of the session works normally."
+msgstr ""
+"Något annat använder mikrofonen – ett telefonsamtal eller en annan app. I"
+" övrigt fungerar sessionen som vanligt."
+
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+msgid "Space"
+msgstr "Rymden"
+
+msgid "Speak Remote Accessibility output"
+msgstr "Uttal av ”Remote Accessibility”"
+
+msgid "Spotlight"
+msgstr "I fokus"
+
+msgid "Start Menu"
+msgstr "Startmenyn"
+
+msgid "Starting %{tool_name}…"
+msgstr "%{tool_name} startar…"
+
+msgid "Starting remote accessibility…"
+msgstr "Startar fjärråtkomst…"
+
+msgid "Sticky modifiers"
+msgstr "Fasta modifierare"
+
+msgid ""
+"Sticky modifiers stay pressed until you tap them again. With this off, "
+"each modifier releases automatically after the next key."
+msgstr ""
+"Fasta modifieringsknappar förblir intryckta tills du trycker på dem igen."
+" När den här funktionen är avstängd släpps varje modifieringsknapp "
+"automatiskt efter nästa tangenttryckning."
+
+msgid "Stop %{screen_reader_name} on Target"
+msgstr "Stoppa ” %{screen_reader_name}” på Target"
+
+msgid "Stop Remote Accessibility on Target"
+msgstr "Stäng av fjärråtkomst på måldatorn"
+
+msgid "Switch App"
+msgstr "Switch-appen"
+
+msgid "System"
+msgstr "System"
+
+msgid "Tab"
+msgstr "Förlust"
+
+msgid "Target groups"
+msgstr "Målgrupper"
+
+msgid "Target is typing"
+msgstr "Target skriver"
+
+msgid "Target is typing…"
+msgstr "Target skriver…"
+
+msgid "Task Manager"
+msgstr "Aktivitetshanteraren"
+
+msgid "That link didn't say which computer to connect to."
+msgstr "I den länken stod det inte vilken dator man skulle ansluta till."
+
+msgid ""
+"The new server profile named “%{profile_name}” is now installed and "
+"activated."
+msgstr ""
+"Den nya serverprofilen med namnet ” %{profile_name}” är nu installerad "
+"och aktiverad."
+
+msgid ""
+"The remote screen is hidden while this device is being recorded or "
+"mirrored."
+msgstr "Fjärrskärmen döljs medan den här enheten spelas in eller speglas."
+
+msgid "The remote screen is visible again."
+msgstr "Fjärrskärmen syns igen."
+
+msgid "The RIM server did not respond."
+msgstr "RIM-servern svarade inte."
+
+msgid "The server returned an invalid sign-in URL."
+msgstr "Servern returnerade en ogiltig inloggnings-URL."
+
+msgid "The session is not connected yet."
+msgstr "Sessionen är ännu inte ansluten."
+
+msgid ""
+"The target has offered %{file_count} files. Use Transfer Files from "
+"Target to receive them."
+msgstr ""
+"Målet har skickat filer %{file_count}. Använd ”Överför filer från målet” "
+"för att ta emot dem."
+
+msgid ""
+"The target has offered a file. Use Transfer File from Target to receive "
+"it."
+msgstr ""
+"Målet har skickat en fil. Använd ”Överför fil från mål” för att ta emot "
+"den."
+
+msgid "The target is being prompted to grant the session."
+msgstr "Mottagaren uppmanas att godkänna sessionen."
+
+msgid "The target machine did not come back after rebooting."
+msgstr "Målmaskinen startade inte upp igen efter omstarten."
+
+msgid ""
+"The target machine is currently rebooting. The remote session will "
+"continue when the reboot is complete."
+msgstr ""
+"Målcomputern startas om just nu. Fjärrsessionen fortsätter när omstarten "
+"är klar."
+
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr "Texten från målets urklipp finns nu i den här enhetens urklipp."
+
+msgid ""
+"These actions are reachable under VoiceOver's Actions rotor whenever "
+"you're in a session."
+msgstr ""
+"Dessa åtgärder är tillgängliga via VoiceOvers åtgärdsrotor när du "
+"befinner dig i en session."
+
+msgid ""
+"These gestures fire only when VoiceOver is running and focus is on the "
+"touch keyboard area."
+msgstr ""
+"Dessa gester aktiveras endast när VoiceOver är igång och fokus ligger på "
+"pektangentbordet."
+
+msgid "Three-Finger Swipes"
+msgstr "Svep med tre fingrar"
+
+msgid "Toggle Alt"
+msgstr "Växla till alternativtext"
+
+msgid "Toggle Caps Lock"
+msgstr "Aktivera/avaktivera Caps Lock"
+
+msgid "Toggle Control"
+msgstr "Växla kontroll"
+
+msgid "Toggle Insert"
+msgstr "Växla mellan infogning"
+
+msgid "Toggle Mute"
+msgstr "Slå på/av ljudet"
+
+msgid "Toggle Shift"
+msgstr "Växla skift"
+
+msgid "Toggle Sticky Modifiers"
+msgstr "Växla mellan fasta modifierare"
+
+msgid "Toggle Touch Keyboard"
+msgstr "Växla till pekskärms tangentbord"
+
+msgid "Toggle Type Text"
+msgstr "Växla text"
+
+msgid "Toggle Win"
+msgstr "Visa/dölj Win"
+
+msgid "Top level targets"
+msgstr "Övergripande mål"
+
+msgid "Transfer progress"
+msgstr "Överföringsförlopp"
+
+msgid "Transferring %{file_count} files from the target machine."
+msgstr "Överföring av filer från %{file_count} från måldatorn."
+
+msgid "Transferring %{file_count} files to the target machine."
+msgstr "%{file_count}-filer överförs till måldatorn."
+
+msgid "Transferring 1 file from the target machine."
+msgstr "Överföring av 1 fil från måldatorn."
+
+msgid "Transferring 1 file to the target machine."
+msgstr "Överföring av 1 fil till måldatorn."
+
+msgid "Try again"
+msgstr "Försök igen"
+
+msgid "Two-Finger Double-Tap"
+msgstr "Dubbeltryck med två fingrar"
+
+msgid "Type text to send"
+msgstr "Skriv in texten du vill skicka"
+
+msgid "Type text to send to remote"
+msgstr "Skriv in texten som ska skickas till fjärrenheten"
+
+msgid "Unattended access is not available for this account."
+msgstr "Automatisk inloggning är inte tillgänglig för det här kontot."
+
+msgid "Undo"
+msgstr "Ångra"
+
+msgid "Up Arrow"
+msgstr "Uppåtpil"
+
+msgid "Voice conversation"
+msgstr "Röstsamtal"
+
+msgid ""
+"Voice conversation isn't available while you're on a phone call, because "
+"the call is using the microphone. The rest of the session works normally."
+msgstr ""
+"Röstsamtal fungerar inte när du är upptagen med ett telefonsamtal, "
+"eftersom mikrofonen används för det samtalet. Övriga delar av sessionen "
+"fungerar som vanligt."
+
+msgid "VoiceOver rotor actions"
+msgstr "VoiceOver-rotoråtgärder"
+
+msgid "Waiting for target"
+msgstr "Väntar på mål"
+
+msgid "Waiting for target…"
+msgstr "Väntar på mål…"
+
+msgid ""
+"Waiting for the target to enter the keyword:\n"
+"%{keyword}"
+msgstr ""
+"Väntar på att målet ska ange nyckelordet:\n"
+"%{keyword}"
+
+msgid "Waiting for the target to reboot…"
+msgstr "Väntar på att målet ska starta om…"
+
+msgid "Windows version"
+msgstr "Windows-version"
+
+msgid "Your RIM account, now mobile."
+msgstr "Ditt RIM-konto – nu tillgängligt på mobilen."
+
+msgid "Your session has expired. Please sign in again."
+msgstr "Din session har gått ut. Logga in igen."
+
