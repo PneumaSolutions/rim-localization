@@ -1426,3 +1426,745 @@ msgstr ""
 
 msgid "1 second"
 msgstr ""
+
+msgid "%{file_count} files received. Find them in the Files app under %{location}."
+msgstr ""
+
+msgid "%{file_count} files sent to the target."
+msgstr ""
+
+msgid "%{percent} percent"
+msgstr ""
+
+msgid "A session is already in progress. End it before starting another one."
+msgstr ""
+
+msgid "Accessibility Anywhere"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add %{action_name}"
+msgstr ""
+
+msgid "Add a shortcut to bind a key combination to a button in the touch keyboard."
+msgstr ""
+
+msgid ""
+"Add actions from the list below to expose them under the VoiceOver Actions "
+"rotor during a session."
+msgstr ""
+
+msgid "Add shortcut"
+msgstr ""
+
+msgid "AI Tools"
+msgstr ""
+
+msgid "App"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Awaiting approval…"
+msgstr ""
+
+msgid "Backspace"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chat message"
+msgstr ""
+
+msgid "Choose server, currently %{server_name}"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close send text to target"
+msgstr ""
+
+msgid "Close Window"
+msgstr ""
+
+msgid "Connect with keyword"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Connecting…"
+msgstr ""
+
+msgid "Connection details copied."
+msgstr ""
+
+msgid "Connection lost. Reconnecting…"
+msgstr ""
+
+msgid "Context Menu"
+msgstr ""
+
+msgid "Copy All Details"
+msgstr ""
+
+msgid "Could not establish a connection to the target."
+msgstr ""
+
+msgid "Could not load machines"
+msgstr ""
+
+msgid "Could not open %{tool_name}"
+msgstr ""
+
+msgid "Could not open that link."
+msgstr ""
+
+msgid "Could not open the file picker. Please close the session menu and try again."
+msgstr ""
+
+msgid ""
+"Could not open the RIM Dashboard. Please check your connection and try "
+"again."
+msgstr ""
+
+msgid "Could not reach the RIM server."
+msgstr ""
+
+msgid "Could not reconnect to the target."
+msgstr ""
+
+msgid "Could not reserve keyword"
+msgstr ""
+
+msgid "Could not reserve that keyword. Please try again."
+msgstr ""
+
+msgid "Could not start the session with that machine."
+msgstr ""
+
+msgid "Couldn't connect"
+msgstr ""
+
+msgid "Custom Shortcut"
+msgstr ""
+
+msgid "Custom shortcuts"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Disconnect session and go back"
+msgstr ""
+
+msgid "Don't Show this Message Again"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Double tap to connect"
+msgstr ""
+
+msgid "Double tap to open group"
+msgstr ""
+
+msgid "Down Arrow"
+msgstr ""
+
+msgid "e.g. Save"
+msgstr ""
+
+msgid "Edit shortcut"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Ended"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Escape"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "File Explorer"
+msgstr ""
+
+msgid "File received. Find it in the Files app under %{location}."
+msgstr ""
+
+msgid "File sent to the target."
+msgstr ""
+
+msgid "Filter by group"
+msgstr ""
+
+msgid "Finder Search"
+msgstr ""
+
+msgid "Five minutes of session time remaining."
+msgstr ""
+
+msgid "Force Quit"
+msgstr ""
+
+msgid "Gesture Actions"
+msgstr ""
+
+msgid "Gesture actions"
+msgstr ""
+
+msgid "Have the target enter this keyword on their machine."
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide App"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Keep screen awake while connected"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Keyboard Usage Information"
+msgstr ""
+
+msgid "Keyword"
+msgstr ""
+
+msgid "Keyword Session"
+msgstr ""
+
+msgid "Keyword session"
+msgstr ""
+
+msgid "Learn more about RIM Mobile"
+msgstr ""
+
+msgid "Left Arrow"
+msgstr ""
+
+msgid ""
+"Lets RIM connect directly to devices on your local network for a faster, "
+"more reliable session."
+msgstr ""
+
+msgid ""
+"Lets you talk to the person at the remote computer during a voice "
+"conversation. The microphone is used only while a voice conversation is "
+"running, and the audio isn't recorded or stored by this app."
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "macOS version"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid ""
+"Microphone access is required for a voice conversation. Enable it in "
+"Settings."
+msgstr ""
+
+msgid "Microphone disconnected."
+msgstr ""
+
+msgid "Minimize All"
+msgstr ""
+
+msgid "Minimize Window"
+msgstr ""
+
+msgid "Mission Control"
+msgstr ""
+
+msgid "Modifiers"
+msgstr ""
+
+msgid "My Machines"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Negotiating…"
+msgstr ""
+
+msgid "New shortcut"
+msgstr ""
+
+msgid "No machines in this group."
+msgstr ""
+
+msgid "No messages yet."
+msgstr ""
+
+msgid "No registered machines."
+msgstr ""
+
+msgid "No screen reader running"
+msgstr ""
+
+msgid "No shortcuts"
+msgstr ""
+
+msgid "No target groups."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid ""
+"Not available while you're on a phone call — the call is using the "
+"microphone."
+msgstr ""
+
+msgid "On My %{device_model}, %{folder_name}"
+msgstr ""
+
+msgid "One minute of session time remaining."
+msgstr ""
+
+msgid "OS version"
+msgstr ""
+
+msgid "Page Down"
+msgstr ""
+
+msgid "Page Up"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Pitch: %{pitch}"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
+
+msgid ""
+"Please note: Due to platform limitations, Remote Incident Manager cannot "
+"offer uninterrupted keyboard support while VoiceOver is running. Any "
+"keyboard command that aligns with a VoiceOver keyboard command (including "
+"use of the arrow keys while Quick Nav is enabled) will not reach the remote "
+"computer. For the best experience, we recommend disabling VoiceOver while "
+"conducting the remote session."
+msgstr ""
+
+msgid "Pneuma Solutions"
+msgstr ""
+
+msgid "Prompts target"
+msgstr ""
+
+msgid "Quit App"
+msgstr ""
+
+msgid "Rate: %{rate}"
+msgstr ""
+
+msgid "Ready when you are."
+msgstr ""
+
+msgid "Receive Clipboard from Target"
+msgstr ""
+
+msgid "Reconnecting"
+msgstr ""
+
+msgid "Reconnecting…"
+msgstr ""
+
+msgid "Release"
+msgstr ""
+
+msgid "Release Modifiers"
+msgstr ""
+
+msgid "Release modifiers"
+msgstr ""
+
+msgid "Remote Accessibility"
+msgstr ""
+
+msgid "Remote accessibility"
+msgstr ""
+
+msgid "Remote desktop"
+msgstr ""
+
+msgid "Remove this profile"
+msgstr ""
+
+msgid "Reserving keyword…"
+msgstr ""
+
+msgid "Restore defaults"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Retrying…"
+msgstr ""
+
+msgid "Right Arrow"
+msgstr ""
+
+msgid "RIM version"
+msgstr ""
+
+msgid "Rotor Actions"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Screen reader"
+msgstr ""
+
+msgid "Screen reader: %{screen_reader_name}"
+msgstr ""
+
+msgid "Screen reader: %{screen_reader_name} %{version}"
+msgstr ""
+
+msgid "Search groups"
+msgstr ""
+
+msgid "Search machines"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Self"
+msgstr ""
+
+msgid "Send Clipboard to Target"
+msgstr ""
+
+msgid "Send message"
+msgstr ""
+
+msgid "Send Text to Target"
+msgstr ""
+
+msgid "Send text to target closed."
+msgstr ""
+
+msgid "Server profile installed"
+msgstr ""
+
+msgid "Server profile JSON couldn't be decoded: %{error}"
+msgstr ""
+
+msgid "Server profile payload wasn't valid base64url."
+msgstr ""
+
+msgid "Server profile URL didn't match the expected shape."
+msgstr ""
+
+msgid "Server:"
+msgstr ""
+
+msgid "Session"
+msgstr ""
+
+msgid "Session menu"
+msgstr ""
+
+msgid "Setting up the connection."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shift+Tab"
+msgstr ""
+
+msgid "Show Desktop"
+msgstr ""
+
+msgid "Show Touch Keyboard"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Sign-in did not complete."
+msgstr ""
+
+msgid "Signing in"
+msgstr ""
+
+msgid ""
+"Something else is using the microphone — a phone call, or another app. The "
+"rest of the session works normally."
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Speak Remote Accessibility output"
+msgstr ""
+
+msgid "Spotlight"
+msgstr ""
+
+msgid "Start Menu"
+msgstr ""
+
+msgid "Starting %{tool_name}…"
+msgstr ""
+
+msgid "Starting remote accessibility…"
+msgstr ""
+
+msgid "Sticky modifiers"
+msgstr ""
+
+msgid ""
+"Sticky modifiers stay pressed until you tap them again. With this off, each "
+"modifier releases automatically after the next key."
+msgstr ""
+
+msgid "Stop %{screen_reader_name} on Target"
+msgstr ""
+
+msgid "Stop Remote Accessibility on Target"
+msgstr ""
+
+msgid "Switch App"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Target groups"
+msgstr ""
+
+msgid "Target is typing"
+msgstr ""
+
+msgid "Target is typing…"
+msgstr ""
+
+msgid "Task Manager"
+msgstr ""
+
+msgid "That link didn't say which computer to connect to."
+msgstr ""
+
+msgid ""
+"The new server profile named “%{profile_name}” is now installed and "
+"activated."
+msgstr ""
+
+msgid "The remote screen is hidden while this device is being recorded or mirrored."
+msgstr ""
+
+msgid "The remote screen is visible again."
+msgstr ""
+
+msgid "The RIM server did not respond."
+msgstr ""
+
+msgid "The server returned an invalid sign-in URL."
+msgstr ""
+
+msgid "The session is not connected yet."
+msgstr ""
+
+msgid ""
+"The target has offered %{file_count} files. Use Transfer Files from Target "
+"to receive them."
+msgstr ""
+
+msgid "The target has offered a file. Use Transfer File from Target to receive it."
+msgstr ""
+
+msgid "The target is being prompted to grant the session."
+msgstr ""
+
+msgid "The target machine did not come back after rebooting."
+msgstr ""
+
+msgid ""
+"The target machine is currently rebooting. The remote session will continue "
+"when the reboot is complete."
+msgstr ""
+
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr ""
+
+msgid ""
+"These actions are reachable under VoiceOver's Actions rotor whenever you're "
+"in a session."
+msgstr ""
+
+msgid ""
+"These gestures fire only when VoiceOver is running and focus is on the "
+"touch keyboard area."
+msgstr ""
+
+msgid "Three-Finger Swipes"
+msgstr ""
+
+msgid "Toggle Alt"
+msgstr ""
+
+msgid "Toggle Caps Lock"
+msgstr ""
+
+msgid "Toggle Control"
+msgstr ""
+
+msgid "Toggle Insert"
+msgstr ""
+
+msgid "Toggle Mute"
+msgstr ""
+
+msgid "Toggle Shift"
+msgstr ""
+
+msgid "Toggle Sticky Modifiers"
+msgstr ""
+
+msgid "Toggle Touch Keyboard"
+msgstr ""
+
+msgid "Toggle Type Text"
+msgstr ""
+
+msgid "Toggle Win"
+msgstr ""
+
+msgid "Top level targets"
+msgstr ""
+
+msgid "Transfer progress"
+msgstr ""
+
+msgid "Transferring %{file_count} files from the target machine."
+msgstr ""
+
+msgid "Transferring %{file_count} files to the target machine."
+msgstr ""
+
+msgid "Transferring 1 file from the target machine."
+msgstr ""
+
+msgid "Transferring 1 file to the target machine."
+msgstr ""
+
+msgid "Try again"
+msgstr ""
+
+msgid "Two-Finger Double-Tap"
+msgstr ""
+
+msgid "Type text to send"
+msgstr ""
+
+msgid "Type text to send to remote"
+msgstr ""
+
+msgid "Unattended access is not available for this account."
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Up Arrow"
+msgstr ""
+
+msgid "Voice conversation"
+msgstr ""
+
+msgid ""
+"Voice conversation isn't available while you're on a phone call, because "
+"the call is using the microphone. The rest of the session works normally."
+msgstr ""
+
+msgid "VoiceOver rotor actions"
+msgstr ""
+
+msgid "Waiting for target"
+msgstr ""
+
+msgid "Waiting for target…"
+msgstr ""
+
+msgid ""
+"Waiting for the target to enter the keyword:\n"
+"%{keyword}"
+msgstr ""
+
+msgid "Waiting for the target to reboot…"
+msgstr ""
+
+msgid "Windows version"
+msgstr ""
+
+msgid "Your RIM account, now mobile."
+msgstr ""
+
+msgid "Your session has expired. Please sign in again."
+msgstr ""
