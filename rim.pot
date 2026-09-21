@@ -2168,3 +2168,189 @@ msgstr ""
 
 msgid "Your session has expired. Please sign in again."
 msgstr ""
+
+msgid "%{bits_per_second} bps"
+msgstr ""
+
+msgid "%{gigabytes} GB"
+msgstr ""
+
+msgid "%{key_name}, active"
+msgstr ""
+
+msgid "%{kilobits_per_second} kbps"
+msgstr ""
+
+msgid "%{kilobytes} KB"
+msgstr ""
+
+msgid "%{megabits_per_second} Mbps"
+msgstr ""
+
+msgid "%{megabytes} MB"
+msgstr ""
+
+msgid "%{milliseconds} ms"
+msgstr ""
+
+msgid "%{transferred} of %{total}"
+msgstr ""
+
+msgid "A remote session is active."
+msgstr ""
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during a "
+"session."
+msgstr ""
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr ""
+
+msgid "App version"
+msgstr ""
+
+msgid "Available bitrate"
+msgstr ""
+
+msgid "Cancel pending account deletion"
+msgstr ""
+
+msgid "Capture hardware keyboard"
+msgstr ""
+
+msgid "change group"
+msgstr ""
+
+msgid "Chat message from target: %{message}"
+msgstr ""
+
+msgid "choose server"
+msgstr ""
+
+msgid "Common"
+msgstr ""
+
+msgid ""
+"Could not open the account deletion page. Please check your connection and "
+"try again."
+msgstr ""
+
+msgid "Delete account"
+msgstr ""
+
+msgid "Details copied."
+msgstr ""
+
+msgid "Don't ask again"
+msgstr ""
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr ""
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr ""
+
+msgid "Function Keys"
+msgstr ""
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine you "
+"are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts for "
+"its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing into "
+"the app itself. This service reads no screen content and does nothing "
+"outside a session."
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Not available while a call is in progress."
+msgstr ""
+
+msgid "Not now"
+msgstr ""
+
+msgid "Numpad"
+msgstr ""
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Open Accessibility settings"
+msgstr ""
+
+msgid "open group"
+msgstr ""
+
+msgid "open in your browser"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "RIM hardware keyboard"
+msgstr ""
+
+msgid "Session Feedback"
+msgstr ""
+
+msgid "Session is not live yet."
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "TalkBack actions"
+msgstr ""
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're in "
+"a session."
+msgstr ""
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr ""
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, and "
+"they never reach the remote machine."
+msgstr ""
+
+msgid "Unrecognized"
+msgstr ""
+
+msgid "Use the device language"
+msgstr ""
+
+msgid "Using a hardware keyboard?"
+msgstr ""
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can cancel "
+"it any time before then."
+msgstr ""
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before "
+"then."
+msgstr ""
