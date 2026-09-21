@@ -865,7 +865,7 @@ msgid "Please enter the keyword you received from the person helping you."
 msgstr "Voer het trefwoord in dat je hebt gekregen van de persoon die je helpt."
 
 msgid "Connect"
-msgstr "Maak verbinding met"
+msgstr "Verbinding maken"
 
 msgid "Provide help instead"
 msgstr "In plaats daarvan hulp bieden"
@@ -2134,7 +2134,7 @@ msgid "Enter"
 msgstr "Enter"
 
 msgid "Escape"
-msgstr "Ontsnappen"
+msgstr "Escape"
 
 msgid "Failed"
 msgstr "Mislukt"
@@ -2369,7 +2369,7 @@ msgid "Release"
 msgstr "Persbericht"
 
 msgid "Release Modifiers"
-msgstr "Vrijgavemodificatoren"
+msgstr "Modificatietoetsen loslaten"
 
 msgid "Release modifiers"
 msgstr "Vrijgavevoorwaarden"
@@ -2441,10 +2441,10 @@ msgid "Send message"
 msgstr "Bericht verzenden"
 
 msgid "Send Text to Target"
-msgstr "Tekst naar doelgroep verzenden"
+msgstr "Tekst naar doel verzenden"
 
 msgid "Send text to target closed."
-msgstr "Het verzenden van een sms naar het doel is voltooid."
+msgstr "'Tekst naar doel verzenden' gesloten."
 
 msgid "Server profile installed"
 msgstr "Serverprofiel geïnstalleerd"
@@ -2507,7 +2507,7 @@ msgid "Something went wrong"
 msgstr "Er is iets misgegaan"
 
 msgid "Space"
-msgstr "Ruimte"
+msgstr "Spatie"
 
 msgid "Speak Remote Accessibility output"
 msgstr "Voorlezen van de uitvoer van \"Speak Remote Accessibility\""
@@ -2548,7 +2548,7 @@ msgid "System"
 msgstr "Systeem"
 
 msgid "Tab"
-msgstr "Verlies"
+msgstr "Tab"
 
 msgid "Target groups"
 msgstr "Doelgroepen"
@@ -2643,13 +2643,13 @@ msgid "Three-Finger Swipes"
 msgstr "Vegen met drie vingers"
 
 msgid "Toggle Alt"
-msgstr "Alt weergeven/verbergen"
+msgstr "Alt in- en uitschakelen"
 
 msgid "Toggle Caps Lock"
 msgstr "Caps Lock in- of uitschakelen"
 
 msgid "Toggle Control"
-msgstr "Schakelknop"
+msgstr "Ctrl in- en uitschakelen"
 
 msgid "Toggle Insert"
 msgstr "Invoegmodus in-/uitschakelen"
@@ -2667,7 +2667,7 @@ msgid "Toggle Touch Keyboard"
 msgstr "Touch-toetsenbord in- of uitschakelen"
 
 msgid "Toggle Type Text"
-msgstr "Teksttype wijzigen"
+msgstr "'Tekst typen' in- en uitschakelen"
 
 msgid "Toggle Win"
 msgstr "Win in- en uitschakelen"
@@ -2751,10 +2751,10 @@ msgid "Your session has expired. Please sign in again."
 msgstr "Uw sessie is verlopen. Log alstublieft opnieuw in."
 
 msgid "%{bits_per_second} bps"
-msgstr "%{bits_per_second} basispunten"
+msgstr "%{bits_per_second} bps"
 
 msgid "%{gigabytes} GB"
-msgstr "%{gigabytes} Tot ziens"
+msgstr "%{gigabytes} GB"
 
 msgid "%{key_name}, active"
 msgstr "%{key_name}, actief"
@@ -2763,13 +2763,13 @@ msgid "%{kilobits_per_second} kbps"
 msgstr "%{kilobits_per_second} kilobits per seconde"
 
 msgid "%{kilobytes} KB"
-msgstr "%{kilobytes} Kennisbank"
+msgstr "%{kilobytes} KB"
 
 msgid "%{megabits_per_second} Mbps"
 msgstr "%{megabits_per_second} megabit per seconde"
 
 msgid "%{megabytes} MB"
-msgstr "%{megabytes} Mijn broer"
+msgstr "%{megabytes} MB"
 
 msgid "%{milliseconds} ms"
 msgstr "%{milliseconds} ms"
@@ -2881,7 +2881,7 @@ msgid "Not now"
 msgstr "Nu even niet"
 
 msgid "Numpad"
-msgstr "Genummerd"
+msgstr "Numeriek toetsenblok"
 
 msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
 msgstr ""
@@ -2889,13 +2889,13 @@ msgstr ""
 "plaats van het doel"
 
 msgid "On"
-msgstr "Er is"
+msgstr "Aan"
 
 msgid "Open Accessibility settings"
 msgstr "Toegankelijkheidsinstellingen openen"
 
 msgid "open group"
-msgstr "open groep"
+msgstr "groep openen"
 
 msgid "open in your browser"
 msgstr "open in je browser"

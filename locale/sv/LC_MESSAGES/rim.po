@@ -1985,7 +1985,7 @@ msgid "Close"
 msgstr "Stäng"
 
 msgid "Close send text to target"
-msgstr "Stäng – skicka text till mottagaren"
+msgstr "Stäng «Skicka text till fjärrdatorn»"
 
 msgid "Close Window"
 msgstr "Stäng fönstret"
@@ -2102,10 +2102,10 @@ msgid "Ended"
 msgstr "Avslutad"
 
 msgid "Enter"
-msgstr "Tryck på Enter"
+msgstr "Retur"
 
 msgid "Escape"
-msgstr "Fly"
+msgstr "Escape"
 
 msgid "Failed"
 msgstr "Misslyckades"
@@ -2147,7 +2147,7 @@ msgid "Hide App"
 msgstr "Dölj appen"
 
 msgid "Home"
-msgstr "Hem"
+msgstr "Home"
 
 msgid "Idle"
 msgstr "Inaktiv"
@@ -2335,7 +2335,7 @@ msgid "Release"
 msgstr "Pressmeddelande"
 
 msgid "Release Modifiers"
-msgstr "Frigöringsmodifierare"
+msgstr "Släpp modifierartangenterna"
 
 msgid "Release modifiers"
 msgstr "Frisläppningsmodifikatorer"
@@ -2407,10 +2407,10 @@ msgid "Send message"
 msgstr "Skicka meddelande"
 
 msgid "Send Text to Target"
-msgstr "Skicka textmeddelande till mottagaren"
+msgstr "Skicka text till fjärrdatorn"
 
 msgid "Send text to target closed."
-msgstr "Skicka text till mål – avslutat."
+msgstr "«Skicka text till fjärrdatorn» stängt."
 
 msgid "Server profile installed"
 msgstr "Serverprofil installerad"
@@ -2473,7 +2473,7 @@ msgid "Something went wrong"
 msgstr "Något gick fel"
 
 msgid "Space"
-msgstr "Rymden"
+msgstr "Blanksteg"
 
 msgid "Speak Remote Accessibility output"
 msgstr "Uttal av ”Remote Accessibility”"
@@ -2514,7 +2514,7 @@ msgid "System"
 msgstr "System"
 
 msgid "Tab"
-msgstr "Förlust"
+msgstr "Tabb"
 
 msgid "Target groups"
 msgstr "Målgrupper"
@@ -2603,7 +2603,7 @@ msgid "Three-Finger Swipes"
 msgstr "Svep med tre fingrar"
 
 msgid "Toggle Alt"
-msgstr "Växla till alternativtext"
+msgstr "Växla Alt"
 
 msgid "Toggle Caps Lock"
 msgstr "Aktivera/avaktivera Caps Lock"
@@ -2627,7 +2627,7 @@ msgid "Toggle Touch Keyboard"
 msgstr "Växla till pekskärms tangentbord"
 
 msgid "Toggle Type Text"
-msgstr "Växla text"
+msgstr "Växla «Skriv text»"
 
 msgid "Toggle Win"
 msgstr "Visa/dölj Win"
@@ -2711,10 +2711,10 @@ msgid "Your session has expired. Please sign in again."
 msgstr "Din session har gått ut. Logga in igen."
 
 msgid "%{bits_per_second} bps"
-msgstr "%{bits_per_second} baspunkter"
+msgstr "%{bits_per_second} bps"
 
 msgid "%{gigabytes} GB"
-msgstr "%{gigabytes} Hej då"
+msgstr "%{gigabytes} GB"
 
 msgid "%{key_name}, active"
 msgstr "%{key_name}, aktiv"
@@ -2723,13 +2723,13 @@ msgid "%{kilobits_per_second} kbps"
 msgstr "%{kilobits_per_second} kilobit per sekund"
 
 msgid "%{kilobytes} KB"
-msgstr "%{kilobytes} Kunskapsbas"
+msgstr "%{kilobytes} KB"
 
 msgid "%{megabits_per_second} Mbps"
 msgstr "%{megabits_per_second} megabit per sekund"
 
 msgid "%{megabytes} MB"
-msgstr "%{megabytes} Min bror"
+msgstr "%{megabytes} MB"
 
 msgid "%{milliseconds} ms"
 msgstr "%{milliseconds} ms"
@@ -2837,7 +2837,7 @@ msgid "Not now"
 msgstr "Inte just nu"
 
 msgid "Numpad"
-msgstr "Antal"
+msgstr "Numeriskt tangentbord"
 
 msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
 msgstr ""
@@ -2845,13 +2845,13 @@ msgstr ""
 "istället för att gå till målet"
 
 msgid "On"
-msgstr "Det finns"
+msgstr "På"
 
 msgid "Open Accessibility settings"
 msgstr "Öppna tillgänglighetsinställningarna"
 
 msgid "open group"
-msgstr "öppen grupp"
+msgstr "öppna grupp"
 
 msgid "open in your browser"
 msgstr "Öppna i webbläsaren"

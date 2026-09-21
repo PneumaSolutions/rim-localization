@@ -2014,7 +2014,7 @@ msgid "Close"
 msgstr "Cerrar"
 
 msgid "Close send text to target"
-msgstr "Cerrar: enviar mensaje al destinatario"
+msgstr "Cerrar «Enviar texto al objetivo»"
 
 msgid "Close Window"
 msgstr "Cerrar ventana"
@@ -2136,7 +2136,7 @@ msgid "Enter"
 msgstr "Introducir"
 
 msgid "Escape"
-msgstr "Fuga"
+msgstr "Escape"
 
 msgid "Failed"
 msgstr "Fallido"
@@ -2371,7 +2371,7 @@ msgid "Release"
 msgstr "Comunicado"
 
 msgid "Release Modifiers"
-msgstr "Modificadores de liberación"
+msgstr "Soltar las teclas modificadoras"
 
 msgid "Release modifiers"
 msgstr "Modificadores de liberación"
@@ -2443,10 +2443,10 @@ msgid "Send message"
 msgstr "Enviar mensaje"
 
 msgid "Send Text to Target"
-msgstr "Enviar mensaje de texto a «Target»"
+msgstr "Enviar texto al objetivo"
 
 msgid "Send text to target closed."
-msgstr "Envío de mensaje de texto al objetivo finalizado."
+msgstr "Se ha cerrado «Enviar texto al objetivo»."
 
 msgid "Server profile installed"
 msgstr "Perfil de servidor instalado"
@@ -2550,7 +2550,7 @@ msgid "System"
 msgstr "Sistema"
 
 msgid "Tab"
-msgstr "Pérdida"
+msgstr "Tab"
 
 msgid "Target groups"
 msgstr "Grupos destinatarios"
@@ -2644,13 +2644,13 @@ msgid "Three-Finger Swipes"
 msgstr "Deslizamientos con tres dedos"
 
 msgid "Toggle Alt"
-msgstr "Alternar subtítulos"
+msgstr "Alternar Alt"
 
 msgid "Toggle Caps Lock"
 msgstr "Activar/desactivar el bloqueo de mayúsculas"
 
 msgid "Toggle Control"
-msgstr "Control de alternancia"
+msgstr "Alternar Control"
 
 msgid "Toggle Insert"
 msgstr "Activar/desactivar la inserción"
@@ -2668,7 +2668,7 @@ msgid "Toggle Touch Keyboard"
 msgstr "Activar/desactivar el teclado táctil"
 
 msgid "Toggle Type Text"
-msgstr "Texto de tipo «Toggle»"
+msgstr "Alternar «Escribir texto»"
 
 msgid "Toggle Win"
 msgstr "Alternar Win"
@@ -2752,25 +2752,25 @@ msgid "Your session has expired. Please sign in again."
 msgstr "Tu sesión ha caducado. Inicia sesión de nuevo."
 
 msgid "%{bits_per_second} bps"
-msgstr "%{bits_per_second} puntos básicos"
+msgstr "%{bits_per_second} bps"
 
 msgid "%{gigabytes} GB"
-msgstr "%{gigabytes} Adiós"
+msgstr "%{gigabytes} GB"
 
 msgid "%{key_name}, active"
-msgstr "%{key_name} años, en activo"
+msgstr "%{key_name}, activo"
 
 msgid "%{kilobits_per_second} kbps"
 msgstr "%{kilobits_per_second} kilobits por segundo"
 
 msgid "%{kilobytes} KB"
-msgstr "%{kilobytes} Base de conocimientos"
+msgstr "%{kilobytes} KB"
 
 msgid "%{megabits_per_second} Mbps"
 msgstr "%{megabits_per_second} megabits por segundo"
 
 msgid "%{megabytes} MB"
-msgstr "%{megabytes} Mi hermano"
+msgstr "%{megabytes} MB"
 
 msgid "%{milliseconds} ms"
 msgstr "%{milliseconds} ms"
@@ -2882,7 +2882,7 @@ msgid "Not now"
 msgstr "Ahora no"
 
 msgid "Numpad"
-msgstr "Numerado"
+msgstr "Teclado numérico"
 
 msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
 msgstr ""
@@ -2890,13 +2890,13 @@ msgstr ""
 "TalkBack en lugar de al elemento de destino"
 
 msgid "On"
-msgstr "Hay"
+msgstr "Activado"
 
 msgid "Open Accessibility settings"
 msgstr "Abrir la configuración de accesibilidad"
 
 msgid "open group"
-msgstr "grupo abierto"
+msgstr "abrir grupo"
 
 msgid "open in your browser"
 msgstr "abrir en tu navegador"
