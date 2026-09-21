@@ -2744,3 +2744,223 @@ msgstr "Sua conta RIM, agora no celular."
 msgid "Your session has expired. Please sign in again."
 msgstr "Sua sessão expirou. Faça login novamente."
 
+msgid "%{bits_per_second} bps"
+msgstr "%{bits_per_second} pontos-base"
+
+msgid "%{gigabytes} GB"
+msgstr "%{gigabytes} Adeus"
+
+msgid "%{key_name}, active"
+msgstr "%{key_name} anos, em atividade"
+
+msgid "%{kilobits_per_second} kbps"
+msgstr "%{kilobits_per_second} kilobits por segundo"
+
+msgid "%{kilobytes} KB"
+msgstr "%{kilobytes} Base de Conhecimento"
+
+msgid "%{megabits_per_second} Mbps"
+msgstr "%{megabits_per_second} megabits por segundo"
+
+msgid "%{megabytes} MB"
+msgstr "%{megabytes} Meu irmão"
+
+msgid "%{milliseconds} ms"
+msgstr "%{milliseconds} ms"
+
+msgid "%{transferred} of %{total}"
+msgstr "%{transferred} de %{total}"
+
+msgid "A remote session is active."
+msgstr "Há uma sessão remota ativa."
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during"
+" a session."
+msgstr ""
+"Adicione ações da lista abaixo para disponibilizá-las como ações do "
+"TalkBack durante uma sessão."
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr "Android %{android_version} (API %{api_level})"
+
+msgid "App version"
+msgstr "Versão do aplicativo"
+
+msgid "Available bitrate"
+msgstr "Taxa de bits disponível"
+
+msgid "Cancel pending account deletion"
+msgstr "Cancelar a exclusão pendente da conta"
+
+msgid "Capture hardware keyboard"
+msgstr "Capturar teclado físico"
+
+msgid "change group"
+msgstr "alterar grupo"
+
+msgid "Chat message from target: %{message}"
+msgstr "Mensagem de chat do alvo: %{message}"
+
+msgid "choose server"
+msgstr "escolha o servidor"
+
+msgid "Common"
+msgstr "Comum"
+
+msgid ""
+"Could not open the account deletion page. Please check your connection "
+"and try again."
+msgstr ""
+"Não foi possível abrir a página de exclusão da conta. Verifique sua "
+"conexão e tente novamente."
+
+msgid "Delete account"
+msgstr "Excluir conta"
+
+msgid "Details copied."
+msgstr "Detalhes copiados."
+
+msgid "Don't ask again"
+msgstr "Não pergunte de novo"
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr ""
+"A transferência do arquivo foi concluída. O arquivo está em "
+"%{destination}."
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr ""
+"A transferência de arquivos foi concluída. Os arquivos estão em "
+"%{destination}."
+
+msgid "Function Keys"
+msgstr "Teclas de função"
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine "
+"you are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts "
+"for its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing "
+"into the app itself. This service reads no screen content and does "
+"nothing outside a session."
+msgstr ""
+"Permita que o Remote Incident Manager envie as teclas do seu teclado "
+"físico para a máquina que você está controlando.\n"
+"\n"
+"Sem isso, o TalkBack utiliza as teclas de seta, a tecla Tab e seus "
+"próprios atalhos para sua própria navegação, e elas nunca chegam à "
+"máquina remota.\n"
+"\n"
+"As teclas só são enviadas enquanto a sessão estiver conectada e você não "
+"estiver digitando no próprio aplicativo. Este serviço não lê o conteúdo "
+"da tela e não realiza nenhuma ação fora da sessão."
+
+msgid "Move down"
+msgstr "Desça"
+
+msgid "Move up"
+msgstr "Subir"
+
+msgid "Navigation"
+msgstr "Navegação"
+
+msgid "Not available while a call is in progress."
+msgstr "Não disponível enquanto houver uma chamada em andamento."
+
+msgid "Not now"
+msgstr "Agora não"
+
+msgid "Numpad"
+msgstr "Número"
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr ""
+"Desativado — teclas como as setas e a tecla Tab acionam o TalkBack em vez"
+" de selecionar o destino"
+
+msgid "On"
+msgstr "Há"
+
+msgid "Open Accessibility settings"
+msgstr "Abrir as configurações de acessibilidade"
+
+msgid "open group"
+msgstr "grupo aberto"
+
+msgid "open in your browser"
+msgstr "abrir no seu navegador"
+
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgid "RIM hardware keyboard"
+msgstr "Teclado físico da RIM"
+
+msgid "Session Feedback"
+msgstr "Feedback sobre a sessão"
+
+msgid "Session is not live yet."
+msgstr "A sessão ainda não começou."
+
+msgid "Shortcuts"
+msgstr "Atalhos"
+
+msgid "TalkBack actions"
+msgstr "Ações do TalkBack"
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're "
+"in a session."
+msgstr ""
+"Essas ações podem ser acessadas no menu “Ações” do TalkBack sempre que "
+"você estiver em uma sessão."
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr ""
+"Este servidor não pode ser utilizado: não foi possível ler seu "
+"certificado."
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, "
+"and they never reach the remote machine."
+msgstr ""
+"Para enviar os comandos do teclado para a máquina que você está "
+"controlando, ative a opção “Teclado físico RIM” nas configurações de "
+"Acessibilidade.\n"
+"\n"
+"Sem isso, o TalkBack mantém as setas, a tecla Tab e seus próprios "
+"atalhos, e esses comandos nunca chegam à máquina remota."
+
+msgid "Unrecognized"
+msgstr "Não reconhecido"
+
+msgid "Use the device language"
+msgstr "Use o idioma do dispositivo"
+
+msgid "Using a hardware keyboard?"
+msgstr "Está usando um teclado físico?"
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can "
+"cancel it any time before then."
+msgstr ""
+"Sua conta está programada para ser excluída em %{deletion_date}. Você "
+"pode cancelar a exclusão a qualquer momento antes dessa data."
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before"
+" then."
+msgstr ""
+"Sua conta está programada para ser excluída. Você pode cancelar a "
+"exclusão a qualquer momento antes dessa data."
+

@@ -2710,3 +2710,217 @@ msgstr "Ditt RIM-konto – nu tillgängligt på mobilen."
 msgid "Your session has expired. Please sign in again."
 msgstr "Din session har gått ut. Logga in igen."
 
+msgid "%{bits_per_second} bps"
+msgstr "%{bits_per_second} baspunkter"
+
+msgid "%{gigabytes} GB"
+msgstr "%{gigabytes} Hej då"
+
+msgid "%{key_name}, active"
+msgstr "%{key_name}, aktiv"
+
+msgid "%{kilobits_per_second} kbps"
+msgstr "%{kilobits_per_second} kilobit per sekund"
+
+msgid "%{kilobytes} KB"
+msgstr "%{kilobytes} Kunskapsbas"
+
+msgid "%{megabits_per_second} Mbps"
+msgstr "%{megabits_per_second} megabit per sekund"
+
+msgid "%{megabytes} MB"
+msgstr "%{megabytes} Min bror"
+
+msgid "%{milliseconds} ms"
+msgstr "%{milliseconds} ms"
+
+msgid "%{transferred} of %{total}"
+msgstr "%{transferred} från %{total}"
+
+msgid "A remote session is active."
+msgstr "En fjärrsession är aktiv."
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during"
+" a session."
+msgstr ""
+"Lägg till åtgärder från listan nedan för att göra dem tillgängliga som "
+"TalkBack-åtgärder under en session."
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr "Android %{android_version} (API %{api_level})"
+
+msgid "App version"
+msgstr "Appversion"
+
+msgid "Available bitrate"
+msgstr "Tillgänglig bithastighet"
+
+msgid "Cancel pending account deletion"
+msgstr "Avbryt pågående radering av konto"
+
+msgid "Capture hardware keyboard"
+msgstr "Anslut ett fysiskt tangentbord"
+
+msgid "change group"
+msgstr "byta grupp"
+
+msgid "Chat message from target: %{message}"
+msgstr "Chatmeddelande från målet: %{message}"
+
+msgid "choose server"
+msgstr "välj server"
+
+msgid "Common"
+msgstr "Vanligt"
+
+msgid ""
+"Could not open the account deletion page. Please check your connection "
+"and try again."
+msgstr ""
+"Det gick inte att öppna sidan för att radera kontot. Kontrollera din "
+"internetanslutning och försök igen."
+
+msgid "Delete account"
+msgstr "Ta bort konto"
+
+msgid "Details copied."
+msgstr "Uppgifterna har kopierats."
+
+msgid "Don't ask again"
+msgstr "Fråga inte igen"
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr "Filöverföringen är klar. Filen finns i %{destination}."
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr "Filöverföringen är klar. Filerna finns i mappen %{destination}."
+
+msgid "Function Keys"
+msgstr "Funktionsknappar"
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine "
+"you are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts "
+"for its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing "
+"into the app itself. This service reads no screen content and does "
+"nothing outside a session."
+msgstr ""
+"Låt Remote Incident Manager vidarebefordra inmatningen från ditt fysiska "
+"tangentbord till den dator du styr.\n"
+"\n"
+"Utan detta tar TalkBack över piltangenterna, Tab-tangenten och sina egna "
+"kortkommandon för sin egen navigering, och de når aldrig den fjärrstyrda "
+"datorn.\n"
+"\n"
+"Tangenttryckningarna skickas endast medan en session är ansluten och du "
+"inte skriver i själva appen. Denna tjänst läser inte av något "
+"skärminnehåll och utför inga åtgärder utanför en session."
+
+msgid "Move down"
+msgstr "Gå nedåt"
+
+msgid "Move up"
+msgstr "Gå uppåt"
+
+msgid "Navigation"
+msgstr "Navigering"
+
+msgid "Not available while a call is in progress."
+msgstr "Fungerar inte medan ett samtal pågår."
+
+msgid "Not now"
+msgstr "Inte just nu"
+
+msgid "Numpad"
+msgstr "Antal"
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr ""
+"Av – tangenter som pilknapparna och Tab-tangenten aktiverar TalkBack "
+"istället för att gå till målet"
+
+msgid "On"
+msgstr "Det finns"
+
+msgid "Open Accessibility settings"
+msgstr "Öppna tillgänglighetsinställningarna"
+
+msgid "open group"
+msgstr "öppen grupp"
+
+msgid "open in your browser"
+msgstr "Öppna i webbläsaren"
+
+msgid "Privacy Policy"
+msgstr "Integritetspolicy"
+
+msgid "Refresh"
+msgstr "Uppdatera"
+
+msgid "RIM hardware keyboard"
+msgstr "RIM:s fysiska tangentbord"
+
+msgid "Session Feedback"
+msgstr "Feedback på sessionen"
+
+msgid "Session is not live yet."
+msgstr "Sessionen har inte börjat än."
+
+msgid "Shortcuts"
+msgstr "Genvägar"
+
+msgid "TalkBack actions"
+msgstr "TalkBack-åtgärder"
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're "
+"in a session."
+msgstr ""
+"Dessa åtgärder kan nås via TalkBacks åtgärdsmeny när du befinner dig i en"
+" session."
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr "Den här servern kan inte användas: det gick inte att läsa dess certifikat."
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, "
+"and they never reach the remote machine."
+msgstr ""
+"För att skicka tangentbordet till den dator du styr ska du aktivera ”RIM-"
+"hårdvarutangentbord” i inställningarna för tillgänglighet.\n"
+"\n"
+"Utan den funktionen behåller TalkBack piltangenterna, Tab-tangenten och "
+"sina egna kortkommandon, och dessa skickas aldrig vidare till den "
+"fjärrstyrda datorn."
+
+msgid "Unrecognized"
+msgstr "Oidentifierad"
+
+msgid "Use the device language"
+msgstr "Använd enhetens språk"
+
+msgid "Using a hardware keyboard?"
+msgstr "Använder du ett fysiskt tangentbord?"
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can "
+"cancel it any time before then."
+msgstr ""
+"Ditt konto är planerat att raderas den %{deletion_date}. Du kan avbryta "
+"detta när som helst innan dess."
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before"
+" then."
+msgstr ""
+"Ditt konto kommer att raderas. Du kan avbryta processen när som helst "
+"innan dess."
+

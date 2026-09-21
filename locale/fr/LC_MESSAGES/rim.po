@@ -2805,3 +2805,223 @@ msgstr "Votre compte RIM, désormais accessible depuis votre mobile."
 msgid "Your session has expired. Please sign in again."
 msgstr "Votre session a expiré. Veuillez vous reconnecter."
 
+msgid "%{bits_per_second} bps"
+msgstr "%{bits_per_second} points de base"
+
+msgid "%{gigabytes} GB"
+msgstr "%{gigabytes} Au revoir"
+
+msgid "%{key_name}, active"
+msgstr "%{key_name} ans, en activité"
+
+msgid "%{kilobits_per_second} kbps"
+msgstr "%{kilobits_per_second} kilobits par seconde"
+
+msgid "%{kilobytes} KB"
+msgstr "%{kilobytes} Base de connaissances"
+
+msgid "%{megabits_per_second} Mbps"
+msgstr "%{megabits_per_second} mégabits par seconde"
+
+msgid "%{megabytes} MB"
+msgstr "%{megabytes} Mon frère"
+
+msgid "%{milliseconds} ms"
+msgstr "%{milliseconds} ms"
+
+msgid "%{transferred} of %{total}"
+msgstr "%{transferred} de %{total}"
+
+msgid "A remote session is active."
+msgstr "Une session à distance est en cours."
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during"
+" a session."
+msgstr ""
+"Ajoutez les actions de la liste ci-dessous pour les rendre disponibles en"
+" tant qu'actions TalkBack pendant une session."
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr "Android %{android_version} (API %{api_level})"
+
+msgid "App version"
+msgstr "Version de l'application"
+
+msgid "Available bitrate"
+msgstr "Débit binaire disponible"
+
+msgid "Cancel pending account deletion"
+msgstr "Annuler la suppression du compte en attente"
+
+msgid "Capture hardware keyboard"
+msgstr "Clavier physique de capture"
+
+msgid "change group"
+msgstr "changer de groupe"
+
+msgid "Chat message from target: %{message}"
+msgstr "Message de chat de la cible : %{message}"
+
+msgid "choose server"
+msgstr "choisir un serveur"
+
+msgid "Common"
+msgstr "Courant"
+
+msgid ""
+"Could not open the account deletion page. Please check your connection "
+"and try again."
+msgstr ""
+"Impossible d'ouvrir la page de suppression de compte. Vérifiez votre "
+"connexion et réessayez."
+
+msgid "Delete account"
+msgstr "Supprimer le compte"
+
+msgid "Details copied."
+msgstr "Les informations ont été copiées."
+
+msgid "Don't ask again"
+msgstr "Ne me le demande pas encore une fois"
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr ""
+"Le transfert du fichier est terminé. Le fichier se trouve dans le dossier"
+" « %{destination} »."
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr ""
+"Le transfert de fichiers est terminé. Les fichiers se trouvent dans le "
+"dossier « %{destination} »."
+
+msgid "Function Keys"
+msgstr "Touches de fonction"
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine "
+"you are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts "
+"for its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing "
+"into the app itself. This service reads no screen content and does "
+"nothing outside a session."
+msgstr ""
+"Permettez à Remote Incident Manager d'envoyer les commandes de votre "
+"clavier physique à la machine que vous contrôlez.\n"
+"\n"
+"Sans cela, TalkBack utilise les touches fléchées, la touche Tab et ses "
+"propres raccourcis pour sa navigation, et ces commandes ne parviennent "
+"jamais à la machine distante.\n"
+"\n"
+"Les touches ne sont envoyées que lorsque la session est active et que "
+"vous ne tapez pas directement dans l'application. Ce service ne lit pas "
+"le contenu de l'écran et n'effectue aucune action en dehors d'une "
+"session."
+
+msgid "Move down"
+msgstr "Descendre"
+
+msgid "Move up"
+msgstr "Remonter"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Not available while a call is in progress."
+msgstr "Cette fonction n'est pas disponible pendant un appel."
+
+msgid "Not now"
+msgstr "Pas maintenant"
+
+msgid "Numpad"
+msgstr "Nombre"
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr ""
+"Désactivé — les touches telles que les flèches et la touche Tab activent "
+"TalkBack au lieu d'accéder à la cible"
+
+msgid "On"
+msgstr "Il y a"
+
+msgid "Open Accessibility settings"
+msgstr "Ouvrir les paramètres d'accessibilité"
+
+msgid "open group"
+msgstr "groupe ouvert"
+
+msgid "open in your browser"
+msgstr "ouvrir dans votre navigateur"
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "Refresh"
+msgstr "Actualiser"
+
+msgid "RIM hardware keyboard"
+msgstr "Clavier physique RIM"
+
+msgid "Session Feedback"
+msgstr "Commentaires sur la session"
+
+msgid "Session is not live yet."
+msgstr "La session n'est pas encore en ligne."
+
+msgid "Shortcuts"
+msgstr "Raccourcis"
+
+msgid "TalkBack actions"
+msgstr "Actions TalkBack"
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're "
+"in a session."
+msgstr ""
+"Ces actions sont accessibles depuis le menu « Actions » de TalkBack dès "
+"que vous êtes en session."
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr "Ce serveur ne peut pas être utilisé : son certificat n'a pas pu être lu."
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, "
+"and they never reach the remote machine."
+msgstr ""
+"Pour transmettre les commandes de votre clavier à la machine que vous "
+"contrôlez, activez l'option « Clavier matériel RIM » dans les paramètres "
+"d'accessibilité.\n"
+"\n"
+"Sans cette option, TalkBack conserve les touches fléchées, la touche Tab "
+"et ses propres raccourcis, et ceux-ci ne sont jamais transmis à la "
+"machine distante."
+
+msgid "Unrecognized"
+msgstr "Non reconnu"
+
+msgid "Use the device language"
+msgstr "Utiliser la langue de l'appareil"
+
+msgid "Using a hardware keyboard?"
+msgstr "Vous utilisez un clavier physique ?"
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can "
+"cancel it any time before then."
+msgstr ""
+"La suppression de votre compte est prévue le %{deletion_date}. Vous "
+"pouvez annuler cette suppression à tout moment avant cette date."
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before"
+" then."
+msgstr ""
+"La suppression de votre compte est prévue. Vous pouvez l'annuler à tout "
+"moment avant cette date."
+

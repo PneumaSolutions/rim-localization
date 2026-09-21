@@ -2750,3 +2750,223 @@ msgstr "Uw RIM-account, nu ook mobiel."
 msgid "Your session has expired. Please sign in again."
 msgstr "Uw sessie is verlopen. Log alstublieft opnieuw in."
 
+msgid "%{bits_per_second} bps"
+msgstr "%{bits_per_second} basispunten"
+
+msgid "%{gigabytes} GB"
+msgstr "%{gigabytes} Tot ziens"
+
+msgid "%{key_name}, active"
+msgstr "%{key_name}, actief"
+
+msgid "%{kilobits_per_second} kbps"
+msgstr "%{kilobits_per_second} kilobits per seconde"
+
+msgid "%{kilobytes} KB"
+msgstr "%{kilobytes} Kennisbank"
+
+msgid "%{megabits_per_second} Mbps"
+msgstr "%{megabits_per_second} megabit per seconde"
+
+msgid "%{megabytes} MB"
+msgstr "%{megabytes} Mijn broer"
+
+msgid "%{milliseconds} ms"
+msgstr "%{milliseconds} ms"
+
+msgid "%{transferred} of %{total}"
+msgstr "%{transferred} van %{total}"
+
+msgid "A remote session is active."
+msgstr "Er is een sessie op afstand actief."
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during"
+" a session."
+msgstr ""
+"Voeg acties uit de onderstaande lijst toe om ze tijdens een sessie als "
+"TalkBack-acties beschikbaar te maken."
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr "Android %{android_version} (API %{api_level})"
+
+msgid "App version"
+msgstr "App-versie"
+
+msgid "Available bitrate"
+msgstr "Beschikbare bitsnelheid"
+
+msgid "Cancel pending account deletion"
+msgstr "Het verwijderen van een account dat in behandeling is, annuleren"
+
+msgid "Capture hardware keyboard"
+msgstr "Hardware-toetsenbord vastleggen"
+
+msgid "change group"
+msgstr "van groep wisselen"
+
+msgid "Chat message from target: %{message}"
+msgstr "Chatbericht van de doelpersoon: %{message}"
+
+msgid "choose server"
+msgstr "server kiezen"
+
+msgid "Common"
+msgstr "Algemeen"
+
+msgid ""
+"Could not open the account deletion page. Please check your connection "
+"and try again."
+msgstr ""
+"De pagina voor het verwijderen van het account kon niet worden geopend. "
+"Controleer je internetverbinding en probeer het opnieuw."
+
+msgid "Delete account"
+msgstr "Account verwijderen"
+
+msgid "Details copied."
+msgstr "Details gekopieerd."
+
+msgid "Don't ask again"
+msgstr "Vraag het niet nog een keer"
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr ""
+"De bestandsoverdracht is voltooid. Het bestand staat in de map "
+"%{destination}."
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr ""
+"De bestandsoverdracht is voltooid. De bestanden staan in de map "
+"%{destination}."
+
+msgid "Function Keys"
+msgstr "Functietoetsen"
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine "
+"you are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts "
+"for its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing "
+"into the app itself. This service reads no screen content and does "
+"nothing outside a session."
+msgstr ""
+"Zorg ervoor dat Remote Incident Manager je hardware-toetsenbord "
+"doorstuurt naar de computer die je bedient.\n"
+"\n"
+"Zonder deze instelling gebruikt TalkBack de pijltjestoetsen, de Tab-toets"
+" en zijn eigen sneltoetsen voor zijn eigen navigatie, waardoor deze nooit"
+" bij de externe computer terechtkomen.\n"
+"\n"
+"Toetsaanslagen worden alleen verzonden zolang er een sessie actief is en "
+"u niet in de app zelf typt. Deze dienst leest geen scherminhoud en voert "
+"buiten een sessie om geen acties uit."
+
+msgid "Move down"
+msgstr "Naar beneden gaan"
+
+msgid "Move up"
+msgstr "Omhoog"
+
+msgid "Navigation"
+msgstr "Navigatie"
+
+msgid "Not available while a call is in progress."
+msgstr "Niet beschikbaar terwijl er een gesprek gaande is."
+
+msgid "Not now"
+msgstr "Nu even niet"
+
+msgid "Numpad"
+msgstr "Genummerd"
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr ""
+"Uit — toetsen zoals de pijltjestoetsen en Tab activeren TalkBack in "
+"plaats van het doel"
+
+msgid "On"
+msgstr "Er is"
+
+msgid "Open Accessibility settings"
+msgstr "Toegankelijkheidsinstellingen openen"
+
+msgid "open group"
+msgstr "open groep"
+
+msgid "open in your browser"
+msgstr "open in je browser"
+
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "RIM hardware keyboard"
+msgstr "RIM-hardware-toetsenbord"
+
+msgid "Session Feedback"
+msgstr "Feedback over de sessie"
+
+msgid "Session is not live yet."
+msgstr "De sessie is nog niet live."
+
+msgid "Shortcuts"
+msgstr "Snelkoppelingen"
+
+msgid "TalkBack actions"
+msgstr "TalkBack-acties"
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're "
+"in a session."
+msgstr ""
+"Deze acties zijn toegankelijk via het menu ‘Acties’ van TalkBack wanneer "
+"je in een sessie bent."
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr ""
+"Deze server kan niet worden gebruikt: het certificaat kon niet worden "
+"gelezen."
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, "
+"and they never reach the remote machine."
+msgstr ""
+"Om je toetsenbord naar de computer te sturen die je bedient, schakel je "
+"‘RIM-hardwaretoetsenbord’ in bij de instellingen voor toegankelijkheid.\n"
+"\n"
+"Zonder deze instelling behoudt TalkBack de pijltjestoetsen, de Tab-toets "
+"en zijn eigen sneltoetsen, en worden deze nooit naar de externe computer "
+"doorgestuurd."
+
+msgid "Unrecognized"
+msgstr "Niet herkend"
+
+msgid "Use the device language"
+msgstr "Gebruik de taal van het apparaat"
+
+msgid "Using a hardware keyboard?"
+msgstr "Gebruik je een fysiek toetsenbord?"
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can "
+"cancel it any time before then."
+msgstr ""
+"Je account staat gepland om te worden verwijderd op %{deletion_date}. Je "
+"kunt dit op elk moment vóór die datum annuleren."
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before"
+" then."
+msgstr ""
+"Uw account staat gepland om te worden verwijderd. U kunt dit op elk "
+"moment vóór die datum annuleren."
+

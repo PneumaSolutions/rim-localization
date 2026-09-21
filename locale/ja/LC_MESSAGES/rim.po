@@ -2378,3 +2378,198 @@ msgstr "RIMアカウントが、モバイルでもご利用いただけるよう
 msgid "Your session has expired. Please sign in again."
 msgstr "セッションの有効期限が切れました。再度ログインしてください。"
 
+msgid "%{bits_per_second} bps"
+msgstr "%{bits_per_second} ベーシス・ポイント"
+
+msgid "%{gigabytes} GB"
+msgstr "%{gigabytes} さようなら"
+
+msgid "%{key_name}, active"
+msgstr "%{key_name}、稼働中"
+
+msgid "%{kilobits_per_second} kbps"
+msgstr "%{kilobits_per_second} キロビット毎秒"
+
+msgid "%{kilobytes} KB"
+msgstr "%{kilobytes} ナレッジベース"
+
+msgid "%{megabits_per_second} Mbps"
+msgstr "%{megabits_per_second} メガビット毎秒"
+
+msgid "%{megabytes} MB"
+msgstr "%{megabytes} 私の兄"
+
+msgid "%{milliseconds} ms"
+msgstr "%{milliseconds} ms"
+
+msgid "%{transferred} of %{total}"
+msgstr "%{transferred} %{total} より"
+
+msgid "A remote session is active."
+msgstr "リモートセッションがアクティブです。"
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during"
+" a session."
+msgstr "以下のリストからアクションを追加すると、セッション中にそれらをTalkBackアクションとして利用できるようになります。"
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr "Android %{android_version}（API %{api_level}）"
+
+msgid "App version"
+msgstr "アプリ版"
+
+msgid "Available bitrate"
+msgstr "利用可能なビットレート"
+
+msgid "Cancel pending account deletion"
+msgstr "保留中のアカウント削除をキャンセルする"
+
+msgid "Capture hardware keyboard"
+msgstr "ハードウェアキーボードの入力"
+
+msgid "change group"
+msgstr "グループを変更する"
+
+msgid "Chat message from target: %{message}"
+msgstr "対象者からのチャットメッセージ： %{message}"
+
+msgid "choose server"
+msgstr "サーバーを選択してください"
+
+msgid "Common"
+msgstr "一般的な"
+
+msgid ""
+"Could not open the account deletion page. Please check your connection "
+"and try again."
+msgstr "アカウント削除ページを開くことができませんでした。接続状態を確認してから、もう一度お試しください。"
+
+msgid "Delete account"
+msgstr "アカウントを削除する"
+
+msgid "Details copied."
+msgstr "詳細をコピーしました。"
+
+msgid "Don't ask again"
+msgstr "もう二度と聞いてこないで"
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr "ファイルの転送が完了しました。ファイルは %{destination} にあります。"
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr "ファイルの転送が完了しました。ファイルは %{destination} にあります。"
+
+msgid "Function Keys"
+msgstr "ファンクションキー"
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine "
+"you are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts "
+"for its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing "
+"into the app itself. This service reads no screen content and does "
+"nothing outside a session."
+msgstr ""
+"Lets Remote Incident Manager を使用して、お使いのハードウェアキーボードの入力を、制御対象のマシンに送信しましょう。\n"
+"\n"
+"これを行わないと、TalkBack が矢印キー、Tab "
+"キー、および独自のショートカットキーをナビゲーションに割り当ててしまうため、それらの入力はリモートマシンに届きません。\n"
+"\n"
+"キーの送信は、セッションが接続されており、アプリ自体に入力を行っていない間のみ行われます。このサービスは画面の内容を読み取らず、セッション外では一切動作しません。"
+
+msgid "Move down"
+msgstr "下に移動"
+
+msgid "Move up"
+msgstr "上に移動"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Not available while a call is in progress."
+msgstr "通話中はご利用いただけません。"
+
+msgid "Not now"
+msgstr "今はいい"
+
+msgid "Numpad"
+msgstr "番号"
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr "オフ — 矢印キーやTabキーなどのキー操作が、対象ではなくTalkBackに割り当てられる"
+
+msgid "On"
+msgstr "ある"
+
+msgid "Open Accessibility settings"
+msgstr "「アクセシビリティ」設定を開く"
+
+msgid "open group"
+msgstr "オープングループ"
+
+msgid "open in your browser"
+msgstr "ブラウザで開く"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "RIM hardware keyboard"
+msgstr "RIMのハードウェアキーボード"
+
+msgid "Session Feedback"
+msgstr "セッションのフィードバック"
+
+msgid "Session is not live yet."
+msgstr "セッションはまだ開始されていません。"
+
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgid "TalkBack actions"
+msgstr "TalkBackのアクション"
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're "
+"in a session."
+msgstr "これらの操作は、セッション中にいつでもTalkBackの「アクション」メニューから実行できます。"
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr "このサーバーは使用できません。証明書を読み取ることができませんでした。"
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, "
+"and they never reach the remote machine."
+msgstr ""
+"操作対象のマシンにキーボード入力を送信するには、アクセシビリティ設定で「RIMハードウェアキーボード」を有効にしてください。\n"
+"\n"
+"これを有効にしないと、TalkBackが矢印キー、Tabキー、および独自のショートカットを保持し、それらはリモートマシンに送信されません。"
+
+msgid "Unrecognized"
+msgstr "認識されない"
+
+msgid "Use the device language"
+msgstr "デバイスの言語を使用する"
+
+msgid "Using a hardware keyboard?"
+msgstr "ハードウェアキーボードをお使いですか？"
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can "
+"cancel it any time before then."
+msgstr "%{deletion_date} に、お客様のアカウントが削除される予定です。それまでの間、いつでも削除をキャンセルすることができます。"
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before"
+" then."
+msgstr "お客様のアカウントは削除される予定です。削除が行われるまでは、いつでもキャンセルすることができます。"
+
