@@ -1685,7 +1685,7 @@ msgid "Close"
 msgstr "閉じる"
 
 msgid "Close send text to target"
-msgstr "閉じる　対象にテキストを送信"
+msgstr "「ターゲットへのテキスト送信」を閉じる"
 
 msgid "Close Window"
 msgstr "ウィンドウを閉じる"
@@ -1803,7 +1803,7 @@ msgid "Enter"
 msgstr "入力"
 
 msgid "Escape"
-msgstr "脱出"
+msgstr "エスケープ"
 
 msgid "Failed"
 msgstr "失敗しました"
@@ -2023,7 +2023,7 @@ msgid "Release"
 msgstr "リリース"
 
 msgid "Release Modifiers"
-msgstr "リリース修飾子"
+msgstr "修飾キーを離す"
 
 msgid "Release modifiers"
 msgstr "リリース修飾子"
@@ -2098,7 +2098,7 @@ msgid "Send Text to Target"
 msgstr "ターゲットにテキストを送信"
 
 msgid "Send text to target closed."
-msgstr "ターゲットへのテキスト送信が完了しました。"
+msgstr "「ターゲットへのテキスト送信」を閉じました。"
 
 msgid "Server profile installed"
 msgstr "サーバープロファイルがインストールされました"
@@ -2298,7 +2298,7 @@ msgid "Toggle Touch Keyboard"
 msgstr "タッチキーボードの表示/非表示を切り替える"
 
 msgid "Toggle Type Text"
-msgstr "トグルタイプテキスト"
+msgstr "「テキスト入力」の切り替え"
 
 msgid "Toggle Win"
 msgstr "「Win」を切り替える"
@@ -2379,10 +2379,10 @@ msgid "Your session has expired. Please sign in again."
 msgstr "セッションの有効期限が切れました。再度ログインしてください。"
 
 msgid "%{bits_per_second} bps"
-msgstr "%{bits_per_second} ベーシス・ポイント"
+msgstr "%{bits_per_second} bps"
 
 msgid "%{gigabytes} GB"
-msgstr "%{gigabytes} さようなら"
+msgstr "%{gigabytes} GB"
 
 msgid "%{key_name}, active"
 msgstr "%{key_name}、稼働中"
@@ -2391,13 +2391,13 @@ msgid "%{kilobits_per_second} kbps"
 msgstr "%{kilobits_per_second} キロビット毎秒"
 
 msgid "%{kilobytes} KB"
-msgstr "%{kilobytes} ナレッジベース"
+msgstr "%{kilobytes} KB"
 
 msgid "%{megabits_per_second} Mbps"
 msgstr "%{megabits_per_second} メガビット毎秒"
 
 msgid "%{megabytes} MB"
-msgstr "%{megabytes} 私の兄"
+msgstr "%{megabytes} MB"
 
 msgid "%{milliseconds} ms"
 msgstr "%{milliseconds} ms"
@@ -2497,19 +2497,19 @@ msgid "Not now"
 msgstr "今はいい"
 
 msgid "Numpad"
-msgstr "番号"
+msgstr "テンキー"
 
 msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
 msgstr "オフ — 矢印キーやTabキーなどのキー操作が、対象ではなくTalkBackに割り当てられる"
 
 msgid "On"
-msgstr "ある"
+msgstr "オン"
 
 msgid "Open Accessibility settings"
 msgstr "「アクセシビリティ」設定を開く"
 
 msgid "open group"
-msgstr "オープングループ"
+msgstr "グループを開く"
 
 msgid "open in your browser"
 msgstr "ブラウザで開く"

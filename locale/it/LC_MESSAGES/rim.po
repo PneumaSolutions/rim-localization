@@ -2027,7 +2027,7 @@ msgid "Close"
 msgstr "Chiudi"
 
 msgid "Close send text to target"
-msgstr "Chiudi e invia il messaggio al destinatario"
+msgstr "Chiudi «Invia testo all'obiettivo»"
 
 msgid "Close Window"
 msgstr "Chiudi finestra"
@@ -2147,7 +2147,7 @@ msgid "Enter"
 msgstr "Inserisci"
 
 msgid "Escape"
-msgstr "Fuga"
+msgstr "Esc"
 
 msgid "Failed"
 msgstr "Non riuscito"
@@ -2382,7 +2382,7 @@ msgid "Release"
 msgstr "Comunicato stampa"
 
 msgid "Release Modifiers"
-msgstr "Modificatori di rilascio"
+msgstr "Rilascia i tasti modificatori"
 
 msgid "Release modifiers"
 msgstr "Modificatori di rilascio"
@@ -2454,10 +2454,10 @@ msgid "Send message"
 msgstr "Invia messaggio"
 
 msgid "Send Text to Target"
-msgstr "Invia messaggio di testo al destinatario"
+msgstr "Invia testo all'obiettivo"
 
 msgid "Send text to target closed."
-msgstr "Invio del testo al destinatario interrotto."
+msgstr "«Invia testo all'obiettivo» chiuso."
 
 msgid "Server profile installed"
 msgstr "Profilo server installato"
@@ -2559,7 +2559,7 @@ msgid "System"
 msgstr "Sistema"
 
 msgid "Tab"
-msgstr "Perdita"
+msgstr "Tab"
 
 msgid "Target groups"
 msgstr "Destinatari"
@@ -2652,7 +2652,7 @@ msgid "Three-Finger Swipes"
 msgstr "Scorrimento con tre dita"
 
 msgid "Toggle Alt"
-msgstr "Attiva/Disattiva sottotitoli"
+msgstr "Attiva/Disattiva Alt"
 
 msgid "Toggle Caps Lock"
 msgstr "Attiva/disattiva il blocco maiuscole"
@@ -2676,7 +2676,7 @@ msgid "Toggle Touch Keyboard"
 msgstr "Attiva/disattiva la tastiera touchscreen"
 
 msgid "Toggle Type Text"
-msgstr "Testo del tipo \"Toggle\""
+msgstr "Attiva/Disattiva «Digita testo»"
 
 msgid "Toggle Win"
 msgstr "Attiva/Disattiva Win"
@@ -2760,25 +2760,25 @@ msgid "Your session has expired. Please sign in again."
 msgstr "La tua sessione è scaduta. Effettua nuovamente l'accesso."
 
 msgid "%{bits_per_second} bps"
-msgstr "%{bits_per_second} punti base"
+msgstr "%{bits_per_second} bps"
 
 msgid "%{gigabytes} GB"
-msgstr "%{gigabytes} Arrivederci"
+msgstr "%{gigabytes} GB"
 
 msgid "%{key_name}, active"
-msgstr "%{key_name} e, attivo"
+msgstr "%{key_name}, attivo"
 
 msgid "%{kilobits_per_second} kbps"
 msgstr "%{kilobits_per_second} kilobit al secondo"
 
 msgid "%{kilobytes} KB"
-msgstr "%{kilobytes} Base di conoscenza"
+msgstr "%{kilobytes} KB"
 
 msgid "%{megabits_per_second} Mbps"
 msgstr "%{megabits_per_second} megabit al secondo"
 
 msgid "%{megabytes} MB"
-msgstr "%{megabytes} Mio fratello"
+msgstr "%{megabytes} MB"
 
 msgid "%{milliseconds} ms"
 msgstr "%{milliseconds} ms"
@@ -2889,7 +2889,7 @@ msgid "Not now"
 msgstr "Non adesso"
 
 msgid "Numpad"
-msgstr "Numerato"
+msgstr "Tastierino numerico"
 
 msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
 msgstr ""
@@ -2897,13 +2897,13 @@ msgstr ""
 "invece di selezionare l’elemento di destinazione"
 
 msgid "On"
-msgstr "C'è"
+msgstr "Attivo"
 
 msgid "Open Accessibility settings"
 msgstr "Apri le impostazioni di accessibilità"
 
 msgid "open group"
-msgstr "gruppo aperto"
+msgstr "apri il gruppo"
 
 msgid "open in your browser"
 msgstr "apri nel browser"

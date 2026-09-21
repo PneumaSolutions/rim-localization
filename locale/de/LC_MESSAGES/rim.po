@@ -884,7 +884,7 @@ msgstr ""
 "hilft, erhalten haben."
 
 msgid "Connect"
-msgstr "Verbinden Sie"
+msgstr "Verbinden"
 
 msgid "Provide help instead"
 msgstr "Bieten Sie stattdessen Hilfe an"
@@ -1975,7 +1975,7 @@ msgid "Message copied to clipboard"
 msgstr "Nachricht in die Zwischenablage kopiert"
 
 msgid "Copy"
-msgstr "Kopie"
+msgstr "Kopieren"
 
 msgid "Type a message"
 msgstr "Typ a Nachricht"
@@ -2061,7 +2061,7 @@ msgid "Close"
 msgstr "Schließen"
 
 msgid "Close send text to target"
-msgstr "Schließen – Text an Empfänger senden"
+msgstr "„Text an Ziel senden“ schließen"
 
 msgid "Close Window"
 msgstr "Fenster schließen"
@@ -2185,7 +2185,7 @@ msgid "Enter"
 msgstr "Eingabe"
 
 msgid "Escape"
-msgstr "Flucht"
+msgstr "Escape"
 
 msgid "Failed"
 msgstr "Fehlgeschlagen"
@@ -2227,7 +2227,7 @@ msgid "Hide App"
 msgstr "App ausblenden"
 
 msgid "Home"
-msgstr "Startseite"
+msgstr "Pos1"
 
 msgid "Idle"
 msgstr "Leerlauf"
@@ -2419,7 +2419,7 @@ msgid "Release"
 msgstr "Veröffentlichung"
 
 msgid "Release Modifiers"
-msgstr "Freigabemodifikatoren"
+msgstr "Modifikatortasten loslassen"
 
 msgid "Release modifiers"
 msgstr "Freigabemodifikatoren"
@@ -2494,7 +2494,7 @@ msgid "Send Text to Target"
 msgstr "Text an Ziel senden"
 
 msgid "Send text to target closed."
-msgstr "Text an Ziel gesendet – abgeschlossen."
+msgstr "„Text an Ziel senden“ geschlossen."
 
 msgid "Server profile installed"
 msgstr "Serverprofil installiert"
@@ -2555,7 +2555,7 @@ msgid "Something went wrong"
 msgstr "Es ist ein Fehler aufgetreten"
 
 msgid "Space"
-msgstr "Raum"
+msgstr "Leertaste"
 
 msgid "Speak Remote Accessibility output"
 msgstr "„Speak Remote Accessibility“ vorlesen"
@@ -2596,7 +2596,7 @@ msgid "System"
 msgstr "System"
 
 msgid "Tab"
-msgstr "Verlust"
+msgstr "Tab"
 
 msgid "Target groups"
 msgstr "Zielgruppen"
@@ -2695,7 +2695,7 @@ msgid "Toggle Caps Lock"
 msgstr "Caps-Lock umschalten"
 
 msgid "Toggle Control"
-msgstr "Umschaltelement"
+msgstr "„Strg“ umschalten"
 
 msgid "Toggle Insert"
 msgstr "Einfügen umschalten"
@@ -2713,7 +2713,7 @@ msgid "Toggle Touch Keyboard"
 msgstr "Touch-Tastatur ein-/ausschalten"
 
 msgid "Toggle Type Text"
-msgstr "Umschalt-Typ-Text"
+msgstr "„Text eingeben“ umschalten"
 
 msgid "Toggle Win"
 msgstr "Win umschalten"
@@ -2797,10 +2797,10 @@ msgid "Your session has expired. Please sign in again."
 msgstr "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an."
 
 msgid "%{bits_per_second} bps"
-msgstr "%{bits_per_second} Basispunkte"
+msgstr "%{bits_per_second} bps"
 
 msgid "%{gigabytes} GB"
-msgstr "%{gigabytes} Auf Wiedersehen"
+msgstr "%{gigabytes} GB"
 
 msgid "%{key_name}, active"
 msgstr "%{key_name}, aktiv"
@@ -2809,13 +2809,13 @@ msgid "%{kilobits_per_second} kbps"
 msgstr "%{kilobits_per_second} Kilobit pro Sekunde"
 
 msgid "%{kilobytes} KB"
-msgstr "%{kilobytes} Wissensdatenbank"
+msgstr "%{kilobytes} KB"
 
 msgid "%{megabits_per_second} Mbps"
 msgstr "%{megabits_per_second} Megabit pro Sekunde"
 
 msgid "%{megabytes} MB"
-msgstr "%{megabytes} Mein Bruder"
+msgstr "%{megabytes} MB"
 
 msgid "%{milliseconds} ms"
 msgstr "%{milliseconds} ms"
@@ -2928,7 +2928,7 @@ msgid "Not now"
 msgstr "Nicht jetzt"
 
 msgid "Numpad"
-msgstr "Nummeriert"
+msgstr "Ziffernblock"
 
 msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
 msgstr ""
@@ -2936,13 +2936,13 @@ msgstr ""
 "TalkBack weitergeleitet statt an das Ziel"
 
 msgid "On"
-msgstr "Es gibt"
+msgstr "Ein"
 
 msgid "Open Accessibility settings"
 msgstr "Barrierefreiheitseinstellungen öffnen"
 
 msgid "open group"
-msgstr "offene Gruppe"
+msgstr "Gruppe öffnen"
 
 msgid "open in your browser"
 msgstr "In Ihrem Browser öffnen"
