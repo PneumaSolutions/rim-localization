@@ -1,0 +1,3034 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.10\n"
+
+msgid "Remote Incident Manager"
+msgstr "Remote Incident Manager"
+
+msgid "Your remote session is ready."
+msgstr "Ваш удалённый сеанс готов."
+
+msgid ""
+"Your remote session is about to begin. To stop controlling the remote "
+"computer and open the RIM menu at any time during the session, you must "
+"press Option+Shift+Backspace. Please remember this keyboard command, since "
+"it is the only way to leave the remote session."
+msgstr ""
+"Ваш удалённый сеанс вот-вот начнётся. Чтобы прекратить управление удалённым "
+"компьютером и открыть меню RIM в любой момент во время сеанса, вы должны "
+"нажать Option+Shift+Backspace. Пожалуйста, запомните эту клавиатурную "
+"команду, поскольку это единственный способ выйти из удалённого сеанса."
+
+msgid ""
+"Your remote session is about to begin. To stop controlling the remote "
+"computer and open the RIM menu at any time during the session, you must "
+"press Windows+Shift+Backspace. Please remember this keyboard command, since "
+"it is the only way to leave the remote session."
+msgstr ""
+"Ваш удалённый сеанс вот-вот начнётся. Чтобы прекратить управление удалённым "
+"компьютером и открыть меню RIM в любой момент во время сеанса, вы должны "
+"нажать Windows+Shift+Backspace. Пожалуйста, запомните эту клавиатурную "
+"команду, поскольку это единственный способ выйти из удалённого сеанса."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Don't show this message again."
+msgstr "Больше не показывать это сообщение."
+
+msgid ""
+"You must either install NVDA or run a portable copy before you can enable "
+"remote accessibility."
+msgstr ""
+"Чтобы включить удалённые специальные возможности, установите NVDA или "
+"запустите её переносную копию."
+
+msgid ""
+"Before RIM can enable remote accessibility, you must update to the latest "
+"version of the RIM integration add-on for NVDA on your own machine. NVDA "
+"will prompt you to update this add-on. Once NVDA has updated the add-on and "
+"restarted, RIM will automatically start remote accessibility."
+msgstr ""
+"Чтобы включить удалённые специальные возможности, обновите дополнение "
+"интеграции RIM для NVDA до последней версии на своём компьютере. NVDA "
+"предложит обновить это дополнение. После обновления дополнения и перезапуска "
+"NVDA RIM автоматически включит удалённые специальные возможности."
+
+msgid ""
+"Before RIM can enable remote accessibility, you must install the RIM "
+"integration add-on for NVDA on your own machine. NVDA will prompt you to "
+"install this add-on. Once NVDA has installed the add-on and restarted, RIM "
+"will automatically start remote accessibility."
+msgstr ""
+"Чтобы включить удалённые специальные возможности, установите дополнение "
+"интеграции RIM для NVDA на своём компьютере. NVDA предложит установить это "
+"дополнение. После установки дополнения и перезапуска NVDA RIM автоматически "
+"включит удалённые специальные возможности."
+
+msgid "Merging session recordings failed; keeping the individual segments."
+msgstr "Не удалось объединить записи сеанса; отдельные фрагменты сохранены."
+
+msgid "Session recording error: %{error}"
+msgstr "Ошибка записи сеанса: %{error}"
+
+msgid "The remote session has been reconnected."
+msgstr "Удалённый сеанс был восстановлен."
+
+msgid "%{controller_name} has started a remote session."
+msgstr "%{controller_name} начал удалённый сеанс."
+
+msgid "The remote session has started."
+msgstr "Удалённый сеанс начался."
+
+msgid "The remote session has ended."
+msgstr "Удалённый сеанс завершён."
+
+msgid "The remote user has ended the session."
+msgstr "Удалённый пользователь завершил сеанс."
+
+msgid "The remote session has flipped."
+msgstr "Участники удалённого сеанса поменялись ролями."
+
+msgid "The end-user is now in control."
+msgstr "Теперь компьютером управляет конечный пользователь."
+
+msgid "The technician is now in control."
+msgstr "Теперь компьютером управляет технический специалист."
+
+msgid ""
+"You have already registered all of the target machines allowed by your "
+"current RIM subscription."
+msgstr ""
+"Вы уже зарегистрировали все целевые компьютеры, разрешённые вашей текущей "
+"подпиской RIM."
+
+msgid ""
+"You have already changed the set of registered target machines as many times "
+"as your current RIM subscription will allow within a one-year period. Please "
+"keep in mind that a RIM personal subscription is not intended for providing "
+"technical support or training to arbitrary end-users, but for connecting to "
+"a pre-defined set of personal and family computers."
+msgstr ""
+"Вы уже меняли состав зарегистрированных целевых компьютеров столько раз, "
+"сколько допускает ваша текущая подписка RIM в течение одного года. Учтите, "
+"что персональная подписка RIM предназначена для подключения к заранее "
+"определённому набору личных и семейных компьютеров, а не для технической "
+"поддержки или обучения произвольных пользователей."
+
+msgid "This feature has been disabled within your organization."
+msgstr "Эта функция была отключена в вашей организации."
+
+msgid ""
+"Unattended access requires a RIM Personal, Pro, or Enterprise subscription."
+msgstr ""
+"Для доступа без подтверждения требуется подписка RIM Personal, Pro или "
+"Enterprise."
+
+msgid "The target user has accepted your request for unattended access."
+msgstr ""
+"Пользователь целевого компьютера принял ваш запрос на доступ без "
+"подтверждения."
+
+msgid "The target user has denied your request for unattended access."
+msgstr ""
+"Пользователь целевого компьютера отклонил ваш запрос на доступ без "
+"подтверждения."
+
+msgid "Comment posted."
+msgstr "Комментарий опубликован."
+
+msgid ""
+"Your logs have been sent to Pneuma Solutions. Thank you for helping us "
+"diagnose your problem."
+msgstr ""
+"Ваши журналы отправлены в Pneuma Solutions. Благодарим вас за помощь в "
+"диагностике проблемы."
+
+msgid ""
+"This machine is now available for remote access from any machine that's "
+"logged into your RIM account."
+msgstr ""
+"Теперь к этому компьютеру можно подключаться удалённо с любого компьютера, "
+"на котором выполнен вход в вашу учётную запись RIM."
+
+msgid "Session recording is not available for this session."
+msgstr "Запись этого сеанса недоступна."
+
+msgid "Your config.toml has a syntax error. Using default recording settings."
+msgstr ""
+"В файле config.toml обнаружена синтаксическая ошибка. Используются настройки "
+"записи по умолчанию."
+
+msgid "Are you sure you want to stop the session recording?"
+msgstr "Вы действительно хотите остановить запись сеанса?"
+
+msgid "Stop Recording"
+msgstr "Остановить запись"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Controller"
+msgstr "Управляющий пользователь"
+
+msgid "Target"
+msgstr "Конечный пользователь"
+
+msgid "Session Chat"
+msgstr "Чат сеанса"
+
+msgid "%{sender}: %{message}"
+msgstr "%{sender}: %{message}"
+
+msgid "Open &Chat"
+msgstr "Открыть &чат"
+
+msgid "&Transfer Files from Target"
+msgstr "Передать &файлы с целевого компьютера"
+
+msgid "&Transfer File from Target"
+msgstr "Передать &файл с целевого компьютера"
+
+msgid "&Transfer Files to Target"
+msgstr "Передать файл&ы на целевой компьютер"
+
+msgid "&Transfer File to Target"
+msgstr "Передать фай&л на целевой компьютер"
+
+msgid "&Flip Session"
+msgstr "&Поменять местами пользователей сеанса"
+
+msgid "Stop &Voice Conversation"
+msgstr "Остановить &голосовой разговор"
+
+msgid "Start &Voice Conversation"
+msgstr "Начать &голосовой разговор"
+
+msgid "Start Session Recording"
+msgstr "Начать запись сеанса"
+
+msgid "Pause Session Recording"
+msgstr "Приостановить запись сеанса"
+
+msgid "Stop Session Recording"
+msgstr "Остановить запись сеанса"
+
+msgid "Resume Session Recording"
+msgstr "Возобновить запись сеанса"
+
+msgid "Update RIM on Target"
+msgstr "Обновить RIM на целевом компьютере"
+
+msgid "Re-install RIM as Administrator on Target"
+msgstr "Переустановить RIM от имени администратора на целевом компьютере"
+
+msgid "&Minimize Session"
+msgstr "&Свернуть сеанс"
+
+msgid "Stop Remote &Accessibility"
+msgstr "Отключить удалённые &специальные возможности"
+
+msgid "Stop Fusion on Target"
+msgstr "Отключить Fusion на компьютере конечного пользователя"
+
+msgid "Stop JAWS on Target"
+msgstr "Отключить JAWS на компьютере конечного пользователя"
+
+msgid "Stop Narrator on Target"
+msgstr "Отключить экранный диктор на компьютере конечного пользователя"
+
+msgid "Stop NVDA on Target"
+msgstr "Отключить NVDA на компьютере конечного пользователя"
+
+msgid "Stop System Access on Target"
+msgstr "Остановить System Access на целевом компьютере"
+
+msgid "Stop VoiceOver on Target"
+msgstr "Отключить VoiceOver на компьютере конечного пользователя"
+
+msgid "Stop Screen Reader on Target"
+msgstr ""
+"Отключить программу экранного доступа на компьютере конечного пользователя"
+
+msgid "Start Remote &Accessibility"
+msgstr "Включить удалённые &специальные возможности"
+
+msgid "Unmute Target Audio Output"
+msgstr "Включить звук на целевом компьютере"
+
+msgid "Mute Target Audio Output"
+msgstr "Отключить звук на целевом компьютере"
+
+msgid "Request &Unattended or Prompted Access"
+msgstr "Запросить доступ &без подтверждения или с подтверждением"
+
+msgid "&Reboot and Reconnect"
+msgstr "&Перезагрузить компьютер и возобновить подключение"
+
+msgid ""
+"You are about to reboot the target machine. You can do either a standard "
+"reboot, which gives all running applications a chance to cleanly shut down, "
+"or an emergency reboot, which happens immediately and should only be used if "
+"a standard reboot is not currently possible."
+msgstr ""
+"Вы собираетесь перезагрузить целевой компьютер. Вы можете выполнить либо "
+"стандартную перезагрузку, которая даёт возможность всем запущенным "
+"приложениям полностью завершиться, либо экстренную перезагрузку, которая "
+"происходит немедленно и должна использоваться только в том случае, если "
+"стандартная перезагрузка в данный момент невозможна."
+
+msgid "Standard Reboot"
+msgstr "Стандартная перезагрузка"
+
+msgid "Emergency Reboot"
+msgstr "Экстренная перезагрузка"
+
+msgid "Send Control+Alt+Delete"
+msgstr "Передать Control+Alt+Delete"
+
+msgid "&Lock the Target Machine"
+msgstr "&Блокировать целевой компьютер"
+
+msgid "&Connection Details"
+msgstr "&Сведения о подключении"
+
+msgid "&Disconnect Session"
+msgstr "&Отключить сеанс"
+
+msgid "You have ended the remote session."
+msgstr "Вы завершили удалённый сеанс."
+
+msgid "&Disconnect Remote Control Session"
+msgstr "&Отключить сеанс удалённого управления"
+
+msgid "&About"
+msgstr "&О программе"
+
+msgid "Remote Incident Manager %{version}: flipped session"
+msgstr "Remote Incident Manager %{version}: участники поменялись ролями"
+
+msgid ""
+"Remote Incident Manager %{version}: a connection to your computer is active"
+msgstr ""
+"Remote Incident Manager %{version}: подключение к вашему компьютеру активно"
+
+msgid ""
+"Files from the target machine's clipboard are now ready to transfer to this "
+"machine. You can start the transfer from the RIM menu."
+msgstr ""
+"Файлы из буфера обмена целевого компьютера теперь готовы к передаче на этот "
+"компьютер. Вы можете запустить передачу из меню RIM."
+
+msgid ""
+"A file from the target machine's clipboard is now ready to transfer to this "
+"machine. You can start the transfer from the RIM menu."
+msgstr ""
+"Теперь файл из буфера обмена целевого компьютера готов к передаче на этот "
+"компьютер. Вы можете запустить передачу из меню RIM."
+
+msgid ""
+"The files on this machine's clipboard are ready to transfer to the target. "
+"You can start the transfer from the RIM menu."
+msgstr ""
+"Файлы, сохранённые в буфере обмена этого устройства, готовы к передаче "
+"целевому пользователю. Вы можете запустить передачу из меню RIM."
+
+msgid ""
+"The file on this machine's clipboard is ready to transfer to the target. You "
+"can start the transfer from the RIM menu."
+msgstr ""
+"Файл, сохранённый в буфере обмена этого устройства, готов к передаче "
+"адресату. Вы можете запустить передачу из меню RIM."
+
+msgid ""
+"Notice: This Remote Incident Manager (RIM) support session will be recorded "
+"by the controller for training, quality assurance, documentation, and/or "
+"security purposes. By continuing with this session, you acknowledge and "
+"consent to the recording of on-screen activity, audio, and related session "
+"data for these purposes. If you do not consent, please select \"Cancel\" to "
+"end the session now."
+msgstr ""
+"Внимание! Управляющий пользователь будет записывать этот сеанс поддержки "
+"Remote Incident Manager (RIM) в целях обучения, контроля качества, "
+"документирования и/или обеспечения безопасности. Продолжая сеанс, вы "
+"подтверждаете своё согласие на запись действий на экране, звука и связанных "
+"с сеансом данных в указанных целях. Если вы не согласны, нажмите «Отменить», "
+"чтобы завершить сеанс сейчас."
+
+msgid "Agree"
+msgstr "Согласен"
+
+msgid "Because you didn't agree to record the session, this session has ended."
+msgstr "Сеанс завершён, поскольку вы не согласились на его запись."
+
+msgid "The remote user has started recording this session."
+msgstr "Удалённый пользователь начал запись этого сеанса."
+
+msgid "The remote user has paused the session recording."
+msgstr "Удалённый пользователь приостановил запись сеанса."
+
+msgid "The remote user has resumed the session recording."
+msgstr "Удалённый пользователь возобновил запись сеанса."
+
+msgid "The remote user has stopped recording this session."
+msgstr "Удалённый пользователь остановил запись этого сеанса."
+
+msgid ""
+"You have five minutes of base RIM connection time left today, from both the "
+"free tier and your RIM Personal Community Support subscription. When your "
+"base time is up, RIM will start using your %{remaining_credited_time} of "
+"prepaid time."
+msgstr ""
+"Сегодня у вас осталось пять минут базового времени подключения к RIM, "
+"предоставляемого бесплатным тарифом и подпиской RIM Personal Community "
+"Support. Когда базовое время закончится, RIM начнёт использовать "
+"предоплаченное время, остаток которого составляет %{remaining_credited_time}."
+
+msgid ""
+"You have five minutes of free RIM connection time left today. When your free "
+"time is up, RIM will start using your %{remaining_credited_time} of prepaid "
+"time."
+msgstr ""
+"Сегодня у вас осталось пять минут бесплатного времени подключения к RIM. "
+"Когда оно закончится, RIM начнёт использовать предоплаченное время, остаток "
+"которого составляет %{remaining_credited_time}."
+
+msgid ""
+"You have five minutes of RIM connection time left today, from both the free "
+"tier and your RIM Personal Community Support subscription. To ensure an "
+"uninterrupted session, please order prepaid time or a RIM Pro subscription."
+msgstr ""
+"Сегодня у вас осталось пять минут времени подключения к RIM, "
+"предоставляемого бесплатным тарифом и подпиской RIM Personal Community "
+"Support. Чтобы сеанс не прерывался, приобретите предоплаченное время или "
+"подписку RIM Pro."
+
+msgid ""
+"You have five minutes of free RIM connection time left today. To ensure an "
+"uninterrupted session, please order prepaid time or a RIM Pro subscription."
+msgstr ""
+"Сегодня у вас осталось пять минут бесплатного времени для подключения к RIM. "
+"Чтобы обеспечить непрерывность сеанса, пожалуйста, закажите время с "
+"предоплатой или подписку на RIM Pro."
+
+msgid ""
+"You have five minutes of prepaid RIM connection time left. To ensure an "
+"uninterrupted session, please order more prepaid time or a RIM Pro "
+"subscription."
+msgstr ""
+"У вас осталось пять минут предоплаченного времени подключения к RIM. Чтобы "
+"обеспечить непрерывность сеанса, пожалуйста, закажите дополнительное время с "
+"предоплатой или подписку на RIM Pro."
+
+msgid ""
+"You have one minute of base RIM connection time left today, from both the "
+"free tier and your RIM Personal Community Support subscription. When your "
+"base time is up, RIM will start using your %{remaining_credited_time} of "
+"prepaid time."
+msgstr ""
+"Сегодня у вас осталась одна минута базового времени подключения к RIM, "
+"предоставляемого бесплатным тарифом и подпиской RIM Personal Community "
+"Support. Когда базовое время закончится, RIM начнёт использовать "
+"предоплаченное время, остаток которого составляет %{remaining_credited_time}."
+
+msgid ""
+"You have one minute of free RIM connection time left today. When your free "
+"time is up, RIM will start using your %{remaining_credited_time} of prepaid "
+"time."
+msgstr ""
+"Сегодня у вас осталась одна минута бесплатного времени подключения к RIM. "
+"Когда оно закончится, RIM начнёт использовать предоплаченное время, остаток "
+"которого составляет %{remaining_credited_time}."
+
+msgid ""
+"You have one minute of RIM connection time left today, from both the free "
+"tier and your RIM Personal Community Support subscription."
+msgstr ""
+"Сегодня у вас осталась одна минута времени подключения к RIM, "
+"предоставляемого бесплатным тарифом и подпиской RIM Personal Community "
+"Support."
+
+msgid "You have one minute of free RIM connection time left today."
+msgstr ""
+"Сегодня у вас осталась одна минута бесплатного времени подключения к RIM."
+
+msgid "You have one minute of prepaid RIM connection time left."
+msgstr "У вас осталась одна минута предоплаченного времени подключения к RIM."
+
+msgid ""
+"The remote session has ended because %{controller_name} ran out of time on "
+"RIM."
+msgstr ""
+"Удалённый сеанс завершился из-за того, что у %{controller_name} закончилось "
+"время RIM."
+
+msgid ""
+"Your RIM session has ended because your RIM connection time for today, from "
+"both the free tier and your RIM Personal Community Support subscription, has "
+"run out."
+msgstr ""
+"Ваш сеанс RIM завершён, поскольку время подключения к RIM на сегодня, "
+"предоставляемое бесплатным тарифом и подпиской RIM Personal Community "
+"Support, закончилось."
+
+msgid "The remote session has ended because the connection was lost."
+msgstr "Удалённый сеанс завершился из-за потери соединения."
+
+msgid ""
+"The target machine just started rebooting. Do you want to reconnect to the "
+"RIM session when the reboot is complete?"
+msgstr ""
+"Целевой компьютер только что начал перезагружаться. Хотите ли вы повторно "
+"подключиться к сеансу RIM после завершения перезагрузки?"
+
+msgid "&Yes"
+msgstr "&Да"
+
+msgid "&No"
+msgstr "&Нет"
+
+msgid "This unattended target is no longer valid."
+msgstr ""
+"Этот целевой компьютер больше недоступен для доступа без подтверждения."
+
+msgid "You are trying to connect to this machine."
+msgstr "Вы пытаетесь подключиться к этому компьютеру."
+
+msgid "The target user has denied your request."
+msgstr "Целевой пользователь отклонил ваш запрос."
+
+msgid "Remote Incident Manager %{version}: Provide Remote Help"
+msgstr "Remote Incident Manager %{version}: Предоставление удалённой помощи"
+
+msgid "A shortcut called \"%{target_name}\" has been added to your desktop."
+msgstr "Ярлык с названием \"%{target_name}\" был добавлен на ваш рабочий стол."
+
+msgid "Remote Incident Manager %{version}"
+msgstr "Remote Incident Manager %{version}"
+
+msgid "E&xit"
+msgstr "Вый&ти"
+
+msgid ""
+"Do you want to revoke %{controller_name}'s permission to start unattended "
+"remote sessions on this computer?"
+msgstr ""
+"Вы хотите отозвать у %{controller_name} разрешение запускать удалённые "
+"сеансы на этом компьютере без подтверждения?"
+
+msgid ""
+"%{controller_name} is no longer allowed to remotely access this computer."
+msgstr ""
+"У %{controller_name} больше нет разрешения на удалённый доступ к этому "
+"компьютеру."
+
+msgid ""
+"%{controller_name} wants to remotely control this computer. Press "
+"Option+Shift+Y to accept this request or Option+Shift+N to reject it."
+msgstr ""
+"%{controller_name} хочет удалённо управлять этим компьютером. Нажмите "
+"Option+Shift+Y, чтобы принять этот запрос, или Option+Shift+N, чтобы "
+"отклонить его."
+
+msgid ""
+"%{controller_name} wants to remotely control this computer. Press "
+"Windows+Shift+Y to accept this request or Windows+Shift+N to reject it."
+msgstr ""
+"%{controller_name} хочет удалённо управлять этим компьютером. Нажмите "
+"Windows+Shift+Y, чтобы принять этот запрос, или Windows+Shift+N, чтобы "
+"отклонить его."
+
+msgid ""
+"You have accepted %{controller_name}'s request to remotely control this "
+"computer."
+msgstr ""
+"Вы приняли запрос %{controller_name} на удалённое управление этим "
+"компьютером."
+
+msgid ""
+"You have rejected %{controller_name}'s request to remotely control this "
+"computer."
+msgstr ""
+"Вы отклонили запрос %{controller_name} на удалённое управление этим "
+"компьютером."
+
+msgid "Remote Incident Manager %{version}: waiting for approved connections"
+msgstr "Remote Incident Manager %{version}: ожидание одобренных подключений"
+
+msgid "&Revoke Remote Access to This Computer"
+msgstr "&Отменить удалённый доступ к этому компьютеру"
+
+msgid "Remote Incident Manager %{version}: Receive Remote Help"
+msgstr "Remote Incident Manager %{version}: Получение удалённой помощи"
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer without "
+"requiring you to start a remote session. You will be prompted for permission "
+"to access your computer each time. Do you want to allow this?"
+msgstr ""
+"%{controller_name} запрашивает разрешение на доступ к этому компьютеру, не "
+"требуя от вас запуска удалённого сеанса. Каждый раз вам будет предложено "
+"предоставить разрешение на доступ к вашему компьютеру. Вы хотите разрешить "
+"это?"
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at any "
+"time without requiring you to start a remote session, and without being "
+"prompted for permission each time. Do you want to allow this?"
+msgstr ""
+"%{controller_name} запрашивает разрешение на доступ к этому компьютеру в "
+"любое время, не требуя от вас запуска удалённого сеанса и не запрашивая "
+"разрешения каждый раз. Вы хотите разрешить это?"
+
+msgid ""
+"Do you want to have a voice conversation with %{controller_name} during this "
+"remote control session?"
+msgstr ""
+"Вы хотите поговорить с %{controller_name} во время этого сеанса удалённого "
+"управления?"
+
+msgid ""
+"Do you want to have a voice conversation with the person that is currently "
+"remotely controlling this computer during this session?"
+msgstr ""
+"Хотите ли вы вести голосовой разговор с человеком, который в данный момент "
+"удалённо управляет этим компьютером во время этого сеанса?"
+
+msgid "The remote user has denied your request for a voice conversation."
+msgstr "Удалённый пользователь отклонил ваш запрос на голосовой разговор."
+
+msgid "No update is currently available."
+msgstr "В настоящее время обновления недоступны."
+
+msgid ""
+"The new server profile named \"%{name}\" is now installed and activated."
+msgstr "Новый профиль сервера с именем \"%{name}\" установлен и активирован."
+
+msgid "About Remote Incident Manager..."
+msgstr "О Remote Incident Manager..."
+
+msgid "Edit"
+msgstr "Правка"
+
+msgid "Speech"
+msgstr "Речь"
+
+msgid "Window"
+msgstr "Окно"
+
+msgid "RIM Manual"
+msgstr "Руководство RIM"
+
+msgid "This computer is now ready for remote access."
+msgstr "Теперь этот компьютер готов к удалённому доступу."
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Support and Feedback"
+msgstr "Поддержка и обратная связь"
+
+msgid "Read the Manual"
+msgstr "Прочитать руководство пользователя"
+
+msgid "View Change History"
+msgstr "Просмотреть историю изменений"
+
+msgid "Send Logs"
+msgstr "Отправить журналы"
+
+msgid "Check for Update"
+msgstr "Проверить наличие обновлений"
+
+msgid "Remote Incident Manager: Provide Remote Help"
+msgstr "Remote Incident Manager: Предоставление удалённой помощи"
+
+msgid "Provide Remote Help"
+msgstr "Предоставить удалённую помощь"
+
+msgid "Keyword:"
+msgstr "Ключевое слово:"
+
+msgid "Time remaining for this keyword:"
+msgstr "Оставшееся время для этого ключевого слова:"
+
+msgid "Sign up for paid RIM services"
+msgstr "Подписаться на платные услуги RIM"
+
+msgid "Disable visual output for this session."
+msgstr "Отключить визуальный вывод для этого сеанса."
+
+msgid "Start voice conversation"
+msgstr "Начать голосовой разговор"
+
+msgid "Mute target audio output"
+msgstr "Отключить звук целевого компьютера"
+
+msgid "Target group:"
+msgstr "Группа целевых компьютеров:"
+
+msgid "Open Target Group"
+msgstr "Открыть группу целевых компьютеров"
+
+msgid "Return to top level"
+msgstr "Вернуться назад"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Target machine:"
+msgstr "Целевой компьютер:"
+
+msgid "Create Shortcut"
+msgstr "Создать ярлык"
+
+msgid "Search:"
+msgstr "Поиск:"
+
+msgid "Search"
+msgstr "Искать"
+
+msgid "Start"
+msgstr "Начать"
+
+msgid "Choose a machine"
+msgstr "Выберите компьютер"
+
+msgid "Use a keyword"
+msgstr "Использовать ключевое слово"
+
+msgid "RIM Dashboard"
+msgstr "Панель управления RIM"
+
+msgid "Receive help instead"
+msgstr "Перейти к получению помощи"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Log out"
+msgstr "Выйти из системы"
+
+msgid "This keyword has expired."
+msgstr "Срок действия этого ключевого слова истёк."
+
+msgid "Sending request; please wait."
+msgstr "Отправляем запрос; пожалуйста, подождите."
+
+msgid ""
+"You must enter a keyword before you can start the remote session. You may "
+"choose any keyword that is not currently being used by another RIM user; "
+"feel free to use anything that works for both you and the person you're "
+"helping."
+msgstr ""
+"Вы должны ввести ключевое слово, прежде чем сможете начать удалённый сеанс. "
+"Вы можете выбрать любое ключевое слово, которое в данный момент не "
+"используется другими пользователями RIM; не стесняйтесь использовать всё, "
+"что подходит как вам, так и человеку, которому вы помогаете."
+
+msgid "You must enter a machine name or part of a name to search for."
+msgstr "Для поиска необходимо ввести полное название компьютера или его часть."
+
+msgid "Waiting for the other user to enter the keyword."
+msgstr "Ждём, пока другой пользователь введёт ключевое слово."
+
+msgid "Starting session; please wait."
+msgstr "Начинаем сеанс; пожалуйста, подождите."
+
+msgid "prompt required"
+msgstr "требуется подтверждение"
+
+msgid "unattended"
+msgstr "доступ без подтверждения"
+
+msgid "24 hours after this session starts"
+msgstr "через 24 часа после начала этого сеанса"
+
+msgid "Incident Pass"
+msgstr "Абонемент доступа"
+
+msgid "Day Pass"
+msgstr "Дневной абонемент"
+
+msgid "%{pass_type} purchased on %{date_time}, valid for %{time_span}"
+msgstr "%{pass_type}, дата покупки: %{date_time}, срок действия: %{time_span}"
+
+msgid "Pass for 1 month"
+msgstr "Абонемент на 1 месяц"
+
+msgid "Pass for %{count} months"
+msgstr "Абонемент на %{count} месяцев"
+
+msgid "Pass for 1 week"
+msgstr "Абонемент на 1 неделю"
+
+msgid "Pass for %{count} weeks"
+msgstr "Абонемент на %{count} недель"
+
+msgid "Pass for %{count} days"
+msgstr "Абонемент на %{count} дней"
+
+msgid "%{pass_type} purchased on %{date_time}"
+msgstr "%{pass_type}, дата покупки: %{date_time}"
+
+msgid "Your current RIM pass has %{span} left."
+msgstr "До окончания действия вашего текущего абонемента RIM: %{span}."
+
+msgid ""
+"During the weekend, your RIM Personal Weekend Support subscription gives you "
+"unlimited connection time for keyword-based sessions, in addition to your "
+"RIM Personal subscription's support for unattended sessions."
+msgstr ""
+"В выходные дни ваша подписка RIM Personal Weekend Support даёт вам "
+"неограниченное время подключения для сеансов, основанных на ключевых словах, "
+"в дополнение к поддержке сеансов без подтверждения по вашей подписке RIM "
+"Personal."
+
+msgid ""
+"During the weekend, your RIM Personal Weekend Support subscription gives you "
+"unlimited connection time for keyword-based sessions."
+msgstr ""
+"В выходные дни ваша подписка RIM Personal Weekend Support даёт вам "
+"неограниченное время подключения к сеансам, основанным на ключевых словах."
+
+msgid ""
+"You currently have %{remaining_base_time_today} of base RIM connection time "
+"today, from both the free tier and your RIM Personal Community Support "
+"subscription, and %{remaining_credited_time} of prepaid time. RIM will use "
+"your base time first."
+msgstr ""
+"Сегодня у вас осталось базовое время подключения к RIM, предоставляемое "
+"бесплатным тарифом и подпиской RIM Personal Community Support: %"
+"{remaining_base_time_today}, а также предоплаченное время: %"
+"{remaining_credited_time}. Сначала RIM будет использовать базовое время."
+
+msgid ""
+"You currently have %{remaining_free_time_today} of free RIM connection time "
+"today and %{remaining_credited_time} of prepaid time. RIM will use your free "
+"time first."
+msgstr ""
+"В настоящее время у вас есть %{remaining_free_time_today} бесплатного "
+"времени для подключения к RIM сегодня и %{remaining_credited_time} "
+"оплаченного времени. RIM в первую очередь будет использовать ваше бесплатное "
+"время."
+
+msgid ""
+"You currently have %{remaining_base_time_today} of RIM connection time "
+"today, from both the free tier and your RIM Personal Community Support "
+"subscription."
+msgstr ""
+"Сегодня у вас осталось время подключения к RIM, предоставляемое бесплатным "
+"тарифом и подпиской RIM Personal Community Support: %"
+"{remaining_base_time_today}."
+
+msgid ""
+"You currently have %{remaining_free_time_today} of free RIM connection time "
+"today."
+msgstr ""
+"В настоящее время у вас есть %{remaining_free_time_today} бесплатного "
+"времени для подключения к RIM сегодня."
+
+msgid ""
+"You have used up all of your base RIM connection time for today, from both "
+"the free tier and your RIM Personal Community Support subscription, but you "
+"still have %{remaining_credited_time} of prepaid time."
+msgstr ""
+"Вы израсходовали всё базовое время подключения к RIM на сегодня, "
+"предоставляемое бесплатным тарифом и подпиской RIM Personal Community "
+"Support, но у вас ещё осталось предоплаченное время: %"
+"{remaining_credited_time}."
+
+msgid ""
+"You have used up all of your free RIM connection time for today, but you "
+"still have %{remaining_credited_time} of prepaid time."
+msgstr ""
+"На сегодня вы израсходовали всё своё бесплатное время для подключения к RIM, "
+"но у вас ещё есть %{remaining_credited_time} из заранее оплаченного времени."
+
+msgid ""
+"You have used up all of your RIM connection time for today, from both the "
+"free tier and your RIM Personal Community Support subscription."
+msgstr ""
+"Вы израсходовали всё время подключения к RIM на сегодня, предоставляемое "
+"бесплатным тарифом и подпиской RIM Personal Community Support."
+
+msgid "You have used up all of your free RIM connection time for today."
+msgstr ""
+"На сегодня вы израсходовали всё своё бесплатное время для подключения к RIM."
+
+msgid ""
+"Your RIM personal subscription will be used for unattended sessions, while "
+"your current incident pass can be used for keyword-based sessions on one "
+"target machine over the next %{time_span}. The following applies to keyword-"
+"based sessions on additional target machines, and to any keyword-based "
+"sessions after your current incident pass has expired."
+msgstr ""
+"Ваша подписка RIM Personal будет использоваться для сеансов без "
+"подтверждения, в то время как ваш текущий абонемент доступа может быть "
+"использован для сеансов на основе ключевых слов на одном целевом компьютере "
+"в течение следующего %{time_span}. Нижеследующее относится к сеансам, "
+"основанным на ключевых словах, на дополнительных целевых компьютерах и ко "
+"всем сеансам, основанным на ключевых словах, после истечения срока действия "
+"текущего абонемента доступа."
+
+msgid ""
+"Your RIM personal subscription will be used for unattended sessions, while "
+"your current day pass can be used for keyword-based sessions over the next %"
+"{time_span}. The following applies to any keyword-based sessions after your "
+"current day pass has expired."
+msgstr ""
+"Ваша подписка RIM Personal будет использоваться для сеансов без "
+"подтверждения, в то время как ваш текущий дневной абонемент может быть "
+"использован для сеансов на основе ключевых слов в течение %{time_span}. "
+"Нижеследующее относится ко всем сеансам, основанным на ключевых словах, "
+"после истечения срока действия вашего текущего дневного абонемента."
+
+msgid ""
+"Your RIM personal subscription will be used for unattended sessions. The "
+"following applies to any keyword-based sessions."
+msgstr ""
+"Ваша подписка RIM Personal будет использоваться для сеансов доступа без "
+"подтверждения. Нижеследующее относится к любым сеансам, основанным на "
+"ключевых словах."
+
+msgid ""
+"Your current incident pass can be used for keyword-based sessions on one "
+"target machine over the next %{time_span}. The following applies to keyword-"
+"based sessions on additional target machines, and to any keyword-based "
+"sessions after your current incident pass has expired."
+msgstr ""
+"Ваш текущий абонемент доступа может быть использован для сеансов на основе "
+"ключевых слов на одном целевом компьютере в течение следующего %{time_span}. "
+"Нижеследующее относится к сеансам, основанным на ключевых словах, на "
+"дополнительных целевых компьютерах и ко всем сеансам, основанным на ключевых "
+"словах, после истечения срока действия текущего абонемента доступа."
+
+msgid ""
+"Your current day pass can be used for keyword-based sessions over the next %"
+"{time_span}. The following applies to any keyword-based sessions after your "
+"current day pass has expired."
+msgstr ""
+"Ваш текущий дневной абонемент может быть использован для сеансов, основанных "
+"на ключевых словах, в течение %{time_span}. Нижеследующее относится ко всем "
+"сеансам, основанным на ключевых словах, после истечения срока действия "
+"вашего текущего дневного абонемента."
+
+msgid ""
+"Please upgrade to a paid RIM subscription to gain unlimited connection time."
+msgstr ""
+"Пожалуйста, перейдите на платную подписку RIM, чтобы получить неограниченное "
+"время подключения."
+
+msgid "Use Incident Pass"
+msgstr "Использовать абонемент доступа"
+
+msgid "Use Day Pass"
+msgstr "Использовать дневной абонемент"
+
+msgid "Use Other Incident Pass"
+msgstr "Использовать другой абонемент для доступа"
+
+msgid "Select another pass"
+msgstr "Выбрать другой абонемент"
+
+msgid "Select pass"
+msgstr "Выберите абонемент"
+
+msgid "Start using pass"
+msgstr "Начать использовать абонемент"
+
+msgid ""
+"Your prepaid time has run out. Please order more prepaid time or upgrade to "
+"a RIM Pro subscription to continue using RIM."
+msgstr ""
+"Ваше предоплаченное время истекло. Пожалуйста, закажите дополнительное "
+"предоплаченное время или перейдите на подписку на RIM Pro, чтобы продолжить "
+"пользоваться RIM."
+
+msgid "File Transfer Progress"
+msgstr "Ход передачи файла"
+
+msgid "You currently have %{remaining_time} of free RIM usage today."
+msgstr ""
+"В настоящее время у вас есть %{remaining_time} бесплатного использования RIM "
+"сегодня."
+
+msgid "You have used up all of your free RIM usage for today."
+msgstr "Вы израсходовали всё бесплатное время использования RIM на сегодня."
+
+msgid "Remote Incident Manager: Receive Remote Help"
+msgstr "Remote Incident Manager: Получение удалённой помощи"
+
+msgid "Receive Remote Help"
+msgstr "Получить удалённую помощь"
+
+msgid "Please enter the keyword you received from the person helping you."
+msgstr ""
+"Пожалуйста, введите ключевое слово, которое вы получили от человека, "
+"помогающего вам."
+
+msgid "Connect"
+msgstr "Подключиться"
+
+msgid "Provide help instead"
+msgstr "Перейти к предоставлению помощи"
+
+msgid "Add this machine to your RIM account"
+msgstr "Добавить этот компьютер в свою учётную запись RIM"
+
+msgid ""
+"You must enter a keyword before you can start the remote session. Please "
+"enter the keyword that was provided by the person that is helping you."
+msgstr ""
+"Вы должны ввести ключевое слово, прежде чем сможете начать удалённый сеанс. "
+"Пожалуйста, введите ключевое слово, предоставленное сотрудником, который вам "
+"помогает."
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "German"
+msgstr "Немецкий"
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "French"
+msgstr "Французский"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid "Japanese"
+msgstr "Японский"
+
+msgid "Dutch"
+msgstr "Нидерландский"
+
+msgid "Portuguese (Brazilian)"
+msgstr "Португальский (бразильский)"
+
+msgid "Swedish"
+msgstr "Шведский"
+
+msgid "Switch language"
+msgstr "Изменить язык"
+
+msgid "System Permissions - Remote Incident Manager"
+msgstr "Системные разрешения - Remote Incident Manager"
+
+msgid ""
+"Before you can use RIM to provide remote help, you'll need to give RIM "
+"several permissions in this machine's macOS settings. RIM will request one "
+"permission at a time and provide detailed instructions to grant each "
+"permission. RIM will not function without these permissions. To begin, click "
+"the \"Continue\" button below."
+msgstr ""
+"Прежде чем вы сможете использовать RIM для предоставления удалённой помощи, "
+"вам необходимо предоставить RIM несколько разрешений в настройках macOS на "
+"этом компьютере. RIM будет запрашивать по одному разрешению за раз и "
+"предоставлять подробные инструкции по предоставлению каждого разрешения. Без "
+"этих разрешений RIM не будет работать. Чтобы начать, нажмите ниже кнопку "
+"\"Продолжить\"."
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid ""
+"Before you can use RIM to receive remote help, you'll need to give RIM "
+"several permissions in this machine's macOS settings. RIM will request one "
+"permission at a time and provide detailed instructions to grant each "
+"permission. RIM will not function without these permissions. To begin, click "
+"the \"Continue\" button below."
+msgstr ""
+"Прежде чем вы сможете использовать RIM для получения удалённой помощи, вам "
+"необходимо предоставить RIM несколько разрешений в настройках macOS на этом "
+"компьютере. RIM будет запрашивать по одному разрешению за раз и "
+"предоставлять подробные инструкции по предоставлению каждого разрешения. Без "
+"этих разрешений RIM не будет работать. Чтобы начать, нажмите ниже кнопку "
+"\"Продолжить\"."
+
+msgid ""
+"RIM needs to activate the system extension that enables remote keyboard "
+"input when receiving remote help. For now, while Pneuma Solutions is working "
+"through the Apple approval process to incorporate the system extension into "
+"RIM itself, the system extension comes from an application called Karabiner-"
+"VirtualHIDDevice-Manager."
+msgstr ""
+"RIM необходимо активировать системное расширение, позволяющее осуществлять "
+"удалённый ввод с клавиатуры при получении удалённой помощи. В настоящее "
+"время, пока Pneuma Solutions проходит процедуру одобрения Apple для "
+"включения системного расширения в саму RIM, системное расширение "
+"поставляется из приложения под названием Karabiner-VirtualHIDDevice-Manager."
+
+msgid ""
+"Once you press the \"Continue\" button below, if the system dialog saying "
+"that macOS has blocked this extension doesn't automatically receive focus, "
+"press VO+F1 twice, then choose \"System Dialogs\". Note that you may need to "
+"press VO+FN+F1 if your function keys are not set up to work independently of "
+"the FN key. The FN key is located to the left of the CTRL key."
+msgstr ""
+"Как только вы нажмёте кнопку \"Продолжить\" ниже, если системное диалоговое "
+"окно с сообщением о том, что macOS заблокировала это расширение, не появится "
+"автоматически, дважды нажмите VO+F1, затем выберите \"Системные диалоги\". "
+"Обратите внимание, что вам может потребоваться нажать VO+FN+F1, если ваши "
+"функциональные клавиши не настроены на работу независимо от клавиши FN. "
+"Клавиша FN расположена слева от клавиши CTRL."
+
+msgid ""
+"Once this dialog has focus, do *not* press the \"OK\" button; instead, press "
+"the *\"Open Settings\"* button to open the Login Items and Extensions "
+"settings. The button you'll need to press to allow the system extension can "
+"be reached simply by pressing the tab key once. You should hear VoiceOver "
+"announce \"org.pqrs.Karabiner-VirtualHIDDevice-Manager, toggle button\". "
+"Press VO+Space on that button to unblock the system extension. Enter your "
+"password or provide your touch ID when prompted. Once you've successfully "
+"authenticated, activate the \"Done\" button before moving onto the next step."
+msgstr ""
+"Когда это диалоговое окно получит фокус, *не* нажимайте «OK». Нажмите "
+"*«Открыть настройки»*, чтобы открыть раздел «Объекты входа и расширения». "
+"Чтобы перейти к переключателю разрешения системного расширения, достаточно "
+"один раз нажать Tab. VoiceOver должен произнести «org.pqrs.Karabiner-"
+"VirtualHIDDevice-Manager, переключатель». Нажмите VO+Space, чтобы разрешить "
+"системное расширение. При необходимости введите пароль или используйте Touch "
+"ID. После успешной аутентификации активируйте кнопку «Готово», прежде чем "
+"переходить к следующему шагу."
+
+msgid ""
+"Once this dialog has focus, do *not* press the \"OK\" button; instead, press "
+"the *\"Open Settings\"* button to open the security and privacy settings. "
+"The button you'll need to press to allow the system extension is quite far "
+"down in the settings page; look for a message saying that system software "
+"loaded by Karabiner-VirtualHIDDevice-Manager was blocked, then you should "
+"find an \"Allow\" button. Press VO+Space on that button to unblock the "
+"system extension. If you start seeing settings concerning FileVault, you "
+"likely went too far and should scroll backwards to find the \"Allow\" "
+"button. Enter your password or provide your touch ID when prompted."
+msgstr ""
+"Как только появится это диалоговое окно, не нажимайте кнопку \"ОК\"; вместо "
+"этого нажмите кнопку \"Открыть настройки\", чтобы открыть настройки "
+"безопасности и конфиденциальности. Кнопка, которую вам нужно нажать, чтобы "
+"разрешить системное расширение, находится довольно далеко внизу страницы "
+"настроек; найдите сообщение о том, что системное программное обеспечение, "
+"загруженное Karabiner-VirtualHIDDevice-Manager, было заблокировано, затем вы "
+"должны найти кнопку \"Разрешить\". Нажмите VO+Space на этой кнопке, чтобы "
+"разблокировать системное расширение. Если вы начнёте видеть настройки, "
+"касающиеся FileVault,  вероятно, вы зашли слишком далеко, и вам следует "
+"прокрутить страницу назад, чтобы найти кнопку \"Разрешить\". Введите свой "
+"пароль или используйте Touch ID при появлении запроса."
+
+msgid ""
+"Once you press the \"Continue\" button below, the system dialog saying that "
+"macOS has blocked this extension will appear on top of your screen. Do *not* "
+"press the \"OK\" button; instead, press the *\"Open Settings\"* button to "
+"open the Login Items and Extensions settings. You'll then find a toggle "
+"button called \"org.pqrs.Karabiner-VirtualHIDDevice-Manager\". Click this "
+"button to unblock the system extension. Enter your password or provide your "
+"touch ID when asked. Once you've successfully authenticated, click the "
+"\"Done\" button before moving onto the next step."
+msgstr ""
+"Как только вы нажмёте кнопку \"Продолжить\" ниже, в верхней части экрана "
+"появится системное диалоговое окно с сообщением о том, что macOS "
+"заблокировала это расширение. Не нажимайте кнопку \"OK\"; вместо этого "
+"нажмите кнопку \"Открыть настройки\", чтобы открыть раздел «Объекты входа и "
+"расширения». Затем вы найдёте переключатель под названием "
+"\"org.pqrs.Karabiner-VirtualHIDDevice-Manager\". Нажмите эту кнопку, чтобы "
+"разблокировать системное расширение. Введите свой пароль или Touch ID при "
+"запросе. После успешной аутентификации нажмите кнопку \"Готово\", прежде чем "
+"переходить к следующему шагу."
+
+msgid ""
+"Once you press the \"Continue\" button below, the system dialog saying that "
+"macOS has blocked this extension will appear on top of your screen. Do *not* "
+"press the \"OK\" button; instead, press the *\"Open Settings\"* button to "
+"open the security and privacy settings. The button you'll need to press to "
+"allow the system extension is quite far down in the settings page; look for "
+"a message saying that system software loaded by Karabiner-VirtualHIDDevice-"
+"Manager was blocked, then you should find an \"Allow\" button. Click this "
+"button to unblock the system extension. Enter your password or provide your "
+"touch ID when asked."
+msgstr ""
+"Как только вы нажмёте кнопку \"Продолжить\", в верхней части экрана появится "
+"системное диалоговое окно с сообщением о том, что macOS заблокировала это "
+"расширение. Не нажимайте кнопку \"OK\"; вместо этого нажмите кнопку "
+"\"Открыть настройки\", чтобы открыть настройки безопасности и "
+"конфиденциальности. Кнопка, которую вам нужно нажать, чтобы разрешить "
+"системное расширение, находится довольно далеко внизу страницы настроек; "
+"найдите сообщение о том, что системное программное обеспечение, загруженное "
+"Karabiner-VirtualHIDDevice-Manager, было заблокировано, затем вы должны "
+"найти кнопку \"Разрешить\". Нажмите эту кнопку, чтобы разблокировать "
+"системное расширение. Введите свой пароль или Touch ID при запросе."
+
+msgid ""
+"RIM needs permission to capture the screen and audio output, so it can be "
+"seen and heard across the remote computer connection."
+msgstr ""
+"RIM требуется разрешение на запись экрана и звука, чтобы их можно было "
+"увидеть и услышать через удалённое соединение с компьютером."
+
+msgid ""
+"If the system dialog requesting permission doesn't automatically receive "
+"focus, press VO+F1 twice and choose \"System Dialogs\". Note that you may "
+"need to press VO+FN+F1 if your function keys are not set up to work "
+"independently of the FN key. The FN key is located to the left of the CTRL "
+"key."
+msgstr ""
+"Если диалог с запросом разрешения не появляется автоматически, дважды "
+"нажмите VO+F1 и выберите «Системные диалоги». Обратите внимание, что вам "
+"может потребоваться нажать VO+FN+F1, если ваши функциональные клавиши не "
+"настроены на работу независимо от клавиши FN. Клавиша FN расположена слева "
+"от клавиши CTRL."
+
+msgid ""
+"Once the dialog is focused, press the button to open settings. You will find "
+"a table with an entry for Remote Incident Manager. Once you interact with "
+"the table and move to that entry, press VO+Space to turn on the switch. When "
+"you turn on the switch, macOS will prompt you to restart RIM. Go ahead and "
+"do this; RIM will continue where it left off."
+msgstr ""
+"Когда появится диалог, нажмите кнопку, чтобы открыть настройки. Вы найдёте "
+"таблицу с пунктом «Remote Incident Manager». После того как вы "
+"взаимодействуете с таблицей и перейдёте к этой записи, нажмите VO+Space, "
+"чтобы включить переключатель. Когда вы включите переключатель, macOS "
+"предложит вам перезапустить RIM. Сделайте это; RIM продолжит работу с того "
+"места, на котором остановилась."
+
+msgid ""
+"You should now see a system dialogue appear on top of your screen. Press the "
+"button to open settings, again making sure not to accidentally press the OK "
+"button. You will find a table with an entry for Remote Incident Manager. "
+"Click the Remote Incident Manager entry to turn on the switch, providing "
+"your password or touch ID if prompted. When you turn on the switch, macOS "
+"will prompt you to restart RIM. Go ahead and do this; RIM will continue "
+"where it left off."
+msgstr ""
+"Теперь в верхней части экрана должно появиться системное диалоговое окно. "
+"Нажмите кнопку, чтобы открыть настройки, ещё раз убедившись, что вы случайно "
+"не нажали кнопку OK. Вы увидите таблицу с записью для Remote Incident "
+"Manager. Нажмите на кнопку \"Remote Incident Manager\", чтобы включить "
+"переключатель, и при необходимости введите пароль или используйте Touch ID. "
+"Когда вы включите переключатель, macOS предложит вам перезапустить RIM. "
+"Продолжайте и сделайте это; RIM продолжит работу с того места, на котором "
+"остановилась."
+
+msgid ""
+"RIM needs to be granted permission to be used as a remote desktop "
+"application. The prompt you are about to receive may appear disconcerting; "
+"it is the stock prompt written by Apple that would appear for any remote "
+"desktop application running on the platform. Contrary to the prompt's "
+"warning, only individuals or orgaanizations to whom you grant express "
+"permission will be able to remotely control your computer, and with the "
+"exception of unattended sessions, this permission must be granted on a per-"
+"session basis. Your privacy and security is of paramount importance to us, "
+"and RIM has resilient security in place to prevent unauthorized access."
+msgstr ""
+"RIM необходимо получить разрешение на использование в качестве приложения "
+"для удалённого рабочего стола. Подсказка, которую вы сейчас получите, может "
+"показаться обескураживающей: это написанная Apple стандартная подсказка, "
+"которая появляется для любого приложения удалённого рабочего стола, "
+"работающего на этой платформе. Вопреки предупреждению в подсказке, удалённо "
+"управлять вашим компьютером смогут только лица или организации, которым вы "
+"предоставите специальное разрешение, и, за исключением сеансов доступа без "
+"подтверждения, это разрешение должно быть предоставлено для каждого сеанса. "
+"Ваша конфиденциальность и безопасность имеют для нас первостепенное "
+"значение. RIM обеспечивает надёжную защиту от несанкционированного доступа."
+
+msgid ""
+"RIM needs permission to use macOS accessibility features to remotely control "
+"this computer via keyboard and mouse input."
+msgstr ""
+"RIM требуется разрешение на использование универсального доступа macOS для "
+"удалённого управления этим компьютером с помощью клавиатуры и мыши."
+
+msgid ""
+"Once the dialog is focused, press the button to open settings. You will find "
+"a table with an entry for Remote Incident Manager. Once you interact with "
+"the table and move to that entry, press VO+Space to turn on the switch, "
+"providing your password or touch ID if prompted."
+msgstr ""
+"Как только появится диалоговое окно, нажмите кнопку, чтобы открыть "
+"настройки. Вы увидите таблицу с записью для Remote Incident Manager. После "
+"того, как вы войдёте в таблицу и перейдёте к этой записи, нажмите VO+Space, "
+"чтобы включить переключатель, и при необходимости введите пароль или "
+"используйте Touch ID."
+
+msgid ""
+"You should now see a system dialogue appear on top of your screen. Press the "
+"button to open settings, again making sure not to accidentally press the OK "
+"button. You will find a table with an entry for Remote Incident Manager. "
+"Click the Remote Incident Manager entry to turn on the switch, providing "
+"your password or provide your touch ID if prompted."
+msgstr ""
+"Теперь в верхней части экрана должно появиться системное диалоговое окно. "
+"Нажмите кнопку, чтобы открыть настройки, ещё раз убедившись, что вы случайно "
+"не нажали кнопку OK. Вы увидите таблицу с записью для Remote Incident "
+"Manager. Нажмите на запись \"Remote Incident Manager\", чтобы включить "
+"переключатель, укажите свой пароль или Touch ID, если потребуется."
+
+msgid ""
+"RIM needs permission to show notifications, so it can let you know when a "
+"remote session begins and ends, or when a session has flipped."
+msgstr ""
+"RIM требуется разрешение на показ уведомлений, чтобы сообщать вам о начале и "
+"завершении удалённого сеанса, а также о смене ролей участников."
+
+msgid ""
+"You should receive a notification saying that Remote Incident Manager wants "
+"to display notifications. If you did, then press VO+N, choose the Remote "
+"Incident Manager item from the menu, and press VO+Space to open the RIM "
+"notifications page in System Settings. If you didn't receive a notification, "
+"open System Settings, go to Notifications, and press the button for Remote "
+"Incident Manager. Then turn on notifications for this app."
+msgstr ""
+"Вы должны получить уведомление о том, что Remote Incident Manager хочет "
+"показывать уведомления. Если вы получили это уведомление, нажмите VO+N, "
+"выберите пункт Remote Incident Manager в меню и нажмите VO+Space, чтобы "
+"открыть страницу уведомлений RIM в системных настройках. Если вы не получили "
+"уведомление, откройте Системные настройки, перейдите в раздел Уведомления и "
+"нажмите кнопку Remote Incident Manager. Затем включите уведомления для этого "
+"приложения."
+
+msgid ""
+"You should receive a notification saying that Remote Incident Manager wants "
+"to display notifications. If you did, click this notification to open the "
+"RIM notifications page in System Settings. If you didn't receive a "
+"notification, open System Settings, go to Notifications, and press the "
+"button for Remote Incident Manager. Then turn on notifications for this app."
+msgstr ""
+"Вы должны получить уведомление о том, что Remote Incident Manager хочет "
+"показывать уведомления. Если вы его получили, нажмите на это уведомление, "
+"чтобы открыть страницу уведомлений RIM в настройках системы. Если вы не "
+"получили уведомление, откройте настройки системы, перейдите в раздел "
+"Уведомления и нажмите кнопку Remote Incident Manager. Затем включите "
+"уведомления для этого приложения."
+
+msgid "Waiting for permission..."
+msgstr "Жду разрешения..."
+
+msgid ""
+"RIM is currently re-establishing your remote connection. Please do not close "
+"this window unless you want to cancel your remote session."
+msgstr ""
+"В настоящее время RIM восстанавливает ваше удалённое подключение. "
+"Пожалуйста, не закрывайте это окно, если вы не хотите отменить свой "
+"удалённый сеанс."
+
+msgid ""
+"The target machine is currently rebooting. The remote session will continue "
+"when the reboot is complete. Please do not close this window."
+msgstr ""
+"В данный момент выполняется перезагрузка целевого компьютера. Удалённый "
+"сеанс будет продолжен после завершения перезагрузки. Пожалуйста, не "
+"закрывайте это окно."
+
+msgid ""
+"The target machine is currently in the process of logging onto Windows. The "
+"remote session will continue when this process is complete. Please do not "
+"close this window."
+msgstr ""
+"В данный момент на целевом компьютере выполняется вход в систему Windows. "
+"Удалённый сеанс будет продолжен после завершения этого процесса. Пожалуйста, "
+"не закрывайте это окно."
+
+msgid ""
+"The target machine is currently installing the latest RIM update. The remote "
+"session will continue when this process is complete. Please do not close "
+"this window."
+msgstr ""
+"На целевом компьютере в данный момент устанавливается последнее обновление "
+"RIM. Удалённый сеанс будет продолжен после завершения этого процесса. "
+"Пожалуйста, не закрывайте это окно."
+
+msgid ""
+"The target machine is currently re-installing RIM with full administrative "
+"privileges. The remote session will continue when this process is complete. "
+"Please do not close this window."
+msgstr ""
+"В настоящее время на целевом компьютере выполняется повторная установка RIM "
+"с полными правами администратора. Удалённый сеанс будет продолжен после "
+"завершения этого процесса. Пожалуйста, не закрывайте это окно."
+
+msgid "Your voice conversation will resume once the session is active again."
+msgstr ""
+"Ваш голосовой разговор возобновится, как только сеанс снова станет активным."
+
+msgid "Add This Machine to Your RIM Account"
+msgstr "Добавить этот компьютер в свою учётную запись RIM"
+
+msgid ""
+"This option lets you add this machine as a target in your RIM account so you "
+"can remotely access it."
+msgstr ""
+"Эта опция позволяет вам добавить этот компьютер в качестве целевого в вашу "
+"учётную запись RIM, чтобы вы могли получить к нему удалённый доступ."
+
+msgid "Type of remote access:"
+msgstr "Тип удалённого доступа:"
+
+msgid "Unattended"
+msgstr "Без подтверждения"
+
+msgid ""
+"With this option, this machine can be accessed at any time without requiring "
+"a user to be physically present at the machine to accept the connection."
+msgstr ""
+"При использовании этой опции доступ к данному компьютеру можно получить в "
+"любое время, не требуя физического присутствия пользователя для принятия "
+"подключения."
+
+msgid "Prompted"
+msgstr "С подтверждением"
+
+msgid ""
+"With this option, RIM will prompt the user of this machine for permission to "
+"access the machine, and the user must be present at the machine to accept or "
+"deny the request."
+msgstr ""
+"При использовании этой опции RIM запросит у пользователя этого устройства "
+"разрешение на доступ к компьютеру, пользователь должен присутствовать при "
+"этом, чтобы принять или отклонить запрос."
+
+msgid "Name this target machine:"
+msgstr "Дайте имя этому целевому компьютеру:"
+
+msgid "Add Machine"
+msgstr "Добавить компьютер"
+
+msgid ""
+"You must enter a name for this machine. This name will be used in the list "
+"of target machines for your RIM account, so choose a name that will make it "
+"easy to find this machine when you want to connect to it."
+msgstr ""
+"Вам необходимо ввести имя для этого компьютера. Это имя будет использоваться "
+"в списке целевых компьютеров для вашей учётной записи RIM, поэтому выберите "
+"имя, которое облегчит поиск этого компьютера, когда вы захотите подключиться "
+"к нему."
+
+msgid "Adding machine; please wait."
+msgstr "Идёт добавление компьютера, пожалуйста, подождите."
+
+msgid "Request Unattended or Prompted Access"
+msgstr "Запрос доступа без подтверждения или с подтверждением"
+
+msgid "Type of access:"
+msgstr "Тип доступа:"
+
+msgid "Send Request"
+msgstr "Отправить запрос"
+
+msgid ""
+"You must enter a name for the target machine. This name will be used in the "
+"list of target machines for your RIM account, so choose a name that will "
+"make it easy to find this machine when you want to connect to it."
+msgstr ""
+"Вам необходимо ввести имя целевого компьютера. Это имя будет использоваться "
+"в списке целевых компьютеров для вашей учётной записи RIM, поэтому выберите "
+"имя, которое облегчит поиск этого компьютера, когда вы захотите подключиться "
+"к нему."
+
+msgid "Waiting for the target user to respond."
+msgstr "Ожидание ответа целевого пользователя."
+
+msgid "Send Logs to Pneuma Solutions"
+msgstr "Отправить журналы в Pneuma Solutions"
+
+msgid ""
+"Please only use this function if a representative of Pneuma Solutions has "
+"requested logs."
+msgstr ""
+"Пожалуйста, используйте эту функцию только в том случае, если представитель "
+"Pneuma Solutions запросил журналы регистрации."
+
+msgid "Detailed problem description:"
+msgstr "Подробное описание проблемы:"
+
+msgid ""
+"Please either enter a detailed description of your problem or close this "
+"window."
+msgstr ""
+"Пожалуйста, либо введите подробное описание вашей проблемы, либо закройте "
+"это окно."
+
+msgid "Sending logs..."
+msgstr "Отправка журналов..."
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Switch server"
+msgstr "Сменить сервер"
+
+msgid "Remote Session"
+msgstr "Удалённый сеанс"
+
+msgid "No screen reader is running on the remote machine."
+msgstr "На удалённом компьютере не запущена программа экранного доступа."
+
+msgid "Remote accessibility is active."
+msgstr "Удалённые специальные возможности включены."
+
+msgid "%{screen_reader_name} is running on the remote machine."
+msgstr "На удалённом компьютере запущен %{screen_reader_name}."
+
+msgid "%{screen_reader_name} %{version} is running on the remote machine."
+msgstr "На удалённом компьютере запущен %{screen_reader_name} %{version}."
+
+msgid "Target audio output is currently muted."
+msgstr "Звук на целевом компьютере в данный момент отключён."
+
+msgid "Starting remote accessibility."
+msgstr "Запуск удалённых специальных возможностей."
+
+msgid "Saving the session recording failed."
+msgstr "Не удалось сохранить запись сеанса."
+
+msgid "Only the person who started the session can record it."
+msgstr "Записывать сеанс может только тот, кто его начал."
+
+msgid "Session recording is not available in this environment."
+msgstr "Запись сеанса недоступна в этой среде."
+
+msgid "Session recording is not supported on this system."
+msgstr "Запись сеанса не поддерживается в этой системе."
+
+msgid "Starting the session recording failed."
+msgstr "Не удалось начать запись сеанса."
+
+msgid "just now"
+msgstr "только что"
+
+msgid "Message copied to clipboard"
+msgstr "Сообщение скопировано в буфер обмена"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Type a message"
+msgstr "Введите сообщение"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "%{sender} is typing..."
+msgstr "%{sender} печатает..."
+
+msgid "Comment on This Session"
+msgstr "Прокомментировать этот сеанс"
+
+msgid ""
+"You may optionally write a comment on the session that just ended. This "
+"comment will appear on your RIM Dashboard."
+msgstr ""
+"При желании вы можете оставить комментарий к только что завершившемуся "
+"сеансу. Этот комментарий появится на вашей панели управления RIM."
+
+msgid "Comment:"
+msgstr "Комментарий:"
+
+msgid "Add Comment"
+msgstr "Добавить комментарий"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Please either enter a comment or close this window."
+msgstr "Пожалуйста, либо введите комментарий, либо закройте это окно."
+
+msgid "Connection Details"
+msgstr "Сведения о подключении"
+
+msgid "Ethernet"
+msgstr "Локальная сеть Ethernet"
+
+msgid "WiFi"
+msgstr "Wi-Fi"
+
+msgid "direct peer-to-peer"
+msgstr "прямое одноранговое соединение"
+
+msgid "peer-to-peer with NAT traversal"
+msgstr "одноранговое соединение с обходом NAT"
+
+msgid "relay"
+msgstr "через ретранслятор"
+
+msgid "Ping round trip time"
+msgstr "Время прохождения сигнала туда и обратно"
+
+msgid "Data received"
+msgstr "Полученные данные"
+
+msgid "Data sent"
+msgstr "Отправленные данные"
+
+msgid "Network type"
+msgstr "Тип сети"
+
+msgid "Local address"
+msgstr "Локальный адрес"
+
+msgid "Local transport type"
+msgstr "Тип локального транспорта"
+
+msgid "Remote address"
+msgstr "Удалённый адрес"
+
+msgid "Remote transport type"
+msgstr "Тип удалённого транспорта"
+
+msgid "Send Logs on Target"
+msgstr "Отправить журналы с целевого компьютера"
+
+msgid "Machine info"
+msgstr "Информация о компьютере"
+
+msgid "%{platform} version"
+msgstr "версия %{platform}"
+
+msgid "Total RAM"
+msgstr "Общий объём оперативной памяти"
+
+msgid "Free RAM"
+msgstr "Свободная оперативная память"
+
+msgid "Total swap space"
+msgstr "Общее пространство подкачки"
+
+msgid "Free swap space"
+msgstr "Свободное место для подкачки"
+
+msgid "Running processes"
+msgstr "Запущенные процессы"
+
+msgid "Process ID"
+msgstr "Идентификатор процесса"
+
+msgid "Executable path"
+msgstr "Путь к исполняемому файлу"
+
+msgid "Installed packages"
+msgstr "Установленные пакеты"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid ""
+"Welcome to Remote Incident Manager from Pneuma Solutions! Thank you for "
+"choosing RIM for your accessible remote desktop needs."
+msgstr ""
+"Добро пожаловать в Remote Incident Manager от Pneuma Solutions! Благодарим "
+"вас за то, что вы выбрали RIM для удовлетворения ваших потребностей в "
+"доступном удалённом рабочем столе."
+
+msgid ""
+"Before using this software for the first time, Apple requires us to ask for "
+"several permissions so RIM can run on your Mac. The permissions needed "
+"depend on whether you are providing or receiving help. We will provide step "
+"by step instructions once you begin the process of providing or receiving "
+"help."
+msgstr ""
+"Перед первым использованием этого программного обеспечения Apple требует, "
+"чтобы мы запросили несколько разрешений, чтобы RIM могла работать на вашем "
+"Mac. Необходимые разрешения зависят от того, предоставляете ли вы помощь или "
+"получаете её. Мы предоставим пошаговые инструкции, как только вы начнёте "
+"процесс предоставления или получения помощи."
+
+msgid "Receive remote help now"
+msgstr "Получить удалённую помощь прямо сейчас"
+
+msgid ""
+"RIM has a single installer, regardless of whether you are playing the role "
+"of the technical support provider(controller) or the remote end-user "
+"(target), that is, whether you are providing or receiving help. If you want "
+"to receive help, simply press the \"Receive help now\" button above. Then "
+"all you need to do is enter the key word provided by the Controller. RIM "
+"will establish the connection and start the voice conversation if necessary."
+msgstr ""
+"У RIM есть единый установщик, независимо от того, выступаете ли вы в роли "
+"поставщика технической поддержки (управляющего пользователя) или удалённого "
+"конечного (целевого) пользователя, то есть предоставляете ли вы помощь или "
+"получаете её. Если вы хотите получить помощь, просто нажмите кнопку "
+"\"Получить помощь сейчас\" выше. Затем всё, что вам нужно сделать, это "
+"ввести ключевое слово, предоставленное управляющим пользователем. RIM "
+"установит соединение и при необходимости начнёт голосовой диалог."
+
+msgid ""
+"If you are providing help, you will need to click the “Provide remote help "
+"now” button below and log into the RIM service. The first time you log in, "
+"we’ll need to verify your email address and phone number."
+msgstr ""
+"Если вы предоставляете помощь, вам нужно будет нажать кнопку “Предоставить "
+"удалённую помощь сейчас” ниже и войти в сервис RIM. При первом входе в "
+"систему нам потребуется подтвердить ваш адрес электронной почты и номер "
+"телефона."
+
+msgid ""
+"When you’re ready to help someone, direct the person needing help to visit "
+"GetRIM.app, download, install, and run the RIM app, and follow the on screen "
+"instructions."
+msgstr ""
+"Когда вы будете готовы помочь кому-либо, попросите человека, которому нужна "
+"помощь, зайти на GetRIM.app, скачать, установить и запустить приложение RIM, "
+"а затем следовать инструкциям на экране."
+
+msgid "Now that we have all of that out of the way. This is how RIM works:"
+msgstr "Теперь, когда с этим разобрались, расскажем, как работает RIM:"
+
+msgid ""
+"The technician chooses a keyword for the remote session, enters it on the "
+"“Provide Remote Help” screen, and presses “Start”."
+msgstr ""
+"Технический специалист выбирает ключевое слово для удалённого сеанса, вводит "
+"его на экране “Предоставить удалённую помощь” и нажимает \"Начать”."
+
+msgid ""
+"The technician gives that keyword to the end-user, who enters it on the "
+"“Receive Remote Help” screen and presses “Connect”."
+msgstr ""
+"Технический специалист сообщает это ключевое слово конечному пользователю, "
+"который вводит его на экране “Получить удалённую помощь” и нажимает "
+"\"Подключиться”."
+
+msgid ""
+"The two sides are connected. In addition to the remote desktop session, a "
+"voice conversation can be started optionally at the beginning or later in "
+"the session. Neither the Controller or Target need to be waring headphones "
+"during a remote session. Feel free to use your computer’s speakers."
+msgstr ""
+"Между участниками устанавливается соединение. Помимо сеанса удалённого "
+"рабочего стола, в начале сеанса или позже можно начать голосовой разговор. "
+"Ни управляющему пользователю, ни конечному пользователю не обязательно "
+"пользоваться наушниками во время удалённого сеанса. Можно использовать "
+"динамики компьютера."
+
+msgid ""
+"The Controller can hear any audio output on the end-user’s machine, "
+"including not only any screen reader the end-user may be running, but also "
+"other applications. Sighted or low-vision technicians can also see the end-"
+"user’s screen. Keyboard and mouse input work as expected."
+msgstr ""
+"Управляющий пользователь может прослушивать любой аудиосигнал на компьютере "
+"конечного пользователя, включая не только программы экранного доступа, "
+"которые может запускать конечный пользователь, но и другие приложения. "
+"Зрячие или слабовидящие специалисты также могут видеть экран конечного "
+"пользователя. Ввод с клавиатуры и мыши работает должным образом."
+
+msgid ""
+"During the session, the technician presses Windows+Shift+Backspace on "
+"Windows, or Option+Shift+Backspace on macOS, to open the RIM menu. On this "
+"menu, the technician can minimize the session, flip the session so the end-"
+"user can watch and control the technician’s machine, launch accessibility on "
+"the Target, request the end-user's permission to gain unattended access to "
+"this target machine, or close the session."
+msgstr ""
+"Во время сеанса технический специалист нажимает Windows+Shift+Backspace в "
+"Windows или Option+Shift+Backspace в macOS, чтобы открыть меню RIM. В этом "
+"меню можно свернуть сеанс, поменять роли участников, чтобы конечный "
+"пользователь мог видеть экран компьютера специалиста и управлять им, "
+"запустить удалённые специальные возможности на целевом компьютере, запросить "
+"у конечного пользователя разрешение на доступ к этому компьютеру без "
+"подтверждения или завершить сеанс."
+
+msgid ""
+"If the end-user’s machine isn’t running a screen reader, the technician can "
+"start our remote accessibility module that allows only the technician to "
+"hear speech output. For this to work, the technician must be running NVDA on "
+"their own machine if they're on Windows, or VoiceOver if they're on macOS."
+msgstr ""
+"Если на компьютере конечного пользователя не запущена программа экранного "
+"доступа, технический специалист может запустить модуль удалённых специальных "
+"возможностей: тогда речь будет слышать только специалист. Для этого на "
+"компьютере специалиста должна быть запущена NVDA в Windows или VoiceOver в "
+"macOS."
+
+msgid ""
+"You can also transfer files or folders between the two machines. To do this, "
+"simply use File Explorer on Windows, or the Finder on macOS, to copy one or "
+"more files or folders onto the clipboard on one end. Then on the controller "
+"end, open the RIM menu and choose the option to transfer the file or files. "
+"When that's done, a folder containing the transferred file or files will "
+"open on the receiving end. Of course, copying and pasting text across "
+"machines also works."
+msgstr ""
+"Вы также можете передавать файлы или папки между двумя компьютерами. Для "
+"этого просто используйте проводник в Windows или Finder в macOS, чтобы "
+"скопировать один или несколько файлов или папок в буфер обмена на одном "
+"конце. Затем на компьютере управляющего пользователя откройте меню RIM и "
+"выберите опцию для передачи файла или файлов. Когда это будет сделано, на "
+"принимающей стороне откроется папка, содержащая переданный файл или файлы. "
+"Конечно, копирование и вставка текста между компьютерами также работает."
+
+msgid "Now let’s make the lawyers happy:"
+msgstr "А теперь давайте порадуем юристов:"
+
+msgid ""
+"To the extent not prohibited by law, in no circumstances shall Pneuma "
+"Solutions be liable to you or any other third parties for any loss or damage "
+"(including, without limitation, damage for loss of business or loss of "
+"profits) arising directly or indirectly from your use of or inability to "
+"use, this software or any of the material contained in it."
+msgstr ""
+"В той мере, в какой это не запрещено законом, ни при каких обстоятельствах "
+"Pneuma Solutions не несёт ответственности перед вами или третьими лицами за "
+"любые убытки или ущерб (включая, помимо прочего, ущерб в связи с потерей "
+"бизнеса или упущенной выгодой), прямо или косвенно возникающие в результате "
+"использования или невозможности использования вами данного программного "
+"обеспечения или любого из содержащихся в нём материалов."
+
+msgid "Thank you for reading, and for your interest in RIM."
+msgstr "Спасибо вам за чтение и за ваш интерес к RIM."
+
+msgid "Should you encounter any issues, please do not hesitate to contact us."
+msgstr ""
+"Если у вас возникнут какие-либо вопросы, пожалуйста, не стесняйтесь "
+"обращаться к нам."
+
+msgid "Provide remote help now"
+msgstr "Предоставить удалённую помощь прямо сейчас"
+
+msgid "Revoke Remote Access to This Computer"
+msgstr "Отменить удалённый доступ к этому компьютеру"
+
+msgid "Controller:"
+msgstr "Управляющий пользователь:"
+
+msgid "Revoke"
+msgstr "Отменить"
+
+msgid "Preparing to update RIM"
+msgstr "Подготовка к обновлению RIM"
+
+msgid "Downloading update..."
+msgstr "Загрузка обновления..."
+
+msgid "Preparing to install update..."
+msgstr "Подготовка к установке обновления..."
+
+msgid "Preparing to download update..."
+msgstr "Подготовка к загрузке обновления..."
+
+msgid "Public"
+msgstr "Публичный"
+
+msgid "%{count} days"
+msgstr "%{count} дней"
+
+msgid "1 day"
+msgstr "1 день"
+
+msgid "%{count} hours"
+msgstr "%{count} ч"
+
+msgid "1 hour"
+msgstr "1 час"
+
+msgid "%{count} minutes"
+msgstr "%{count} мин"
+
+msgid "1 minute"
+msgstr "1 минута"
+
+msgid "%{count} seconds"
+msgstr "%{count} с"
+
+msgid "1 second"
+msgstr "1 секунда"
+
+msgid ""
+"%{file_count} files received. Find them in the Files app under %{location}."
+msgstr ""
+"Получено файлов: %{file_count}. Они доступны в приложении «Файлы»: %"
+"{location}."
+
+msgid "%{file_count} files sent to the target."
+msgstr "На целевой компьютер отправлено файлов: %{file_count}."
+
+msgid "%{percent} percent"
+msgstr "%{percent} %"
+
+msgid "A session is already in progress. End it before starting another one."
+msgstr "Сеанс уже идёт. Завершите его, прежде чем начинать новый."
+
+msgid "Accessibility Anywhere"
+msgstr "Accessibility Anywhere"
+
+msgid "Account"
+msgstr "Учётная запись"
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Add %{action_name}"
+msgstr "Добавить %{action_name}"
+
+msgid ""
+"Add a shortcut to bind a key combination to a button in the touch keyboard."
+msgstr "Добавьте сочетание клавиш и назначьте его кнопке сенсорной клавиатуры."
+
+msgid ""
+"Add actions from the list below to expose them under the VoiceOver Actions "
+"rotor during a session."
+msgstr ""
+"Добавьте действия из списка ниже, чтобы они были доступны в роторе VoiceOver "
+"«Действия» во время сеанса."
+
+msgid "Add shortcut"
+msgstr "Добавить сочетание клавиш"
+
+msgid "AI Tools"
+msgstr "Инструменты ИИ"
+
+msgid "App"
+msgstr "Приложение"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "Awaiting approval…"
+msgstr "Ожидание подтверждения…"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Chat"
+msgstr "Чат"
+
+msgid "Chat message"
+msgstr "Сообщение чата"
+
+msgid "Choose server, currently %{server_name}"
+msgstr "Выбрать сервер, сейчас выбран %{server_name}"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close send text to target"
+msgstr "Закрыть окно отправки текста на целевой компьютер"
+
+msgid "Close Window"
+msgstr "Закрыть окно"
+
+msgid "Connect with keyword"
+msgstr "Подключиться по ключевому слову"
+
+msgid "Connected"
+msgstr "Подключено"
+
+msgid "Connecting"
+msgstr "Подключение"
+
+msgid "Connecting…"
+msgstr "Подключение…"
+
+msgid "Connection details copied."
+msgstr "Сведения о подключении скопированы в буфер обмена."
+
+msgid "Connection lost. Reconnecting…"
+msgstr "Соединение потеряно. Повторное подключение…"
+
+msgid "Context Menu"
+msgstr "Контекстное меню"
+
+msgid "Copy All Details"
+msgstr "Скопировать все сведения"
+
+msgid "Could not establish a connection to the target."
+msgstr "Не удалось установить соединение с целевым компьютером."
+
+msgid "Could not load machines"
+msgstr "Не удалось загрузить список компьютеров"
+
+msgid "Could not open %{tool_name}"
+msgstr "Не удалось открыть %{tool_name}"
+
+msgid "Could not open that link."
+msgstr "Не удалось открыть ссылку."
+
+msgid ""
+"Could not open the file picker. Please close the session menu and try again."
+msgstr ""
+"Не удалось открыть окно выбора файла. Закройте меню сеанса и повторите "
+"попытку."
+
+msgid ""
+"Could not open the RIM Dashboard. Please check your connection and try again."
+msgstr ""
+"Не удалось открыть панель управления RIM. Проверьте подключение и повторите "
+"попытку."
+
+msgid "Could not reach the RIM server."
+msgstr "Не удалось связаться с сервером RIM."
+
+msgid "Could not reconnect to the target."
+msgstr "Не удалось повторно подключиться к целевому компьютеру."
+
+msgid "Could not reserve keyword"
+msgstr "Не удалось зарезервировать ключевое слово"
+
+msgid "Could not reserve that keyword. Please try again."
+msgstr "Не удалось зарезервировать это ключевое слово. Повторите попытку."
+
+msgid "Could not start the session with that machine."
+msgstr "Не удалось начать сеанс с этим компьютером."
+
+msgid "Couldn't connect"
+msgstr "Не удалось подключиться"
+
+msgid "Custom Shortcut"
+msgstr "Пользовательское сочетание клавиш"
+
+msgid "Custom shortcuts"
+msgstr "Пользовательские сочетания клавиш"
+
+msgid "Cut"
+msgstr "Вырезать"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Disconnect session and go back"
+msgstr "Отключить сеанс и вернуться назад"
+
+msgid "Don't Show this Message Again"
+msgstr "Больше не показывать это сообщение"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Double tap to connect"
+msgstr "Коснитесь дважды, чтобы подключиться"
+
+msgid "Double tap to open group"
+msgstr "Коснитесь дважды, чтобы открыть группу"
+
+msgid "Down Arrow"
+msgstr "Стрелка вниз"
+
+msgid "e.g. Save"
+msgstr "Например, «Сохранить»"
+
+msgid "Edit shortcut"
+msgstr "Изменить сочетание клавиш"
+
+msgid "End"
+msgstr "End"
+
+msgid "Ended"
+msgstr "Завершено"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Failed"
+msgstr "Ошибка"
+
+msgid "File Explorer"
+msgstr "Проводник"
+
+msgid "File received. Find it in the Files app under %{location}."
+msgstr "Файл получен. Он доступен в приложении «Файлы»: %{location}."
+
+msgid "File sent to the target."
+msgstr "Файл отправлен на целевой компьютер."
+
+msgid "Filter by group"
+msgstr "Фильтровать по группе"
+
+msgid "Finder Search"
+msgstr "Поиск в Finder"
+
+msgid "Five minutes of session time remaining."
+msgstr "До окончания сеанса осталось пять минут."
+
+msgid "Force Quit"
+msgstr "Завершить принудительно"
+
+msgid "Gesture Actions"
+msgstr "Действия для жестов"
+
+msgid "Gesture actions"
+msgstr "Действия для жестов"
+
+msgid "Have the target enter this keyword on their machine."
+msgstr ""
+"Попросите пользователя целевого компьютера ввести это ключевое слово на "
+"своём компьютере."
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Hide App"
+msgstr "Скрыть приложение"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Idle"
+msgstr "Ожидание"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Keep screen awake while connected"
+msgstr "Не выключать экран во время подключения"
+
+msgid "Key"
+msgstr "Клавиша"
+
+msgid "Keyboard Usage Information"
+msgstr "Информация об использовании клавиатуры"
+
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+msgid "Keyword Session"
+msgstr "Сеанс по ключевому слову"
+
+msgid "Keyword session"
+msgstr "Сеанс по ключевому слову"
+
+msgid "Learn more about RIM Mobile"
+msgstr "Подробнее о RIM Mobile"
+
+msgid "Left Arrow"
+msgstr "Стрелка влево"
+
+msgid ""
+"Lets RIM connect directly to devices on your local network for a faster, "
+"more reliable session."
+msgstr ""
+"Позволяет RIM напрямую подключаться к устройствам в локальной сети для более "
+"быстрого и надёжного соединения."
+
+msgid ""
+"Lets you talk to the person at the remote computer during a voice "
+"conversation. The microphone is used only while a voice conversation is "
+"running, and the audio isn't recorded or stored by this app."
+msgstr ""
+"Позволяет общаться с человеком за удалённым компьютером во время голосового "
+"разговора. Микрофон используется только во время голосового разговора; это "
+"приложение не записывает и не сохраняет звук."
+
+msgid "Loading…"
+msgstr "Загрузка…"
+
+msgid "macOS version"
+msgstr "Версия macOS"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid ""
+"Microphone access is required for a voice conversation. Enable it in "
+"Settings."
+msgstr ""
+"Для голосового разговора нужен доступ к микрофону. Разрешите его в "
+"настройках."
+
+msgid "Microphone disconnected."
+msgstr "Микрофон отключён."
+
+msgid "Minimize All"
+msgstr "Свернуть все окна"
+
+msgid "Minimize Window"
+msgstr "Свернуть окно"
+
+msgid "Mission Control"
+msgstr "Mission Control"
+
+msgid "Modifiers"
+msgstr "Клавиши-модификаторы"
+
+msgid "My Machines"
+msgstr "Мои компьютеры"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Negotiating…"
+msgstr "Согласование соединения…"
+
+msgid "New shortcut"
+msgstr "Новое сочетание клавиш"
+
+msgid "No machines in this group."
+msgstr "В этой группе нет компьютеров."
+
+msgid "No messages yet."
+msgstr "Сообщений пока нет."
+
+msgid "No registered machines."
+msgstr "Нет зарегистрированных компьютеров."
+
+msgid "No screen reader running"
+msgstr "Программа экранного доступа не запущена"
+
+msgid "No shortcuts"
+msgstr "Нет сочетаний клавиш"
+
+msgid "No target groups."
+msgstr "Нет групп целевых компьютеров."
+
+msgid "None"
+msgstr "Нет"
+
+msgid ""
+"Not available while you're on a phone call — the call is using the "
+"microphone."
+msgstr "Недоступно во время телефонного звонка: микрофон занят звонком."
+
+msgid "On My %{device_model}, %{folder_name}"
+msgstr "На моём %{device_model}, %{folder_name}"
+
+msgid "One minute of session time remaining."
+msgstr "До окончания сеанса осталась одна минута."
+
+msgid "OS version"
+msgstr "Версия ОС"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Paste"
+msgstr "Вставить"
+
+msgid "Pitch: %{pitch}"
+msgstr "Высота голоса: %{pitch}"
+
+msgid "Platform"
+msgstr "Платформа"
+
+msgid ""
+"Please note: Due to platform limitations, Remote Incident Manager cannot "
+"offer uninterrupted keyboard support while VoiceOver is running. Any "
+"keyboard command that aligns with a VoiceOver keyboard command (including "
+"use of the arrow keys while Quick Nav is enabled) will not reach the remote "
+"computer. For the best experience, we recommend disabling VoiceOver while "
+"conducting the remote session."
+msgstr ""
+"Обратите внимание: из-за ограничений платформы Remote Incident Manager не "
+"может передавать все нажатия клавиш при работающем VoiceOver. Любое "
+"сочетание, совпадающее с командой VoiceOver (включая клавиши со стрелками "
+"при включённой быстрой навигации), не будет передано на удалённый компьютер. "
+"Для удобства работы рекомендуем отключать VoiceOver на время удалённого "
+"сеанса."
+
+msgid "Pneuma Solutions"
+msgstr "Pneuma Solutions"
+
+msgid "Prompts target"
+msgstr "Запрашивает подтверждение у пользователя целевого компьютера"
+
+msgid "Quit App"
+msgstr "Завершить приложение"
+
+msgid "Rate: %{rate}"
+msgstr "Скорость речи: %{rate}"
+
+msgid "Ready when you are."
+msgstr "Всё готово к работе."
+
+msgid "Receive Clipboard from Target"
+msgstr "Получить содержимое буфера обмена с целевого компьютера"
+
+msgid "Reconnecting"
+msgstr "Повторное подключение"
+
+msgid "Reconnecting…"
+msgstr "Повторное подключение…"
+
+msgid "Release"
+msgstr "Отпустить"
+
+msgid "Release Modifiers"
+msgstr "Отпустить клавиши-модификаторы"
+
+msgid "Release modifiers"
+msgstr "Отпустить клавиши-модификаторы"
+
+msgid "Remote Accessibility"
+msgstr "Удалённые специальные возможности"
+
+msgid "Remote accessibility"
+msgstr "Удалённые специальные возможности"
+
+msgid "Remote desktop"
+msgstr "Удалённый рабочий стол"
+
+msgid "Remove this profile"
+msgstr "Удалить этот профиль"
+
+msgid "Reserving keyword…"
+msgstr "Резервирование ключевого слова…"
+
+msgid "Restore defaults"
+msgstr "Восстановить настройки по умолчанию"
+
+msgid "Retry"
+msgstr "Повторить"
+
+msgid "Retrying…"
+msgstr "Повторная попытка…"
+
+msgid "Right Arrow"
+msgstr "Стрелка вправо"
+
+msgid "RIM version"
+msgstr "Версия RIM"
+
+msgid "Rotor Actions"
+msgstr "Действия ротора"
+
+msgid "Run"
+msgstr "Выполнить"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Screen reader"
+msgstr "Программа экранного доступа"
+
+msgid "Screen reader: %{screen_reader_name}"
+msgstr "Программа экранного доступа: %{screen_reader_name}"
+
+msgid "Screen reader: %{screen_reader_name} %{version}"
+msgstr "Программа экранного доступа: %{screen_reader_name} %{version}"
+
+msgid "Search groups"
+msgstr "Поиск групп"
+
+msgid "Search machines"
+msgstr "Поиск компьютеров"
+
+msgid "Select All"
+msgstr "Выбрать всё"
+
+msgid "Self"
+msgstr "Вы"
+
+msgid "Send Clipboard to Target"
+msgstr "Отправить содержимое буфера обмена на целевой компьютер"
+
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+msgid "Send Text to Target"
+msgstr "Отправить текст на целевой компьютер"
+
+msgid "Send text to target closed."
+msgstr "Окно отправки текста на целевой компьютер закрыто."
+
+msgid "Server profile installed"
+msgstr "Профиль сервера установлен"
+
+msgid "Server profile JSON couldn't be decoded: %{error}"
+msgstr "Не удалось декодировать JSON профиля сервера: %{error}"
+
+msgid "Server profile payload wasn't valid base64url."
+msgstr "Данные профиля сервера имеют неверный формат base64url."
+
+msgid "Server profile URL didn't match the expected shape."
+msgstr "URL профиля сервера не соответствует ожидаемому формату."
+
+msgid "Server:"
+msgstr "Сервер:"
+
+msgid "Session"
+msgstr "Сеанс"
+
+msgid "Session menu"
+msgstr "Меню сеанса"
+
+msgid "Setting up the connection."
+msgstr "Настройка соединения."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "Show Desktop"
+msgstr "Показать рабочий стол"
+
+msgid "Show Touch Keyboard"
+msgstr "Показать сенсорную клавиатуру"
+
+msgid "Sign in"
+msgstr "Войти"
+
+msgid "Sign out"
+msgstr "Выйти из системы"
+
+msgid "Sign-in did not complete."
+msgstr "Вход не завершён."
+
+msgid "Signing in"
+msgstr "Выполняется вход"
+
+msgid ""
+"Something else is using the microphone — a phone call, or another app. The "
+"rest of the session works normally."
+msgstr ""
+"Микрофон занят телефонным звонком или другим приложением. Остальные функции "
+"сеанса работают как обычно."
+
+msgid "Something went wrong"
+msgstr "Произошла ошибка"
+
+msgid "Space"
+msgstr "Пробел"
+
+msgid "Speak Remote Accessibility output"
+msgstr "Озвучивать вывод удалённых специальных возможностей"
+
+msgid "Spotlight"
+msgstr "Spotlight"
+
+msgid "Start Menu"
+msgstr "Меню «Пуск»"
+
+msgid "Starting %{tool_name}…"
+msgstr "Запуск %{tool_name}…"
+
+msgid "Starting remote accessibility…"
+msgstr "Запуск удалённых специальных возможностей…"
+
+msgid "Sticky modifiers"
+msgstr "Залипание клавиш-модификаторов"
+
+msgid ""
+"Sticky modifiers stay pressed until you tap them again. With this off, each "
+"modifier releases automatically after the next key."
+msgstr ""
+"При включённом залипании клавиши-модификаторы остаются нажатыми до "
+"повторного касания. Если залипание выключено, каждый модификатор "
+"автоматически отпускается после нажатия следующей клавиши."
+
+msgid "Stop %{screen_reader_name} on Target"
+msgstr "Отключить %{screen_reader_name} на компьютере конечного пользователя"
+
+msgid "Stop Remote Accessibility on Target"
+msgstr "Отключить удалённые специальные возможности на целевом компьютере"
+
+msgid "Switch App"
+msgstr "Переключить приложение"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Target groups"
+msgstr "Группы целевых компьютеров"
+
+msgid "Target is typing"
+msgstr "Пользователь целевого компьютера печатает"
+
+msgid "Target is typing…"
+msgstr "Пользователь целевого компьютера печатает…"
+
+msgid "Task Manager"
+msgstr "Диспетчер задач"
+
+msgid "That link didn't say which computer to connect to."
+msgstr "В ссылке не указан компьютер для подключения."
+
+msgid ""
+"The new server profile named “%{profile_name}” is now installed and "
+"activated."
+msgstr ""
+"Новый профиль сервера с именем “%{profile_name}” установлен и активирован."
+
+msgid ""
+"The remote screen is hidden while this device is being recorded or mirrored."
+msgstr ""
+"Экран удалённого компьютера скрыт, пока на этом устройстве идёт запись или "
+"трансляция экрана."
+
+msgid "The remote screen is visible again."
+msgstr "Экран удалённого компьютера снова видим."
+
+msgid "The RIM server did not respond."
+msgstr "Сервер RIM не ответил."
+
+msgid "The server returned an invalid sign-in URL."
+msgstr "Сервер вернул недопустимый URL для входа."
+
+msgid "The session is not connected yet."
+msgstr "Сеанс ещё не подключён."
+
+msgid ""
+"The target has offered %{file_count} files. Use Transfer Files from Target "
+"to receive them."
+msgstr ""
+"Целевой компьютер предлагает файлы: %{file_count}. Чтобы получить их, "
+"выберите «Передать файлы с целевого компьютера»."
+
+msgid ""
+"The target has offered a file. Use Transfer File from Target to receive it."
+msgstr ""
+"Целевой компьютер предлагает файл. Чтобы получить его, выберите «Передать "
+"файл с целевого компьютера»."
+
+msgid "The target is being prompted to grant the session."
+msgstr "У пользователя целевого компьютера запрашивается разрешение на сеанс."
+
+msgid "The target machine did not come back after rebooting."
+msgstr "Целевой компьютер не восстановил соединение после перезагрузки."
+
+msgid ""
+"The target machine is currently rebooting. The remote session will continue "
+"when the reboot is complete."
+msgstr ""
+"В данный момент выполняется перезагрузка целевого компьютера. Удалённый "
+"сеанс будет продолжен после завершения перезагрузки."
+
+msgid "The target's clipboard text is now on this device's clipboard."
+msgstr ""
+"Текст из буфера обмена целевого компьютера скопирован в буфер обмена этого "
+"устройства."
+
+msgid ""
+"These actions are reachable under VoiceOver's Actions rotor whenever you're "
+"in a session."
+msgstr "Во время сеанса эти действия доступны в роторе VoiceOver «Действия»."
+
+msgid ""
+"These gestures fire only when VoiceOver is running and focus is on the touch "
+"keyboard area."
+msgstr ""
+"Эти жесты работают только при включённом VoiceOver, когда фокус находится в "
+"области сенсорной клавиатуры."
+
+msgid "Three-Finger Swipes"
+msgstr "Смахивания тремя пальцами"
+
+msgid "Toggle Alt"
+msgstr "Переключить Alt"
+
+msgid "Toggle Caps Lock"
+msgstr "Переключить Caps Lock"
+
+msgid "Toggle Control"
+msgstr "Переключить Control"
+
+msgid "Toggle Insert"
+msgstr "Переключить Insert"
+
+msgid "Toggle Mute"
+msgstr "Включить или выключить звук"
+
+msgid "Toggle Shift"
+msgstr "Переключить Shift"
+
+msgid "Toggle Sticky Modifiers"
+msgstr "Переключить залипание клавиш-модификаторов"
+
+msgid "Toggle Touch Keyboard"
+msgstr "Показать или скрыть сенсорную клавиатуру"
+
+msgid "Toggle Type Text"
+msgstr "Переключить ввод текста"
+
+msgid "Toggle Win"
+msgstr "Переключить Win"
+
+msgid "Top level targets"
+msgstr "Целевые компьютеры верхнего уровня"
+
+msgid "Transfer progress"
+msgstr "Ход передачи"
+
+msgid "Transferring %{file_count} files from the target machine."
+msgstr "Передача файлов с целевого компьютера: %{file_count}."
+
+msgid "Transferring %{file_count} files to the target machine."
+msgstr "Передача файлов на целевой компьютер: %{file_count}."
+
+msgid "Transferring 1 file from the target machine."
+msgstr "Передача одного файла с целевого компьютера."
+
+msgid "Transferring 1 file to the target machine."
+msgstr "Передача файла на целевой компьютер."
+
+msgid "Try again"
+msgstr "Повторить попытку"
+
+msgid "Two-Finger Double-Tap"
+msgstr "Двойное касание двумя пальцами"
+
+msgid "Type text to send"
+msgstr "Введите текст для отправки"
+
+msgid "Type text to send to remote"
+msgstr "Введите текст для отправки на удалённый компьютер"
+
+msgid "Unattended access is not available for this account."
+msgstr "Для этой учётной записи доступ без подтверждения недоступен."
+
+msgid "Undo"
+msgstr "Отменить действие"
+
+msgid "Up Arrow"
+msgstr "Стрелка вверх"
+
+msgid "Voice conversation"
+msgstr "Голосовой звонок"
+
+msgid ""
+"Voice conversation isn't available while you're on a phone call, because the "
+"call is using the microphone. The rest of the session works normally."
+msgstr ""
+"Голосовой разговор недоступен во время телефонного звонка, поскольку "
+"микрофон занят звонком. Остальные функции сеанса работают как обычно."
+
+msgid "VoiceOver rotor actions"
+msgstr "Действия ротора VoiceOver"
+
+msgid "Waiting for target"
+msgstr "Ожидание ответа целевого пользователя"
+
+msgid "Waiting for target…"
+msgstr "Ожидание ответа целевого пользователя…"
+
+msgid ""
+"Waiting for the target to enter the keyword:\n"
+"%{keyword}"
+msgstr ""
+"Ждём, пока целевой пользователь введёт ключевое слово:\n"
+"%{keyword}"
+
+msgid "Waiting for the target to reboot…"
+msgstr "Ожидание перезагрузки компьютера целевого пользователя…"
+
+msgid "Windows version"
+msgstr "Версия Windows"
+
+msgid "Your RIM account, now mobile."
+msgstr "Ваша учётная запись RIM теперь и на мобильных устройствах."
+
+msgid "Your session has expired. Please sign in again."
+msgstr "Срок действия сеанса истёк. Войдите снова."
+
+msgid "%{bits_per_second} bps"
+msgstr "%{bits_per_second} бит/с"
+
+msgid "%{gigabytes} GB"
+msgstr "%{gigabytes} ГБ"
+
+msgid "%{key_name}, active"
+msgstr "%{key_name}, активно"
+
+msgid "%{kilobits_per_second} kbps"
+msgstr "%{kilobits_per_second} кбит/с"
+
+msgid "%{kilobytes} KB"
+msgstr "%{kilobytes} КБ"
+
+msgid "%{megabits_per_second} Mbps"
+msgstr "%{megabits_per_second} Мбит/с"
+
+msgid "%{megabytes} MB"
+msgstr "%{megabytes} МБ"
+
+msgid "%{milliseconds} ms"
+msgstr "%{milliseconds} мс"
+
+msgid "%{transferred} of %{total}"
+msgstr "%{transferred} из %{total}"
+
+msgid "A remote session is active."
+msgstr "Удалённый сеанс активен."
+
+msgid ""
+"Add actions from the list below to expose them as TalkBack actions during a "
+"session."
+msgstr ""
+"Добавьте действия из списка ниже, чтобы они были доступны как действия "
+"TalkBack во время сеанса."
+
+msgid "Android %{android_version} (API %{api_level})"
+msgstr "Android %{android_version} (API %{api_level})"
+
+msgid "App version"
+msgstr "Версия приложения"
+
+msgid "Available bitrate"
+msgstr "Доступная скорость передачи данных"
+
+msgid "Cancel pending account deletion"
+msgstr "Отменить запланированное удаление учётной записи"
+
+msgid "Capture hardware keyboard"
+msgstr "Перехватывать нажатия на физической клавиатуре"
+
+msgid "change group"
+msgstr "сменить группу"
+
+msgid "Chat message from target: %{message}"
+msgstr "Сообщение чата от пользователя целевого компьютера: %{message}"
+
+msgid "choose server"
+msgstr "выбрать сервер"
+
+msgid "Common"
+msgstr "Общие"
+
+msgid ""
+"Could not open the account deletion page. Please check your connection and "
+"try again."
+msgstr ""
+"Не удалось открыть страницу удаления учётной записи. Проверьте подключение и "
+"повторите попытку."
+
+msgid "Delete account"
+msgstr "Удалить учётную запись"
+
+msgid "Details copied."
+msgstr "Сведения скопированы."
+
+msgid "Don't ask again"
+msgstr "Больше не спрашивать"
+
+msgid "File transfer finished. The file is in %{destination}."
+msgstr "Передача файла завершена. Файл находится в %{destination}."
+
+msgid "File transfer finished. The files are in %{destination}."
+msgstr "Передача файлов завершена. Файлы находятся в %{destination}."
+
+msgid "Function Keys"
+msgstr "Функциональные клавиши"
+
+msgid ""
+"Lets Remote Incident Manager send your hardware keyboard to the machine you "
+"are controlling.\n"
+"\n"
+"Without this, TalkBack takes the arrow keys, Tab, and its own shortcuts for "
+"its own navigation, and they never reach the remote machine.\n"
+"\n"
+"Keys are only sent while a session is connected and you are not typing into "
+"the app itself. This service reads no screen content and does nothing "
+"outside a session."
+msgstr ""
+"Позволяет Remote Incident Manager передавать нажатия на физической "
+"клавиатуре на компьютер, которым вы управляете.\n"
+"\n"
+"Без этого TalkBack использует клавиши со стрелками, Tab и собственные "
+"сочетания клавиш для своей навигации, и они не передаются на удалённый "
+"компьютер.\n"
+"\n"
+"Нажатия передаются только во время подключённого сеанса, когда вы не вводите "
+"текст в самом приложении. Эта служба не считывает содержимое экрана и ничего "
+"не делает вне сеанса."
+
+msgid "Move down"
+msgstr "Переместить вниз"
+
+msgid "Move up"
+msgstr "Переместить вверх"
+
+msgid "Navigation"
+msgstr "Навигация"
+
+msgid "Not available while a call is in progress."
+msgstr "Недоступно во время звонка."
+
+msgid "Not now"
+msgstr "Не сейчас"
+
+msgid "Numpad"
+msgstr "Цифровая клавиатура"
+
+msgid "Off — keys like the arrows and Tab go to TalkBack instead of the target"
+msgstr ""
+"Выключено — клавиши со стрелками, Tab и другие передаются TalkBack вместо "
+"целевого компьютера"
+
+msgid "On"
+msgstr "Включено"
+
+msgid "Open Accessibility settings"
+msgstr "Открыть настройки специальных возможностей"
+
+msgid "open group"
+msgstr "открыть группу"
+
+msgid "open in your browser"
+msgstr "открыть в браузере"
+
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "RIM hardware keyboard"
+msgstr "Физическая клавиатура RIM"
+
+msgid "Session Feedback"
+msgstr "Отзыв о сеансе"
+
+msgid "Session is not live yet."
+msgstr "Сеанс ещё не начался."
+
+msgid "Shortcuts"
+msgstr "Сочетания клавиш"
+
+msgid "TalkBack actions"
+msgstr "Действия TalkBack"
+
+msgid ""
+"These actions are reachable from TalkBack's Actions menu whenever you're in "
+"a session."
+msgstr "Во время сеанса эти действия доступны в меню TalkBack «Действия»."
+
+msgid "This server cannot be used: its certificate could not be read."
+msgstr "Этот сервер нельзя использовать: не удалось прочитать его сертификат."
+
+msgid ""
+"To send your keyboard to the machine you are controlling, turn on RIM "
+"hardware keyboard in Accessibility settings.\n"
+"\n"
+"Without it, TalkBack keeps the arrow keys, Tab, and its own shortcuts, and "
+"they never reach the remote machine."
+msgstr ""
+"Чтобы передавать нажатия клавиш на компьютер, которым вы управляете, "
+"включите службу «Физическая клавиатура RIM» в настройках специальных "
+"возможностей.\n"
+"\n"
+"Без неё TalkBack перехватывает клавиши со стрелками, Tab и собственные "
+"сочетания клавиш, и они не передаются на удалённый компьютер."
+
+msgid "Unrecognized"
+msgstr "Не распознано"
+
+msgid "Use the device language"
+msgstr "Использовать язык устройства"
+
+msgid "Using a hardware keyboard?"
+msgstr "Используете физическую клавиатуру?"
+
+msgid ""
+"Your account is scheduled for deletion on %{deletion_date}. You can cancel "
+"it any time before then."
+msgstr ""
+"Ваша учётная запись будет удалена %{deletion_date}. До этой даты вы можете "
+"отменить удаление в любой момент."
+
+msgid ""
+"Your account is scheduled for deletion. You can cancel it any time before "
+"then."
+msgstr ""
+"Удаление вашей учётной записи запланировано. До удаления вы можете отменить "
+"его в любой момент."
+
+msgid ""
+"Are you sure you want to uninstall RIM from this computer? This will require "
+"you to give RIM permission to take some steps with administrative privileges."
+msgstr ""
+"Вы действительно хотите удалить RIM с этого компьютера? Для этого "
+"потребуется разрешить RIM выполнить некоторые действия с правами "
+"администратора."
+
+msgid ""
+"Note that you will be prompted for administrative privileges twice, once for "
+"the Karabiner virtual HID driver, and again for RIM itself."
+msgstr ""
+"Обратите внимание: права администратора будут запрошены дважды — сначала для "
+"виртуального HID-драйвера Karabiner, затем для самого RIM."
+
+msgid "RIM has been uninstalled from this computer."
+msgstr "RIM удалён с этого компьютера."
+
+msgid "Uninstall"
+msgstr "Удалить"
+
+msgid ""
+"Once you press the \"Continue\" button below, if the system dialog saying "
+"that macOS has blocked this extension doesn't automatically receive focus, "
+"press VO+F2 twice to enter the Window Chooser, then choose \"System Dialog - "
+"alert from UserNotificationCenter\". Note that you may need to press "
+"VO+FN+F2 if your function keys are not set up to work independently of the "
+"FN key. The FN key is located to the left of the CTRL key."
+msgstr ""
+"После нажатия кнопки «Продолжить» ниже, если системное диалоговое окно с "
+"сообщением о блокировке расширения macOS не получит фокус автоматически, "
+"дважды нажмите VO+F2, чтобы открыть меню выбора окна, затем выберите «System "
+"Dialog - alert from UserNotificationCenter». Если функциональные клавиши не "
+"работают без FN, может потребоваться нажать VO+FN+F2. Клавиша FN находится "
+"слева от CTRL."
+
+msgid "Still stuck?"
+msgstr "По-прежнему не получается?"
+
+msgid ""
+"You can manually locate the system extension and enable it via System "
+"Settings if the system dialog does not appear."
+msgstr ""
+"Если системное диалоговое окно не появляется, вы можете вручную найти "
+"системное расширение и включить его в системных настройках."
+
+msgid "Open System Settings"
+msgstr "Открыть системные настройки"
+
+msgid "Activate the \"General\" tab."
+msgstr "Активируйте вкладку «Основные»."
+
+msgid "Activate the \"Login Items & Extensions\" button."
+msgstr "Активируйте кнопку «Объекты входа и расширения»."
+
+msgid ""
+"In the \"Extensions\" section, activate the \"Show Detail\" button next to "
+"the \".Karabiner-VirtualHIDDevice-Manager\" item. This will grant you access "
+"to the toggle button to enable the extension as described above."
+msgstr ""
+"В разделе «Расширения» активируйте кнопку «Показать подробности» рядом с "
+"пунктом «.Karabiner-VirtualHIDDevice-Manager». Вы получите доступ к "
+"переключателю, позволяющему включить расширение, как описано выше."
+
+msgid ""
+"If the system dialog requesting permission doesn't automatically receive "
+"focus, press VO+F2 twice to enter the Window Chooser, then choose \"System "
+"Dialog - Screen Recording from universalAccessAuthWarn\". Note that you may "
+"need to press VO+FN+F2 if your function keys are not set up to work "
+"independently of the FN key. The FN key is located to the left of the CTRL "
+"key."
+msgstr ""
+"Если системное диалоговое окно с запросом разрешения не получит фокус "
+"автоматически, дважды нажмите VO+F2, чтобы открыть меню выбора окна, затем "
+"выберите «System Dialog - Screen Recording from universalAccessAuthWarn». "
+"Если функциональные клавиши не работают без FN, может потребоваться нажать "
+"VO+FN+F2. Клавиша FN находится слева от CTRL."
+
+msgid ""
+"You can manually access the list of applications requiring screen recording "
+"permissions via System Settings if the system dialog does not appear."
+msgstr ""
+"Если системное диалоговое окно не появляется, вы можете вручную открыть "
+"список приложений, которым требуется разрешение на запись экрана, в "
+"системных настройках."
+
+msgid "Open System Settings."
+msgstr "Откройте системные настройки."
+
+msgid "Navigate to the \"Privacy & Security\" category."
+msgstr "Перейдите в раздел «Конфиденциальность и безопасность»."
+
+msgid ""
+"From within the \"Privacy & Security\" category, activate the \"Screen & "
+"System Audio Recording\" button. This will bring you into the applications "
+"table described above, allowing you to follow the procedure to enable Remote "
+"Incident Manager's screen recording permission."
+msgstr ""
+"В разделе «Конфиденциальность и безопасность» активируйте кнопку «Запись "
+"экрана и системного звука». Откроется описанная выше таблица приложений, где "
+"вы сможете разрешить Remote Incident Manager запись экрана, следуя "
+"приведённым инструкциям."
+
+msgid ""
+"If the system dialog requesting permission doesn't automatically receive "
+"focus, press VO+F2 twice to enter the Window Chooser, then choose \"System "
+"Dialog - Remote Desktop from universalAccessAuthWarn\". Note that you may "
+"need to press VO+FN+F2 if your function keys are not set up to work "
+"independently of the FN key. The FN key is located to the left of the CTRL "
+"key."
+msgstr ""
+"Если системное диалоговое окно с запросом разрешения не получит фокус "
+"автоматически, дважды нажмите VO+F2, чтобы открыть меню выбора окна, затем "
+"выберите «System Dialog - Remote Desktop from universalAccessAuthWarn». Если "
+"функциональные клавиши не работают без FN, может потребоваться нажать "
+"VO+FN+F2. Клавиша FN находится слева от CTRL."
+
+msgid ""
+"You can manually access the list of applications requiring remote desktop "
+"permissions via System Settings if the system dialog does not appear."
+msgstr ""
+"Если системное диалоговое окно не появляется, вы можете вручную открыть "
+"список приложений, которым требуется разрешение на удалённый рабочий стол, в "
+"системных настройках."
+
+msgid ""
+"From within the \"Privacy & Security\" category, activate the \"Remote "
+"Desktop\" button. This will bring you into the applications table described "
+"above, allowing you to follow the procedure to enable Remote Incident "
+"Manager's remote desktop permission."
+msgstr ""
+"В разделе «Конфиденциальность и безопасность» активируйте кнопку «Remote "
+"Desktop». Откроется описанная выше таблица приложений, где вы сможете "
+"предоставить Remote Incident Manager разрешение на удалённый рабочий стол, "
+"следуя приведённым инструкциям."
+
+msgid ""
+"If the system dialog requesting permission doesn't automatically receive "
+"focus, press VO+F2 twice to enter the Window Chooser, then choose \"System "
+"Dialog - Accessibility Access from universalAccessAuthWarn\". Note that you "
+"may need to press VO+FN+F2 if your function keys are not set up to work "
+"independently of the FN key. The FN key is located to the left of the CTRL "
+"key."
+msgstr ""
+"Если системное диалоговое окно с запросом разрешения не получит фокус "
+"автоматически, дважды нажмите VO+F2, чтобы открыть меню выбора окна, затем "
+"выберите «System Dialog - Accessibility Access from "
+"universalAccessAuthWarn». Если функциональные клавиши не работают без FN, "
+"может потребоваться нажать VO+FN+F2. Клавиша FN находится слева от CTRL."
+
+msgid ""
+"Once the dialog is focused, press the button to open settings, again making "
+"sure not to accidentally press the OK button. You will find a table with an "
+"entry for Remote Incident Manager. Once you interact with the table and move "
+"to that entry, press VO+Space to turn on the switch, providing your password "
+"or touch ID if prompted."
+msgstr ""
+"Когда диалоговое окно получит фокус, нажмите кнопку открытия настроек, "
+"убедившись, что вы случайно не нажали OK. Найдите в таблице пункт Remote "
+"Incident Manager. Начните взаимодействие с таблицей, перейдите к этому "
+"пункту и нажмите VO+Space, чтобы включить переключатель. При необходимости "
+"введите пароль или используйте Touch ID."
+
+msgid ""
+"You can manually access the list of applications requiring accessibility "
+"permissions via System Settings if the system dialog does not appear."
+msgstr ""
+"Если системное диалоговое окно не появляется, вы можете вручную открыть "
+"список приложений, которым требуется разрешение на использование специальных "
+"возможностей, в системных настройках."
+
+msgid ""
+"From within the \"Privacy & Security\" category, activate the "
+"\"Accessibility\" button. This will bring you into the applications table "
+"described above, allowing you to follow the procedure to enable Remote "
+"Incident Manager's accessibility permission."
+msgstr ""
+"В разделе «Конфиденциальность и безопасность» активируйте кнопку "
+"«Универсальный доступ». Откроется описанная выше таблица приложений, где вы "
+"сможете предоставить Remote Incident Manager разрешение на использование "
+"специальных возможностей, следуя приведённым инструкциям."
