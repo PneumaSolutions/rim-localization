@@ -3113,3 +3113,787 @@ msgstr ""
 "ovan, där du kan följa anvisningarna för att aktivera "
 "tillgänglighetsbehörigheten för Remote Incident Manager."
 
+msgid ""
+"Your organization doesn't allow machines to be added to the default "
+"group, and you don't have access to any target groups. Ask an "
+"organization administrator."
+msgstr ""
+"Din organisation tillåter inte att datorer läggs till i standardgruppen, "
+"och du har inte åtkomst till några målgrupper. Kontakta en "
+"organisationsadministratör."
+
+msgid "Your organization doesn't allow machines to be added to the default group."
+msgstr "Din organisation tillåter inte att datorer läggs till i standardgruppen."
+
+msgid "You don't have access to that target group."
+msgstr "Du har inte tillgång till den målgruppen."
+
+msgid "The machine could not be added."
+msgstr "Det gick inte att lägga till maskinen."
+
+msgid "This machine has been added to the target group \"%{group_name}\"."
+msgstr "Denna maskin har lagts till i målgruppen ”%{group_name}”."
+
+msgid "This machine has been added to the default group."
+msgstr "Den här maskinen har lagts till i standardgruppen."
+
+msgid "This machine has been added to your RIM account."
+msgstr "Den här enheten har lagts till i ditt RIM-konto."
+
+msgid "Back to target groups"
+msgstr "Tillbaka till målgrupper"
+
+msgid "Default group"
+msgstr "Standardgrupp"
+
+msgid "No machines match your search."
+msgstr "Inga maskiner stämmer överens med din sökning."
+
+msgid "Group for this target machine:"
+msgstr "Grupp för denna målmaskin:"
+
+msgid ""
+"Every controller in your organization can access machines in the default "
+"group."
+msgstr ""
+"Alla administratörer i din organisation har åtkomst till datorerna i "
+"standardgruppen."
+
+msgid ""
+"Only the controllers who have been given access to a target group, and "
+"organization administrators, can access machines in that group."
+msgstr ""
+"Endast de administratörer som har beviljats åtkomst till en målgrupp samt"
+" organisationsadministratörer kan komma åt datorerna i den gruppen."
+
+msgid "Choose a group"
+msgstr "Välj en grupp"
+
+msgid "You must choose a group for this machine."
+msgstr "Du måste välja en grupp för den här maskinen."
+
+msgid ""
+"Remote Incident Manager is currently running with limited capability on "
+"the target computer to which you are connecting. You may temporarily lose"
+" remote control when certain elevated windows are in focus, including "
+"screen reader dialogs. Select how you would like to proceed."
+msgstr ""
+"Remote Incident Manager körs för närvarande med begränsad funktionalitet "
+"på den måldator som du ansluter till. Du kan tillfälligt förlora "
+"fjärrkontrollen när vissa fönster med utökade behörigheter är i fokus, "
+"däribland dialogrutor för skärmläsare. Välj hur du vill gå vidare."
+
+msgid "Install as Administrator (requires elevated privileges)"
+msgstr "Installera som administratör (kräver utökade behörigheter)"
+
+msgid "Don't show this message again for this computer"
+msgstr "Visa inte detta meddelande igen på den här datorn"
+
+msgid "a file could not be written: %{message}"
+msgstr "Det gick inte att skriva till filen: %{message}"
+
+msgid "could not read the selection: %{message}"
+msgstr "Det gick inte att läsa in det markerade området: %{message}"
+
+msgid "file"
+msgstr "fil"
+
+msgid "folder"
+msgstr "broschyr"
+
+msgid "drive"
+msgstr "körning"
+
+msgid "location"
+msgstr "plats"
+
+msgid "Up one level"
+msgstr "En nivå upp"
+
+msgid "not downloaded"
+msgstr "inte hämtad"
+
+msgid ", "
+msgstr ", "
+
+msgid "Transfer cancelled."
+msgstr "Överföringen har avbrutits."
+
+msgid "The person at the other computer declined the transfer."
+msgstr "Personen vid den andra datorn avböjde överföringen."
+
+msgid "Transfer failed: permission was denied."
+msgstr "Överföringen misslyckades: behörighet nekades."
+
+msgid "Transfer failed: something it needed is no longer there."
+msgstr "Överföringen misslyckades: något som behövdes finns inte längre kvar."
+
+msgid "Transfer failed: something with the same name is already there."
+msgstr "Överföringen misslyckades: det finns redan något med samma namn."
+
+msgid "Transfer failed: a name cannot be used there."
+msgstr "Överföringen misslyckades: ett namn kan inte användas där."
+
+msgid "Transfer failed: there is not enough space."
+msgstr "Överföringen misslyckades: det finns inte tillräckligt med utrymme."
+
+msgid "Transfer failed: a file changed while it was being copied."
+msgstr "Överföringen misslyckades: en fil ändrades medan den kopierades."
+
+msgid "Transfer failed: the other computer stopped responding."
+msgstr "Överföringen misslyckades: den andra datorn svarade inte längre."
+
+msgid "Transfer failed: another transfer is already in progress."
+msgstr "Överföringen misslyckades: en annan överföring pågår redan."
+
+msgid "Transfer failed: the other computer cannot do this."
+msgstr "Överföringen misslyckades: den andra datorn kan inte utföra denna åtgärd."
+
+msgid "Transfer failed: the other computer sent something unexpected."
+msgstr "Överföringen misslyckades: den andra datorn skickade något oväntat."
+
+msgid "Transfer failed."
+msgstr "Överföringen misslyckades."
+
+msgid "%{summary} (%{detail})"
+msgstr "%{summary} (%{detail})"
+
+msgid "This folder cannot be opened: permission was denied."
+msgstr "Den här mappen går inte att öppna: åtkomst nekades."
+
+msgid "This folder is no longer there."
+msgstr "Den här mappen finns inte längre."
+
+msgid "Listing cancelled."
+msgstr "Annonsen har tagits bort."
+
+msgid "The other computer stopped responding."
+msgstr "Den andra datorn slutade svara."
+
+msgid "The other computer sent something unexpected."
+msgstr "Den andra datorn skickade något oväntat."
+
+msgid "This folder could not be opened."
+msgstr "Den här mappen gick inte att öppna."
+
+msgid "The person at the remote computer did not allow the delete."
+msgstr "Användaren vid den andra datorn godkände inte raderingen."
+
+msgid "It was called off."
+msgstr "Det blev inställt."
+
+msgid ""
+"Nothing was deleted while a transfer, rename or another delete is in "
+"progress."
+msgstr ""
+"Ingenting raderades medan en överföring, namnändring eller annan radering"
+" pågick."
+
+msgid ""
+"An item cannot go to the Recycle Bin or Trash there, and the file browser"
+" never deletes anything permanently."
+msgstr ""
+"Ett objekt kan inte flyttas till papperskorgen där, och filutforskaren "
+"raderar aldrig något permanent."
+
+msgid "Permission was denied."
+msgstr "Tillståndet beviljades inte."
+
+msgid "An item is no longer there."
+msgstr "En artikel finns inte längre kvar."
+
+msgid "An item cannot be deleted from the file browser."
+msgstr "Ett objekt kan inte raderas från filbläddraren."
+
+msgid "An item could not be moved."
+msgstr "Det gick inte att flytta en artikel."
+
+msgid "%{reason} (%{detail})"
+msgstr "%{reason} (%{detail})"
+
+msgid ""
+"Moved %{moved} of %{count} items to the Recycle Bin or Trash. The rest "
+"were not: %{why}"
+msgstr ""
+"%{moved} av %{count} objekt har flyttats till papperskorgen. Resten har "
+"inte flyttats: %{why}"
+
+msgid "The delete may not have finished. %{why}"
+msgstr "Det är möjligt att raderingen inte är klar än. %{why}"
+
+msgid "Nothing was deleted. %{why}"
+msgstr "Ingenting har tagits bort. %{why}"
+
+msgid "The person at the remote computer did not allow the rename."
+msgstr "Användaren vid den andra datorn godkände inte namnbytet."
+
+msgid "The rename was called off."
+msgstr "Namnbytet avblåstes."
+
+msgid ""
+"The item could not be renamed while a transfer, rename or delete is in "
+"progress."
+msgstr ""
+"Objektet kunde inte byta namn medan en överföring, namnändring eller "
+"radering pågår."
+
+msgid "Something with that name is already there."
+msgstr "Det finns redan något med det namnet."
+
+msgid "That name cannot be used there."
+msgstr "Det namnet får inte användas där."
+
+msgid "The item could not be renamed: permission was denied."
+msgstr "Det gick inte att byta namn på objektet: behörighet nekades."
+
+msgid "The item is no longer there."
+msgstr "Föremålet finns inte längre där."
+
+msgid "The item could not be renamed."
+msgstr "Det gick inte att byta namn på objektet."
+
+msgid "No items"
+msgstr "Inga artiklar"
+
+msgid "1 item"
+msgstr "en artikel"
+
+msgid "%{count} items"
+msgstr "%{count} stycken"
+
+msgid "%{names}, and %{count} more"
+msgstr "%{names} och %{count} fler"
+
+msgid "Transfer complete."
+msgstr "Överföringen är klar."
+
+msgid "Transfer complete, but 1 item could not be read and was left out: %{list}"
+msgstr ""
+"Överföringen är klar, men 1 objekt kunde inte läsas och har utelämnats: "
+"%{list}"
+
+msgid ""
+"Transfer complete, but %{count} items could not be read and were left "
+"out: %{list}"
+msgstr ""
+"Överföringen är klar, men %{count}-objekten kunde inte läsas och har "
+"därför utelämnats: %{list}"
+
+msgid "%{pane}: %{message}"
+msgstr "%{pane}: %{message}"
+
+msgid "%{name} is a file. Copy it to the other side to open it there."
+msgstr "%{name} är en fil. Kopiera den till den andra sidan för att öppna den där."
+
+msgid "%{name} cannot be opened."
+msgstr "%{name} kan inte öppnas."
+
+msgid " › "
+msgstr " › "
+
+msgid ""
+"This folder has more than %{count} items. Only the first %{count} are "
+"shown."
+msgstr ""
+"Den här mappen innehåller fler än %{count} objekt. Endast de första "
+"%{count} visas."
+
+msgid "Loading… %{count} items so far"
+msgstr "Laddar… %{count} stycken hittills"
+
+msgid "This is the top level."
+msgstr "Det här är den högsta nivån."
+
+msgid "Command"
+msgstr "Kommando"
+
+msgid "Control"
+msgstr "Kontroll"
+
+msgid "%{modifier} plus C"
+msgstr "%{modifier} plus C"
+
+msgid "%{modifier} plus V"
+msgstr "%{modifier} plus V"
+
+msgid "This Computer"
+msgstr "Den här datorn"
+
+msgid ""
+"nothing came back for a minute; it may be on a slow or unreachable drive "
+"or device"
+msgstr ""
+"Det kom inget svar på en minut; det kan ligga på en långsam eller "
+"oåtkomlig hårddisk eller enhet"
+
+msgid "This PC"
+msgstr "Den här datorn"
+
+msgid "Computer"
+msgstr "Dator"
+
+msgid "Remote Computer"
+msgstr "Fjärrdator"
+
+msgid "File Browser"
+msgstr "Filbläddraren"
+
+msgid "Rename"
+msgstr "Byt namn på"
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press Return to open "
+"a folder, Delete or Command plus Up Arrow to go up, F2 to rename an item,"
+" Command plus Delete to move the selected items to the Trash, and Command"
+" plus R to refresh a list."
+msgstr ""
+"Markera objekt i någon av listorna, tryck på %{copyShortcut} för att "
+"kopiera, gå sedan till den andra listan och tryck på %{pasteShortcut} för"
+" att klistra in. Tryck på Retur för att öppna en mapp, Delete eller "
+"Kommando + uppåtpilen för att gå uppåt, F2 för att byta namn på ett "
+"objekt, Kommando + Delete för att flytta de markerade objekten till "
+"papperskorgen och Kommando + R för att uppdatera en lista."
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press F2 to rename an"
+" item, Delete to delete the selected items, and F5 to refresh a list."
+msgstr ""
+"Markera poster i någon av listorna, tryck på %{copyShortcut} för att "
+"kopiera, gå sedan till den andra listan och tryck på %{pasteShortcut} för"
+" att klistra in. Tryck på F2 för att byta namn på en post, Delete för att"
+" ta bort de markerade posterna och F5 för att uppdatera en lista."
+
+msgid "&Open"
+msgstr "&Öppna"
+
+msgid "Go &Up"
+msgstr "&Gå upp"
+
+msgid "&Copy"
+msgstr "&Kopiera"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "&Paste"
+msgstr "&Klistra in"
+
+msgid "Ctrl+V"
+msgstr "Ctrl+V"
+
+msgid "Rena&me"
+msgstr "&Byt namn på"
+
+msgid "&Delete"
+msgstr "&Ta bort"
+
+msgid "Del"
+msgstr "Från"
+
+msgid "&Refresh"
+msgstr "&Uppdatera"
+
+msgid ""
+"A file transfer is still in progress. Closing the file browser will "
+"cancel it."
+msgstr ""
+"En filöverföring pågår fortfarande. Om du stänger filutvalaren avbryts "
+"överföringen."
+
+msgid ""
+"A rename or delete is still waiting on the remote computer. Closing the "
+"file browser will call it off if it hasn't started yet."
+msgstr ""
+"En omdöpning eller radering väntar fortfarande på fjärrdatorn. Om du "
+"stänger filutforskaren avbryts processen om den ännu inte har påbörjats."
+
+msgid "Cancel Transfer and Close"
+msgstr "Avbryt överföringen och stäng"
+
+msgid "Keep Open"
+msgstr "Håll öppet"
+
+msgid "Close Anyway"
+msgstr "Stäng ändå"
+
+msgid "Cancel Rename"
+msgstr "Avbryt Byt namn"
+
+msgid "Cancel Delete"
+msgstr "Avbryt Ta bort"
+
+msgid "Asking the remote computer to call it off…"
+msgstr "Be fjärrdatorn att avbryta…"
+
+msgid "The remote computer did not answer. The rename may still happen there."
+msgstr "Fjärrdatorn svarade inte. Namnbytet kan fortfarande ske där."
+
+msgid "The remote computer did not answer. The delete may still happen there."
+msgstr "Fjärrdatorn svarade inte. Raderingen kan fortfarande ske där."
+
+msgid "Move %{name} to the remote computer's Trash?"
+msgstr "Ska %{name} flyttas till papperskorgen på den fjärranslutna datorn?"
+
+msgid "Move %{count} items to the remote computer's Trash?"
+msgstr ""
+"Ska objektet %{count} flyttas till papperskorgen på den fjärranslutna "
+"datorn?"
+
+msgid "Move %{name} to the remote computer's Recycle Bin?"
+msgstr "Ska %{name} flyttas till papperskorgen på den fjärranslutna datorn?"
+
+msgid "Move %{count} items to the remote computer's Recycle Bin?"
+msgstr ""
+"Ska objekt i %{count} flyttas till papperskorgen på den fjärranslutna "
+"datorn?"
+
+msgid "Move %{name} to the Trash?"
+msgstr "Ska %{name} flyttas till papperskorgen?"
+
+msgid "Move %{count} items to the Trash?"
+msgstr "Ska objektet %{count} flyttas till papperskorgen?"
+
+msgid "Move %{name} to the Recycle Bin?"
+msgstr "Ska %{name} flyttas till papperskorgen?"
+
+msgid "Move %{count} items to the Recycle Bin?"
+msgstr "Ska objektet %{count} flyttas till papperskorgen?"
+
+msgid "&Move"
+msgstr "&Flytta"
+
+msgid "Wait for the transfer, rename or delete in progress to finish first."
+msgstr ""
+"Vänta tills den pågående överföringen, omdöpningen eller raderingen är "
+"klar."
+
+msgid "Finish or cancel the rename first."
+msgstr "Avsluta eller avbryt först namnbytet."
+
+msgid "Select one or more items to delete first."
+msgstr "Välj först en eller flera poster som ska raderas."
+
+msgid "%{name} cannot be deleted."
+msgstr "%{name} kan inte raderas."
+
+msgid "Select no more than %{max} items to delete at once."
+msgstr "Välj högst %{max}-objekt att ta bort samtidigt."
+
+msgid "Nothing was deleted."
+msgstr "Ingenting har raderats."
+
+msgid "Asking the remote computer to delete 1 item…"
+msgstr "Begär att fjärrdatorn ska ta bort 1 objekt…"
+
+msgid "Asking the remote computer to delete %{count} items…"
+msgstr "Begär att den fjärranslutna datorn ska ta bort %{count}-objekt…"
+
+msgid "Deleting 1 item…"
+msgstr "Tar bort 1 objekt…"
+
+msgid "Deleting %{count} items…"
+msgstr "Tar bort %{count}-objekt…"
+
+msgid "Moved 1 item to the Recycle Bin or Trash."
+msgstr "1 objekt har flyttats till papperskorgen."
+
+msgid "Moved %{count} items to the Recycle Bin or Trash."
+msgstr "Flyttade %{count}-objekt till papperskorgen."
+
+msgid "Move to the item you want to rename first."
+msgstr "Gå först till det objekt som du vill byta namn på."
+
+msgid "%{name} cannot be renamed."
+msgstr "%{name} kan inte döpas om."
+
+msgid "New name for %{name}:"
+msgstr "Nytt namn för %{name}:"
+
+msgid "The name was not changed."
+msgstr "Namnet ändrades inte."
+
+msgid "A name cannot be empty."
+msgstr "Ett namn får inte vara tomt."
+
+msgid "Asking the remote computer to rename %{name}…"
+msgstr "Begär att den fjärranslutna datorn ska byta namn på %{name}…"
+
+msgid "Renaming %{name}…"
+msgstr "Byter namn på %{name}…"
+
+msgid "Rename cancelled."
+msgstr "Namnbytet har avbrutits."
+
+msgid "Renamed to %{name}."
+msgstr "Har bytt namn till %{name}."
+
+msgid "Cancel Transfer"
+msgstr "Avbryt överföringen"
+
+msgid "Still preparing the transfer…"
+msgstr "Överföringen är fortfarande under förberedelse…"
+
+msgid "Transferring…"
+msgstr "Överföring pågår…"
+
+#, python-format
+msgid "Transferring… %{percent}% of %{size}"
+msgstr "Överför… %{percent}% av %{size}"
+
+msgid "Finishing the transfer…"
+msgstr "Överföringen pågår…"
+
+msgid "Select one or more items to copy first."
+msgstr "Välj först en eller flera poster som du vill kopiera."
+
+msgid ""
+"Copied %{name}. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{name} har kopierats. Gå till listan på fjärrdatorn och tryck på "
+"%{pasteShortcut} för att klistra in."
+
+msgid ""
+"Copied %{name}. Move to this computer's list and press %{pasteShortcut} "
+"to paste."
+msgstr ""
+"%{name} har kopierats. Flytta till listan för den här datorn och tryck på"
+" %{pasteShortcut} för att klistra in."
+
+msgid ""
+"Copied %{count} items. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{count}-objekt har kopierats. Gå till listan på fjärrdatorn och tryck på"
+" %{pasteShortcut} för att klistra in."
+
+msgid ""
+"Copied %{count} items. Move to this computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{count}-objekt har kopierats. Flytta dem till listan på den här datorn "
+"och tryck på %{pasteShortcut} för att klistra in dem."
+
+msgid "A transfer is already in progress."
+msgstr "En överföring pågår redan."
+
+msgid "Nothing has been copied yet. Select items and press %{copyShortcut} first."
+msgstr ""
+"Inget har kopierats än. Markera först objekten och tryck på "
+"%{copyShortcut}."
+
+msgid "Paste into the other computer's list to transfer these items."
+msgstr "Klistra in i listan på den andra datorn för att överföra dessa objekt."
+
+msgid "Wait for the folder to finish opening first."
+msgstr "Vänta tills mappen har hunnit öppnas helt först."
+
+msgid ""
+"Starting transfer. Some items must download from the cloud first, so this"
+" can take a while…"
+msgstr ""
+"Överföringen påbörjas. Vissa objekt måste först hämtas från molnet, så "
+"det kan ta ett tag…"
+
+msgid "Starting transfer…"
+msgstr "Överföringen påbörjas…"
+
+msgid "Those items cannot be copied."
+msgstr "Dessa objekt kan inte kopieras."
+
+msgid "Open a folder on this computer to paste into first."
+msgstr "Öppna en mapp på den här datorn och klistra in där först."
+
+msgid "Open a folder on the remote computer to paste into first."
+msgstr "Öppna en mapp på fjärrdatorn där du först vill klistra in innehållet."
+
+msgid ""
+"The transfer had already finished before it could be cancelled, so the "
+"files are on the remote computer."
+msgstr ""
+"Överföringen var redan avslutad innan den hann avbrytas, så filerna finns"
+" nu på fjärrdatorn."
+
+msgid "Nothing was copied: the only item was left out: %{list}"
+msgstr "Ingenting kopierades: endast en post utelämnades: %{list}"
+
+msgid "Nothing was copied: all %{count} items were left out: %{list}"
+msgstr "Ingenting kopierades: alla %{count}-element utelämnades: %{list}"
+
+msgid ""
+"Requesting unattended access was turned off in your organization, so the "
+"request was called off."
+msgstr ""
+"Funktionen för att begära obevakad åtkomst har inaktiverats i din "
+"organisation, så begäran har avbrutits."
+
+msgid "The file browser could not be opened."
+msgstr "Det gick inte att öppna filutforskaren."
+
+msgid "Waiting for the person at the remote computer to allow file browsing."
+msgstr ""
+"Väntar på att personen vid den fjärranslutna datorn ska ge tillstånd att "
+"bläddra bland filerna."
+
+msgid "The person at the remote computer did not allow file browsing."
+msgstr ""
+"Användaren vid den fjärranslutna datorn tillät inte att man bläddrade "
+"bland filerna."
+
+msgid "The file browser could not be opened on the remote computer."
+msgstr "Det gick inte att öppna filutforskaren på fjärrdatorn."
+
+msgid "&Browse Files on Target"
+msgstr "&Bläddra bland filer på målet"
+
+msgid "The remote user is copying %{name} from this machine."
+msgstr "Den fjärranvändaren kopierar %{name} från den här datorn."
+
+msgid "The remote user is copying %{count} items from this machine: %{names}."
+msgstr ""
+"Den fjärranvändaren kopierar %{count} objekt från den här datorn: "
+"%{names}."
+
+msgid "The remote user is copying %{name} to this machine."
+msgstr "Den fjärranvändaren kopierar %{name} till den här datorn."
+
+msgid "The remote user is copying %{count} items to this machine: %{names}."
+msgstr ""
+"Den fjärranvändaren kopierar %{count} objekt till den här datorn: "
+"%{names}."
+
+msgid "The remote user moved an item on this machine to the Trash."
+msgstr ""
+"Den fjärranvändaren flyttade ett objekt på den här datorn till "
+"papperskorgen."
+
+msgid "The remote user moved an item on this machine to the Recycle Bin."
+msgstr ""
+"Den fjärranvändaren flyttade ett objekt på den här datorn till "
+"papperskorgen."
+
+msgid "The remote user moved %{count} items on this machine to the Trash."
+msgstr ""
+"Den fjärranvändaren flyttade %{count} objekt på den här datorn till "
+"papperskorgen."
+
+msgid "The remote user moved %{count} items on this machine to the Recycle Bin."
+msgstr ""
+"Den fjärranvändaren flyttade %{count} objekt på den här datorn till "
+"papperskorgen."
+
+msgid "The remote user moved %{name} on this machine to the Trash."
+msgstr "Den fjärranvändaren flyttade %{name} på den här datorn till papperskorgen."
+
+msgid "The remote user moved %{name} on this machine to the Recycle Bin."
+msgstr "Den fjärranvändaren flyttade %{name} på den här datorn till papperskorgen."
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Trash: "
+"%{names}."
+msgstr ""
+"Den fjärranvändaren flyttade %{count} objekt på den här datorn till "
+"papperskorgen: %{names}."
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Recycle Bin: "
+"%{names}."
+msgstr ""
+"Den fjärranvändaren flyttade %{count} objekt på den här datorn till "
+"papperskorgen: %{names}."
+
+msgid "The remote user renamed an item on this machine to %{name}."
+msgstr "Den fjärranvändaren döpte om ett objekt på den här datorn till %{name}."
+
+msgid "The remote user renamed %{item} on this machine to %{name}."
+msgstr "Den fjärranvändaren döpte om %{item} på den här datorn till %{name}."
+
+msgid "The remote user is browsing files on this machine."
+msgstr "Den fjärranvändaren bläddrar bland filerna på den här datorn."
+
+msgid "The person helping you wants to browse the files on this computer."
+msgstr "Den person som hjälper dig vill bläddra bland filerna på den här datorn."
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Trash, without "
+"asking you again. You will be told each time they do."
+msgstr ""
+"Om du tillåter detta kan de under resten av den här sessionen kopiera "
+"filer till och från den här datorn, byta namn på filer och flytta dem "
+"till papperskorgen utan att fråga dig igen. Du kommer att få ett "
+"meddelande varje gång de gör det."
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Recycle Bin, "
+"without asking you again. You will be told each time they do."
+msgstr ""
+"Om du tillåter detta kan de under resten av den här sessionen kopiera "
+"filer till och från den här datorn, byta namn på filer och flytta dem "
+"till papperskorgen utan att behöva fråga dig igen. Du kommer att få ett "
+"meddelande varje gång de gör det."
+
+msgid "&Allow"
+msgstr "&Tillåt"
+
+msgid "&Deny"
+msgstr "&Förneka"
+
+msgid "The remote computer sent an answer that could not be read."
+msgstr "Fjärrdatorn skickade ett svar som inte gick att läsa."
+
+msgid "The remote computer sent a list that could not be read."
+msgstr "Fjärrdatorn skickade en lista som inte gick att läsa."
+
+msgid "The request for unattended access to this computer was called off."
+msgstr "Begäran om obevakad åtkomst till den här datorn har återkallats."
+
+msgid ""
+"Session recording was turned off in your organization, so the recording "
+"has stopped. What was recorded until now has been kept."
+msgstr ""
+"Inspelningen av sessionen har inaktiverats i din organisation, vilket "
+"innebär att inspelningen har avbrutits. Det som har spelats in hittills "
+"har sparats."
+
+msgid ""
+"Every controller in your organization will be able to access this "
+"machine. Are you sure you want to add it to the default group?"
+msgstr ""
+"Alla kontrollanter i din organisation kommer att ha åtkomst till den här "
+"datorn. Är du säker på att du vill lägga till den i standardgruppen?"
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at "
+"any time without requiring you to start a remote session, and without "
+"being prompted for permission each time. This includes copying files to "
+"and from this computer without asking you first. Do you want to allow "
+"this?"
+msgstr ""
+"%{controller_name} begär behörighet att när som helst få åtkomst till den"
+" här datorn utan att du behöver starta en fjärrsession och utan att "
+"behöva bekräfta behörigheten varje gång. Detta innebär bland annat att "
+"filer kan kopieras till och från den här datorn utan att du först blir "
+"tillfrågad. Vill du tillåta detta?"
+
+msgid "1 byte"
+msgstr "1 byte"
+
+msgid "%{count} bytes"
+msgstr "%{count} byte"
+
+msgid "%{value} KB"
+msgstr "%{value} KB"
+
+msgid "%{value} MB"
+msgstr "%{value} MB"
+
+msgid "%{value} GB"
+msgstr "%{value} GB"
+
+msgid "%{value} TB"
+msgstr "%{value} TB"
+

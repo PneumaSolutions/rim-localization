@@ -3166,3 +3166,801 @@ msgstr ""
 "applicaties terecht, waar je de stappen kunt volgen om de "
 "toegankelijkheidsmachtiging voor Remote Incident Manager in te schakelen."
 
+msgid ""
+"Your organization doesn't allow machines to be added to the default "
+"group, and you don't have access to any target groups. Ask an "
+"organization administrator."
+msgstr ""
+"Je organisatie staat niet toe dat computers aan de standaardgroep worden "
+"toegevoegd, en je hebt geen toegang tot doelgroepen. Neem contact op met "
+"een organisatiebeheerder."
+
+msgid "Your organization doesn't allow machines to be added to the default group."
+msgstr ""
+"Uw organisatie staat niet toe dat computers aan de standaardgroep worden "
+"toegevoegd."
+
+msgid "You don't have access to that target group."
+msgstr "Je hebt geen toegang tot die doelgroep."
+
+msgid "The machine could not be added."
+msgstr "De machine kon niet worden toegevoegd."
+
+msgid "This machine has been added to the target group \"%{group_name}\"."
+msgstr "Deze machine is toegevoegd aan de doelgroep \"%{group_name}\"."
+
+msgid "This machine has been added to the default group."
+msgstr "Deze machine is toegevoegd aan de standaardgroep."
+
+msgid "This machine has been added to your RIM account."
+msgstr "Dit apparaat is toegevoegd aan uw RIM-account."
+
+msgid "Back to target groups"
+msgstr "Terug naar doelgroepen"
+
+msgid "Default group"
+msgstr "Standaardgroep"
+
+msgid "No machines match your search."
+msgstr "Er zijn geen machines die aan uw zoekopdracht voldoen."
+
+msgid "Group for this target machine:"
+msgstr "Groep voor deze doelmachine:"
+
+msgid ""
+"Every controller in your organization can access machines in the default "
+"group."
+msgstr ""
+"Elke beheerder binnen uw organisatie heeft toegang tot de computers in de"
+" standaardgroep."
+
+msgid ""
+"Only the controllers who have been given access to a target group, and "
+"organization administrators, can access machines in that group."
+msgstr ""
+"Alleen de beheerders aan wie toegang tot een doelgroep is verleend, en de"
+" organisatiebeheerders, hebben toegang tot de computers in die groep."
+
+msgid "Choose a group"
+msgstr "Kies een groep"
+
+msgid "You must choose a group for this machine."
+msgstr "U moet een groep selecteren voor dit apparaat."
+
+msgid ""
+"Remote Incident Manager is currently running with limited capability on "
+"the target computer to which you are connecting. You may temporarily lose"
+" remote control when certain elevated windows are in focus, including "
+"screen reader dialogs. Select how you would like to proceed."
+msgstr ""
+"Remote Incident Manager draait momenteel met beperkte functionaliteit op "
+"de doelcomputer waarmee u verbinding maakt. Het kan zijn dat u tijdelijk "
+"de controle op afstand verliest wanneer bepaalde vensters met verhoogde "
+"rechten actief zijn, waaronder dialoogvensters van schermlezers. Kies hoe"
+" u verder wilt gaan."
+
+msgid "Install as Administrator (requires elevated privileges)"
+msgstr "Installeer als beheerder (hiervoor zijn verhoogde rechten vereist)"
+
+msgid "Don't show this message again for this computer"
+msgstr "Dit bericht niet meer weergeven op deze computer"
+
+msgid "a file could not be written: %{message}"
+msgstr "Er kon geen bestand worden geschreven: %{message}"
+
+msgid "could not read the selection: %{message}"
+msgstr "De selectie kon niet worden gelezen: %{message}"
+
+msgid "file"
+msgstr "bestand"
+
+msgid "folder"
+msgstr "folder"
+
+msgid "drive"
+msgstr "rit"
+
+msgid "location"
+msgstr "locatie"
+
+msgid "Up one level"
+msgstr "Eén niveau omhoog"
+
+msgid "not downloaded"
+msgstr "niet gedownload"
+
+msgid ", "
+msgstr ", "
+
+msgid "Transfer cancelled."
+msgstr "Overboeking geannuleerd."
+
+msgid "The person at the other computer declined the transfer."
+msgstr "De persoon achter de andere computer heeft de overboeking geweigerd."
+
+msgid "Transfer failed: permission was denied."
+msgstr "Overdracht mislukt: toegang geweigerd."
+
+msgid "Transfer failed: something it needed is no longer there."
+msgstr "De overdracht is mislukt: iets wat nodig was, is niet meer aanwezig."
+
+msgid "Transfer failed: something with the same name is already there."
+msgstr "Overdracht mislukt: er bestaat al iets met dezelfde naam."
+
+msgid "Transfer failed: a name cannot be used there."
+msgstr "Overdracht mislukt: die naam kan daar niet worden gebruikt."
+
+msgid "Transfer failed: there is not enough space."
+msgstr "Overdracht mislukt: er is onvoldoende ruimte."
+
+msgid "Transfer failed: a file changed while it was being copied."
+msgstr "Overdracht mislukt: een bestand is gewijzigd terwijl het werd gekopieerd."
+
+msgid "Transfer failed: the other computer stopped responding."
+msgstr "De overdracht is mislukt: de andere computer reageerde niet meer."
+
+msgid "Transfer failed: another transfer is already in progress."
+msgstr "Overdracht mislukt: er is al een andere overdracht bezig."
+
+msgid "Transfer failed: the other computer cannot do this."
+msgstr "Overdracht mislukt: de andere computer kan dit niet uitvoeren."
+
+msgid "Transfer failed: the other computer sent something unexpected."
+msgstr "Overdracht mislukt: de andere computer heeft iets onverwachts verzonden."
+
+msgid "Transfer failed."
+msgstr "De overdracht is mislukt."
+
+msgid "%{summary} (%{detail})"
+msgstr "%{summary} (%{detail})"
+
+msgid "This folder cannot be opened: permission was denied."
+msgstr "Deze map kan niet worden geopend: toegang geweigerd."
+
+msgid "This folder is no longer there."
+msgstr "Deze map is er niet meer."
+
+msgid "Listing cancelled."
+msgstr "De advertentie is verwijderd."
+
+msgid "The other computer stopped responding."
+msgstr "De andere computer reageerde niet meer."
+
+msgid "The other computer sent something unexpected."
+msgstr "De andere computer heeft iets onverwachts gestuurd."
+
+msgid "This folder could not be opened."
+msgstr "Deze map kon niet worden geopend."
+
+msgid "The person at the remote computer did not allow the delete."
+msgstr "De gebruiker op de externe computer heeft het verwijderen niet toegestaan."
+
+msgid "It was called off."
+msgstr "Het ging niet door."
+
+msgid ""
+"Nothing was deleted while a transfer, rename or another delete is in "
+"progress."
+msgstr ""
+"Er werd niets verwijderd terwijl een overdracht, naamswijziging of andere"
+" verwijderingsactie aan de gang was."
+
+msgid ""
+"An item cannot go to the Recycle Bin or Trash there, and the file browser"
+" never deletes anything permanently."
+msgstr ""
+"Een item kan daar niet naar de Prullenbak of de prullenbak worden "
+"verplaatst, en de bestandsbrowser verwijdert nooit iets definitief."
+
+msgid "Permission was denied."
+msgstr "De toestemming werd geweigerd."
+
+msgid "An item is no longer there."
+msgstr "Een artikel is er niet meer."
+
+msgid "An item cannot be deleted from the file browser."
+msgstr "Een item kan niet uit de bestandsbrowser worden verwijderd."
+
+msgid "An item could not be moved."
+msgstr "Een item kon niet worden verplaatst."
+
+msgid "%{reason} (%{detail})"
+msgstr "%{reason} (%{detail})"
+
+msgid ""
+"Moved %{moved} of %{count} items to the Recycle Bin or Trash. The rest "
+"were not: %{why}"
+msgstr ""
+"%{moved} van de %{count} items zijn naar de Prullenbak of de prullenbak "
+"verplaatst. De rest niet: %{why}"
+
+msgid "The delete may not have finished. %{why}"
+msgstr "Het verwijderen is mogelijk nog niet voltooid. %{why}"
+
+msgid "Nothing was deleted. %{why}"
+msgstr "Er is niets verwijderd. %{why}"
+
+msgid "The person at the remote computer did not allow the rename."
+msgstr ""
+"De gebruiker op de externe computer heeft de naamswijziging niet "
+"toegestaan."
+
+msgid "The rename was called off."
+msgstr "De naamswijziging werd afgeblazen."
+
+msgid ""
+"The item could not be renamed while a transfer, rename or delete is in "
+"progress."
+msgstr ""
+"Het item kan niet worden hernoemd terwijl er een overdracht, hernoeming "
+"of verwijdering gaande is."
+
+msgid "Something with that name is already there."
+msgstr "Er bestaat al iets met die naam."
+
+msgid "That name cannot be used there."
+msgstr "Die naam mag daar niet worden gebruikt."
+
+msgid "The item could not be renamed: permission was denied."
+msgstr "Het item kon niet worden hernoemd: toestemming werd geweigerd."
+
+msgid "The item is no longer there."
+msgstr "Het artikel is er niet meer."
+
+msgid "The item could not be renamed."
+msgstr "Het item kon niet worden hernoemd."
+
+msgid "No items"
+msgstr "Geen artikelen"
+
+msgid "1 item"
+msgstr "één artikel"
+
+msgid "%{count} items"
+msgstr "%{count} stuks"
+
+msgid "%{names}, and %{count} more"
+msgstr "%{names} en nog %{count}"
+
+msgid "Transfer complete."
+msgstr "Overdracht voltooid."
+
+msgid "Transfer complete, but 1 item could not be read and was left out: %{list}"
+msgstr ""
+"De overdracht is voltooid, maar 1 item kon niet worden gelezen en is "
+"weggelaten: %{list}"
+
+msgid ""
+"Transfer complete, but %{count} items could not be read and were left "
+"out: %{list}"
+msgstr ""
+"De overdracht is voltooid, maar de items %{count} konden niet worden "
+"gelezen en zijn weggelaten: %{list}"
+
+msgid "%{pane}: %{message}"
+msgstr "%{pane}: %{message}"
+
+msgid "%{name} is a file. Copy it to the other side to open it there."
+msgstr ""
+"%{name} is een bestand. Kopieer het naar de andere kant om het daar te "
+"openen."
+
+msgid "%{name} cannot be opened."
+msgstr "%{name} kan niet worden geopend."
+
+msgid " › "
+msgstr " › "
+
+msgid ""
+"This folder has more than %{count} items. Only the first %{count} are "
+"shown."
+msgstr ""
+"Deze map bevat meer dan %{count} items. Alleen de eerste %{count} worden "
+"weergegeven."
+
+msgid "Loading… %{count} items so far"
+msgstr "Bezig met laden… %{count} items tot nu toe"
+
+msgid "This is the top level."
+msgstr "Dit is het hoogste niveau."
+
+msgid "Command"
+msgstr "Commando"
+
+msgid "Control"
+msgstr "Besturing"
+
+msgid "%{modifier} plus C"
+msgstr "%{modifier} plus C"
+
+msgid "%{modifier} plus V"
+msgstr "%{modifier} plus V"
+
+msgid "This Computer"
+msgstr "Deze computer"
+
+msgid ""
+"nothing came back for a minute; it may be on a slow or unreachable drive "
+"or device"
+msgstr ""
+"Er kwam een minuut lang geen reactie; het bestand staat mogelijk op een "
+"trage of onbereikbare schijf of apparaat"
+
+msgid "This PC"
+msgstr "Deze pc"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Remote Computer"
+msgstr "Externe computer"
+
+msgid "File Browser"
+msgstr "Bestandsbrowser"
+
+msgid "Rename"
+msgstr "Naam wijzigen"
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press Return to open "
+"a folder, Delete or Command plus Up Arrow to go up, F2 to rename an item,"
+" Command plus Delete to move the selected items to the Trash, and Command"
+" plus R to refresh a list."
+msgstr ""
+"Selecteer items in een van beide lijsten, druk op %{copyShortcut} om ze "
+"te kopiëren, ga vervolgens naar de andere lijst en druk op "
+"%{pasteShortcut} om ze te plakken. Druk op Return om een map te openen, "
+"op Delete of Command + pijl-omhoog om omhoog te gaan, op F2 om een item "
+"een andere naam te geven, op Command + Delete om de geselecteerde items "
+"naar de prullenbak te verplaatsen en op Command + R om een lijst te "
+"vernieuwen."
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press F2 to rename an"
+" item, Delete to delete the selected items, and F5 to refresh a list."
+msgstr ""
+"Selecteer items in een van beide lijsten, druk op %{copyShortcut} om ze "
+"te kopiëren, ga vervolgens naar de andere lijst en druk op "
+"%{pasteShortcut} om ze te plakken. Druk op F2 om een item een andere naam"
+" te geven, op Delete om de geselecteerde items te verwijderen en op F5 om"
+" een lijst te vernieuwen."
+
+msgid "&Open"
+msgstr "&Openen"
+
+msgid "Go &Up"
+msgstr "&Naar boven"
+
+msgid "&Copy"
+msgstr "&Kopiëren"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "&Paste"
+msgstr "&Plakken"
+
+msgid "Ctrl+V"
+msgstr "Ctrl+V"
+
+msgid "Rena&me"
+msgstr "&Naam wijzigen"
+
+msgid "&Delete"
+msgstr "&Verwijderen"
+
+msgid "Del"
+msgstr "Van de"
+
+msgid "&Refresh"
+msgstr "&Vernieuwen"
+
+msgid ""
+"A file transfer is still in progress. Closing the file browser will "
+"cancel it."
+msgstr ""
+"De bestandsoverdracht is nog bezig. Als u de bestandsbrowser sluit, wordt"
+" de overdracht geannuleerd."
+
+msgid ""
+"A rename or delete is still waiting on the remote computer. Closing the "
+"file browser will call it off if it hasn't started yet."
+msgstr ""
+"Een naamswijziging of verwijdering staat nog in de wachtrij op de externe"
+" computer. Als je de bestandsbrowser sluit, wordt het proces geannuleerd "
+"als het nog niet is gestart."
+
+msgid "Cancel Transfer and Close"
+msgstr "Overboeking annuleren en sluiten"
+
+msgid "Keep Open"
+msgstr "Open houden"
+
+msgid "Close Anyway"
+msgstr "Sluiten, hoe dan ook"
+
+msgid "Cancel Rename"
+msgstr "Annuleren Naam wijzigen"
+
+msgid "Cancel Delete"
+msgstr "Annuleren Verwijderen"
+
+msgid "Asking the remote computer to call it off…"
+msgstr "De externe computer vragen om het af te blazen…"
+
+msgid "The remote computer did not answer. The rename may still happen there."
+msgstr ""
+"De externe computer reageerde niet. Het hernoemen kan daar nog steeds "
+"plaatsvinden."
+
+msgid "The remote computer did not answer. The delete may still happen there."
+msgstr ""
+"De externe computer reageerde niet. Het verwijderen kan daar nog steeds "
+"plaatsvinden."
+
+msgid "Move %{name} to the remote computer's Trash?"
+msgstr "%{name} naar de prullenbak van de externe computer verplaatsen?"
+
+msgid "Move %{count} items to the remote computer's Trash?"
+msgstr "%{count}-items naar de Prullenbak van de externe computer verplaatsen?"
+
+msgid "Move %{name} to the remote computer's Recycle Bin?"
+msgstr "%{name} naar de Prullenbak van de externe computer verplaatsen?"
+
+msgid "Move %{count} items to the remote computer's Recycle Bin?"
+msgstr "%{count}-items naar de Prullenbak van de externe computer verplaatsen?"
+
+msgid "Move %{name} to the Trash?"
+msgstr "%{name} naar de prullenbak verplaatsen?"
+
+msgid "Move %{count} items to the Trash?"
+msgstr "%{count}-items naar de prullenbak verplaatsen?"
+
+msgid "Move %{name} to the Recycle Bin?"
+msgstr "%{name} naar de prullenbak verplaatsen?"
+
+msgid "Move %{count} items to the Recycle Bin?"
+msgstr "%{count}-items naar de prullenbak verplaatsen?"
+
+msgid "&Move"
+msgstr "&Verplaatsen"
+
+msgid "Wait for the transfer, rename or delete in progress to finish first."
+msgstr ""
+"Wacht tot de lopende overdracht, naamswijziging of verwijdering is "
+"voltooid."
+
+msgid "Finish or cancel the rename first."
+msgstr "Voltooi of annuleer eerst het hernoemen."
+
+msgid "Select one or more items to delete first."
+msgstr "Selecteer eerst een of meer items die u wilt verwijderen."
+
+msgid "%{name} cannot be deleted."
+msgstr "%{name} kan niet worden verwijderd."
+
+msgid "Select no more than %{max} items to delete at once."
+msgstr "Selecteer maximaal %{max} items om in één keer te verwijderen."
+
+msgid "Nothing was deleted."
+msgstr "Er is niets verwijderd."
+
+msgid "Asking the remote computer to delete 1 item…"
+msgstr "De externe computer wordt gevraagd om 1 item te verwijderen…"
+
+msgid "Asking the remote computer to delete %{count} items…"
+msgstr "De externe computer wordt gevraagd om %{count}-items te verwijderen…"
+
+msgid "Deleting 1 item…"
+msgstr "1 item verwijderen…"
+
+msgid "Deleting %{count} items…"
+msgstr "%{count}-items verwijderen…"
+
+msgid "Moved 1 item to the Recycle Bin or Trash."
+msgstr "1 item naar de prullenbak of de afvalbak verplaatst."
+
+msgid "Moved %{count} items to the Recycle Bin or Trash."
+msgstr "%{count}-items naar de Prullenbak of de prullenbak verplaatst."
+
+msgid "Move to the item you want to rename first."
+msgstr "Ga eerst naar het item dat u wilt hernoemen."
+
+msgid "%{name} cannot be renamed."
+msgstr "%{name} kan niet worden hernoemd."
+
+msgid "New name for %{name}:"
+msgstr "Nieuwe naam voor %{name}:"
+
+msgid "The name was not changed."
+msgstr "De naam is niet gewijzigd."
+
+msgid "A name cannot be empty."
+msgstr "Een naam mag niet leeg zijn."
+
+msgid "Asking the remote computer to rename %{name}…"
+msgstr "De externe computer vragen om %{name} te hernoemen…"
+
+msgid "Renaming %{name}…"
+msgstr "%{name} hernoemen…"
+
+msgid "Rename cancelled."
+msgstr "Naamswijziging geannuleerd."
+
+msgid "Renamed to %{name}."
+msgstr "Hernoemd naar %{name}."
+
+msgid "Cancel Transfer"
+msgstr "Overboeking annuleren"
+
+msgid "Still preparing the transfer…"
+msgstr "De overdracht is nog in voorbereiding…"
+
+msgid "Transferring…"
+msgstr "Bezig met overzetten…"
+
+#, python-format
+msgid "Transferring… %{percent}% of %{size}"
+msgstr "Bezig met overzetten… %{percent}% van %{size}"
+
+msgid "Finishing the transfer…"
+msgstr "De overdracht wordt voltooid…"
+
+msgid "Select one or more items to copy first."
+msgstr "Selecteer eerst een of meer items die u wilt kopiëren."
+
+msgid ""
+"Copied %{name}. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{name} is gekopieerd. Ga naar de lijst van de externe computer en druk "
+"op %{pasteShortcut} om te plakken."
+
+msgid ""
+"Copied %{name}. Move to this computer's list and press %{pasteShortcut} "
+"to paste."
+msgstr ""
+"%{name} is gekopieerd. Verplaats het naar de lijst van deze computer en "
+"druk op %{pasteShortcut} om het te plakken."
+
+msgid ""
+"Copied %{count} items. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{count}-items gekopieerd. Ga naar de lijst op de externe computer en "
+"druk op %{pasteShortcut} om te plakken."
+
+msgid ""
+"Copied %{count} items. Move to this computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{count}-items gekopieerd. Verplaats ze naar de lijst van deze computer "
+"en druk op %{pasteShortcut} om ze te plakken."
+
+msgid "A transfer is already in progress."
+msgstr "Er is al een overdracht gaande."
+
+msgid "Nothing has been copied yet. Select items and press %{copyShortcut} first."
+msgstr ""
+"Er is nog niets gekopieerd. Selecteer eerst de items en druk op "
+"%{copyShortcut}."
+
+msgid "Paste into the other computer's list to transfer these items."
+msgstr "Plak dit in de lijst van de andere computer om deze items over te zetten."
+
+msgid "Wait for the folder to finish opening first."
+msgstr "Wacht eerst tot de map volledig is geopend."
+
+msgid ""
+"Starting transfer. Some items must download from the cloud first, so this"
+" can take a while…"
+msgstr ""
+"De overdracht wordt gestart. Sommige items moeten eerst vanuit de cloud "
+"worden gedownload, dus dit kan even duren…"
+
+msgid "Starting transfer…"
+msgstr "Overdracht wordt gestart…"
+
+msgid "Those items cannot be copied."
+msgstr "Die items kunnen niet worden gekopieerd."
+
+msgid "Open a folder on this computer to paste into first."
+msgstr "Open eerst een map op deze computer om de tekst daarin te plakken."
+
+msgid "Open a folder on the remote computer to paste into first."
+msgstr "Open eerst een map op de externe computer om de inhoud daarin te plakken."
+
+msgid ""
+"The transfer had already finished before it could be cancelled, so the "
+"files are on the remote computer."
+msgstr ""
+"De overdracht was al voltooid voordat deze kon worden geannuleerd, dus de"
+" bestanden staan nu op de externe computer."
+
+msgid "Nothing was copied: the only item was left out: %{list}"
+msgstr "Er is niets gekopieerd: er is slechts één element weggelaten: %{list}"
+
+msgid "Nothing was copied: all %{count} items were left out: %{list}"
+msgstr "Er is niets gekopieerd: alle %{count}-elementen zijn weggelaten: %{list}"
+
+msgid ""
+"Requesting unattended access was turned off in your organization, so the "
+"request was called off."
+msgstr ""
+"De aanvraag voor toegang zonder begeleiding was in uw organisatie "
+"uitgeschakeld, waardoor de aanvraag is geannuleerd."
+
+msgid "The file browser could not be opened."
+msgstr "De bestandsbrowser kon niet worden geopend."
+
+msgid "Waiting for the person at the remote computer to allow file browsing."
+msgstr ""
+"Wachten tot de gebruiker op de externe computer toestemming geeft om door"
+" de bestanden te bladeren."
+
+msgid "The person at the remote computer did not allow file browsing."
+msgstr ""
+"De gebruiker op de externe computer stond het doorbladeren van bestanden "
+"niet toe."
+
+msgid "The file browser could not be opened on the remote computer."
+msgstr "De bestandsbrowser kon niet worden geopend op de externe computer."
+
+msgid "&Browse Files on Target"
+msgstr "&Bestanden op het doelapparaat doorbladeren"
+
+msgid "The remote user is copying %{name} from this machine."
+msgstr "De externe gebruiker kopieert %{name} vanaf deze computer."
+
+msgid "The remote user is copying %{count} items from this machine: %{names}."
+msgstr "De externe gebruiker kopieert %{count} items van deze computer: %{names}."
+
+msgid "The remote user is copying %{name} to this machine."
+msgstr "De externe gebruiker kopieert %{name} naar deze computer."
+
+msgid "The remote user is copying %{count} items to this machine: %{names}."
+msgstr "De externe gebruiker kopieert %{count} items naar deze computer: %{names}."
+
+msgid "The remote user moved an item on this machine to the Trash."
+msgstr ""
+"De externe gebruiker heeft een item op deze computer naar de Prullenbak "
+"verplaatst."
+
+msgid "The remote user moved an item on this machine to the Recycle Bin."
+msgstr ""
+"De externe gebruiker heeft een item op deze computer naar de Prullenbak "
+"verplaatst."
+
+msgid "The remote user moved %{count} items on this machine to the Trash."
+msgstr ""
+"De externe gebruiker heeft %{count} items op deze computer naar de "
+"prullenbak verplaatst."
+
+msgid "The remote user moved %{count} items on this machine to the Recycle Bin."
+msgstr ""
+"De externe gebruiker heeft %{count} items op deze computer naar de "
+"Prullenbak verplaatst."
+
+msgid "The remote user moved %{name} on this machine to the Trash."
+msgstr ""
+"De externe gebruiker heeft %{name} op deze computer naar de prullenbak "
+"verplaatst."
+
+msgid "The remote user moved %{name} on this machine to the Recycle Bin."
+msgstr ""
+"De externe gebruiker heeft op deze computer %{name} naar de Prullenbak "
+"verplaatst."
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Trash: "
+"%{names}."
+msgstr ""
+"De externe gebruiker heeft %{count} items op deze computer naar de "
+"prullenbak verplaatst: %{names}."
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Recycle Bin: "
+"%{names}."
+msgstr ""
+"De externe gebruiker heeft %{count} items op deze computer naar de "
+"Prullenbak verplaatst: %{names}."
+
+msgid "The remote user renamed an item on this machine to %{name}."
+msgstr ""
+"De externe gebruiker heeft een item op deze computer hernoemd naar "
+"%{name}."
+
+msgid "The remote user renamed %{item} on this machine to %{name}."
+msgstr "De externe gebruiker heeft %{item} op deze computer hernoemd naar %{name}."
+
+msgid "The remote user is browsing files on this machine."
+msgstr "De externe gebruiker bekijkt bestanden op deze computer."
+
+msgid "The person helping you wants to browse the files on this computer."
+msgstr "De persoon die je helpt, wil de bestanden op deze computer bekijken."
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Trash, without "
+"asking you again. You will be told each time they do."
+msgstr ""
+"Als je dit toestaat, kunnen ze de rest van deze sessie bestanden naar en "
+"vanaf deze computer kopiëren, bestanden hernoemen en ze naar de "
+"prullenbak verplaatsen, zonder dat je daar nog om gevraagd wordt. Je "
+"krijgt elke keer een melding wanneer ze dit doen."
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Recycle Bin, "
+"without asking you again. You will be told each time they do."
+msgstr ""
+"Als je dit toestaat, kunnen ze de rest van deze sessie bestanden naar en "
+"vanaf deze computer kopiëren, bestanden hernoemen en ze naar de "
+"Prullenbak verplaatsen, zonder dat je daar opnieuw om gevraagd wordt. Je "
+"krijgt elke keer een melding wanneer ze dit doen."
+
+msgid "&Allow"
+msgstr "&Toestaan"
+
+msgid "&Deny"
+msgstr "&Ontkennen"
+
+msgid "The remote computer sent an answer that could not be read."
+msgstr ""
+"De externe computer heeft een antwoord verzonden dat niet kon worden "
+"gelezen."
+
+msgid "The remote computer sent a list that could not be read."
+msgstr "De externe computer heeft een lijst verzonden die niet kon worden gelezen."
+
+msgid "The request for unattended access to this computer was called off."
+msgstr "Het verzoek om onbeheerde toegang tot deze computer is ingetrokken."
+
+msgid ""
+"Session recording was turned off in your organization, so the recording "
+"has stopped. What was recorded until now has been kept."
+msgstr ""
+"De sessieopname is in uw organisatie uitgeschakeld, dus de opname is "
+"gestopt. Wat tot nu toe is opgenomen, is bewaard gebleven."
+
+msgid ""
+"Every controller in your organization will be able to access this "
+"machine. Are you sure you want to add it to the default group?"
+msgstr ""
+"Elke controller binnen uw organisatie krijgt toegang tot deze machine. "
+"Weet u zeker dat u deze aan de standaardgroep wilt toevoegen?"
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at "
+"any time without requiring you to start a remote session, and without "
+"being prompted for permission each time. This includes copying files to "
+"and from this computer without asking you first. Do you want to allow "
+"this?"
+msgstr ""
+"%{controller_name} vraagt toestemming om op elk moment toegang te krijgen"
+" tot deze computer, zonder dat u daarvoor een sessie op afstand hoeft te "
+"starten en zonder dat u telkens om toestemming wordt gevraagd. Dit houdt "
+"onder meer in dat er bestanden van en naar deze computer kunnen worden "
+"gekopieerd zonder dat u daar eerst om wordt gevraagd. Wilt u dit "
+"toestaan?"
+
+msgid "1 byte"
+msgstr "1 byte"
+
+msgid "%{count} bytes"
+msgstr "%{count} bytes"
+
+msgid "%{value} KB"
+msgstr "%{value} KB"
+
+msgid "%{value} MB"
+msgstr "%{value} MB"
+
+msgid "%{value} GB"
+msgstr "%{value} GB"
+
+msgid "%{value} TB"
+msgstr "%{value} TB"
+
