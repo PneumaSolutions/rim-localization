@@ -2728,3 +2728,688 @@ msgstr ""
 "「プライバシーとセキュリティ」カテゴリ内で、「アクセシビリティ」ボタンを有効にしてください。これにより、前述のアプリケーション一覧画面が表示され、手順に従ってRemote"
 " Incident Managerのアクセシビリティ権限を有効にすることができます。"
 
+msgid ""
+"Your organization doesn't allow machines to be added to the default "
+"group, and you don't have access to any target groups. Ask an "
+"organization administrator."
+msgstr "所属する組織では、デフォルトのグループへのマシンの追加が許可されておらず、また、どのターゲットグループにもアクセス権がありません。組織の管理者に問い合わせてください。"
+
+msgid "Your organization doesn't allow machines to be added to the default group."
+msgstr "所属組織では、デフォルトのグループにマシンを追加することは許可されていません。"
+
+msgid "You don't have access to that target group."
+msgstr "そのターゲット層にはアクセスできません。"
+
+msgid "The machine could not be added."
+msgstr "そのマシンを追加できませんでした。"
+
+msgid "This machine has been added to the target group \"%{group_name}\"."
+msgstr "この機械は、ターゲットグループ「%{group_name}」に追加されました。"
+
+msgid "This machine has been added to the default group."
+msgstr "このマシンはデフォルトのグループに追加されました。"
+
+msgid "This machine has been added to your RIM account."
+msgstr "この端末は、お客様のRIMアカウントに登録されました。"
+
+msgid "Back to target groups"
+msgstr "対象グループに戻る"
+
+msgid "Default group"
+msgstr "デフォルトのグループ"
+
+msgid "No machines match your search."
+msgstr "検索条件に一致する機械はありません。"
+
+msgid "Group for this target machine:"
+msgstr "このターゲットマシン用のグループ："
+
+msgid ""
+"Every controller in your organization can access machines in the default "
+"group."
+msgstr "組織内のすべてのコントローラーは、デフォルトのグループに属するマシンにアクセスできます。"
+
+msgid ""
+"Only the controllers who have been given access to a target group, and "
+"organization administrators, can access machines in that group."
+msgstr "対象グループへのアクセス権限を付与されたコントローラーおよび組織管理者のみが、そのグループ内のマシンにアクセスできます。"
+
+msgid "Choose a group"
+msgstr "グループを選択してください"
+
+msgid "You must choose a group for this machine."
+msgstr "このマシンにはグループを選択する必要があります。"
+
+msgid ""
+"Remote Incident Manager is currently running with limited capability on "
+"the target computer to which you are connecting. You may temporarily lose"
+" remote control when certain elevated windows are in focus, including "
+"screen reader dialogs. Select how you would like to proceed."
+msgstr ""
+"現在、接続先のコンピュータ上で「Remote Incident "
+"Manager」が機能制限付きで実行されています。スクリーンリーダーのダイアログなど、特定の特権ウィンドウがアクティブになっている場合、一時的にリモート操作ができなくなる可能性があります。今後の処理方法を選択してください。"
+
+msgid "Install as Administrator (requires elevated privileges)"
+msgstr "管理者としてインストールする（管理者権限が必要です）"
+
+msgid "Don't show this message again for this computer"
+msgstr "このコンピュータでは、このメッセージを再度表示しない"
+
+msgid "a file could not be written: %{message}"
+msgstr "ファイルへの書き込みに失敗しました：%{message}"
+
+msgid "could not read the selection: %{message}"
+msgstr "選択した内容を読み取れませんでした：%{message}"
+
+msgid "file"
+msgstr "ファイル"
+
+msgid "folder"
+msgstr "パンフレット"
+
+msgid "drive"
+msgstr "ドライブ"
+
+msgid "location"
+msgstr "場所"
+
+msgid "Up one level"
+msgstr "1つ上の階へ"
+
+msgid "not downloaded"
+msgstr "ダウンロードされていません"
+
+msgid ", "
+msgstr ", "
+
+msgid "Transfer cancelled."
+msgstr "転送がキャンセルされました。"
+
+msgid "The person at the other computer declined the transfer."
+msgstr "もう一台のコンピューターの前にいた人は、送金を拒否しました。"
+
+msgid "Transfer failed: permission was denied."
+msgstr "転送に失敗しました：アクセスが拒否されました。"
+
+msgid "Transfer failed: something it needed is no longer there."
+msgstr "転送に失敗しました：必要なものが存在しなくなりました。"
+
+msgid "Transfer failed: something with the same name is already there."
+msgstr "転送に失敗しました：同じ名前のものがすでに存在します。"
+
+msgid "Transfer failed: a name cannot be used there."
+msgstr "転送に失敗しました：その場所ではその名前を使用できません。"
+
+msgid "Transfer failed: there is not enough space."
+msgstr "転送に失敗しました：空き容量が不足しています。"
+
+msgid "Transfer failed: a file changed while it was being copied."
+msgstr "転送に失敗しました：コピー中にファイルが変更されました。"
+
+msgid "Transfer failed: the other computer stopped responding."
+msgstr "転送に失敗しました：相手側のコンピュータが応答しなくなりました。"
+
+msgid "Transfer failed: another transfer is already in progress."
+msgstr "転送に失敗しました：すでに別の転送が実行中です。"
+
+msgid "Transfer failed: the other computer cannot do this."
+msgstr "転送に失敗しました：相手側のコンピュータではこの操作を行うことができません。"
+
+msgid "Transfer failed: the other computer sent something unexpected."
+msgstr "転送に失敗しました：相手側のコンピュータから予期しないデータが送信されました。"
+
+msgid "Transfer failed."
+msgstr "転送に失敗しました。"
+
+msgid "%{summary} (%{detail})"
+msgstr "%{summary} (%{detail})"
+
+msgid "This folder cannot be opened: permission was denied."
+msgstr "このフォルダを開くことができません：アクセスが拒否されました。"
+
+msgid "This folder is no longer there."
+msgstr "このフォルダはもうありません。"
+
+msgid "Listing cancelled."
+msgstr "掲載が取り消されました。"
+
+msgid "The other computer stopped responding."
+msgstr "もう一台のコンピューターが応答しなくなりました。"
+
+msgid "The other computer sent something unexpected."
+msgstr "もう一台のコンピューターから、予期せぬものが送られてきた。"
+
+msgid "This folder could not be opened."
+msgstr "このフォルダを開くことができませんでした。"
+
+msgid "The person at the remote computer did not allow the delete."
+msgstr "遠隔地のコンピュータの担当者が削除を許可しませんでした。"
+
+msgid "It was called off."
+msgstr "中止になった。"
+
+msgid ""
+"Nothing was deleted while a transfer, rename or another delete is in "
+"progress."
+msgstr "転送、名前の変更、または別の削除処理が進行中は、何も削除されませんでした。"
+
+msgid ""
+"An item cannot go to the Recycle Bin or Trash there, and the file browser"
+" never deletes anything permanently."
+msgstr "そこでは、アイテムを「ごみ箱」や「ゴミ箱」に移動することはできず、ファイルブラウザでは何も完全に削除されることはありません。"
+
+msgid "Permission was denied."
+msgstr "アクセスが拒否されました。"
+
+msgid "An item is no longer there."
+msgstr "その品物はもうそこにはありません。"
+
+msgid "An item cannot be deleted from the file browser."
+msgstr "ファイルブラウザからは項目を削除することはできません。"
+
+msgid "An item could not be moved."
+msgstr "アイテムを移動できませんでした。"
+
+msgid "%{reason} (%{detail})"
+msgstr "%{reason} (%{detail})"
+
+msgid ""
+"Moved %{moved} of %{count} items to the Recycle Bin or Trash. The rest "
+"were not: %{why}"
+msgstr "%{count} 個中 %{moved} 個の項目をごみ箱に移動しました。残りは移動されませんでした: %{why}"
+
+msgid "The delete may not have finished. %{why}"
+msgstr "削除がまだ完了していない可能性があります。%{why}"
+
+msgid "Nothing was deleted. %{why}"
+msgstr "何も削除されていません。%{why}"
+
+msgid "The person at the remote computer did not allow the rename."
+msgstr "リモートコンピュータ側のユーザーが、名前の変更を許可しませんでした。"
+
+msgid "The rename was called off."
+msgstr "名称変更は取りやめとなった。"
+
+msgid ""
+"The item could not be renamed while a transfer, rename or delete is in "
+"progress."
+msgstr "転送、名前の変更、または削除が実行中の間は、その項目の名前を変更することはできません。"
+
+msgid "Something with that name is already there."
+msgstr "その名前のものはすでに存在しています。"
+
+msgid "That name cannot be used there."
+msgstr "その名前はそこでは使用できません。"
+
+msgid "The item could not be renamed: permission was denied."
+msgstr "アイテムの名前を変更できませんでした：アクセスが拒否されました。"
+
+msgid "The item is no longer there."
+msgstr "その商品はもうそこにはありません。"
+
+msgid "The item could not be renamed."
+msgstr "アイテムの名前を変更できませんでした。"
+
+msgid "No items"
+msgstr "商品はありません"
+
+msgid "1 item"
+msgstr "1点"
+
+msgid "%{count} items"
+msgstr "%{count}件"
+
+msgid "%{names}, and %{count} more"
+msgstr "%{names}、ほか %{count} 件"
+
+msgid "Transfer complete."
+msgstr "転送が完了しました。"
+
+msgid "Transfer complete, but 1 item could not be read and was left out: %{list}"
+msgstr "転送は完了しましたが、1つの項目を読み取ることができず、除外されました：%{list}"
+
+msgid ""
+"Transfer complete, but %{count} items could not be read and were left "
+"out: %{list}"
+msgstr "転送は完了しましたが、%{count} 個の項目を読み取ることができず、除外されました：%{list}"
+
+msgid "%{pane}: %{message}"
+msgstr "%{pane}: %{message}"
+
+msgid "%{name} is a file. Copy it to the other side to open it there."
+msgstr "%{name}はファイルです。これを向こう側にコピーすると、そこで開くことができます。"
+
+msgid "%{name} cannot be opened."
+msgstr "%{name}を開くことができません。"
+
+msgid " › "
+msgstr " › "
+
+msgid ""
+"This folder has more than %{count} items. Only the first %{count} are "
+"shown."
+msgstr "このフォルダには%{count}個以上の項目があります。最初の%{count}個のみが表示されています。"
+
+msgid "Loading… %{count} items so far"
+msgstr "読み込み中… %{count}件（現時点）"
+
+msgid "This is the top level."
+msgstr "これが最上位レベルです。"
+
+msgid "Command"
+msgstr "コマンド"
+
+msgid "Control"
+msgstr "制御"
+
+msgid "%{modifier} plus C"
+msgstr "%{modifier} + C"
+
+msgid "%{modifier} plus V"
+msgstr "%{modifier} + V"
+
+msgid "This Computer"
+msgstr "このコンピュータ"
+
+msgid ""
+"nothing came back for a minute; it may be on a slow or unreachable drive "
+"or device"
+msgstr "1分間、何も返ってきませんでした。低速なドライブやデバイス、あるいはアクセスできないドライブやデバイスにある可能性があります。"
+
+msgid "This PC"
+msgstr "このPC"
+
+msgid "Computer"
+msgstr "コンピュータ"
+
+msgid "Remote Computer"
+msgstr "リモートコンピュータ"
+
+msgid "File Browser"
+msgstr "ファイルブラウザ"
+
+msgid "Rename"
+msgstr "名前の変更"
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press Return to open "
+"a folder, Delete or Command plus Up Arrow to go up, F2 to rename an item,"
+" Command plus Delete to move the selected items to the Trash, and Command"
+" plus R to refresh a list."
+msgstr "いずれかのリストで項目を選択し、%{copyShortcut}を押してコピーし、もう一方のリストに移動して%{pasteShortcut}を押して貼り付けます。Returnキーを押すとフォルダが開き、DeleteキーまたはCommandキーと上矢印キーを押すと1つ上の階層へ移動し、F2キーを押すと項目の名前を変更でき、CommandキーとDeleteキーを押すと選択した項目をゴミ箱に移動し、CommandキーとRキーを押すとリストを更新します。"
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press F2 to rename an"
+" item, Delete to delete the selected items, and F5 to refresh a list."
+msgstr "いずれかのリストから項目を選択し、%{copyShortcut}を押してコピーし、もう一方のリストに移動して%{pasteShortcut}を押して貼り付けます。F2キーを押すと項目の名前を変更でき、Deleteキーを押すと選択した項目を削除でき、F5キーを押すとリストを更新できます。"
+
+msgid "&Open"
+msgstr "開く(&O)"
+
+msgid "Go &Up"
+msgstr "上へ(&U)"
+
+msgid "&Copy"
+msgstr "コピー(&C)"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "&Paste"
+msgstr "貼り付け(&P)"
+
+msgid "Ctrl+V"
+msgstr "Ctrl+V"
+
+msgid "Rena&me"
+msgstr "名前の変更(&M)"
+
+msgid "&Delete"
+msgstr "削除(&D)"
+
+msgid "Del"
+msgstr "『デル』"
+
+msgid "&Refresh"
+msgstr "更新(&R)"
+
+msgid ""
+"A file transfer is still in progress. Closing the file browser will "
+"cancel it."
+msgstr "ファイル転送がまだ進行中です。ファイルブラウザを閉じると、転送がキャンセルされます。"
+
+msgid ""
+"A rename or delete is still waiting on the remote computer. Closing the "
+"file browser will call it off if it hasn't started yet."
+msgstr "リモートコンピュータ上で、ファイル名の変更または削除がまだ待機中です。ファイルブラウザを閉じると、まだ処理が開始されていない場合は、その処理がキャンセルされます。"
+
+msgid "Cancel Transfer and Close"
+msgstr "送金をキャンセルして終了する"
+
+msgid "Keep Open"
+msgstr "開いたままにする"
+
+msgid "Close Anyway"
+msgstr "とにかく閉じる"
+
+msgid "Cancel Rename"
+msgstr "「名前の変更」をキャンセル"
+
+msgid "Cancel Delete"
+msgstr "キャンセル　削除"
+
+msgid "Asking the remote computer to call it off…"
+msgstr "リモートコンピュータに中止するよう依頼する…"
+
+msgid "The remote computer did not answer. The rename may still happen there."
+msgstr "リモートコンピュータからは応答がありませんでした。それでも、そちら側でファイル名の変更が行われる可能性があります。"
+
+msgid "The remote computer did not answer. The delete may still happen there."
+msgstr "リモートコンピュータからは応答がありませんでした。それでも、そちら側で削除が行われる可能性があります。"
+
+msgid "Move %{name} to the remote computer's Trash?"
+msgstr "%{name}をリモートコンピュータのごみ箱に移動しますか？"
+
+msgid "Move %{count} items to the remote computer's Trash?"
+msgstr "%{count} 個の項目を、リモートコンピュータのごみ箱に移動しますか？"
+
+msgid "Move %{name} to the remote computer's Recycle Bin?"
+msgstr "%{name}をリモートコンピュータのごみ箱に移動しますか？"
+
+msgid "Move %{count} items to the remote computer's Recycle Bin?"
+msgstr "%{count} 個の項目を、リモートコンピュータのごみ箱に移動しますか？"
+
+msgid "Move %{name} to the Trash?"
+msgstr "%{name}をゴミ箱に移動しますか？"
+
+msgid "Move %{count} items to the Trash?"
+msgstr "%{count} 個のアイテムをゴミ箱に移動しますか？"
+
+msgid "Move %{name} to the Recycle Bin?"
+msgstr "%{name}をゴミ箱に移動しますか？"
+
+msgid "Move %{count} items to the Recycle Bin?"
+msgstr "%{count} 個のアイテムをゴミ箱に移動しますか？"
+
+msgid "&Move"
+msgstr "移動(&M)"
+
+msgid "Wait for the transfer, rename or delete in progress to finish first."
+msgstr "転送、名前の変更、または削除の処理が完了するまでお待ちください。"
+
+msgid "Finish or cancel the rename first."
+msgstr "まず、名前の変更を完了するか、キャンセルしてください。"
+
+msgid "Select one or more items to delete first."
+msgstr "まず、削除する項目を1つ以上選択してください。"
+
+msgid "%{name} cannot be deleted."
+msgstr "%{name}は削除できません。"
+
+msgid "Select no more than %{max} items to delete at once."
+msgstr "一度に削除する項目は、%{max}個まで選択してください。"
+
+msgid "Nothing was deleted."
+msgstr "何も削除されていません。"
+
+msgid "Asking the remote computer to delete 1 item…"
+msgstr "リモートコンピュータに1件の項目を削除するよう依頼しています…"
+
+msgid "Asking the remote computer to delete %{count} items…"
+msgstr "リモートコンピュータに%{count}個の項目を削除するよう依頼中…"
+
+msgid "Deleting 1 item…"
+msgstr "1件を削除しています…"
+
+msgid "Deleting %{count} items…"
+msgstr "%{count} 個の項目を削除中…"
+
+msgid "Moved 1 item to the Recycle Bin or Trash."
+msgstr "1つのアイテムを「ごみ箱」または「ゴミ箱」に移動しました。"
+
+msgid "Moved %{count} items to the Recycle Bin or Trash."
+msgstr "%{count} 個のアイテムを「ごみ箱」または「ゴミ箱」に移動しました。"
+
+msgid "Move to the item you want to rename first."
+msgstr "まず、名前を変更したい項目に移動してください。"
+
+msgid "%{name} cannot be renamed."
+msgstr "%{name}は名前を変更できません。"
+
+msgid "New name for %{name}:"
+msgstr "%{name}の新しい名前："
+
+msgid "The name was not changed."
+msgstr "名前は変更されませんでした。"
+
+msgid "A name cannot be empty."
+msgstr "名前は空にしてはなりません。"
+
+msgid "Asking the remote computer to rename %{name}…"
+msgstr "リモートコンピュータに%{name}の名前変更を依頼する…"
+
+msgid "Renaming %{name}…"
+msgstr "%{name} の名前を変更中…"
+
+msgid "Rename cancelled."
+msgstr "名前の変更がキャンセルされました。"
+
+msgid "Renamed to %{name}."
+msgstr "%{name} に名前を変更しました。"
+
+msgid "Cancel Transfer"
+msgstr "送金をキャンセルする"
+
+msgid "Still preparing the transfer…"
+msgstr "まだ転送の準備中です…"
+
+msgid "Transferring…"
+msgstr "転送中…"
+
+#, python-format
+msgid "Transferring… %{percent}% of %{size}"
+msgstr "転送中… %{size} 中 %{percent}%"
+
+msgid "Finishing the transfer…"
+msgstr "転送を完了中…"
+
+msgid "Select one or more items to copy first."
+msgstr "まず、コピーしたい項目を1つ以上選択してください。"
+
+msgid ""
+"Copied %{name}. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr "%{name}をコピーしました。リモートコンピュータの一覧に移動し、%{pasteShortcut}を押して貼り付けてください。"
+
+msgid ""
+"Copied %{name}. Move to this computer's list and press %{pasteShortcut} "
+"to paste."
+msgstr "%{name}をコピーしました。このコンピュータのリストに移動し、%{pasteShortcut}を押して貼り付けてください。"
+
+msgid ""
+"Copied %{count} items. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr "%{count} 個の項目をコピーしました。リモートコンピュータの一覧に移動し、%{pasteShortcut}を押して貼り付けてください。"
+
+msgid ""
+"Copied %{count} items. Move to this computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr "%{count} 個の項目をコピーしました。このコンピュータのリストに移動し、%{pasteShortcut}を押して貼り付けてください。"
+
+msgid "A transfer is already in progress."
+msgstr "現在、転送が進行中です。"
+
+msgid "Nothing has been copied yet. Select items and press %{copyShortcut} first."
+msgstr "まだ何もコピーされていません。まず、項目を選択して、%{copyShortcut}を押してください。"
+
+msgid "Paste into the other computer's list to transfer these items."
+msgstr "これらの項目を転送するには、もう一方のコンピュータのリストに貼り付けてください。"
+
+msgid "Wait for the folder to finish opening first."
+msgstr "まず、フォルダが開き終わるまで待ってください。"
+
+msgid ""
+"Starting transfer. Some items must download from the cloud first, so this"
+" can take a while…"
+msgstr "転送を開始します。一部のアイテムはまずクラウドからダウンロードする必要があるため、少し時間がかかる場合があります…"
+
+msgid "Starting transfer…"
+msgstr "転送を開始します…"
+
+msgid "Those items cannot be copied."
+msgstr "それらの項目はコピーできません。"
+
+msgid "Open a folder on this computer to paste into first."
+msgstr "まず、このコンピューター上のフォルダを開いて、そこに貼り付けてください。"
+
+msgid "Open a folder on the remote computer to paste into first."
+msgstr "まず、リモートコンピュータ上のフォルダを開き、そこに貼り付けます。"
+
+msgid ""
+"The transfer had already finished before it could be cancelled, so the "
+"files are on the remote computer."
+msgstr "転送はキャンセルされる前にすでに完了していたため、ファイルはリモートコンピュータ上にあります。"
+
+msgid "Nothing was copied: the only item was left out: %{list}"
+msgstr "何もコピーされませんでした。唯一の項目が除外されました: %{list}"
+
+msgid "Nothing was copied: all %{count} items were left out: %{list}"
+msgstr "何もコピーされませんでした。%{count} 個の項目はすべて除外されました：%{list}"
+
+msgid ""
+"Requesting unattended access was turned off in your organization, so the "
+"request was called off."
+msgstr "所属組織では無人アクセスのリクエストが無効に設定されていたため、このリクエストは取り消されました。"
+
+msgid "The file browser could not be opened."
+msgstr "ファイルブラウザを開くことができませんでした。"
+
+msgid "Waiting for the person at the remote computer to allow file browsing."
+msgstr "リモートコンピュータ側のユーザーがファイルの閲覧を許可するのを待っています。"
+
+msgid "The person at the remote computer did not allow file browsing."
+msgstr "リモートコンピュータ側の担当者は、ファイルの閲覧を許可しませんでした。"
+
+msgid "The file browser could not be opened on the remote computer."
+msgstr "リモートコンピュータでファイルブラウザを開くことができませんでした。"
+
+msgid "&Browse Files on Target"
+msgstr "ターゲット上のファイルを閲覧する(&B)"
+
+msgid "The remote user is copying %{name} from this machine."
+msgstr "リモートユーザーは、このマシンから%{name}をコピーしています。"
+
+msgid "The remote user is copying %{count} items from this machine: %{names}."
+msgstr "リモートユーザーがこのマシンから %{count} 個の項目をコピーしています: %{names}"
+
+msgid "The remote user is copying %{name} to this machine."
+msgstr "リモートユーザーが%{name}をこのマシンにコピーしています。"
+
+msgid "The remote user is copying %{count} items to this machine: %{names}."
+msgstr "リモートユーザーがこのマシンに %{count} 個の項目をコピーしています: %{names}"
+
+msgid "The remote user moved an item on this machine to the Trash."
+msgstr "リモートユーザーが、このマシン上のアイテムをゴミ箱に移動しました。"
+
+msgid "The remote user moved an item on this machine to the Recycle Bin."
+msgstr "リモートユーザーが、このマシン上のアイテムを「ごみ箱」に移動しました。"
+
+msgid "The remote user moved %{count} items on this machine to the Trash."
+msgstr "リモートユーザーがこのマシン上の%{count}個の項目をゴミ箱に移動しました。"
+
+msgid "The remote user moved %{count} items on this machine to the Recycle Bin."
+msgstr "リモートユーザーがこのマシン上の%{count}個の項目を「ごみ箱」に移動しました。"
+
+msgid "The remote user moved %{name} on this machine to the Trash."
+msgstr "リモートユーザーがこのマシン上の%{name}をゴミ箱に移動しました。"
+
+msgid "The remote user moved %{name} on this machine to the Recycle Bin."
+msgstr "リモートユーザーがこのマシン上の%{name}をごみ箱に移動しました。"
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Trash: "
+"%{names}."
+msgstr "リモートユーザーがこのマシン上の %{count} 個の項目をゴミ箱に移動しました: %{names}"
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Recycle Bin: "
+"%{names}."
+msgstr "リモートユーザーがこのマシン上の %{count} 個の項目をごみ箱に移動しました: %{names}"
+
+msgid "The remote user renamed an item on this machine to %{name}."
+msgstr "リモートユーザーが、このマシン上の項目の名前を%{name}に変更しました。"
+
+msgid "The remote user renamed %{item} on this machine to %{name}."
+msgstr "リモートユーザーがこのマシン上の%{item}の名前を%{name}に変更しました。"
+
+msgid "The remote user is browsing files on this machine."
+msgstr "リモートユーザーがこのマシン上のファイルを閲覧しています。"
+
+msgid "The person helping you wants to browse the files on this computer."
+msgstr "あなたを手伝っている人は、このコンピューター上のファイルを閲覧したいと考えています。"
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Trash, without "
+"asking you again. You will be told each time they do."
+msgstr "これを許可すると、このセッションの残りの間、相手は再度確認を求められることなく、このコンピュータとの間でファイルをコピーしたり、ファイルの名前を変更したり、ゴミ箱に移動したりできるようになります。相手がこれらの操作を行うたびに、その旨が通知されます。"
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Recycle Bin, "
+"without asking you again. You will be told each time they do."
+msgstr "これを許可すると、このセッションの残りの間、そのユーザーは、再度確認を求められることなく、このコンピュータとの間でファイルをコピーしたり、ファイルの名前を変更したり、ごみ箱に移動したりできるようになります。その操作が行われるたびに、通知が表示されます。"
+
+msgid "&Allow"
+msgstr "許可する(&A)"
+
+msgid "&Deny"
+msgstr "拒否する(&D)"
+
+msgid "The remote computer sent an answer that could not be read."
+msgstr "リモートコンピュータから、読み取れない応答が送信されました。"
+
+msgid "The remote computer sent a list that could not be read."
+msgstr "リモートコンピュータから、読み取れないリストが送信されました。"
+
+msgid "The request for unattended access to this computer was called off."
+msgstr "このコンピュータへの無人アクセスに関するリクエストは取り消されました。"
+
+msgid ""
+"Session recording was turned off in your organization, so the recording "
+"has stopped. What was recorded until now has been kept."
+msgstr "お客様の組織ではセッション録画がオフに設定されていたため、録画は停止しました。これまでに録画された内容は保存されています。"
+
+msgid ""
+"Every controller in your organization will be able to access this "
+"machine. Are you sure you want to add it to the default group?"
+msgstr "組織内のすべてのコントローラーがこのマシンにアクセスできるようになります。本当にこのマシンをデフォルトのグループに追加してもよろしいですか？"
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at "
+"any time without requiring you to start a remote session, and without "
+"being prompted for permission each time. This includes copying files to "
+"and from this computer without asking you first. Do you want to allow "
+"this?"
+msgstr "%{controller_name}は、リモートセッションを開始することなく、また毎回許可を求めるプロンプトを表示することなく、いつでもこのコンピューターにアクセスする許可を求めています。これには、事前に確認することなく、このコンピューターとの間でファイルをコピーすることも含まれます。これを許可しますか？"
+
+msgid "1 byte"
+msgstr "1バイト"
+
+msgid "%{count} bytes"
+msgstr "%{count}バイト"
+
+msgid "%{value} KB"
+msgstr "%{value}KB"
+
+msgid "%{value} MB"
+msgstr "%{value}MB"
+
+msgid "%{value} GB"
+msgstr "%{value} GB"
+
+msgid "%{value} TB"
+msgstr "%{value} TB"
+

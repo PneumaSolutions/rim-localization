@@ -3224,3 +3224,817 @@ msgstr ""
 "décrit ci-dessus, ce qui vous permettra de suivre la procédure pour "
 "activer l'autorisation d'accessibilité de Remote Incident Manager."
 
+msgid ""
+"Your organization doesn't allow machines to be added to the default "
+"group, and you don't have access to any target groups. Ask an "
+"organization administrator."
+msgstr ""
+"Votre organisation n'autorise pas l'ajout de machines au groupe par "
+"défaut, et vous n'avez accès à aucun groupe cible. Adressez-vous à un "
+"administrateur de l'organisation."
+
+msgid "Your organization doesn't allow machines to be added to the default group."
+msgstr ""
+"Votre organisation n'autorise pas l'ajout de machines au groupe par "
+"défaut."
+
+msgid "You don't have access to that target group."
+msgstr "Vous n'avez pas accès à ce groupe cible."
+
+msgid "The machine could not be added."
+msgstr "L'ajout de la machine a échoué."
+
+msgid "This machine has been added to the target group \"%{group_name}\"."
+msgstr "Cette machine a été ajoutée au groupe cible « %{group_name} »."
+
+msgid "This machine has been added to the default group."
+msgstr "Cette machine a été ajoutée au groupe par défaut."
+
+msgid "This machine has been added to your RIM account."
+msgstr "Cet appareil a été ajouté à votre compte RIM."
+
+msgid "Back to target groups"
+msgstr "Retour aux groupes cibles"
+
+msgid "Default group"
+msgstr "Groupe par défaut"
+
+msgid "No machines match your search."
+msgstr "Aucune machine ne correspond à votre recherche."
+
+msgid "Group for this target machine:"
+msgstr "Groupe pour cette machine cible :"
+
+msgid ""
+"Every controller in your organization can access machines in the default "
+"group."
+msgstr ""
+"Chaque contrôleur de votre organisation peut accéder aux machines du "
+"groupe par défaut."
+
+msgid ""
+"Only the controllers who have been given access to a target group, and "
+"organization administrators, can access machines in that group."
+msgstr ""
+"Seuls les contrôleurs à qui l'accès à un groupe cible a été accordé, "
+"ainsi que les administrateurs de l'organisation, peuvent accéder aux "
+"machines de ce groupe."
+
+msgid "Choose a group"
+msgstr "Choisissez un groupe"
+
+msgid "You must choose a group for this machine."
+msgstr "Vous devez choisir un groupe pour cette machine."
+
+msgid ""
+"Remote Incident Manager is currently running with limited capability on "
+"the target computer to which you are connecting. You may temporarily lose"
+" remote control when certain elevated windows are in focus, including "
+"screen reader dialogs. Select how you would like to proceed."
+msgstr ""
+"Remote Incident Manager fonctionne actuellement avec des fonctionnalités "
+"limitées sur l'ordinateur cible auquel vous vous connectez. Il se peut "
+"que vous perdiez temporairement le contrôle à distance lorsque certaines "
+"fenêtres disposant de droits d'accès élevés sont actives, notamment les "
+"boîtes de dialogue des lecteurs d'écran. Choisissez comment vous "
+"souhaitez procéder."
+
+msgid "Install as Administrator (requires elevated privileges)"
+msgstr "Installer en tant qu'administrateur (nécessite des droits d'accès élevés)"
+
+msgid "Don't show this message again for this computer"
+msgstr "Ne plus afficher ce message sur cet ordinateur"
+
+msgid "a file could not be written: %{message}"
+msgstr "Impossible d'écrire dans un fichier : %{message}"
+
+msgid "could not read the selection: %{message}"
+msgstr "Impossible de lire la sélection : %{message}"
+
+msgid "file"
+msgstr "fichier"
+
+msgid "folder"
+msgstr "dépliant"
+
+msgid "drive"
+msgstr "conduire"
+
+msgid "location"
+msgstr "lieu"
+
+msgid "Up one level"
+msgstr "Remonter d'un niveau"
+
+msgid "not downloaded"
+msgstr "pas téléchargé"
+
+msgid ", "
+msgstr ", "
+
+msgid "Transfer cancelled."
+msgstr "Transfert annulé."
+
+msgid "The person at the other computer declined the transfer."
+msgstr ""
+"La personne qui se trouvait devant l'autre ordinateur a refusé le "
+"virement."
+
+msgid "Transfer failed: permission was denied."
+msgstr "Échec du transfert : autorisation refusée."
+
+msgid "Transfer failed: something it needed is no longer there."
+msgstr "Échec du transfert : un élément nécessaire n'est plus disponible."
+
+msgid "Transfer failed: something with the same name is already there."
+msgstr "Échec du transfert : un élément portant le même nom existe déjà."
+
+msgid "Transfer failed: a name cannot be used there."
+msgstr "Échec du transfert : ce nom ne peut pas être utilisé à cet endroit."
+
+msgid "Transfer failed: there is not enough space."
+msgstr "Échec du transfert : l'espace disponible est insuffisant."
+
+msgid "Transfer failed: a file changed while it was being copied."
+msgstr "Échec du transfert : un fichier a été modifié pendant sa copie."
+
+msgid "Transfer failed: the other computer stopped responding."
+msgstr "Échec du transfert : l'autre ordinateur a cessé de répondre."
+
+msgid "Transfer failed: another transfer is already in progress."
+msgstr "Échec du transfert : un autre transfert est déjà en cours."
+
+msgid "Transfer failed: the other computer cannot do this."
+msgstr ""
+"Échec du transfert : l'autre ordinateur ne peut pas effectuer cette "
+"opération."
+
+msgid "Transfer failed: the other computer sent something unexpected."
+msgstr "Échec du transfert : l'autre ordinateur a envoyé des données inattendues."
+
+msgid "Transfer failed."
+msgstr "Échec du transfert."
+
+msgid "%{summary} (%{detail})"
+msgstr "%{summary} (%{detail})"
+
+msgid "This folder cannot be opened: permission was denied."
+msgstr "Ce dossier ne peut pas être ouvert : accès refusé."
+
+msgid "This folder is no longer there."
+msgstr "Ce dossier n'existe plus."
+
+msgid "Listing cancelled."
+msgstr "Annonce annulée."
+
+msgid "The other computer stopped responding."
+msgstr "L'autre ordinateur a cessé de répondre."
+
+msgid "The other computer sent something unexpected."
+msgstr "L'autre ordinateur a envoyé quelque chose d'inattendu."
+
+msgid "This folder could not be opened."
+msgstr "Impossible d'ouvrir ce dossier."
+
+msgid "The person at the remote computer did not allow the delete."
+msgstr "L'utilisateur de l'ordinateur distant n'a pas autorisé la suppression."
+
+msgid "It was called off."
+msgstr "L'événement a été annulé."
+
+msgid ""
+"Nothing was deleted while a transfer, rename or another delete is in "
+"progress."
+msgstr ""
+"Aucun élément n'a été supprimé pendant qu'un transfert, un changement de "
+"nom ou une autre suppression était en cours."
+
+msgid ""
+"An item cannot go to the Recycle Bin or Trash there, and the file browser"
+" never deletes anything permanently."
+msgstr ""
+"Un élément ne peut pas être déplacé vers la corbeille dans ce système, et"
+" l'explorateur de fichiers ne supprime jamais rien de manière définitive."
+
+msgid "Permission was denied."
+msgstr "L'autorisation a été refusée."
+
+msgid "An item is no longer there."
+msgstr "Un article n'est plus là."
+
+msgid "An item cannot be deleted from the file browser."
+msgstr ""
+"Il n'est pas possible de supprimer un élément depuis l'explorateur de "
+"fichiers."
+
+msgid "An item could not be moved."
+msgstr "Il n'a pas été possible de déplacer un élément."
+
+msgid "%{reason} (%{detail})"
+msgstr "%{reason} (%{detail})"
+
+msgid ""
+"Moved %{moved} of %{count} items to the Recycle Bin or Trash. The rest "
+"were not: %{why}"
+msgstr ""
+"%{moved} des %{count} éléments ont été déplacés vers la corbeille. Les "
+"autres ne l'ont pas été : %{why}"
+
+msgid "The delete may not have finished. %{why}"
+msgstr "La suppression n'est peut-être pas encore terminée. %{why}"
+
+msgid "Nothing was deleted. %{why}"
+msgstr "Rien n'a été supprimé. %{why}"
+
+msgid "The person at the remote computer did not allow the rename."
+msgstr ""
+"L'utilisateur de l'ordinateur distant n'a pas autorisé le changement de "
+"nom."
+
+msgid "The rename was called off."
+msgstr "Le changement de nom a été annulé."
+
+msgid ""
+"The item could not be renamed while a transfer, rename or delete is in "
+"progress."
+msgstr ""
+"Il n'est pas possible de renommer l'élément tant qu'un transfert, un "
+"changement de nom ou une suppression est en cours."
+
+msgid "Something with that name is already there."
+msgstr "Il existe déjà quelque chose portant ce nom."
+
+msgid "That name cannot be used there."
+msgstr "Ce nom ne peut pas être utilisé là-bas."
+
+msgid "The item could not be renamed: permission was denied."
+msgstr "Impossible de renommer l'élément : autorisation refusée."
+
+msgid "The item is no longer there."
+msgstr "L'article n'est plus là."
+
+msgid "The item could not be renamed."
+msgstr "Il n'a pas été possible de renommer cet élément."
+
+msgid "No items"
+msgstr "Aucun article"
+
+msgid "1 item"
+msgstr "un article"
+
+msgid "%{count} items"
+msgstr "%{count} articles"
+
+msgid "%{names}, and %{count} more"
+msgstr "%{names} et %{count} autres"
+
+msgid "Transfer complete."
+msgstr "Le transfert est terminé."
+
+msgid "Transfer complete, but 1 item could not be read and was left out: %{list}"
+msgstr ""
+"Le transfert est terminé, mais un élément n'a pas pu être lu et a été "
+"omis : %{list}"
+
+msgid ""
+"Transfer complete, but %{count} items could not be read and were left "
+"out: %{list}"
+msgstr ""
+"Le transfert est terminé, mais %{count} éléments n'ont pas pu être lus et"
+" ont été omis : %{list}"
+
+msgid "%{pane}: %{message}"
+msgstr "%{pane}: %{message}"
+
+msgid "%{name} is a file. Copy it to the other side to open it there."
+msgstr "%{name} est un fichier. Copiez-le de l'autre côté pour l'ouvrir là-bas."
+
+msgid "%{name} cannot be opened."
+msgstr "L'image %{name} ne peut pas être ouverte."
+
+msgid " › "
+msgstr " › "
+
+msgid ""
+"This folder has more than %{count} items. Only the first %{count} are "
+"shown."
+msgstr ""
+"Ce dossier contient plus de %{count} éléments. Seuls les premiers "
+"%{count} sont affichés."
+
+msgid "Loading… %{count} items so far"
+msgstr "Chargement en cours… %{count} articles jusqu'à présent"
+
+msgid "This is the top level."
+msgstr "C'est le niveau supérieur."
+
+msgid "Command"
+msgstr "Commande"
+
+msgid "Control"
+msgstr "Contrôle"
+
+msgid "%{modifier} plus C"
+msgstr "%{modifier} plus C"
+
+msgid "%{modifier} plus V"
+msgstr "%{modifier} plus V"
+
+msgid "This Computer"
+msgstr "Cet ordinateur"
+
+msgid ""
+"nothing came back for a minute; it may be on a slow or unreachable drive "
+"or device"
+msgstr ""
+"Il n'y a eu aucune réponse pendant une minute ; le fichier se trouve "
+"peut-être sur un disque ou un périphérique lent ou inaccessible."
+
+msgid "This PC"
+msgstr "Cet ordinateur"
+
+msgid "Computer"
+msgstr "Informatique"
+
+msgid "Remote Computer"
+msgstr "Ordinateur distant"
+
+msgid "File Browser"
+msgstr "Navigateur de fichiers"
+
+msgid "Rename"
+msgstr "Renommer"
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press Return to open "
+"a folder, Delete or Command plus Up Arrow to go up, F2 to rename an item,"
+" Command plus Delete to move the selected items to the Trash, and Command"
+" plus R to refresh a list."
+msgstr ""
+"Sélectionnez des éléments dans l'une ou l'autre des listes, appuyez sur "
+"%{copyShortcut} pour les copier, puis passez à l'autre liste et appuyez "
+"sur %{pasteShortcut} pour les coller. Appuyez sur Retour pour ouvrir un "
+"dossier, sur Suppr ou Commande + Flèche vers le haut pour remonter d'un "
+"niveau, sur F2 pour renommer un élément, sur Commande + Suppr pour "
+"déplacer les éléments sélectionnés vers la corbeille, et sur Commande + R"
+" pour actualiser une liste."
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press F2 to rename an"
+" item, Delete to delete the selected items, and F5 to refresh a list."
+msgstr ""
+"Sélectionnez des éléments dans l'une ou l'autre des listes, appuyez sur "
+"%{copyShortcut} pour les copier, puis passez à l'autre liste et appuyez "
+"sur %{pasteShortcut} pour les coller. Appuyez sur F2 pour renommer un "
+"élément, sur Suppr pour supprimer les éléments sélectionnés et sur F5 "
+"pour actualiser une liste."
+
+msgid "&Open"
+msgstr "&Ouvrir"
+
+msgid "Go &Up"
+msgstr "&Haut de la page"
+
+msgid "&Copy"
+msgstr "&Copier"
+
+msgid "Ctrl+C"
+msgstr "Ctrl+C"
+
+msgid "&Paste"
+msgstr "&Coller"
+
+msgid "Ctrl+V"
+msgstr "Ctrl+V"
+
+msgid "Rena&me"
+msgstr "&Renommer"
+
+msgid "&Delete"
+msgstr "&Supprimer"
+
+msgid "Del"
+msgstr "De"
+
+msgid "&Refresh"
+msgstr "&Actualiser"
+
+msgid ""
+"A file transfer is still in progress. Closing the file browser will "
+"cancel it."
+msgstr ""
+"Un transfert de fichiers est toujours en cours. Si vous fermez "
+"l'explorateur de fichiers, celui-ci sera annulé."
+
+msgid ""
+"A rename or delete is still waiting on the remote computer. Closing the "
+"file browser will call it off if it hasn't started yet."
+msgstr ""
+"Une opération de renommage ou de suppression est toujours en attente sur "
+"l'ordinateur distant. La fermeture de l'explorateur de fichiers annulera "
+"cette opération si elle n'a pas encore commencé."
+
+msgid "Cancel Transfer and Close"
+msgstr "Annuler le virement et fermer"
+
+msgid "Keep Open"
+msgstr "Garder ouvert"
+
+msgid "Close Anyway"
+msgstr "Fermer quand même"
+
+msgid "Cancel Rename"
+msgstr "Annuler Renommer"
+
+msgid "Cancel Delete"
+msgstr "Annuler Supprimer"
+
+msgid "Asking the remote computer to call it off…"
+msgstr "Demander à l'ordinateur distant d'annuler l'opération…"
+
+msgid "The remote computer did not answer. The rename may still happen there."
+msgstr ""
+"L'ordinateur distant n'a pas répondu. Le changement de nom pourrait tout "
+"de même avoir lieu de ce côté-là."
+
+msgid "The remote computer did not answer. The delete may still happen there."
+msgstr ""
+"L'ordinateur distant n'a pas répondu. La suppression pourrait tout de "
+"même avoir lieu sur cet ordinateur."
+
+msgid "Move %{name} to the remote computer's Trash?"
+msgstr "Déplacer %{name} vers la corbeille de l'ordinateur distant ?"
+
+msgid "Move %{count} items to the remote computer's Trash?"
+msgstr "Déplacer %{count} éléments vers la corbeille de l'ordinateur distant ?"
+
+msgid "Move %{name} to the remote computer's Recycle Bin?"
+msgstr "Déplacer %{name}vers la corbeille de l'ordinateur distant ?"
+
+msgid "Move %{count} items to the remote computer's Recycle Bin?"
+msgstr "Déplacer %{count} éléments vers la corbeille de l'ordinateur distant ?"
+
+msgid "Move %{name} to the Trash?"
+msgstr "Envoyer l'%{name}à la corbeille ?"
+
+msgid "Move %{count} items to the Trash?"
+msgstr "Déplacer %{count} éléments vers la corbeille ?"
+
+msgid "Move %{name} to the Recycle Bin?"
+msgstr "Déplacer %{name}vers la corbeille ?"
+
+msgid "Move %{count} items to the Recycle Bin?"
+msgstr "Déplacer %{count} éléments vers la corbeille ?"
+
+msgid "&Move"
+msgstr "&Déplacer"
+
+msgid "Wait for the transfer, rename or delete in progress to finish first."
+msgstr ""
+"Attendez que le transfert, le changement de nom ou la suppression en "
+"cours soit terminé."
+
+msgid "Finish or cancel the rename first."
+msgstr "Terminez ou annulez d'abord le changement de nom."
+
+msgid "Select one or more items to delete first."
+msgstr "Sélectionnez d'abord un ou plusieurs éléments à supprimer."
+
+msgid "%{name} cannot be deleted."
+msgstr "%{name} ne peut pas être supprimé."
+
+msgid "Select no more than %{max} items to delete at once."
+msgstr "Sélectionnez au maximum %{max} éléments à supprimer en une seule fois."
+
+msgid "Nothing was deleted."
+msgstr "Rien n'a été supprimé."
+
+msgid "Asking the remote computer to delete 1 item…"
+msgstr "Demande à l'ordinateur distant de supprimer 1 élément…"
+
+msgid "Asking the remote computer to delete %{count} items…"
+msgstr "Demande à l'ordinateur distant de supprimer %{count} éléments…"
+
+msgid "Deleting 1 item…"
+msgstr "Suppression d'un élément…"
+
+msgid "Deleting %{count} items…"
+msgstr "Suppression des éléments %{count}…"
+
+msgid "Moved 1 item to the Recycle Bin or Trash."
+msgstr "1 élément a été déplacé vers la corbeille."
+
+msgid "Moved %{count} items to the Recycle Bin or Trash."
+msgstr "Les éléments %{count} ont été déplacés vers la corbeille."
+
+msgid "Move to the item you want to rename first."
+msgstr "Sélectionnez d'abord l'élément que vous souhaitez renommer."
+
+msgid "%{name} cannot be renamed."
+msgstr "%{name} ne peut pas être renommé."
+
+msgid "New name for %{name}:"
+msgstr "Nouveau nom pour %{name} :"
+
+msgid "The name was not changed."
+msgstr "Le nom n'a pas été modifié."
+
+msgid "A name cannot be empty."
+msgstr "Un nom ne peut pas être vide."
+
+msgid "Asking the remote computer to rename %{name}…"
+msgstr "Demander à l'ordinateur distant de renommer %{name}…"
+
+msgid "Renaming %{name}…"
+msgstr "Renommer %{name}…"
+
+msgid "Rename cancelled."
+msgstr "Le changement de nom a été annulé."
+
+msgid "Renamed to %{name}."
+msgstr "Renommé %{name}."
+
+msgid "Cancel Transfer"
+msgstr "Annuler le virement"
+
+msgid "Still preparing the transfer…"
+msgstr "Le transfert est toujours en cours de préparation…"
+
+msgid "Transferring…"
+msgstr "Transfert en cours…"
+
+#, python-format
+msgid "Transferring… %{percent}% of %{size}"
+msgstr "Transfert en cours… %{percent} % sur %{size}"
+
+msgid "Finishing the transfer…"
+msgstr "Le transfert est en cours de finalisation…"
+
+msgid "Select one or more items to copy first."
+msgstr "Sélectionnez d'abord un ou plusieurs éléments à copier."
+
+msgid ""
+"Copied %{name}. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"%{name} a été copié. Accédez à la liste de l'ordinateur distant et "
+"cliquez sur %{pasteShortcut} pour coller."
+
+msgid ""
+"Copied %{name}. Move to this computer's list and press %{pasteShortcut} "
+"to paste."
+msgstr ""
+"%{name} a été copié. Déplacez-le vers la liste de cet ordinateur, puis "
+"appuyez sur %{pasteShortcut} pour le coller."
+
+msgid ""
+"Copied %{count} items. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"Éléments copiés %{count}. Accédez à la liste de l'ordinateur distant et "
+"cliquez sur %{pasteShortcut} pour les coller."
+
+msgid ""
+"Copied %{count} items. Move to this computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+"Éléments copiés %{count}. Déplacez-les vers la liste de cet ordinateur, "
+"puis appuyez sur %{pasteShortcut} pour les coller."
+
+msgid "A transfer is already in progress."
+msgstr "Un transfert est déjà en cours."
+
+msgid "Nothing has been copied yet. Select items and press %{copyShortcut} first."
+msgstr ""
+"Aucun élément n'a encore été copié. Sélectionnez d'abord les éléments, "
+"puis cliquez sur %{copyShortcut}."
+
+msgid "Paste into the other computer's list to transfer these items."
+msgstr ""
+"Collez-les dans la liste de l'autre ordinateur pour transférer ces "
+"éléments."
+
+msgid "Wait for the folder to finish opening first."
+msgstr "Attendez d'abord que le dossier ait fini de s'ouvrir."
+
+msgid ""
+"Starting transfer. Some items must download from the cloud first, so this"
+" can take a while…"
+msgstr ""
+"Lancement du transfert. Certains éléments doivent d'abord être "
+"téléchargés depuis le cloud, ce qui peut prendre un certain temps…"
+
+msgid "Starting transfer…"
+msgstr "Lancement du transfert…"
+
+msgid "Those items cannot be copied."
+msgstr "Ces éléments ne peuvent pas être copiés."
+
+msgid "Open a folder on this computer to paste into first."
+msgstr "Ouvrez d'abord un dossier sur cet ordinateur pour y coller le contenu."
+
+msgid "Open a folder on the remote computer to paste into first."
+msgstr ""
+"Ouvrez d'abord un dossier sur l'ordinateur distant dans lequel vous "
+"pourrez coller le contenu."
+
+msgid ""
+"The transfer had already finished before it could be cancelled, so the "
+"files are on the remote computer."
+msgstr ""
+"Le transfert était déjà terminé avant qu'il ne puisse être annulé ; les "
+"fichiers se trouvent donc sur l'ordinateur distant."
+
+msgid "Nothing was copied: the only item was left out: %{list}"
+msgstr "Rien n'a été copié : seul cet élément a été omis : %{list}"
+
+msgid "Nothing was copied: all %{count} items were left out: %{list}"
+msgstr "Rien n'a été copié : tous %{count} éléments ont été omis : %{list}"
+
+msgid ""
+"Requesting unattended access was turned off in your organization, so the "
+"request was called off."
+msgstr ""
+"La demande d'accès sans supervision a été désactivée au sein de votre "
+"organisation ; la demande a donc été annulée."
+
+msgid "The file browser could not be opened."
+msgstr "Impossible d'ouvrir l'explorateur de fichiers."
+
+msgid "Waiting for the person at the remote computer to allow file browsing."
+msgstr ""
+"En attente que l'utilisateur de l'ordinateur distant autorise la "
+"navigation dans les fichiers."
+
+msgid "The person at the remote computer did not allow file browsing."
+msgstr ""
+"L'utilisateur de l'ordinateur distant n'a pas autorisé la navigation dans"
+" les fichiers."
+
+msgid "The file browser could not be opened on the remote computer."
+msgstr "Impossible d'ouvrir l'explorateur de fichiers sur l'ordinateur distant."
+
+msgid "&Browse Files on Target"
+msgstr "&Parcourir les fichiers sur la cible"
+
+msgid "The remote user is copying %{name} from this machine."
+msgstr ""
+"L'utilisateur distant est en train de copier %{name} depuis cet "
+"ordinateur."
+
+msgid "The remote user is copying %{count} items from this machine: %{names}."
+msgstr ""
+"L'utilisateur distant copie %{count} éléments depuis cette machine : "
+"%{names}."
+
+msgid "The remote user is copying %{name} to this machine."
+msgstr "L'utilisateur distant est en train de copier %{name} sur cet ordinateur."
+
+msgid "The remote user is copying %{count} items to this machine: %{names}."
+msgstr ""
+"L'utilisateur distant copie %{count} éléments vers cette machine : "
+"%{names}."
+
+msgid "The remote user moved an item on this machine to the Trash."
+msgstr ""
+"L'utilisateur distant a déplacé un élément de cet ordinateur vers la "
+"corbeille."
+
+msgid "The remote user moved an item on this machine to the Recycle Bin."
+msgstr ""
+"L'utilisateur distant a déplacé un élément de cet ordinateur vers la "
+"Corbeille."
+
+msgid "The remote user moved %{count} items on this machine to the Trash."
+msgstr ""
+"L'utilisateur distant a déplacé %{count} éléments de cette machine vers "
+"la corbeille."
+
+msgid "The remote user moved %{count} items on this machine to the Recycle Bin."
+msgstr ""
+"L'utilisateur distant a déplacé %{count} éléments de cette machine vers "
+"la corbeille."
+
+msgid "The remote user moved %{name} on this machine to the Trash."
+msgstr ""
+"L'utilisateur distant a déplacé %{name} vers la corbeille sur cette "
+"machine."
+
+msgid "The remote user moved %{name} on this machine to the Recycle Bin."
+msgstr ""
+"L'utilisateur distant a déplacé %{name} sur cet ordinateur vers la "
+"corbeille."
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Trash: "
+"%{names}."
+msgstr ""
+"L'utilisateur distant a déplacé %{count} éléments de cette machine vers "
+"la corbeille : %{names}."
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Recycle Bin: "
+"%{names}."
+msgstr ""
+"L'utilisateur distant a déplacé %{count} éléments de cette machine vers "
+"la corbeille : %{names}."
+
+msgid "The remote user renamed an item on this machine to %{name}."
+msgstr "L'utilisateur distant a renommé un élément de cette machine en %{name}."
+
+msgid "The remote user renamed %{item} on this machine to %{name}."
+msgstr "L'utilisateur distant a renommé %{item} sur cette machine en %{name}."
+
+msgid "The remote user is browsing files on this machine."
+msgstr "L'utilisateur distant consulte des fichiers sur cet ordinateur."
+
+msgid "The person helping you wants to browse the files on this computer."
+msgstr ""
+"La personne qui vous aide souhaite consulter les fichiers stockés sur cet"
+" ordinateur."
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Trash, without "
+"asking you again. You will be told each time they do."
+msgstr ""
+"Si vous autorisez cette action, ils pourront, jusqu'à la fin de cette "
+"session, copier des fichiers vers et depuis cet ordinateur, renommer des "
+"fichiers et les déplacer vers la Corbeille, sans avoir à vous demander "
+"votre autorisation à nouveau. Vous en serez informé à chaque fois qu'ils "
+"effectueront ces opérations."
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to "
+"and from this computer, rename files and move them to the Recycle Bin, "
+"without asking you again. You will be told each time they do."
+msgstr ""
+"Si vous autorisez cette action, ils pourront, jusqu'à la fin de cette "
+"session, copier des fichiers vers et depuis cet ordinateur, renommer des "
+"fichiers et les déplacer vers la Corbeille, sans avoir à vous demander à "
+"nouveau votre autorisation. Vous en serez informé à chaque fois qu'ils "
+"effectueront ces opérations."
+
+msgid "&Allow"
+msgstr "&Autoriser"
+
+msgid "&Deny"
+msgstr "&Refuser"
+
+msgid "The remote computer sent an answer that could not be read."
+msgstr "L'ordinateur distant a envoyé une réponse illisible."
+
+msgid "The remote computer sent a list that could not be read."
+msgstr "L'ordinateur distant a envoyé une liste illisible."
+
+msgid "The request for unattended access to this computer was called off."
+msgstr "La demande d'accès sans surveillance à cet ordinateur a été annulée."
+
+msgid ""
+"Session recording was turned off in your organization, so the recording "
+"has stopped. What was recorded until now has been kept."
+msgstr ""
+"L'enregistrement de session a été désactivé au sein de votre organisation"
+" ; l'enregistrement s'est donc arrêté. Les données enregistrées jusqu'à "
+"présent ont été conservées."
+
+msgid ""
+"Every controller in your organization will be able to access this "
+"machine. Are you sure you want to add it to the default group?"
+msgstr ""
+"Tous les contrôleurs de votre organisation pourront accéder à cette "
+"machine. Êtes-vous sûr de vouloir l'ajouter au groupe par défaut ?"
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at "
+"any time without requiring you to start a remote session, and without "
+"being prompted for permission each time. This includes copying files to "
+"and from this computer without asking you first. Do you want to allow "
+"this?"
+msgstr ""
+"%{controller_name} demande l'autorisation d'accéder à cet ordinateur à "
+"tout moment sans que vous ayez à lancer une session à distance et sans "
+"que l'autorisation vous soit demandée à chaque fois. Cela inclut la copie"
+" de fichiers vers et depuis cet ordinateur sans vous demander votre "
+"accord au préalable. Souhaitez-vous autoriser cette opération ?"
+
+msgid "1 byte"
+msgstr "1 octet"
+
+msgid "%{count} bytes"
+msgstr "%{count} octets"
+
+msgid "%{value} KB"
+msgstr "%{value} KB"
+
+msgid "%{value} MB"
+msgstr "%{value} Mo"
+
+msgid "%{value} GB"
+msgstr "%{value}GB"
+
+msgid "%{value} TB"
+msgstr "%{value} TB"
+

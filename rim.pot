@@ -2480,3 +2480,680 @@ msgid ""
 "described above, allowing you to follow the procedure to enable Remote "
 "Incident Manager's accessibility permission."
 msgstr ""
+
+msgid ""
+"Your organization doesn't allow machines to be added to the default group, "
+"and you don't have access to any target groups. Ask an organization "
+"administrator."
+msgstr ""
+
+msgid "Your organization doesn't allow machines to be added to the default group."
+msgstr ""
+
+msgid "You don't have access to that target group."
+msgstr ""
+
+msgid "The machine could not be added."
+msgstr ""
+
+msgid "This machine has been added to the target group \"%{group_name}\"."
+msgstr ""
+
+msgid "This machine has been added to the default group."
+msgstr ""
+
+msgid "This machine has been added to your RIM account."
+msgstr ""
+
+msgid "Back to target groups"
+msgstr ""
+
+msgid "Default group"
+msgstr ""
+
+msgid "No machines match your search."
+msgstr ""
+
+msgid "Group for this target machine:"
+msgstr ""
+
+msgid ""
+"Every controller in your organization can access machines in the default "
+"group."
+msgstr ""
+
+msgid ""
+"Only the controllers who have been given access to a target group, and "
+"organization administrators, can access machines in that group."
+msgstr ""
+
+msgid "Choose a group"
+msgstr ""
+
+msgid "You must choose a group for this machine."
+msgstr ""
+
+msgid ""
+"Remote Incident Manager is currently running with limited capability on the "
+"target computer to which you are connecting. You may temporarily lose "
+"remote control when certain elevated windows are in focus, including screen "
+"reader dialogs. Select how you would like to proceed."
+msgstr ""
+
+msgid "Install as Administrator (requires elevated privileges)"
+msgstr ""
+
+msgid "Don't show this message again for this computer"
+msgstr ""
+
+msgid "a file could not be written: %{message}"
+msgstr ""
+
+msgid "could not read the selection: %{message}"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "drive"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+msgid "Up one level"
+msgstr ""
+
+msgid "not downloaded"
+msgstr ""
+
+msgid ", "
+msgstr ""
+
+msgid "Transfer cancelled."
+msgstr ""
+
+msgid "The person at the other computer declined the transfer."
+msgstr ""
+
+msgid "Transfer failed: permission was denied."
+msgstr ""
+
+msgid "Transfer failed: something it needed is no longer there."
+msgstr ""
+
+msgid "Transfer failed: something with the same name is already there."
+msgstr ""
+
+msgid "Transfer failed: a name cannot be used there."
+msgstr ""
+
+msgid "Transfer failed: there is not enough space."
+msgstr ""
+
+msgid "Transfer failed: a file changed while it was being copied."
+msgstr ""
+
+msgid "Transfer failed: the other computer stopped responding."
+msgstr ""
+
+msgid "Transfer failed: another transfer is already in progress."
+msgstr ""
+
+msgid "Transfer failed: the other computer cannot do this."
+msgstr ""
+
+msgid "Transfer failed: the other computer sent something unexpected."
+msgstr ""
+
+msgid "Transfer failed."
+msgstr ""
+
+msgid "%{summary} (%{detail})"
+msgstr ""
+
+msgid "This folder cannot be opened: permission was denied."
+msgstr ""
+
+msgid "This folder is no longer there."
+msgstr ""
+
+msgid "Listing cancelled."
+msgstr ""
+
+msgid "The other computer stopped responding."
+msgstr ""
+
+msgid "The other computer sent something unexpected."
+msgstr ""
+
+msgid "This folder could not be opened."
+msgstr ""
+
+msgid "The person at the remote computer did not allow the delete."
+msgstr ""
+
+msgid "It was called off."
+msgstr ""
+
+msgid ""
+"Nothing was deleted while a transfer, rename or another delete is in "
+"progress."
+msgstr ""
+
+msgid ""
+"An item cannot go to the Recycle Bin or Trash there, and the file browser "
+"never deletes anything permanently."
+msgstr ""
+
+msgid "Permission was denied."
+msgstr ""
+
+msgid "An item is no longer there."
+msgstr ""
+
+msgid "An item cannot be deleted from the file browser."
+msgstr ""
+
+msgid "An item could not be moved."
+msgstr ""
+
+msgid "%{reason} (%{detail})"
+msgstr ""
+
+msgid ""
+"Moved %{moved} of %{count} items to the Recycle Bin or Trash. The rest were "
+"not: %{why}"
+msgstr ""
+
+msgid "The delete may not have finished. %{why}"
+msgstr ""
+
+msgid "Nothing was deleted. %{why}"
+msgstr ""
+
+msgid "The person at the remote computer did not allow the rename."
+msgstr ""
+
+msgid "The rename was called off."
+msgstr ""
+
+msgid ""
+"The item could not be renamed while a transfer, rename or delete is in "
+"progress."
+msgstr ""
+
+msgid "Something with that name is already there."
+msgstr ""
+
+msgid "That name cannot be used there."
+msgstr ""
+
+msgid "The item could not be renamed: permission was denied."
+msgstr ""
+
+msgid "The item is no longer there."
+msgstr ""
+
+msgid "The item could not be renamed."
+msgstr ""
+
+msgid "No items"
+msgstr ""
+
+msgid "1 item"
+msgstr ""
+
+msgid "%{count} items"
+msgstr ""
+
+msgid "%{names}, and %{count} more"
+msgstr ""
+
+msgid "Transfer complete."
+msgstr ""
+
+msgid "Transfer complete, but 1 item could not be read and was left out: %{list}"
+msgstr ""
+
+msgid ""
+"Transfer complete, but %{count} items could not be read and were left out: "
+"%{list}"
+msgstr ""
+
+msgid "%{pane}: %{message}"
+msgstr ""
+
+msgid "%{name} is a file. Copy it to the other side to open it there."
+msgstr ""
+
+msgid "%{name} cannot be opened."
+msgstr ""
+
+msgid " › "
+msgstr ""
+
+msgid "This folder has more than %{count} items. Only the first %{count} are shown."
+msgstr ""
+
+msgid "Loading… %{count} items so far"
+msgstr ""
+
+msgid "This is the top level."
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Control"
+msgstr ""
+
+msgid "%{modifier} plus C"
+msgstr ""
+
+msgid "%{modifier} plus V"
+msgstr ""
+
+msgid "This Computer"
+msgstr ""
+
+msgid ""
+"nothing came back for a minute; it may be on a slow or unreachable drive or "
+"device"
+msgstr ""
+
+msgid "This PC"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Remote Computer"
+msgstr ""
+
+msgid "File Browser"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press Return to open a "
+"folder, Delete or Command plus Up Arrow to go up, F2 to rename an item, "
+"Command plus Delete to move the selected items to the Trash, and Command "
+"plus R to refresh a list."
+msgstr ""
+
+msgid ""
+"Select items in either list, press %{copyShortcut} to copy, then move to "
+"the other list and press %{pasteShortcut} to paste. Press F2 to rename an "
+"item, Delete to delete the selected items, and F5 to refresh a list."
+msgstr ""
+
+msgid "&Open"
+msgstr ""
+
+msgid "Go &Up"
+msgstr ""
+
+msgid "&Copy"
+msgstr ""
+
+msgid "Ctrl+C"
+msgstr ""
+
+msgid "&Paste"
+msgstr ""
+
+msgid "Ctrl+V"
+msgstr ""
+
+msgid "Rena&me"
+msgstr ""
+
+msgid "&Delete"
+msgstr ""
+
+msgid "Del"
+msgstr ""
+
+msgid "&Refresh"
+msgstr ""
+
+msgid ""
+"A file transfer is still in progress. Closing the file browser will cancel "
+"it."
+msgstr ""
+
+msgid ""
+"A rename or delete is still waiting on the remote computer. Closing the "
+"file browser will call it off if it hasn't started yet."
+msgstr ""
+
+msgid "Cancel Transfer and Close"
+msgstr ""
+
+msgid "Keep Open"
+msgstr ""
+
+msgid "Close Anyway"
+msgstr ""
+
+msgid "Cancel Rename"
+msgstr ""
+
+msgid "Cancel Delete"
+msgstr ""
+
+msgid "Asking the remote computer to call it off…"
+msgstr ""
+
+msgid "The remote computer did not answer. The rename may still happen there."
+msgstr ""
+
+msgid "The remote computer did not answer. The delete may still happen there."
+msgstr ""
+
+msgid "Move %{name} to the remote computer's Trash?"
+msgstr ""
+
+msgid "Move %{count} items to the remote computer's Trash?"
+msgstr ""
+
+msgid "Move %{name} to the remote computer's Recycle Bin?"
+msgstr ""
+
+msgid "Move %{count} items to the remote computer's Recycle Bin?"
+msgstr ""
+
+msgid "Move %{name} to the Trash?"
+msgstr ""
+
+msgid "Move %{count} items to the Trash?"
+msgstr ""
+
+msgid "Move %{name} to the Recycle Bin?"
+msgstr ""
+
+msgid "Move %{count} items to the Recycle Bin?"
+msgstr ""
+
+msgid "&Move"
+msgstr ""
+
+msgid "Wait for the transfer, rename or delete in progress to finish first."
+msgstr ""
+
+msgid "Finish or cancel the rename first."
+msgstr ""
+
+msgid "Select one or more items to delete first."
+msgstr ""
+
+msgid "%{name} cannot be deleted."
+msgstr ""
+
+msgid "Select no more than %{max} items to delete at once."
+msgstr ""
+
+msgid "Nothing was deleted."
+msgstr ""
+
+msgid "Asking the remote computer to delete 1 item…"
+msgstr ""
+
+msgid "Asking the remote computer to delete %{count} items…"
+msgstr ""
+
+msgid "Deleting 1 item…"
+msgstr ""
+
+msgid "Deleting %{count} items…"
+msgstr ""
+
+msgid "Moved 1 item to the Recycle Bin or Trash."
+msgstr ""
+
+msgid "Moved %{count} items to the Recycle Bin or Trash."
+msgstr ""
+
+msgid "Move to the item you want to rename first."
+msgstr ""
+
+msgid "%{name} cannot be renamed."
+msgstr ""
+
+msgid "New name for %{name}:"
+msgstr ""
+
+msgid "The name was not changed."
+msgstr ""
+
+msgid "A name cannot be empty."
+msgstr ""
+
+msgid "Asking the remote computer to rename %{name}…"
+msgstr ""
+
+msgid "Renaming %{name}…"
+msgstr ""
+
+msgid "Rename cancelled."
+msgstr ""
+
+msgid "Renamed to %{name}."
+msgstr ""
+
+msgid "Cancel Transfer"
+msgstr ""
+
+msgid "Still preparing the transfer…"
+msgstr ""
+
+msgid "Transferring…"
+msgstr ""
+
+msgid "Transferring… %{percent}% of %{size}"
+msgstr ""
+
+msgid "Finishing the transfer…"
+msgstr ""
+
+msgid "Select one or more items to copy first."
+msgstr ""
+
+msgid ""
+"Copied %{name}. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+
+msgid ""
+"Copied %{name}. Move to this computer's list and press %{pasteShortcut} to "
+"paste."
+msgstr ""
+
+msgid ""
+"Copied %{count} items. Move to the remote computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+
+msgid ""
+"Copied %{count} items. Move to this computer's list and press "
+"%{pasteShortcut} to paste."
+msgstr ""
+
+msgid "A transfer is already in progress."
+msgstr ""
+
+msgid "Nothing has been copied yet. Select items and press %{copyShortcut} first."
+msgstr ""
+
+msgid "Paste into the other computer's list to transfer these items."
+msgstr ""
+
+msgid "Wait for the folder to finish opening first."
+msgstr ""
+
+msgid ""
+"Starting transfer. Some items must download from the cloud first, so this "
+"can take a while…"
+msgstr ""
+
+msgid "Starting transfer…"
+msgstr ""
+
+msgid "Those items cannot be copied."
+msgstr ""
+
+msgid "Open a folder on this computer to paste into first."
+msgstr ""
+
+msgid "Open a folder on the remote computer to paste into first."
+msgstr ""
+
+msgid ""
+"The transfer had already finished before it could be cancelled, so the "
+"files are on the remote computer."
+msgstr ""
+
+msgid "Nothing was copied: the only item was left out: %{list}"
+msgstr ""
+
+msgid "Nothing was copied: all %{count} items were left out: %{list}"
+msgstr ""
+
+msgid ""
+"Requesting unattended access was turned off in your organization, so the "
+"request was called off."
+msgstr ""
+
+msgid "The file browser could not be opened."
+msgstr ""
+
+msgid "Waiting for the person at the remote computer to allow file browsing."
+msgstr ""
+
+msgid "The person at the remote computer did not allow file browsing."
+msgstr ""
+
+msgid "The file browser could not be opened on the remote computer."
+msgstr ""
+
+msgid "&Browse Files on Target"
+msgstr ""
+
+msgid "The remote user is copying %{name} from this machine."
+msgstr ""
+
+msgid "The remote user is copying %{count} items from this machine: %{names}."
+msgstr ""
+
+msgid "The remote user is copying %{name} to this machine."
+msgstr ""
+
+msgid "The remote user is copying %{count} items to this machine: %{names}."
+msgstr ""
+
+msgid "The remote user moved an item on this machine to the Trash."
+msgstr ""
+
+msgid "The remote user moved an item on this machine to the Recycle Bin."
+msgstr ""
+
+msgid "The remote user moved %{count} items on this machine to the Trash."
+msgstr ""
+
+msgid "The remote user moved %{count} items on this machine to the Recycle Bin."
+msgstr ""
+
+msgid "The remote user moved %{name} on this machine to the Trash."
+msgstr ""
+
+msgid "The remote user moved %{name} on this machine to the Recycle Bin."
+msgstr ""
+
+msgid "The remote user moved %{count} items on this machine to the Trash: %{names}."
+msgstr ""
+
+msgid ""
+"The remote user moved %{count} items on this machine to the Recycle Bin: "
+"%{names}."
+msgstr ""
+
+msgid "The remote user renamed an item on this machine to %{name}."
+msgstr ""
+
+msgid "The remote user renamed %{item} on this machine to %{name}."
+msgstr ""
+
+msgid "The remote user is browsing files on this machine."
+msgstr ""
+
+msgid "The person helping you wants to browse the files on this computer."
+msgstr ""
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to and "
+"from this computer, rename files and move them to the Trash, without asking "
+"you again. You will be told each time they do."
+msgstr ""
+
+msgid ""
+"If you allow this, for the rest of this session they can copy files to and "
+"from this computer, rename files and move them to the Recycle Bin, without "
+"asking you again. You will be told each time they do."
+msgstr ""
+
+msgid "&Allow"
+msgstr ""
+
+msgid "&Deny"
+msgstr ""
+
+msgid "The remote computer sent an answer that could not be read."
+msgstr ""
+
+msgid "The remote computer sent a list that could not be read."
+msgstr ""
+
+msgid "The request for unattended access to this computer was called off."
+msgstr ""
+
+msgid ""
+"Session recording was turned off in your organization, so the recording has "
+"stopped. What was recorded until now has been kept."
+msgstr ""
+
+msgid ""
+"Every controller in your organization will be able to access this machine. "
+"Are you sure you want to add it to the default group?"
+msgstr ""
+
+msgid ""
+"%{controller_name} is requesting permission to access this computer at any "
+"time without requiring you to start a remote session, and without being "
+"prompted for permission each time. This includes copying files to and from "
+"this computer without asking you first. Do you want to allow this?"
+msgstr ""
+
+msgid "1 byte"
+msgstr ""
+
+msgid "%{count} bytes"
+msgstr ""
+
+msgid "%{value} KB"
+msgstr ""
+
+msgid "%{value} MB"
+msgstr ""
+
+msgid "%{value} GB"
+msgstr ""
+
+msgid "%{value} TB"
+msgstr ""
