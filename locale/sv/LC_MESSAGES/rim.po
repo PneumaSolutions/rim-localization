@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-04-11 08:48-0500\n"
-"PO-Revision-Date: 2024-03-22 12:48-0500\n"
+"PO-Revision-Date: 2026-07-22 19:52+0200\n"
 "Last-Translator: \n"
 "Language: sv\n"
 "Language-Team: sv <LL@li.org>\n"
@@ -556,18 +556,15 @@ msgstr "Registrera dig för betalda RIM-tjänster"
 msgid "Keyword:"
 msgstr "Nyckelord:"
 
-#, fuzzy
 msgid "Disable visual output for this session."
 msgstr "Inaktivera visuell utmatning för denna session."
 
 msgid "Start voice conversation"
 msgstr "Starta röstsamtal"
 
-#, fuzzy
 msgid "Target group:"
 msgstr "Målgrupp:"
 
-#, fuzzy
 msgid "Open Target Group"
 msgstr "Öppna målgruppen"
 
@@ -578,7 +575,7 @@ msgid "Back"
 msgstr "Tillbaka"
 
 msgid "Target machine:"
-msgstr "Fjärrdator"
+msgstr "Fjärrdator:"
 
 msgid "Create Shortcut"
 msgstr "Skapa genväg"
@@ -639,7 +636,7 @@ msgid "Starting session; please wait."
 msgstr "Startar session; vänligen vänta."
 
 msgid "prompt required"
-msgstr "Bekräftelse krävs"
+msgstr "bekräftelse krävs"
 
 msgid "unattended"
 msgstr "obevakad"
@@ -1281,7 +1278,7 @@ msgid "%{screen_reader_name} %{version} is running on the remote machine."
 msgstr "%{screen_reader_name} %{version} körs på fjärrdatorn."
 
 msgid "Starting remote accessibility."
-msgstr "Startar tillgänglighet på fjärrdatorn"
+msgstr "Startar tillgänglighet på fjärrdatorn."
 
 msgid "Comment on This Session"
 msgstr "Kommentera denna session"
@@ -1314,7 +1311,6 @@ msgstr "Ethernet"
 msgid "WiFi"
 msgstr "WiFi"
 
-#, fuzzy
 msgid "direct peer-to-peer"
 msgstr "direkt peer-to-peer"
 
@@ -1348,9 +1344,8 @@ msgstr "Fjärradress"
 msgid "Remote transport type"
 msgstr "Typ av fjärrtransport"
 
-#, fuzzy
 msgid "Controller"
-msgstr "Styrenhet"
+msgstr "Operatör"
 
 msgid "Target"
 msgstr "Fjärrdator"
@@ -1382,9 +1377,8 @@ msgstr "Processer som körs"
 msgid "Process ID"
 msgstr "Process-ID"
 
-#, fuzzy
 msgid "Executable path"
-msgstr "Exekverbar sökväg"
+msgstr "Programsökväg"
 
 msgid "Installed packages"
 msgstr "Installerade paket"
@@ -1407,7 +1401,6 @@ msgstr ""
 msgid "Receive remote help now"
 msgstr "Få fjärrhjälp nu"
 
-#, fuzzy
 msgid ""
 "RIM has a single installer, regardless of whether you are playing the "
 "role of the technical support provider(controller) or the remote end-user"
@@ -1471,14 +1464,13 @@ msgstr ""
 "fjärranvändaren behöver ha hörlurar på sig under en fjärrsession. Använd "
 "gärna datorns högtalare."
 
-#, fuzzy
 msgid ""
 "The Controller can hear any audio output on the end-user’s machine, "
 "including not only any screen reader the end-user may be running, but "
 "also other applications. Sighted or low-vision technicians can also see "
 "the end-user’s screen. Keyboard and mouse input work as expected."
 msgstr ""
-"Operatörnn kan höra alla ljud på slutanvändarens dator , inte bara "
+"Operatören kan höra alla ljud på slutanvändarens dator , inte bara "
 "eventuella skärmläsare som slutanvändaren kör, utan även andra program. "
 "Seende eller synskadade tekniker kan också se slutanvändarens skärm. "
 "Tangentbords- och musinmatning fungerar som förväntat."
@@ -1557,7 +1549,6 @@ msgstr "Ge fjärrhjälp nu"
 msgid "Revoke Remote Access to This Computer"
 msgstr "Återkalla fjärråtkomst till den här datorn"
 
-#, fuzzy
 msgid "Controller:"
 msgstr "Operatör:"
 
@@ -1598,7 +1589,7 @@ msgid "1 second"
 msgstr "1 sekund"
 
 msgid "Check for Update"
-msgstr "Kontrollera för uppdatering"
+msgstr "Sök efter uppdatering"
 
 msgid "Japanese"
 msgstr "Japanska"
@@ -1636,19 +1627,19 @@ msgid "This feature has been disabled within your organization."
 msgstr "Den här funktionen har inaktiverats inom din organisation."
 
 msgid "Time remaining for this keyword:"
-msgstr "Återstående tid för detta sökord:"
+msgstr "Återstående tid för detta nyckelord:"
 
 msgid "This keyword has expired."
-msgstr "Detta sökord har upphört att gälla."
+msgstr "Detta nyckelord har upphört att gälla."
 
 msgid "1 minute"
 msgstr "1 minut"
 
 msgid "Unmute Target Audio Output"
-msgstr "Avaktivera målets ljudutgång"
+msgstr "Aktivera målets ljudutgång"
 
 msgid "Mute Target Audio Output"
-msgstr "Mute Target Audio Output"
+msgstr "Stäng av målets ljudutgång"
 
 msgid "Mute target audio output"
 msgstr "Stäng av målets ljudutgång"
@@ -1668,10 +1659,10 @@ msgid "Server"
 msgstr "Server"
 
 msgid "Switch server"
-msgstr "Växel server"
+msgstr "Byt server"
 
 msgid "Public"
-msgstr "Allmänheten"
+msgstr "Publik"
 
 msgid ""
 "Once this dialog has focus, do *not* press the \"OK\" button; instead, "
@@ -1825,16 +1816,16 @@ msgid "Resume Session Recording"
 msgstr "Återuppta sessionsinspelning"
 
 msgid "The remote user has started recording this session."
-msgstr "Den fjärranslutna användaren har börjat spela in denna session."
+msgstr "Fjärranvändaren har börjat spela in denna session."
 
 msgid "The remote user has paused the session recording."
-msgstr "Den fjärranslutna användaren har pausat inspelningen av sessionen."
+msgstr "Fjärranvändaren har pausat inspelningen av sessionen."
 
 msgid "The remote user has resumed the session recording."
-msgstr "Den fjärranvändaren har återupptagit inspelningen av sessionen."
+msgstr "Fjärranvändaren har återupptagit inspelningen av sessionen."
 
 msgid "The remote user has stopped recording this session."
-msgstr "Den fjärranvändaren har avslutat inspelningen av denna session."
+msgstr "Fjärranvändaren har avslutat inspelningen av denna session."
 
 msgid "Saving the session recording failed."
 msgstr "Det gick inte att spara sessionens inspelning."
@@ -1857,7 +1848,7 @@ msgstr ""
 "inspelning."
 
 msgid "Are you sure you want to stop the session recording?"
-msgstr "Är du säker på att du vill avbryta inspelningen av sessionen?"
+msgstr "Är du säker på att du vill avsluta inspelningen av sessionen?"
 
 msgid "Stop Recording"
 msgstr "Avsluta inspelning"
@@ -1878,7 +1869,7 @@ msgstr ""
 " välj \"Avbryt\" för att avsluta sessionen nu."
 
 msgid "Agree"
-msgstr "Håller med"
+msgstr "Godkänn"
 
 msgid "Because you didn't agree to record the session, this session has ended."
 msgstr ""
